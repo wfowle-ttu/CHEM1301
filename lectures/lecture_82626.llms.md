@@ -1,0 +1,109 @@
+# Lecture 8-26-2026
+
+# Chapter 1
+
+- Chemistry can be defined as the science that deals with materials of the universe and the changes these materials undergo.
+- Commonly referred to as the “central” science.
+
+*Examples of Chemical Change* - Baking soda and vinegar react to fizz - Car engine burning gasoline - Food being digested by the body
+
+## What is Science
+
+Science is a framework for gaining and organizing knowledge.(See Scientific Method).
+
+### Scientific Method Step 1
+
+State the problem and collect data (make observations)
+
+Quantitative: How much of something. (Has units, such as pounds or inches) Qualitiative: This quality of something. (Does not include numbers and units)
+
+*Example*
+
+- An apple is red (qualitative)
+- It is raining outside (qualitative)
+- The car is travelling at 60 MPS (quantitative)
+- A solution has a density of 1.2 g/mL (quantitative)
+- A cheeseburger is delicious (qualitative, and opinionated)
+- The meal costs \$11.00 (quantitative)
+
+### Scientific Method Step 2
+
+Creating a Hypothesis:
+
+A Hypothesis is a possible explanation for the observation, in order for it to be science we musts be able to test the hypothesis.
+
+### Scientific Method Step 3
+
+Perform Experiments:
+
+- An experiment is something we do to test hypothesis.
+
+### Theories
+
+Once we have a set of consisting hypothesis that agree with our various observations, you can assemble the hypotheses into a theory often called a model.
+
+A theory can be an interpretation, which is a possible explanation of why nature behaves in a particular way.
+
+### Natural Laws
+
+[Fill from Power point](https://texastech.instructure.com/courses/91502/modules/items/4661153)
+
+# Chapter 2
+
+[Power Point from Canvas](https://texastech.instructure.com/courses/91502/modules/items/4668269)
+
+## Scientific Notation
+
+- Scientific notation is a method for making very large or very small numbers more compact and easier to write.
+  - Expresses a number as a product of a number between 1 and 10 and the appropriate power of 10.
+
+Ergo
+
+\\ 93,000,000 = 9.3 \* 10,000,000 = 9.3 \* 10^7 \\
+
+93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many zeros were removed to provide our 9.3 base.
+
+A positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.
+
+Ergo \\\neg{72,000}\\ can be represented as \\7.2\*10^-3\\
+
+## Examples Problems
+
+Write the following numbers in scientific notation:
+
+1.  0.00000756 = \\7.56\*10^-5\\
+2.  13500 = \\1.35\*10^4\\
+3.  56000000 = \\5.6\*10^7\\
+4.  0.0089 = \\8.9\*10^2\\
+
+Convert the following numbers into the standard notation:
+
+\\9.1\*10^3\\
+
+This can be simplified to \\9.1 \* 1000 = 9100\\
+
+Ergo \\9.1\*10^3=9100\\
+
+\\3.56\*10^-4 = 0.000356\\
+
+\\1.10\*10^5 = 110,000\\
+
+So all that being said the exponent over 10 can be used to represent how many places the decimal point should move left (negative) or right (positive).
+
+## Units
+
+SI Units
+
+\[Get table images from Power point and transcribe\]
+
+### SI Units of Volume
+
+Volume is the amount of three dimensonal space occupied by a substance.
+
+\\1 cm^2 = 1 mL\\
+
+### SI Units of Mass
+
+Mass is the quanitity of matter present in an object. Everything has mass and volume.
+
+The fundamental SI Unit of mass is the kilogram.

@@ -1,0 +1,3 @@
+# About
+
+This is my notes site for CHEM 1301.

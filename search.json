@@ -1,10 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "notes",
+    "objectID": "lectures/lecture_82626.html",
+    "href": "lectures/lecture_82626.html",
+    "title": "Lecture 8-26-2026",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Chemistry can be defined as the science that deals with materials of the universe and the changes these materials undergo.\nCommonly referred to as the “central” science.\n\nExamples of Chemical Change - Baking soda and vinegar react to fizz - Car engine burning gasoline - Food being digested by the body\n\n\nScience is a framework for gaining and organizing knowledge.(See Scientific Method).\n\n\nState the problem and collect data (make observations)\nQuantitative: How much of something. (Has units, such as pounds or inches) Qualitiative: This quality of something. (Does not include numbers and units)\nExample\n\nAn apple is red (qualitative)\nIt is raining outside (qualitative)\nThe car is travelling at 60 MPS (quantitative)\nA solution has a density of 1.2 g/mL (quantitative)\nA cheeseburger is delicious (qualitative, and opinionated)\nThe meal costs $11.00 (quantitative)\n\n\n\n\nCreating a Hypothesis:\nA Hypothesis is a possible explanation for the observation, in order for it to be science we musts be able to test the hypothesis.\n\n\n\nPerform Experiments:\n\nAn experiment is something we do to test hypothesis.\n\n\n\n\nOnce we have a set of consisting hypothesis that agree with our various observations, you can assemble the hypotheses into a theory often called a model.\nA theory can be an interpretation, which is a possible explanation of why nature behaves in a particular way.\n\n\n\nFill from Power point",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-26-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_82626.html#what-is-science",
+    "href": "lectures/lecture_82626.html#what-is-science",
+    "title": "Lecture 8-26-2026",
+    "section": "",
+    "text": "Science is a framework for gaining and organizing knowledge.(See Scientific Method).\n\n\nState the problem and collect data (make observations)\nQuantitative: How much of something. (Has units, such as pounds or inches) Qualitiative: This quality of something. (Does not include numbers and units)\nExample\n\nAn apple is red (qualitative)\nIt is raining outside (qualitative)\nThe car is travelling at 60 MPS (quantitative)\nA solution has a density of 1.2 g/mL (quantitative)\nA cheeseburger is delicious (qualitative, and opinionated)\nThe meal costs $11.00 (quantitative)\n\n\n\n\nCreating a Hypothesis:\nA Hypothesis is a possible explanation for the observation, in order for it to be science we musts be able to test the hypothesis.\n\n\n\nPerform Experiments:\n\nAn experiment is something we do to test hypothesis.\n\n\n\n\nOnce we have a set of consisting hypothesis that agree with our various observations, you can assemble the hypotheses into a theory often called a model.\nA theory can be an interpretation, which is a possible explanation of why nature behaves in a particular way.\n\n\n\nFill from Power point",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-26-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_82626.html#scientific-notation",
+    "href": "lectures/lecture_82626.html#scientific-notation",
+    "title": "Lecture 8-26-2026",
+    "section": "Scientific Notation",
+    "text": "Scientific Notation\n\nScientific notation is a method for making very large or very small numbers more compact and easier to write.\n\nExpresses a number as a product of a number between 1 and 10 and the appropriate power of 10.\n\n\nErgo\n\\[\n93,000,000 = 9.3 * 10,000,000 = 9.3 * 10^7\n\\]\n93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many zeros were removed to provide our 9.3 base.\nA positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.\nErgo \\(\\neg{72,000}\\) can be represented as \\(7.2*10^-3\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-26-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_82626.html#examples-problems",
+    "href": "lectures/lecture_82626.html#examples-problems",
+    "title": "Lecture 8-26-2026",
+    "section": "Examples Problems",
+    "text": "Examples Problems\nWrite the following numbers in scientific notation:\n\n0.00000756 = \\(7.56*10^-5\\)\n13500 = \\(1.35*10^4\\)\n56000000 = \\(5.6*10^7\\)\n0.0089 = \\(8.9*10^2\\)\n\nConvert the following numbers into the standard notation:\n\\(9.1*10^3\\)\nThis can be simplified to \\(9.1 * 1000 = 9100\\)\nErgo \\(9.1*10^3=9100\\)\n\\(3.56*10^-4 = 0.000356\\)\n\\(1.10*10^5 = 110,000\\)\nSo all that being said the exponent over 10 can be used to represent how many places the decimal point should move left (negative) or right (positive).",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-26-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_82626.html#units",
+    "href": "lectures/lecture_82626.html#units",
+    "title": "Lecture 8-26-2026",
+    "section": "Units",
+    "text": "Units\nSI Units\n[Get table images from Power point and transcribe]\n\nSI Units of Volume\nVolume is the amount of three dimensonal space occupied by a substance.\n\\(1 cm^2 = 1 mL\\)\n\n\nSI Units of Mass\nMass is the quanitity of matter present in an object. Everything has mass and volume.\nThe fundamental SI Unit of mass is the kilogram.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-26-2026"
+    ]
   },
   {
     "objectID": "about.html",
@@ -15,5 +63,12 @@
     "crumbs": [
       "About"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
