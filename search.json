@@ -26,7 +26,7 @@
     "href": "lectures/lecture_82626.html#scientific-notation",
     "title": "Lecture 8-26-2026",
     "section": "Scientific Notation",
-    "text": "Scientific Notation\n\nScientific notation is a method for making very large or very small numbers more compact and easier to write.\n\nExpresses a number as a product of a number between 1 and 10 and the appropriate power of 10.\n\n\nErgo\n\\[\n93,000,000 = 9.3 * 10,000,000 = 9.3 * 10^7\n\\]\n93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many zeros were removed to provide our 9.3 base.\nA positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.\nErgo \\(\\neg{72,000}\\) can be represented as \\(7.2*10^-3\\)",
+    "text": "Scientific Notation\n\nScientific notation is a method for making very large or very small numbers more compact and easier to write.\n\nExpresses a number as a product of a number between 1 and 10 and the appropriate power of 10.\n\n\nErgo\n\\[\n93,000,000 = 9.3 * 10,000,000 = 9.3 * 10^7\n\\]\n93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many decimal places were moved to provide our 9.3 base.\nA positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.\nErgo \\(0.0072\\) can be represented as \\(7.2*10^-3\\)",
     "crumbs": [
       "Lectures",
       "Lecture 8-26-2026"
@@ -48,7 +48,7 @@
     "href": "lectures/lecture_82626.html#units",
     "title": "Lecture 8-26-2026",
     "section": "Units",
-    "text": "Units\nSI Units\n[Get table images from Power point and transcribe]\n\nSI Units of Volume\nVolume is the amount of three dimensonal space occupied by a substance.\n\\(1 cm^2 = 1 mL\\)\n\n\nSI Units of Mass\nMass is the quanitity of matter present in an object. Everything has mass and volume.\nThe fundamental SI Unit of mass is the kilogram.",
+    "text": "Units\nSI Units\n\nSome fundamental SI units\n\n\nPhysical Quantity\nName of Unit\nAbbreviation\n\n\n\n\nmass\nkilogram\nkg\n\n\nlength\nmeter\nm\n\n\ntime\nsecond\ns\n\n\ntemperature\nkelvin\nK\n\n\n\n\nCommon Used Prefixes in the Metric System\n\n\nPrefix\nSymbol\nMeaning\nPower of 10 for Scientific Notation\n\n\n\n\nmega\nM\n1,000,000\n\\(10^6\\)\n\n\nkilo\nK\n1,000\n\\(10^3\\)\n\n\ndeci\nd\n0.1\n\\(10^{-1}\\)\n\n\ncenti\nc\n0.01\n\\(10^{-2}\\)\n\n\nmilli\nm\n0.001\n\\(10^{-3}\\)\n\n\nmicro\n\\(\\mu\\)\n0.000001\n\\(10^{-6}\\)\n\n\nnano\nn\n0.000000001\n\\(10^{-9}\\)\n\n\n\n\nSI Units of Length\n\nThe Metric System for Measuring Length\n\n\nUnit\nSymbol\nMeter Equivalent\n\n\n\n\nkilometer\nkm\n1000m or \\(10^3\\) m\n\n\nmeter\nm\n1m\n\n\ndecimeter\ndm\n0.1m or \\(10^{-1}\\) m\n\n\ncentimeter\ncm\n0.01m or \\(10^{-2}\\) m\n\n\nmillimeter\nmm\n0.001m or \\(10^{-3}\\) m\n\n\nmicrometer\n\\(\\mu\\)m\n0.000001m or \\(10^{-6}\\)m\n\n\nnanometer\nnm\n0.000000001 or \\(10^{-9}\\)m\n\n\n\n\n\nSI Units of Volume\nVolume is the amount of three dimensonal space occupied by a substance.\n\\(1 cm^2 = 1 mL\\)\n\n\nSI Units of Mass\nMass is the quanitity of matter present in an object. Everything has mass and volume.\nThe fundamental SI Unit of mass is the kilogram.",
     "crumbs": [
       "Lectures",
       "Lecture 8-26-2026"

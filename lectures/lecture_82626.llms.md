@@ -61,11 +61,11 @@ Ergo
 
 \\ 93,000,000 = 9.3 \* 10,000,000 = 9.3 \* 10^7 \\
 
-93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many zeros were removed to provide our 9.3 base.
+93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many decimal places were moved to provide our 9.3 base.
 
 A positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.
 
-Ergo \\\neg{72,000}\\ can be represented as \\7.2\*10^-3\\
+Ergo \\0.0072\\ can be represented as \\7.2\*10^-3\\
 
 ## Examples Problems
 
@@ -94,7 +94,40 @@ So all that being said the exponent over 10 can be used to represent how many pl
 
 SI Units
 
-\[Get table images from Power point and transcribe\]
+| Physical Quantity | Name of Unit | Abbreviation |
+|-------------------|--------------|--------------|
+| mass              | kilogram     | kg           |
+| length            | meter        | m            |
+| time              | second       | s            |
+| temperature       | kelvin       | K            |
+
+Some fundamental SI units {.caption-top .table}
+
+| Prefix | Symbol  | Meaning     | Power of 10 for Scientific Notation |
+|--------|---------|-------------|-------------------------------------|
+| mega   | M       | 1,000,000   | \\10^6\\                            |
+| kilo   | K       | 1,000       | \\10^3\\                            |
+| deci   | d       | 0.1         | \\10^{-1}\\                         |
+| centi  | c       | 0.01        | \\10^{-2}\\                         |
+| milli  | m       | 0.001       | \\10^{-3}\\                         |
+| micro  | \\\mu\\ | 0.000001    | \\10^{-6}\\                         |
+| nano   | n       | 0.000000001 | \\10^{-9}\\                         |
+
+Common Used Prefixes in the Metric System {.caption-top .table}
+
+### SI Units of Length
+
+| Unit       | Symbol   | Meter Equivalent            |
+|------------|----------|-----------------------------|
+| kilometer  | km       | 1000m or \\10^3\\ m         |
+| meter      | m        | 1m                          |
+| decimeter  | dm       | 0.1m or \\10^{-1}\\ m       |
+| centimeter | cm       | 0.01m or \\10^{-2}\\ m      |
+| millimeter | mm       | 0.001m or \\10^{-3}\\ m     |
+| micrometer | \\\mu\\m | 0.000001m or \\10^{-6}\\m   |
+| nanometer  | nm       | 0.000000001 or \\10^{-9}\\m |
+
+The Metric System for Measuring Length {.caption-top .table}
 
 ### SI Units of Volume
 
