@@ -11,6 +11,9 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This is my notes site for CHEM 1301.",
+    "crumbs": [
+      "About"
+    ]
   }
 ]
