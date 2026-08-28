@@ -3,5 +3,6 @@
 ## Pages
 
 - [Lecture 8-26-2026](https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_82626.llms.md)
-- [About](https://wfowle-ttu.github.io/CHEM1301/about.llms.md)
 - [notes](https://wfowle-ttu.github.io/CHEM1301/index.llms.md)
+- [About](https://wfowle-ttu.github.io/CHEM1301/about.llms.md)
+- [Lecture 8-28-2026](https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_82826.llms.md)
