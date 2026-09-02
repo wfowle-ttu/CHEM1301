@@ -55,23 +55,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "notes",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is my notes site for CHEM 1301.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
     "objectID": "lectures/lecture_82826.html",
     "href": "lectures/lecture_82826.html",
     "title": "Lecture 8-28-2026",
@@ -102,6 +85,166 @@
     "crumbs": [
       "Lectures",
       "Lecture 8-28-2026"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my notes site for CHEM 1301.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html",
+    "href": "lectures/lecture_922026.html",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A Physical change involves a change in one or more physical properties of a substance but no change in the composition of that substance. E.g. Water freezing.\n\n\n\nA chemical change transforms a substance into one or more new substances.\n\nAlso referred to as a reaction\n\nE.g. Electrolysis of Water:\n\nWater decomposes to hydrogen and oxygen gases when you apply an electric current to water.\nCooking an egg is technically a chemical change because when you cool down the egg to it’s original temperature it doesn’t return to it’s original physical state.\n\n\n\n\nElements only contain one type of atom. They cannot be broken down in other substances by chemical means.\n\nExamples:\n\niron \\(\\mathrm{Fe}\\)\naluminum \\(\\mathrm{Al}\\)\noxygen \\(\\mathrm{O}\\)\nhydrogen \\(\\mathrm{H}\\)\n\n\n\n\n\nCompounds are substances that contain two or more kinds of atoms.\nExamples:\n\nWater, \\(\\mathrm{H_2O}\\)\nglucose, \\(\\mathrm{C_6H_{12}O_6}\\)\n\nA Molecule contains atoms bound together in a particular way.\nDi-atomic elements are naturally paired with one more of their own atom to be stable.\nStable diatomic elements:\n\\[\n\\mathrm{Cr_2}\\mathrm{I_2}\\mathrm{N_2}\\mathrm{Cl_2}\\mathrm{H_2}\\mathrm{O_2}\\mathrm{F_2}\n\\]\n\n\n\nA mixture has a variable composition.\nAir is a mixutre because it can be seperated into its various component gases.\nHeterogenous mixtures can be visually seen to be seperate.\nHomogenous mixtures components cannot be easily seen by their individual components.\n\n\nHas the same properties throughout.\n\nTable salt and water form a homogenous mixture.\nHomogeneous mixtures are also known as solutions.\n\n\n\n\nWhen you can visually see the difference in mixture. There are said to be different properties in different parts of the mixture.\n\nSand and water form a heterogeneous mixture.\n\n\n\n\n\nA pure substance always has the same composition.\nPure substances can also be compounds, e.g. a glass full of (water)\\(\\space \\mathrm{H_20}\\)\n\nTypes of Pure Substances\nPuresubstances are either:\n\nElements\nCompounds\n\nElements cannot be broken down chemically into simpler substances.\nCompounds can be broken down chemically into elements.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#physical-changes",
+    "href": "lectures/lecture_922026.html#physical-changes",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A Physical change involves a change in one or more physical properties of a substance but no change in the composition of that substance. E.g. Water freezing.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#chemical-change",
+    "href": "lectures/lecture_922026.html#chemical-change",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A chemical change transforms a substance into one or more new substances.\n\nAlso referred to as a reaction\n\nE.g. Electrolysis of Water:\n\nWater decomposes to hydrogen and oxygen gases when you apply an electric current to water.\nCooking an egg is technically a chemical change because when you cool down the egg to it’s original temperature it doesn’t return to it’s original physical state.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#elements",
+    "href": "lectures/lecture_922026.html#elements",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "Elements only contain one type of atom. They cannot be broken down in other substances by chemical means.\n\nExamples:\n\niron \\(\\mathrm{Fe}\\)\naluminum \\(\\mathrm{Al}\\)\noxygen \\(\\mathrm{O}\\)\nhydrogen \\(\\mathrm{H}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#compounds",
+    "href": "lectures/lecture_922026.html#compounds",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "Compounds are substances that contain two or more kinds of atoms.\nExamples:\n\nWater, \\(\\mathrm{H_2O}\\)\nglucose, \\(\\mathrm{C_6H_{12}O_6}\\)\n\nA Molecule contains atoms bound together in a particular way.\nDi-atomic elements are naturally paired with one more of their own atom to be stable.\nStable diatomic elements:\n\\[\n\\mathrm{Cr_2}\\mathrm{I_2}\\mathrm{N_2}\\mathrm{Cl_2}\\mathrm{H_2}\\mathrm{O_2}\\mathrm{F_2}\n\\]",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#mixtures",
+    "href": "lectures/lecture_922026.html#mixtures",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A mixture has a variable composition.\nAir is a mixutre because it can be seperated into its various component gases.\nHeterogenous mixtures can be visually seen to be seperate.\nHomogenous mixtures components cannot be easily seen by their individual components.\n\n\nHas the same properties throughout.\n\nTable salt and water form a homogenous mixture.\nHomogeneous mixtures are also known as solutions.\n\n\n\n\nWhen you can visually see the difference in mixture. There are said to be different properties in different parts of the mixture.\n\nSand and water form a heterogeneous mixture.\n\n\n\n\n\nA pure substance always has the same composition.\nPure substances can also be compounds, e.g. a glass full of (water)\\(\\space \\mathrm{H_20}\\)\n\nTypes of Pure Substances\nPuresubstances are either:\n\nElements\nCompounds\n\nElements cannot be broken down chemically into simpler substances.\nCompounds can be broken down chemically into elements.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html",
+    "href": "lectures/lecture_83026.html",
+    "title": "Lecture 8-30-2026",
+    "section": "",
+    "text": "Fahrenheit\n\n\nUsed in GB and US, used in most engineering sciences.\n\n\nCelsius\n\n\nUsed in Canada and Europe, used in physical life sciences in most countries.\n\n\nKelvin\n\n\nAbsolute temp scale\n\nA lot of these temperatures are based on when water boils and when it freezes.\nCelsius - \\(0^\\circ\\) for example at \\(0^\\circ\\) is when water freezes.\nKelvin helps relate temperature to the amount of energy (or average energy in a system).\n\n\n\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#converting-between-scales",
+    "href": "lectures/lecture_83026.html#converting-between-scales",
+    "title": "Lecture 8-30-2026",
+    "section": "",
+    "text": "\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#solids",
+    "href": "lectures/lecture_83026.html#solids",
+    "title": "Lecture 8-30-2026",
+    "section": "Solids",
+    "text": "Solids\nProperties:\n\nRigid\nfixed shape\nfixed volume\n\nLike an ice cube, diamond, or iron bar.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#liquids",
+    "href": "lectures/lecture_83026.html#liquids",
+    "title": "Lecture 8-30-2026",
+    "section": "Liquids",
+    "text": "Liquids\nProperties * takes the shape of it’s container * Have a fixed volume\nExamples: Gasoline, water, alcohol.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#gases",
+    "href": "lectures/lecture_83026.html#gases",
+    "title": "Lecture 8-30-2026",
+    "section": "Gases",
+    "text": "Gases\nProperties: * Takes the shape of it’s container * Takes the volume of it’s container\nExamples: air, helium, oxygen.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#physical-properties",
+    "href": "lectures/lecture_83026.html#physical-properties",
+    "title": "Lecture 8-30-2026",
+    "section": "Physical Properties",
+    "text": "Physical Properties\nThe characterisitics of a substance that do not involve changing to another substance.\nExamples: * Odor * Color * Volume * Density * Melting Point\nBasically anything used to describe some substance.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#chemical-properties",
+    "href": "lectures/lecture_83026.html#chemical-properties",
+    "title": "Lecture 8-30-2026",
+    "section": "Chemical Properties",
+    "text": "Chemical Properties\nHow a substance reacts to another substance. Or the ability for a substance’s ability to change to a different substance.\nExamples: * Acidity * Flammability * Reactivity\n\nComputer:\n\nDark Gray Colored Tough, doesn’t bend easy Not very flammable Can rust… Not very dense",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
     ]
   }
 ]
