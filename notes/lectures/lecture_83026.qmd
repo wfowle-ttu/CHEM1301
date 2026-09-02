@@ -1,0 +1,126 @@
+---
+title: "Lecture 8-30-2026"
+---
+
+# Temperature Scales
+
+1. **Fahrenheit**
+- Used in GB and US, used in most engineering sciences.
+
+2. **Celsius**
+- Used in Canada and Europe, used in physical life sciences in most countries. 
+
+3. **Kelvin**
+- Absolute temp scale
+
+A lot of these temperatures are based on when water boils and when it freezes. 
+
+Celsius - $0^\circ$ for example at $0^\circ$ is when water freezes.
+
+Kelvin helps relate temperature to the amount of energy (or average energy in a system).
+
+## Converting Between Scales
+
+$T_{\circ{C}} + 273 = T_\mathbf{K}$
+
+
+# Density
+
+$$
+\text{Density} = \frac{\text{mass}}{\text{volume}}
+$$
+
+Typically measured in $g/mL$
+
+Anything more dense than water sinks in water, anything lese dense than water floats in water. 
+
+Specific Gravity is the ratio of a the density of a given liquid to the desnity of water at 4 $\circ{}_C$
+
+Density can be used to identify substances. 
+
+52.1*4.67 m = 243.0 g of mass 
+
+
+# Chapter 3 - Matter 
+
+Matter is made up of mass and takes up space (has volume).
+
+There are 3 common states of matter:
+1. Solid
+2. Liquid
+3. Matter
+
+Technically plasma is a 4th state of matter. 
+
+## Solids
+
+Properties:
+
+* Rigid 
+* fixed shape
+* fixed volume
+
+Like an ice cube, diamond, or iron bar. 
+
+## Liquids
+
+Properties 
+* takes the shape of it's container
+* Have a fixed volume
+
+Examples: Gasoline, water, alcohol.
+
+## Gases
+
+Properties:
+* Takes the shape of it's container
+* Takes the volume of it's container 
+
+Examples: air, helium, oxygen.
+
+## Physical Properties
+
+The characterisitics of a substance that do not involve changing to another substance. 
+
+Examples:
+* Odor 
+* Color
+* Volume
+* Density
+* Melting Point
+
+
+Basically anything used to describe some substance. 
+
+## Chemical Properties
+
+How a substance reacts to another substance. Or the ability for a substance's ability to change to a different substance. 
+
+Examples:
+* Acidity
+* Flammability
+* Reactivity
+
+- Computer:
+
+Dark Gray Colored
+Tough, doesn't bend easy
+Not very flammable 
+Can rust...
+Not very dense 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
