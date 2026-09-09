@@ -1,0 +1,29 @@
+---
+title: "Lecture 9-4-2026"
+---
+
+# Chapter 3 Cont.
+
+## Distillation
+
+A method to purify a liquid by separating it from other substances through evaporation and condensation. 
+
+This process doesn't involve chemical change. 
+
+E.g. To seperate salt and water, because salt and water have differnt boiling points you can increase the temp of salt water and evaporate away the water and the salt will remain because it hasn't melted (evaporated). 
+
+Ergo water in one container, salt in another container.
+
+## Filtration
+
+This method relies on seperating particles based on different sizes. I.e. seperating a solid from a liquid using a filter. This doesn't involve chemical change.
+
+We can use a filter to seperate particles of one compound and anothe compound where particle A and particle B have a different size.
+
+By forcing the mixture of particles a and b to pass through a filter because the size of the filter only allows the passage of particle a that means that after passing throught the filter you would have particle a on one side and particle b on the other. 
+
+---
+
+Mixtures can be turned into separate pure suvbstances using physical methods. However, in order to turn compounds into elements you need to use chemical methods. 
+
+
