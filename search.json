@@ -1,5 +1,319 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my notes site for CHEM 1301.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9426.html",
+    "href": "lectures/lecture_9426.html",
+    "title": "Lecture 9-4-2026",
+    "section": "",
+    "text": "A method to purify a liquid by separating it from other substances through evaporation and condensation.\nThis process doesn’t involve chemical change.\nE.g. To seperate salt and water, because salt and water have differnt boiling points you can increase the temp of salt water and evaporate away the water and the salt will remain because it hasn’t melted (evaporated).\nErgo water in one container, salt in another container.\n\n\n\nThis method relies on seperating particles based on different sizes. I.e. seperating a solid from a liquid using a filter. This doesn’t involve chemical change.\nWe can use a filter to seperate particles of one compound and anothe compound where particle A and particle B have a different size.\nBy forcing the mixture of particles a and b to pass through a filter because the size of the filter only allows the passage of particle a that means that after passing throught the filter you would have particle a on one side and particle b on the other.\n\nMixtures can be turned into separate pure suvbstances using physical methods. However, in order to turn compounds into elements you need to use chemical methods.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-4-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9426.html#distillation",
+    "href": "lectures/lecture_9426.html#distillation",
+    "title": "Lecture 9-4-2026",
+    "section": "",
+    "text": "A method to purify a liquid by separating it from other substances through evaporation and condensation.\nThis process doesn’t involve chemical change.\nE.g. To seperate salt and water, because salt and water have differnt boiling points you can increase the temp of salt water and evaporate away the water and the salt will remain because it hasn’t melted (evaporated).\nErgo water in one container, salt in another container.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-4-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9426.html#filtration",
+    "href": "lectures/lecture_9426.html#filtration",
+    "title": "Lecture 9-4-2026",
+    "section": "",
+    "text": "This method relies on seperating particles based on different sizes. I.e. seperating a solid from a liquid using a filter. This doesn’t involve chemical change.\nWe can use a filter to seperate particles of one compound and anothe compound where particle A and particle B have a different size.\nBy forcing the mixture of particles a and b to pass through a filter because the size of the filter only allows the passage of particle a that means that after passing throught the filter you would have particle a on one side and particle b on the other.\n\nMixtures can be turned into separate pure suvbstances using physical methods. However, in order to turn compounds into elements you need to use chemical methods.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-4-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html",
+    "href": "lectures/lecture_922026.html",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A Physical change involves a change in one or more physical properties of a substance but no change in the composition of that substance. E.g. Water freezing.\n\n\n\nA chemical change transforms a substance into one or more new substances.\n\nAlso referred to as a reaction\n\nE.g. Electrolysis of Water:\n\nWater decomposes to hydrogen and oxygen gases when you apply an electric current to water.\nCooking an egg is technically a chemical change because when you cool down the egg to it’s original temperature it doesn’t return to it’s original physical state.\n\n\n\n\nElements only contain one type of atom. They cannot be broken down in other substances by chemical means.\n\nExamples:\n\niron \\(\\mathrm{Fe}\\)\naluminum \\(\\mathrm{Al}\\)\noxygen \\(\\mathrm{O}\\)\nhydrogen \\(\\mathrm{H}\\)\n\n\n\n\n\nCompounds are substances that contain two or more kinds of atoms.\nExamples:\n\nWater, \\(\\mathrm{H_2O}\\)\nglucose, \\(\\mathrm{C_6H_{12}O_6}\\)\n\nA Molecule contains atoms bound together in a particular way.\nDi-atomic elements are naturally paired with one more of their own atom to be stable.\nStable diatomic elements:\n\\[\n\\mathrm{Cr_2}\\mathrm{I_2}\\mathrm{N_2}\\mathrm{Cl_2}\\mathrm{H_2}\\mathrm{O_2}\\mathrm{F_2}\n\\]\n\n\n\nA mixture has a variable composition.\nAir is a mixutre because it can be seperated into its various component gases.\nHeterogenous mixtures can be visually seen to be seperate.\nHomogenous mixtures components cannot be easily seen by their individual components.\n\n\nHas the same properties throughout.\n\nTable salt and water form a homogenous mixture.\nHomogeneous mixtures are also known as solutions.\n\n\n\n\nWhen you can visually see the difference in mixture. There are said to be different properties in different parts of the mixture.\n\nSand and water form a heterogeneous mixture.\n\n\n\n\n\nA pure substance always has the same composition.\nPure substances can also be compounds, e.g. a glass full of (water)\\(\\space \\mathrm{H_20}\\)\n\nTypes of Pure Substances\nPuresubstances are either:\n\nElements\nCompounds\n\nElements cannot be broken down chemically into simpler substances.\nCompounds can be broken down chemically into elements.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#physical-changes",
+    "href": "lectures/lecture_922026.html#physical-changes",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A Physical change involves a change in one or more physical properties of a substance but no change in the composition of that substance. E.g. Water freezing.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#chemical-change",
+    "href": "lectures/lecture_922026.html#chemical-change",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A chemical change transforms a substance into one or more new substances.\n\nAlso referred to as a reaction\n\nE.g. Electrolysis of Water:\n\nWater decomposes to hydrogen and oxygen gases when you apply an electric current to water.\nCooking an egg is technically a chemical change because when you cool down the egg to it’s original temperature it doesn’t return to it’s original physical state.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#elements",
+    "href": "lectures/lecture_922026.html#elements",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "Elements only contain one type of atom. They cannot be broken down in other substances by chemical means.\n\nExamples:\n\niron \\(\\mathrm{Fe}\\)\naluminum \\(\\mathrm{Al}\\)\noxygen \\(\\mathrm{O}\\)\nhydrogen \\(\\mathrm{H}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#compounds",
+    "href": "lectures/lecture_922026.html#compounds",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "Compounds are substances that contain two or more kinds of atoms.\nExamples:\n\nWater, \\(\\mathrm{H_2O}\\)\nglucose, \\(\\mathrm{C_6H_{12}O_6}\\)\n\nA Molecule contains atoms bound together in a particular way.\nDi-atomic elements are naturally paired with one more of their own atom to be stable.\nStable diatomic elements:\n\\[\n\\mathrm{Cr_2}\\mathrm{I_2}\\mathrm{N_2}\\mathrm{Cl_2}\\mathrm{H_2}\\mathrm{O_2}\\mathrm{F_2}\n\\]",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_922026.html#mixtures",
+    "href": "lectures/lecture_922026.html#mixtures",
+    "title": "Lecture 9-2-2026",
+    "section": "",
+    "text": "A mixture has a variable composition.\nAir is a mixutre because it can be seperated into its various component gases.\nHeterogenous mixtures can be visually seen to be seperate.\nHomogenous mixtures components cannot be easily seen by their individual components.\n\n\nHas the same properties throughout.\n\nTable salt and water form a homogenous mixture.\nHomogeneous mixtures are also known as solutions.\n\n\n\n\nWhen you can visually see the difference in mixture. There are said to be different properties in different parts of the mixture.\n\nSand and water form a heterogeneous mixture.\n\n\n\n\n\nA pure substance always has the same composition.\nPure substances can also be compounds, e.g. a glass full of (water)\\(\\space \\mathrm{H_20}\\)\n\nTypes of Pure Substances\nPuresubstances are either:\n\nElements\nCompounds\n\nElements cannot be broken down chemically into simpler substances.\nCompounds can be broken down chemically into elements.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-2-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html",
+    "href": "lectures/lecture_9926.html",
+    "title": "Lecure 9-9-2026",
+    "section": "",
+    "text": "Note\n\n\n\nThis material is going to be on exam 2, Chapter 1’s through 3 will be exam 1 which is next Tuesday.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#elements",
+    "href": "lectures/lecture_9926.html#elements",
+    "title": "Lecure 9-9-2026",
+    "section": "Elements",
+    "text": "Elements\n\nAll matter can be broken down chemically into about 100 different elements.\nCompounds are made by combining atoms of the various elements\n9 elements account form most of the compounds found in the earth’s crust.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#elements-in-the-human-body",
+    "href": "lectures/lecture_9926.html#elements-in-the-human-body",
+    "title": "Lecure 9-9-2026",
+    "section": "Elements in the Human Body",
+    "text": "Elements in the Human Body\n\nOxygen, carbon, hyrdrogen, and nitrogen form the basis of all biologically important molecules.\nSome elements found in trace amounts (called trace elements) are crucial for life even though they are present in small amounts.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#symbols-for-elements",
+    "href": "lectures/lecture_9926.html#symbols-for-elements",
+    "title": "Lecure 9-9-2026",
+    "section": "Symbols for Elements",
+    "text": "Symbols for Elements\n\nChemists have a set of abbreviations or element symbols for the chemical elements:\n\nFor example Hydrogen is represented by the symbol \\(\\mathrm{H}\\)\n\nSome names came from weird stuff so like iron came from some ferron or something like that so it has the symbol \\(\\mathrm{Fe}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#natural-materials",
+    "href": "lectures/lecture_9926.html#natural-materials",
+    "title": "Lecure 9-9-2026",
+    "section": "Natural Materials",
+    "text": "Natural Materials\n\nMost natural materials are mixtures of pure subsstances\nPure substances are either elements or combinations of elements called compounds.\nA given compound always contains the same proportions (by mass) of the elements. For example water always contains 8 g of oxygen for every 1 g of hydrogen. Or carbon dioxide always contains 2.7g of oxygen for every 1 g of carbon.\n\nThis principle is known as the law of constant composition.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#daltons-atomic-theory",
+    "href": "lectures/lecture_9926.html#daltons-atomic-theory",
+    "title": "Lecure 9-9-2026",
+    "section": "Dalton’s Atomic Theory",
+    "text": "Dalton’s Atomic Theory\nThis is the classical atomic theory and differs slightly from modern atomic theory.\n\nElements are made up of tiny particles called atoms.\nAll atoms of a given element are identical.\nThe atoms of a given element are different from those of any other elements.\nAtoms of one element can combine with atoms of other elements to form compounds. A given compound alwasy has the same relative numbers and types of atoms.\nAtoms are individisible in chemical processes, that is atoms are neither created nor destroyed in a chemical reaction. A chemical reaction simply changes the way the atoms are grouped together.\n\n\n\n\nAtomic Number\n\n\nThe Atomic Number of an element refers to the number of protons in it’s nucleus.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#formulas-of-compounds",
+    "href": "lectures/lecture_9926.html#formulas-of-compounds",
+    "title": "Lecure 9-9-2026",
+    "section": "Formulas of Compounds",
+    "text": "Formulas of Compounds\n\nA compound is a distinct substance composed of the atoms of two or more elements and always contains the same relative masses of those elements.\nThe types of atoms and the number of each type in each unit (molecule) of a given compound are conveniently expressed by a chemical formula.\n\n\nRules for Writing Formulas\n\nEach atom present is represented by its element symbol\nThe number of each type of atom is indicated by a subscript on the element symbol.\nWhen only one atom of a given type is present no subscript is needed.\n\nE.g.\n\\[\n\\mathrm{NO}\n\\]\na chemical formula with one Nitrogen atom and one Oxygen atom.\nOr For water:\n\\[\n\\mathrm{H_2O}\n\\]\nIndicates two hydrogen atoms and one oxygen atom.\n\n\nRutherford’s Gold Foil Experiment\nIs what we derived the nucleus from. Basically stuff bounced backwards which suggests that the center of an atom is larger than a smaller particle.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#the-nuclear-model",
+    "href": "lectures/lecture_9926.html#the-nuclear-model",
+    "title": "Lecure 9-9-2026",
+    "section": "The Nuclear Model",
+    "text": "The Nuclear Model\n\nThe \\(\\alpha{}\\) particles passed directly throught the foil because the atom is mostly empty space.\nThe deflected particles came into contact with the center of the atom (the nucleus)",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#protons-and-neutrons",
+    "href": "lectures/lecture_9926.html#protons-and-neutrons",
+    "title": "Lecure 9-9-2026",
+    "section": "Protons and Neutrons",
+    "text": "Protons and Neutrons\n\nA proton has the same size as a neutron and the proton has a positive charge equal to the magnitude of the electrons negative charge.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#isotopes",
+    "href": "lectures/lecture_9926.html#isotopes",
+    "title": "Lecure 9-9-2026",
+    "section": "Isotopes",
+    "text": "Isotopes\n\nIsotopes are atoms with the same number of protons but differin numbers of electrons.\nThe number of protons in a nucleus is called the atom’s atom number.\n\n\nIsotope Notation\n\nThe number of protons in a nucleus is called the atom’s atomic number\nTHe sum of the number of neutrons and the number of protons in a nucleus is called the atom’s mass number.\n\nWhere, 1. is A and 2. is B\n\\[\nA + Z = \\space \\text{The Atomic Mass Number}\n\\]\n\n\n\nIsotope Notation\n\n\n\\[\n\\newline\n\\newline\n\\newline\n\\]\n\n\n\nAdditional Isotope Notation Example",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_9926.html#the-periodic-table",
+    "href": "lectures/lecture_9926.html#the-periodic-table",
+    "title": "Lecure 9-9-2026",
+    "section": "The Periodic Table",
+    "text": "The Periodic Table\n\nGroups have elements with similar chemical properties, columns represent the groups of the periodic table.\nPeriods are the rows of elements\n\n\nGroups\nA family of elements with similar chemical properties that lie in the same vertical column on the periodic table.",
+    "crumbs": [
+      "Lectures",
+      "Lecure 9-9-2026"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "lectures/lecture_83026.html",
+    "href": "lectures/lecture_83026.html",
+    "title": "Lecture 8-30-2026",
+    "section": "",
+    "text": "Fahrenheit\n\n\nUsed in GB and US, used in most engineering sciences.\n\n\nCelsius\n\n\nUsed in Canada and Europe, used in physical life sciences in most countries.\n\n\nKelvin\n\n\nAbsolute temp scale\n\nA lot of these temperatures are based on when water boils and when it freezes.\nCelsius - \\(0^\\circ\\) for example at \\(0^\\circ\\) is when water freezes.\nKelvin helps relate temperature to the amount of energy (or average energy in a system).\n\n\n\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#converting-between-scales",
+    "href": "lectures/lecture_83026.html#converting-between-scales",
+    "title": "Lecture 8-30-2026",
+    "section": "",
+    "text": "\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#solids",
+    "href": "lectures/lecture_83026.html#solids",
+    "title": "Lecture 8-30-2026",
+    "section": "Solids",
+    "text": "Solids\nProperties:\n\nRigid\nfixed shape\nfixed volume\n\nLike an ice cube, diamond, or iron bar.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#liquids",
+    "href": "lectures/lecture_83026.html#liquids",
+    "title": "Lecture 8-30-2026",
+    "section": "Liquids",
+    "text": "Liquids\nProperties * takes the shape of it’s container * Have a fixed volume\nExamples: Gasoline, water, alcohol.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#gases",
+    "href": "lectures/lecture_83026.html#gases",
+    "title": "Lecture 8-30-2026",
+    "section": "Gases",
+    "text": "Gases\nProperties: * Takes the shape of it’s container * Takes the volume of it’s container\nExamples: air, helium, oxygen.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#physical-properties",
+    "href": "lectures/lecture_83026.html#physical-properties",
+    "title": "Lecture 8-30-2026",
+    "section": "Physical Properties",
+    "text": "Physical Properties\nThe characterisitics of a substance that do not involve changing to another substance.\nExamples: * Odor * Color * Volume * Density * Melting Point\nBasically anything used to describe some substance.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#chemical-properties",
+    "href": "lectures/lecture_83026.html#chemical-properties",
+    "title": "Lecture 8-30-2026",
+    "section": "Chemical Properties",
+    "text": "Chemical Properties\nHow a substance reacts to another substance. Or the ability for a substance’s ability to change to a different substance.\nExamples: * Acidity * Flammability * Reactivity\n\nComputer:\n\nDark Gray Colored Tough, doesn’t bend easy Not very flammable Can rust… Not very dense",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
     "objectID": "lectures/lecture_82626.html",
     "href": "lectures/lecture_82626.html",
     "title": "Lecture 8-26-2026",
@@ -85,166 +399,6 @@
     "crumbs": [
       "Lectures",
       "Lecture 8-28-2026"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "notes",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is my notes site for CHEM 1301.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_922026.html",
-    "href": "lectures/lecture_922026.html",
-    "title": "Lecture 9-2-2026",
-    "section": "",
-    "text": "A Physical change involves a change in one or more physical properties of a substance but no change in the composition of that substance. E.g. Water freezing.\n\n\n\nA chemical change transforms a substance into one or more new substances.\n\nAlso referred to as a reaction\n\nE.g. Electrolysis of Water:\n\nWater decomposes to hydrogen and oxygen gases when you apply an electric current to water.\nCooking an egg is technically a chemical change because when you cool down the egg to it’s original temperature it doesn’t return to it’s original physical state.\n\n\n\n\nElements only contain one type of atom. They cannot be broken down in other substances by chemical means.\n\nExamples:\n\niron \\(\\mathrm{Fe}\\)\naluminum \\(\\mathrm{Al}\\)\noxygen \\(\\mathrm{O}\\)\nhydrogen \\(\\mathrm{H}\\)\n\n\n\n\n\nCompounds are substances that contain two or more kinds of atoms.\nExamples:\n\nWater, \\(\\mathrm{H_2O}\\)\nglucose, \\(\\mathrm{C_6H_{12}O_6}\\)\n\nA Molecule contains atoms bound together in a particular way.\nDi-atomic elements are naturally paired with one more of their own atom to be stable.\nStable diatomic elements:\n\\[\n\\mathrm{Cr_2}\\mathrm{I_2}\\mathrm{N_2}\\mathrm{Cl_2}\\mathrm{H_2}\\mathrm{O_2}\\mathrm{F_2}\n\\]\n\n\n\nA mixture has a variable composition.\nAir is a mixutre because it can be seperated into its various component gases.\nHeterogenous mixtures can be visually seen to be seperate.\nHomogenous mixtures components cannot be easily seen by their individual components.\n\n\nHas the same properties throughout.\n\nTable salt and water form a homogenous mixture.\nHomogeneous mixtures are also known as solutions.\n\n\n\n\nWhen you can visually see the difference in mixture. There are said to be different properties in different parts of the mixture.\n\nSand and water form a heterogeneous mixture.\n\n\n\n\n\nA pure substance always has the same composition.\nPure substances can also be compounds, e.g. a glass full of (water)\\(\\space \\mathrm{H_20}\\)\n\nTypes of Pure Substances\nPuresubstances are either:\n\nElements\nCompounds\n\nElements cannot be broken down chemically into simpler substances.\nCompounds can be broken down chemically into elements.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 9-2-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_922026.html#physical-changes",
-    "href": "lectures/lecture_922026.html#physical-changes",
-    "title": "Lecture 9-2-2026",
-    "section": "",
-    "text": "A Physical change involves a change in one or more physical properties of a substance but no change in the composition of that substance. E.g. Water freezing.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 9-2-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_922026.html#chemical-change",
-    "href": "lectures/lecture_922026.html#chemical-change",
-    "title": "Lecture 9-2-2026",
-    "section": "",
-    "text": "A chemical change transforms a substance into one or more new substances.\n\nAlso referred to as a reaction\n\nE.g. Electrolysis of Water:\n\nWater decomposes to hydrogen and oxygen gases when you apply an electric current to water.\nCooking an egg is technically a chemical change because when you cool down the egg to it’s original temperature it doesn’t return to it’s original physical state.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 9-2-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_922026.html#elements",
-    "href": "lectures/lecture_922026.html#elements",
-    "title": "Lecture 9-2-2026",
-    "section": "",
-    "text": "Elements only contain one type of atom. They cannot be broken down in other substances by chemical means.\n\nExamples:\n\niron \\(\\mathrm{Fe}\\)\naluminum \\(\\mathrm{Al}\\)\noxygen \\(\\mathrm{O}\\)\nhydrogen \\(\\mathrm{H}\\)",
-    "crumbs": [
-      "Lectures",
-      "Lecture 9-2-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_922026.html#compounds",
-    "href": "lectures/lecture_922026.html#compounds",
-    "title": "Lecture 9-2-2026",
-    "section": "",
-    "text": "Compounds are substances that contain two or more kinds of atoms.\nExamples:\n\nWater, \\(\\mathrm{H_2O}\\)\nglucose, \\(\\mathrm{C_6H_{12}O_6}\\)\n\nA Molecule contains atoms bound together in a particular way.\nDi-atomic elements are naturally paired with one more of their own atom to be stable.\nStable diatomic elements:\n\\[\n\\mathrm{Cr_2}\\mathrm{I_2}\\mathrm{N_2}\\mathrm{Cl_2}\\mathrm{H_2}\\mathrm{O_2}\\mathrm{F_2}\n\\]",
-    "crumbs": [
-      "Lectures",
-      "Lecture 9-2-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_922026.html#mixtures",
-    "href": "lectures/lecture_922026.html#mixtures",
-    "title": "Lecture 9-2-2026",
-    "section": "",
-    "text": "A mixture has a variable composition.\nAir is a mixutre because it can be seperated into its various component gases.\nHeterogenous mixtures can be visually seen to be seperate.\nHomogenous mixtures components cannot be easily seen by their individual components.\n\n\nHas the same properties throughout.\n\nTable salt and water form a homogenous mixture.\nHomogeneous mixtures are also known as solutions.\n\n\n\n\nWhen you can visually see the difference in mixture. There are said to be different properties in different parts of the mixture.\n\nSand and water form a heterogeneous mixture.\n\n\n\n\n\nA pure substance always has the same composition.\nPure substances can also be compounds, e.g. a glass full of (water)\\(\\space \\mathrm{H_20}\\)\n\nTypes of Pure Substances\nPuresubstances are either:\n\nElements\nCompounds\n\nElements cannot be broken down chemically into simpler substances.\nCompounds can be broken down chemically into elements.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 9-2-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html",
-    "href": "lectures/lecture_83026.html",
-    "title": "Lecture 8-30-2026",
-    "section": "",
-    "text": "Fahrenheit\n\n\nUsed in GB and US, used in most engineering sciences.\n\n\nCelsius\n\n\nUsed in Canada and Europe, used in physical life sciences in most countries.\n\n\nKelvin\n\n\nAbsolute temp scale\n\nA lot of these temperatures are based on when water boils and when it freezes.\nCelsius - \\(0^\\circ\\) for example at \\(0^\\circ\\) is when water freezes.\nKelvin helps relate temperature to the amount of energy (or average energy in a system).\n\n\n\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-30-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html#converting-between-scales",
-    "href": "lectures/lecture_83026.html#converting-between-scales",
-    "title": "Lecture 8-30-2026",
-    "section": "",
-    "text": "\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-30-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html#solids",
-    "href": "lectures/lecture_83026.html#solids",
-    "title": "Lecture 8-30-2026",
-    "section": "Solids",
-    "text": "Solids\nProperties:\n\nRigid\nfixed shape\nfixed volume\n\nLike an ice cube, diamond, or iron bar.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-30-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html#liquids",
-    "href": "lectures/lecture_83026.html#liquids",
-    "title": "Lecture 8-30-2026",
-    "section": "Liquids",
-    "text": "Liquids\nProperties * takes the shape of it’s container * Have a fixed volume\nExamples: Gasoline, water, alcohol.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-30-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html#gases",
-    "href": "lectures/lecture_83026.html#gases",
-    "title": "Lecture 8-30-2026",
-    "section": "Gases",
-    "text": "Gases\nProperties: * Takes the shape of it’s container * Takes the volume of it’s container\nExamples: air, helium, oxygen.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-30-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html#physical-properties",
-    "href": "lectures/lecture_83026.html#physical-properties",
-    "title": "Lecture 8-30-2026",
-    "section": "Physical Properties",
-    "text": "Physical Properties\nThe characterisitics of a substance that do not involve changing to another substance.\nExamples: * Odor * Color * Volume * Density * Melting Point\nBasically anything used to describe some substance.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-30-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html#chemical-properties",
-    "href": "lectures/lecture_83026.html#chemical-properties",
-    "title": "Lecture 8-30-2026",
-    "section": "Chemical Properties",
-    "text": "Chemical Properties\nHow a substance reacts to another substance. Or the ability for a substance’s ability to change to a different substance.\nExamples: * Acidity * Flammability * Reactivity\n\nComputer:\n\nDark Gray Colored Tough, doesn’t bend easy Not very flammable Can rust… Not very dense",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-30-2026"
     ]
   }
 ]

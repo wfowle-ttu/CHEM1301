@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_82626.html</loc>
-    <lastmod>2026-09-02T19:19:06.971Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_82826.html</loc>
-    <lastmod>2026-09-02T19:19:06.971Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wfowle-ttu.github.io/CHEM1301/index.html</loc>
-    <lastmod>2026-09-02T19:19:06.971Z</lastmod>
-  </url>
-  <url>
     <loc>https://wfowle-ttu.github.io/CHEM1301/about.html</loc>
-    <lastmod>2026-09-02T19:19:06.971Z</lastmod>
+    <lastmod>2026-09-09T19:24:26.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_9426.html</loc>
+    <lastmod>2026-09-09T19:24:26.862Z</lastmod>
   </url>
   <url>
     <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_922026.html</loc>
-    <lastmod>2026-09-02T19:19:06.971Z</lastmod>
+    <lastmod>2026-09-09T19:24:26.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_9926.html</loc>
+    <lastmod>2026-09-09T19:24:26.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wfowle-ttu.github.io/CHEM1301/index.html</loc>
+    <lastmod>2026-09-09T19:24:26.861Z</lastmod>
   </url>
   <url>
     <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_83026.html</loc>
-    <lastmod>2026-09-02T19:19:06.971Z</lastmod>
+    <lastmod>2026-09-09T19:24:26.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_82626.html</loc>
+    <lastmod>2026-09-09T19:24:26.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wfowle-ttu.github.io/CHEM1301/lectures/lecture_82826.html</loc>
+    <lastmod>2026-09-09T19:24:26.862Z</lastmod>
   </url>
 </urlset>

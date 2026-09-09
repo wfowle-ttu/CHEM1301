@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lecture 8-30-2026 – CHEM1301 Notes</title>
+<title>Lecture 9-4-2026 – CHEM1301 Notes</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -116,7 +87,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../lectures/lecture_82626.html">Lectures</a></li><li class="breadcrumb-item"><a href="../lectures/lecture_83026.html">Lecture 8-30-2026</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../lectures/lecture_82626.html">Lectures</a></li><li class="breadcrumb-item"><a href="../lectures/lecture_9426.html">Lecture 9-4-2026</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -170,7 +141,7 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../lectures/lecture_83026.html" class="sidebar-item-text sidebar-link active">
+  <a href="../lectures/lecture_83026.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lecture 8-30-2026</span></a>
   </div>
 </li>
@@ -182,7 +153,7 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../lectures/lecture_9426.html" class="sidebar-item-text sidebar-link">
+  <a href="../lectures/lecture_9426.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Lecture 9-4-2026</span></a>
   </div>
 </li>
@@ -204,18 +175,10 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#temperature-scales" id="toc-temperature-scales" class="nav-link active" data-scroll-target="#temperature-scales">Temperature Scales</a>
+  <li><a href="#chapter-3-cont." id="toc-chapter-3-cont." class="nav-link active" data-scroll-target="#chapter-3-cont.">Chapter 3 Cont.</a>
   <ul class="collapse">
-  <li><a href="#converting-between-scales" id="toc-converting-between-scales" class="nav-link" data-scroll-target="#converting-between-scales">Converting Between Scales</a></li>
-  </ul></li>
-  <li><a href="#density" id="toc-density" class="nav-link" data-scroll-target="#density">Density</a></li>
-  <li><a href="#chapter-3---matter" id="toc-chapter-3---matter" class="nav-link" data-scroll-target="#chapter-3---matter">Chapter 3 - Matter</a>
-  <ul class="collapse">
-  <li><a href="#solids" id="toc-solids" class="nav-link" data-scroll-target="#solids">Solids</a></li>
-  <li><a href="#liquids" id="toc-liquids" class="nav-link" data-scroll-target="#liquids">Liquids</a></li>
-  <li><a href="#gases" id="toc-gases" class="nav-link" data-scroll-target="#gases">Gases</a></li>
-  <li><a href="#physical-properties" id="toc-physical-properties" class="nav-link" data-scroll-target="#physical-properties">Physical Properties</a></li>
-  <li><a href="#chemical-properties" id="toc-chemical-properties" class="nav-link" data-scroll-target="#chemical-properties">Chemical Properties</a></li>
+  <li><a href="#distillation" id="toc-distillation" class="nav-link" data-scroll-target="#distillation">Distillation</a></li>
+  <li><a href="#filtration" id="toc-filtration" class="nav-link" data-scroll-target="#filtration">Filtration</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -223,9 +186,9 @@ window.Quarto = {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../lectures/lecture_82626.html">Lectures</a></li><li class="breadcrumb-item"><a href="../lectures/lecture_83026.html">Lecture 8-30-2026</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../lectures/lecture_82626.html">Lectures</a></li><li class="breadcrumb-item"><a href="../lectures/lecture_9426.html">Lecture 9-4-2026</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Lecture 8-30-2026</h1>
+<h1 class="title">Lecture 9-4-2026</h1>
 </div>
 
 
@@ -242,84 +205,22 @@ window.Quarto = {
 </header>
 
 
-<section id="temperature-scales" class="level1">
-<h1>Temperature Scales</h1>
-<ol type="1">
-<li><strong>Fahrenheit</strong></li>
-</ol>
-<ul>
-<li>Used in GB and US, used in most engineering sciences.</li>
-</ul>
-<ol start="2" type="1">
-<li><strong>Celsius</strong></li>
-</ol>
-<ul>
-<li>Used in Canada and Europe, used in physical life sciences in most countries.</li>
-</ul>
-<ol start="3" type="1">
-<li><strong>Kelvin</strong></li>
-</ol>
-<ul>
-<li>Absolute temp scale</li>
-</ul>
-<p>A lot of these temperatures are based on when water boils and when it freezes.</p>
-<p>Celsius - <span class="math inline">\(0^\circ\)</span> for example at <span class="math inline">\(0^\circ\)</span> is when water freezes.</p>
-<p>Kelvin helps relate temperature to the amount of energy (or average energy in a system).</p>
-<section id="converting-between-scales" class="level2">
-<h2 class="anchored" data-anchor-id="converting-between-scales">Converting Between Scales</h2>
-<p><span class="math inline">\(T_{\circ{C}} + 273 = T_\mathbf{K}\)</span></p>
+<section id="chapter-3-cont." class="level1">
+<h1>Chapter 3 Cont.</h1>
+<section id="distillation" class="level2">
+<h2 class="anchored" data-anchor-id="distillation">Distillation</h2>
+<p>A method to purify a liquid by separating it from other substances through evaporation and condensation.</p>
+<p>This process doesn’t involve chemical change.</p>
+<p>E.g. To seperate salt and water, because salt and water have differnt boiling points you can increase the temp of salt water and evaporate away the water and the salt will remain because it hasn’t melted (evaporated).</p>
+<p>Ergo water in one container, salt in another container.</p>
 </section>
-</section>
-<section id="density" class="level1">
-<h1>Density</h1>
-<p><span class="math display">\[
-\text{Density} = \frac{\text{mass}}{\text{volume}}
-\]</span></p>
-<p>Typically measured in <span class="math inline">\(g/mL\)</span></p>
-<p>Anything more dense than water sinks in water, anything lese dense than water floats in water.</p>
-<p>Specific Gravity is the ratio of a the density of a given liquid to the desnity of water at 4 <span class="math inline">\(\circ{}_C\)</span></p>
-<p>Density can be used to identify substances.</p>
-<p>52.1*4.67 m = 243.0 g of mass</p>
-</section>
-<section id="chapter-3---matter" class="level1">
-<h1>Chapter 3 - Matter</h1>
-<p>Matter is made up of mass and takes up space (has volume).</p>
-<p>There are 3 common states of matter: 1. Solid 2. Liquid 3. Matter</p>
-<p>Technically plasma is a 4th state of matter.</p>
-<section id="solids" class="level2">
-<h2 class="anchored" data-anchor-id="solids">Solids</h2>
-<p>Properties:</p>
-<ul>
-<li>Rigid</li>
-<li>fixed shape</li>
-<li>fixed volume</li>
-</ul>
-<p>Like an ice cube, diamond, or iron bar.</p>
-</section>
-<section id="liquids" class="level2">
-<h2 class="anchored" data-anchor-id="liquids">Liquids</h2>
-<p>Properties * takes the shape of it’s container * Have a fixed volume</p>
-<p>Examples: Gasoline, water, alcohol.</p>
-</section>
-<section id="gases" class="level2">
-<h2 class="anchored" data-anchor-id="gases">Gases</h2>
-<p>Properties: * Takes the shape of it’s container * Takes the volume of it’s container</p>
-<p>Examples: air, helium, oxygen.</p>
-</section>
-<section id="physical-properties" class="level2">
-<h2 class="anchored" data-anchor-id="physical-properties">Physical Properties</h2>
-<p>The characterisitics of a substance that do not involve changing to another substance.</p>
-<p>Examples: * Odor * Color * Volume * Density * Melting Point</p>
-<p>Basically anything used to describe some substance.</p>
-</section>
-<section id="chemical-properties" class="level2">
-<h2 class="anchored" data-anchor-id="chemical-properties">Chemical Properties</h2>
-<p>How a substance reacts to another substance. Or the ability for a substance’s ability to change to a different substance.</p>
-<p>Examples: * Acidity * Flammability * Reactivity</p>
-<ul>
-<li>Computer:</li>
-</ul>
-<p>Dark Gray Colored Tough, doesn’t bend easy Not very flammable Can rust… Not very dense</p>
+<section id="filtration" class="level2">
+<h2 class="anchored" data-anchor-id="filtration">Filtration</h2>
+<p>This method relies on seperating particles based on different sizes. I.e. seperating a solid from a liquid using a filter. This doesn’t involve chemical change.</p>
+<p>We can use a filter to seperate particles of one compound and anothe compound where particle A and particle B have a different size.</p>
+<p>By forcing the mixture of particles a and b to pass through a filter because the size of the filter only allows the passage of particle a that means that after passing throught the filter you would have particle a on one side and particle b on the other.</p>
+<hr>
+<p>Mixtures can be turned into separate pure suvbstances using physical methods. However, in order to turn compounds into elements you need to use chemical methods.</p>
 
 
 </section>
