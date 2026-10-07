@@ -1,0 +1,178 @@
+---
+title: "Lecture 9-28-2026"
+---
+
+# Chapter 6 - Chemical Equations
+
+## Balancing Chemical Equations
+
+$$
+\mathrm{C_2H_6 + O_2 \rightarrow CO_2 + H_2O}
+$$
+
+There are 2 Carbons, 6 Hydrogens, and 2 Oxygens on the product side
+
+There are 2 Carbons, 2 Hydrogens, and 4 Oxygens on the solution side.
+
+To Balance them:
+
+$$
+\mathrm{2(C_2H_6) + 7 O_2 \rightarrow 4(CO_2)+6(H_2O)}
+$$
+
+Fractional balancing of the chemical equation.
+
+Balance:
+
+$$
+\mathrm{Zn+HCl \rightarrow ZnCl_2 + H_2}
+$$
+
+The left side (product) has one zinc, one Hydrogen, and one Chlorine atom, the right side has two chlorines, two hydrogens, and one Zinc:
+
+$$
+\mathrm{Zn + 2(HCl) \rightarrow ZnCl_2 + H_2}
+$$
+
+Is the balanced form.
+
+$$
+\mathrm{P_4 + O_2 \rightarrow P_2O_5}
+$$
+
+With fractional balancing
+
+$$
+\mathrm{P_4 + 5O_2 \rightarrow 2(P_2O_5)}
+$$
+
+$$
+\mathrm{NH_3 + O_2 \rightarrow NO + H_2O} \newline
+\newline
+$$
+
+$$
+\mathrm{2NH_3 + O_2 \rightarrow NO + 3 H_2O} \newline
+\newline
+\newline
+\mathrm{2NH_3 + O_2 \rightarrow 2NO + 3H_2O} \newline
+\newline
+\newline
+\mathrm{4NH_3 + 2O_2 \rightarrow 4NO + 6 H_2O} \newline
+$$
+
+------------------------------------------------------------------------
+
+$$
+\mathrm{H_2SO_4 (\mathit{aq}) \rightarrow SO_3 (\mathit{g}) + H_2O (\mathit{g)}}
+$$
+
+This equation is already balanced. This is decomposition reaction, the same molecule becomes two smaller pieces.
+
+------------------------------------------------------------------------
+
+$$
+\mathrm{H_2O_2 \rightarrow H_2O + O_2}
+$$
+
+$$
+\mathrm{2H_2O_2 \rightarrow H_2O + O_2}
+$$
+
+$$
+\mathrm{2H_2O_2 \rightarrow 2H_2O + O_2}
+$$
+
+------------------------------------------------------------------------
+
+$$
+\mathrm{Li + N_2 \rightarrow Li_3N}
+\newline
+\mathrm{6Li + N_2 \rightarrow Li_3N}
+\newline
+$$
+
+------------------------------------------------------------------------
+
+$$
+\mathrm{C_6H_{12}O_6 + O_2 \rightarrow CO_2 + H_2O }
+$$
+
+$$
+\mathrm{C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O}
+$$
+
+------------------------------------------------------------------------
+
+$$
+\mathrm{HC_2H_3O_2 + Ba(OH)_2 \rightarrow Ba(C_2H_3O_2)_2 + H_2O}
+$$
+
+Given there are 6 Hydrogens, 2 Carbons, 4 Oxygens, 1 Barium on the left side
+
+And
+
+8 Hydrogens, 4 Carbons, 5 Oxygens, 1 Barium on the right side.
+
+$2\,\mathrm{HC_2H_3O_2} + \mathrm{Ba(OH)_2} \rightarrow \mathrm{Ba(C_2H_3O_2)_2} + 2\,\mathrm{H_2O}$
+
+Balancing the Equation:
+
+To balance the equation, treat the acetate group ($\mathrm{C_2H_3O_2^-}$) and the hydroxide/water relationship as distinct units, or balance element by element. Writing water as $\mathrm{H(OH)}$ makes acid-base neutralization reactions straightforward:
+
+$\mathrm{H(C_2H_3O_2) + Ba(OH)_2 \rightarrow Ba(C_2H_3O_2)_2 + H(OH)}$
+
+**Step 1: Count initial atoms / polyatomic groups**
+
+| Entity | Reactants | Products | Balanced? |
+|------------------|------------------|------------------|------------------|
+| $\mathrm{Ba}$ | $1$ (in $\mathrm{Ba(OH)_2}$) | $1$ (in $\mathrm{Ba(C_2H_3O_2)_2}$) | Yes |
+| $\mathrm{C_2H_3O_2}$ (acetate) | $1$ (in $\mathrm{HC_2H_3O_2}$) | $2$ (in $\mathrm{Ba(C_2H_3O_2)_2}$) | **No** |
+| $\mathrm{OH}$ (hydroxide) | $2$ (in $\mathrm{Ba(OH)_2}$) | $1$ (in $\mathrm{H_2O}$) | **No** |
+| $\mathrm{H^+}$ (acidic hydrogen) | $1$ (in $\mathrm{HC_2H_3O_2}$) | $1$ (in $\mathrm{H_2O}$) | Yes |
+
+**Step 2: Balance the acetate ion (**$\mathrm{C_2H_3O_2^-}$)
+
+There are $2$ acetate groups on the product side, but only $1$ on the reactant side. Place a coefficient of $2$ in front of $\mathrm{HC_2H_3O_2}$:
+
+$2\,\mathrm{HC_2H_3O_2} + \mathrm{Ba(OH)_2} \rightarrow \mathrm{Ba(C_2H_3O_2)_2} + \mathrm{H_2O}$
+
+**Step 3: Balance hydrogen and hydroxide (water formation)**
+
+Now check the reactant side:
+
+- **Acidic** $\mathrm{H^+}$: $2$ (from $2\,\mathrm{HC_2H_3O_2}$)
+- $\mathrm{OH^-}$: $2$ (from $1\,\mathrm{Ba(OH)_2}$)
+
+Each $\mathrm{H^+}$ combines with an $\mathrm{OH^-}$ to form one $\mathrm{H_2O}$ molecule ($2\,\mathrm{H^+} + 2\,\mathrm{OH^-} \rightarrow 2\,\mathrm{H_2O}$).
+
+Place a coefficient of $2$ in front of $\mathrm{H_2O}$:
+
+$2\,\mathrm{HC_2H_3O_2} + \mathrm{Ba(OH)_2} \rightarrow \mathrm{Ba(C_2H_3O_2)_2} + 2\,\mathrm{H_2O}$
+
+**Step 4: Final verification (element-by-element count)**
+
+| Element | Reactant Count | Product Count | Status |
+|------------------|------------------|------------------|------------------|
+| $\mathrm{Ba}$ | $1$ | $1$ | Balanced |
+| $\mathrm{C}$ | $2 \times 2 = 4$ | $2 \times 2 = 4$ | Balanced |
+| $\mathrm{H}$ | $(2 \times 4) + (1 \times 2) = 10$ | $(2 \times 3) + (2 \times 2) = 10$ | Balanced |
+| $\mathrm{O}$ | $(2 \times 2) + (1 \times 2) = 6$ | $(2 \times 2) + (2 \times 1) = 6$ | Balanced |
+
+**Balanced Equation**
+
+$2\,\mathrm{HC_2H_3O_2} + \mathrm{Ba(OH)_2} \rightarrow \mathrm{Ba(C_2H_3O_2)_2} + 2\,\mathrm{H_2O}$
+
+---
+
+Iron rust, iron (III) oxide can be ignited with powdered aluminum to form aluminum oxide and liquid iron. Write and balance the equation:
+
+$$ 
+\mathrm{Fe_2O_3 + Al \rightarrow Fe + Al_2O_3 }
+$$
+
+balanced to:
+
+$$
+\mathrm{Fe_2O_3 + 2Al \rightarrow Al_2O_3 + 2Fe}
+$$
