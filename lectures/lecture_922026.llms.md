@@ -23,10 +23,10 @@ E.g. Electrolysis of Water:
 Elements only contain one type of atom. They cannot be broken down in other substances by chemical means.
 
 - Examples:
-  - iron \\\mathrm{Fe}\\
-  - aluminum \\\mathrm{Al}\\
-  - oxygen \\\mathrm{O}\\
-  - hydrogen \\\mathrm{H}\\
+  - iron $\mathrm{Fe}$
+  - aluminum $\mathrm{Al}$
+  - oxygen $\mathrm{O}$
+  - hydrogen $\mathrm{H}$
 
 ## Compounds
 
@@ -34,8 +34,8 @@ Compounds are substances that contain two or more kinds of atoms.
 
 Examples:
 
-- Water, \\\mathrm{H_2O}\\
-- glucose, \\\mathrm{C_6H\_{12}O_6}\\
+- Water, $\mathrm{H_2O}$
+- glucose, $\mathrm{C_6H_{12}O_6}$
 
 **A Molecule** contains atoms bound together in a particular way.
 
@@ -43,7 +43,7 @@ Di-atomic elements are naturally paired with one more of their own atom to be st
 
 Stable diatomic elements:
 
-\\ \mathrm{Cr_2}\mathrm{I_2}\mathrm{N_2}\mathrm{Cl_2}\mathrm{H_2}\mathrm{O_2}\mathrm{F_2} \\
+$$\mathrm{Cr_2}\mathrm{I_2}\mathrm{N_2}\mathrm{Cl_2}\mathrm{H_2}\mathrm{O_2}\mathrm{F_2}$$
 
 ## Mixtures
 
@@ -71,7 +71,7 @@ When you can visually see the difference in mixture. There are said to be differ
 ### Pure Substances
 
 - A pure substance always has the same composition.
-- Pure substances can also be compounds, e.g. a glass full of (water)\\\space \mathrm{H_20}\\
+- Pure substances can also be compounds, e.g. a glass full of (water)$\space \mathrm{H_20}$
 
 **Types of Pure Substances**
 

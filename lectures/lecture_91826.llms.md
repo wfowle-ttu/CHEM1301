@@ -23,15 +23,15 @@ The ending of the second element still has it’s ending changed to “-ide” b
 3.  Prefixes are used to denote the numbers of atoms present.
 4.  The prefix mono-is used on the second element if there is only one.
 
-ex: \\\mathrm{N_2O_4}\\ dinitrogen tetraoxide.
+ex: $\mathrm{N_2O_4}$ dinitrogen tetraoxide.
 
-\\\mathrm{SF_6}\\: sulfur hexafluoride.
+$\mathrm{SF_6}$: sulfur hexafluoride.
 
-\\\mathrm{NCl_3}\\ Nitrogen trichloride
+$\mathrm{NCl_3}$ Nitrogen trichloride
 
-\\\mathrm{PF_5}\\ phosphorus pentafluoride
+$\mathrm{PF_5}$ phosphorus pentafluoride
 
-\\\mathrm{S_2O}\\ disulfur monoxide
+$\mathrm{S_2O}$ disulfur monoxide
 
 ## Types of Binary Compounds
 
@@ -47,15 +47,15 @@ Logic for naming Binary Compounds
 
 Ex:
 
-\\\mathrm{BaBr_2}\\ : Barium bromide
+$\mathrm{BaBr_2}$ : Barium bromide
 
-\\\mathrm{XeF_4}\\ Xenon tetrafluoride
+$\mathrm{XeF_4}$ Xenon tetrafluoride
 
-\\\mathrm{IrO}\\ Iridium(II) oxide
+$\mathrm{IrO}$ Iridium(II) oxide
 
-\\\mathrm{CI_4}\\ Carbon tetraiodine
+$\mathrm{CI_4}$ Carbon tetraiodine
 
-\\\mathrm{NO}\\ Nitrogen monoxide
+$\mathrm{NO}$ Nitrogen monoxide
 
 ## Polyatomic Ions
 
@@ -71,46 +71,46 @@ In order to know these you just have to memorize them, it’s annoying but it’
 
 For all of group 17:
 
-\\\mathrm{ClO_4^-}\\: perchlorate
+$\mathrm{ClO_4^-}$: perchlorate
 
-\\\mathrm{ClO_3^-}\\: chlorate
+$\mathrm{ClO_3^-}$: chlorate
 
-\\\mathrm{ClO_2^-}\\: chlorite
+$\mathrm{ClO_2^-}$: chlorite
 
-\\\mathrm{OCl^-}\\ : hypochlorite
+$\mathrm{OCl^-}$ : hypochlorite
 
 The prefix “per” meaning most, and the prefix “hypo” meaning least.
 
 Therefore:
 
-\\\mathrm{NO_3^-}\\: Nitrate
+$\mathrm{NO_3^-}$: Nitrate
 
-\\\mathrm{NO_2^-}\\: Nitrite
+$\mathrm{NO_2^-}$: Nitrite
 
 Or:
 
-\\\mathrm{HPO_4^{2-}}\\: hydrogen phosphate
+$\mathrm{HPO_4^{2-}}$: hydrogen phosphate
 
-\\\mathrm{H_2PO_4^-}\\: dihydrogen phosphate
+$\mathrm{H_2PO_4^-}$: dihydrogen phosphate
 
 Know the Chlorine, Bromine, Iodine polyatomic ions, they just come up with the same O and prefixes and suffixes as expected:
 
-So: \\\mathrm{IO_3^-}\\: Iodate, so on and so forth.
+So: $\mathrm{IO_3^-}$: Iodate, so on and so forth.
 
 ### Naming Polyatomic Ions
 
 - Naming Ionic compounds that contain polyatomic ions is very similar to naming binary ionic compounds:
 
-  - E.g. the compound \\\mathrm{NaOH}\\ is called sodium hydroxide because it contains the \\\mathrm{Na^+}\\ cation and the \\\mathrm{OH^-}\\ hydroxide anion.
+  - E.g. the compound $\mathrm{NaOH}$ is called sodium hydroxide because it contains the $\mathrm{Na^+}$ cation and the $\mathrm{OH^-}$ hydroxide anion.
 
 - Remember that when a metal is present that forms more than one cation, a Roman numeral is required to specify the cation charge, just as in naming Type II binary ionic compounds.
 
-  - \\\mathrm{FeSO_4}\\ is called Iron (III) sulfate in order to keep the charges balanced.
+  - $\mathrm{FeSO_4}$ is called Iron (III) sulfate in order to keep the charges balanced.
 
-  - \\\mathrm{NH_4Cl}\\ ammonium chloride
+  - $\mathrm{NH_4Cl}$ ammonium chloride
 
-\\\mathrm{KOH}\\: potassium hydroxide
+$\mathrm{KOH}$: potassium hydroxide
 
-\\\mathrm{TiCO_3}\\ Titanium (II) carbonate
+$\mathrm{TiCO_3}$ Titanium (II) carbonate
 
-\\\mathrm{NaCN}\\ Sodium cyanide
+$\mathrm{NaCN}$ Sodium cyanide

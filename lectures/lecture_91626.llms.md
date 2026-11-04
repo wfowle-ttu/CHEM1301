@@ -24,11 +24,11 @@ The naming convention is anion first then cation.
 
 - Certain metal atoms only from one cation.
 
-  - For example, \\\mathrm{Na}\\ only form \\\mathrm{Na}^+\\, likewise \\\mathrm{Cs}\\ only forms \\\mathrm{Cs}2+\\
+  - For example, $\mathrm{Na}$ only form $\mathrm{Na}^+$, likewise $\mathrm{Cs}$ only forms $\mathrm{Cs}2+$
 
 Naming Type I Compounds:
 
-1.  \\\mathrm{KCl}\\
+1.  $\mathrm{KCl}$
     1.  This is a type I compound
 
 ### Type II Compounds
@@ -41,21 +41,21 @@ Name the Cation first and then the Anion. A simple cation takes its name from th
 
 A simple Anion is named by taking the first part of the element name (the root) and adding “-ide” to the end.
 
-Therefore \\\mathrm{Cl}^-\\ is Chloride.
+Therefore $\mathrm{Cl}^-$ is Chloride.
 
 1.  Compounds formed from metals and nonmetals are ionic.
 2.  In an ionic compound the cation is always named first.
 3.  The net charge on the ionic compound is always zero.
 
-Ex: \\\mathrm{LiBr}\\ is Lithium bromide
+Ex: $\mathrm{LiBr}$ is Lithium bromide
 
-\\\mathrm{SrCl_2}\\ is Strontium chloride
+$\mathrm{SrCl_2}$ is Strontium chloride
 
-\\\mathrm{Rb_2Se}\\ Rubidium selenide
+$\mathrm{Rb_2Se}$ Rubidium selenide
 
-\\\mathrm{CaO}\\ Calcium oxide
+$\mathrm{CaO}$ Calcium oxide
 
-\\\mathrm{AlF_3}\\ is Aluminum fluoride
+$\mathrm{AlF_3}$ is Aluminum fluoride
 
 ### Rules for Naming Type II Ionic Compounds
 
@@ -63,11 +63,11 @@ Ex: \\\mathrm{LiBr}\\ is Lithium bromide
 
 Common Cations in Type II Ionic Compounds
 
-Many metal atoms can form two or more cations. We use the Roman numeral to specify the charge on the cation. When dealing with transition metals in an ionic compound use the naming convention for example \\\mathrm{Fe}^{3+}\\ just say iron(III). The roman numeral specifies the charge on the element in the ion.
+Many metal atoms can form two or more cations. We use the Roman numeral to specify the charge on the cation. When dealing with transition metals in an ionic compound use the naming convention for example $\mathrm{Fe}^{3+}$ just say iron(III). The roman numeral specifies the charge on the element in the ion.
 
 1.  The cation is always named first and the anion second.
 2.  Because the cation can assume more than one charge, the charge is specified by a Roman numeral in parenthesis.
 
 This is easy as ionic compounds are balanced (with regards to charge) so we can derive the charge on the transition metal.
 
-Ex: \\\mathrm{CuF}\\ would have \\\mathrm{Cu}^+\\ and \\\mathrm{F}^-\\. So we know we have copper(I) fluoride. Whereas with \\\mathrm{CuF_2}\\ gives us \\\mathrm{Cu}^{2+}\\ therefore, we have copper(II) fluoride.
+Ex: $\mathrm{CuF}$ would have $\mathrm{Cu}^+$ and $\mathrm{F}^-$. So we know we have copper(I) fluoride. Whereas with $\mathrm{CuF_2}$ gives us $\mathrm{Cu}^{2+}$ therefore, we have copper(II) fluoride.

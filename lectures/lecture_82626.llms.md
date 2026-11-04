@@ -59,34 +59,34 @@ A theory can be an interpretation, which is a possible explanation of why nature
 
 Ergo
 
-\\ 93,000,000 = 9.3 \* 10,000,000 = 9.3 \* 10^7 \\
+$$93,000,000 = 9.3 * 10,000,000 = 9.3 * 10^7$$
 
 93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many decimal places were moved to provide our 9.3 base.
 
 A positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.
 
-Ergo \\0.0072\\ can be represented as \\7.2\*10^-3\\
+Ergo $0.0072$ can be represented as $7.2*10^-3$
 
 ## Examples Problems
 
 Write the following numbers in scientific notation:
 
-1.  0.00000756 = \\7.56\*10^-5\\
-2.  13500 = \\1.35\*10^4\\
-3.  56000000 = \\5.6\*10^7\\
-4.  0.0089 = \\8.9\*10^2\\
+1.  0.00000756 = $7.56*10^-5$
+2.  13500 = $1.35*10^4$
+3.  56000000 = $5.6*10^7$
+4.  0.0089 = $8.9*10^2$
 
 Convert the following numbers into the standard notation:
 
-\\9.1\*10^3\\
+$9.1*10^3$
 
-This can be simplified to \\9.1 \* 1000 = 9100\\
+This can be simplified to $9.1 * 1000 = 9100$
 
-Ergo \\9.1\*10^3=9100\\
+Ergo $9.1*10^3=9100$
 
-\\3.56\*10^-4 = 0.000356\\
+$3.56*10^-4 = 0.000356$
 
-\\1.10\*10^5 = 110,000\\
+$1.10*10^5 = 110,000$
 
 So all that being said the exponent over 10 can be used to represent how many places the decimal point should move left (negative) or right (positive).
 
@@ -103,29 +103,29 @@ SI Units
 
 Some fundamental SI units {.caption-top .table}
 
-| Prefix | Symbol  | Meaning     | Power of 10 for Scientific Notation |
-|--------|---------|-------------|-------------------------------------|
-| mega   | M       | 1,000,000   | \\10^6\\                            |
-| kilo   | K       | 1,000       | \\10^3\\                            |
-| deci   | d       | 0.1         | \\10^{-1}\\                         |
-| centi  | c       | 0.01        | \\10^{-2}\\                         |
-| milli  | m       | 0.001       | \\10^{-3}\\                         |
-| micro  | \\\mu\\ | 0.000001    | \\10^{-6}\\                         |
-| nano   | n       | 0.000000001 | \\10^{-9}\\                         |
+| Prefix | Symbol | Meaning     | Power of 10 for Scientific Notation |
+|--------|--------|-------------|-------------------------------------|
+| mega   | M      | 1,000,000   | $10^6$                              |
+| kilo   | K      | 1,000       | $10^3$                              |
+| deci   | d      | 0.1         | $10^{-1}$                           |
+| centi  | c      | 0.01        | $10^{-2}$                           |
+| milli  | m      | 0.001       | $10^{-3}$                           |
+| micro  | $\mu$  | 0.000001    | $10^{-6}$                           |
+| nano   | n      | 0.000000001 | $10^{-9}$                           |
 
 Common Used Prefixes in the Metric System {.caption-top .table}
 
 ### SI Units of Length
 
-| Unit       | Symbol   | Meter Equivalent            |
-|------------|----------|-----------------------------|
-| kilometer  | km       | 1000m or \\10^3\\ m         |
-| meter      | m        | 1m                          |
-| decimeter  | dm       | 0.1m or \\10^{-1}\\ m       |
-| centimeter | cm       | 0.01m or \\10^{-2}\\ m      |
-| millimeter | mm       | 0.001m or \\10^{-3}\\ m     |
-| micrometer | \\\mu\\m | 0.000001m or \\10^{-6}\\m   |
-| nanometer  | nm       | 0.000000001 or \\10^{-9}\\m |
+| Unit       | Symbol | Meter Equivalent          |
+|------------|--------|---------------------------|
+| kilometer  | km     | 1000m or $10^3$ m         |
+| meter      | m      | 1m                        |
+| decimeter  | dm     | 0.1m or $10^{-1}$ m       |
+| centimeter | cm     | 0.01m or $10^{-2}$ m      |
+| millimeter | mm     | 0.001m or $10^{-3}$ m     |
+| micrometer | $\mu$m | 0.000001m or $10^{-6}$m   |
+| nanometer  | nm     | 0.000000001 or $10^{-9}$m |
 
 The Metric System for Measuring Length {.caption-top .table}
 
@@ -133,7 +133,7 @@ The Metric System for Measuring Length {.caption-top .table}
 
 Volume is the amount of three dimensonal space occupied by a substance.
 
-\\1 cm^2 = 1 mL\\
+$1 cm^2 = 1 mL$
 
 ### SI Units of Mass
 

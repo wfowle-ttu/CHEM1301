@@ -26,6 +26,6 @@ Gaining of electrons is reduction (GER)
 
 A Redox reaction is a reduction-oxidization reaction.
 
-\\ \mathrm{2Al + N_2 \rightarrow 2AlN} \\
+$$\mathrm{2Al + N_2 \rightarrow 2AlN}$$
 
 Ergo based on the ions these form you can find where electrons have been gained/transferred and figure out who is being oxidized and who is being reduced.

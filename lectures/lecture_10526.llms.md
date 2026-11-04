@@ -36,7 +36,7 @@ If something in our mixture is insoluble it will be visible at the bottom of the
 
 Complete Ionic Equation:
 
-\\ \mathrm{ 2K^+ \mathit{(aq)} + CrO_4^{2-} \mathit{(aq)}+ Ba^{2+} \mathit{(aq)} + 2NO_3^- \mathit{(aq)} \rightarrow BaCrO_4 (s) + 2K^+ (aq)+ 2NO_3^- (aq)} \\
+$$\mathrm{ 2K^+ \mathit{(aq)} + CrO_4^{2-} \mathit{(aq)}+ Ba^{2+} \mathit{(aq)} + 2NO_3^- \mathit{(aq)} \rightarrow BaCrO_4 (s) + 2K^+ (aq)+ 2NO_3^-  (aq)}$$
 
 ## Net Ionic Equations
 

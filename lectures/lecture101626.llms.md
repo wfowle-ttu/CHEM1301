@@ -10,25 +10,25 @@ To find the mass of 1 mole of methane, you can sum the masses of carbon and hydr
 
 Mass of 1 mol C = 12.01g Mass of 4 mol H = 4\*1.008g = 4.032g
 
-\\12.01+4.032 = 16.04\\g
+$12.01+4.032 = 16.04$g
 
-The quantity \\16.04\\ g is called the molar mass for methane. The mass of 1 mole of \\\mathrm{CH_4}\\ molecules.
+The quantity $16.04$ g is called the molar mass for methane. The mass of 1 mole of $\mathrm{CH_4}$ molecules.
 
 The molar mass of any substance is the mass (in grams) of 1 mol of it.
 
-For example the molar mass of \\\mathrm{NH_3}\\ (ammonia):
+For example the molar mass of $\mathrm{NH_3}$ (ammonia):
 
 1 mol N = 14.01 \* 1 = 14.01g 1 mol H = 1.01g \* 3 = 3.03g
 
-\\14.01+3.03 = 17.04\\ g (g/mol) = molar mass of \\\mathrm{NH_3}\\
+$14.01+3.03 = 17.04$ g (g/mol) = molar mass of $\mathrm{NH_3}$
 
-Or for \\\mathrm{H_2SO_4}\\
+Or for $\mathrm{H_2SO_4}$
 
 H = 1.01 \* 2 = 2.02g S = 32.06 \* 1 = 32.06g O = 16.00 \* 4 = 64.00g
 
-\\2.02+32.06+64.00 = 98.08\\ g/mol
+$2.02+32.06+64.00 = 98.08$ g/mol
 
-\\\mathrm{Ba(OH)\_2}\\
+$\mathrm{Ba(OH)_2}$
 
 Ba = 137.33 \* 1 = 137.33 O = 16.00 *2 = 32.00 H = 1.01* 2 = 2.02
 
@@ -36,17 +36,17 @@ Ba = 137.33 \* 1 = 137.33 O = 16.00 *2 = 32.00 H = 1.01* 2 = 2.02
 
 This can also help figure out some other things.
 
-Given a sample of \\\mathrm{NaOH}\\ contains 7.89 moles, what is the mass in grams of the sample.
+Given a sample of $\mathrm{NaOH}$ contains 7.89 moles, what is the mass in grams of the sample.
 
-1 mol of \\\mathrm{NaOH}\\ = 40 g/mol
+1 mol of $\mathrm{NaOH}$ = 40 g/mol
 
-7.89 \* 40 = 316g of \\\mathrm{NaOH}\\
+7.89 \* 40 = 316g of $\mathrm{NaOH}$
 
-Or given a sample of \\\mathrm{Fe_2O_3}\\ weighs 982 g how many moles does the sample contain?
+Or given a sample of $\mathrm{Fe_2O_3}$ weighs 982 g how many moles does the sample contain?
 
-Mass of \\\mathrm{Fe}\\ = 55.82 \* 2 = 111.64 g Mass of \\\mathrm{O}\\ = 16.00 \* 3 = 48.00 g
+Mass of $\mathrm{Fe}$ = 55.82 \* 2 = 111.64 g Mass of $\mathrm{O}$ = 16.00 \* 3 = 48.00 g
 
-982/(111.64+48.00)= 56.8 mols of \\\mathrm{Fe_2O_3}\\
+982/(111.64+48.00)= 56.8 mols of $\mathrm{Fe_2O_3}$
 
 Ca = 40.08 g \* 1 = 40.1 Cl = 35.45 \* 2 = 70.9
 
@@ -60,4 +60,4 @@ You know that for each mol = 6.022\*10^23 units of (CaCl_2)
 
 For each unit of CaCl_2 there are 3 total atoms.
 
-\\(8.50\*10^{-5}\*6.022\*10^{23})\*3 = 1.54\*10^{20}\\
+$(8.50*10^{-5}*6.022*10^{23})*3 = 1.54*10^{20}$

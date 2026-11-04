@@ -51,7 +51,7 @@ Example of Cations
 
 These form when an atom loses one or more electrons.
 
-Cations retain the same name as the parent atom. Ergo \\\mathrm{Na}\\ and \\\mathrm{Na}^+\\ are both still called Sodium
+Cations retain the same name as the parent atom. Ergo $\mathrm{Na}$ and $\mathrm{Na}^+$ are both still called Sodium
 
 From the group on the periodic table you can determine how much an atom is willing to gain or lose electron and how many.
 
@@ -67,7 +67,7 @@ An Anion is formed when the given element gains electrons creating a numeric imb
 
 The name of an anion does change it gains *-ide* to the end of it.
 
-Ergo Chlorine \\\mathrm{Cl}\\ in it’s anion form: \\\mathrm{Cl}^-\\ forms **chloride**.
+Ergo Chlorine $\mathrm{Cl}$ in it’s anion form: $\mathrm{Cl}^-$ forms **chloride**.
 
 ![](IonChargesInPeriodicTable.png)
 
@@ -75,13 +75,13 @@ Ion charges and the Periodic Table
 
 Noble Gases do not form anions or cations. Noble gases form group 8 (far right of the periodic table).
 
-Iron ionizes and loses two electrons to form the cation of Iron \\\mathrm{Fe}^{2+}\\
+Iron ionizes and loses two electrons to form the cation of Iron $\mathrm{Fe}^{2+}$
 
 ## Ions in Compounds
 
-- Sodium Chloride \\\mathrm{NaCl}\\ contains \\\mathrm{Na}^+\\ ions and \\{Cl}^-\\ ions packed together.
+- Sodium Chloride $\mathrm{NaCl}$ contains $\mathrm{Na}^+$ ions and ${Cl}^-$ ions packed together.
 
-Because the positive and negative charges attrack eachother very strongly \\\mathrm{NaCl}\\ must be heated to a very high temperature (\\800^\circ C\\) before it melts.
+Because the positive and negative charges attrack eachother very strongly $\mathrm{NaCl}$ must be heated to a very high temperature ($800^\circ C$) before it melts.
 
 ## Ionic Compounds
 

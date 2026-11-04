@@ -26,9 +26,9 @@ The numbers recorded in a measurement (all of the certain figures and uncertain 
 
 4.  Scientific Notation Clarifies Sig Figs
 
-- \\1\*10^2 = 100\\ but clarifies in Scientific notation that only one sig fig.
-- \\1.0\*10^=100\\ has two sig figs.
-- \\62,000\\ only has two sig figs but \\62,000.\\ (with the decimal point) represents a calculation that specifies all digits as significant.
+- $1*10^2 = 100$ but clarifies in Scientific notation that only one sig fig.
+- $1.0*10^=100$ has two sig figs.
+- $62,000$ only has two sig figs but $62,000.$ (with the decimal point) represents a calculation that specifies all digits as significant.
 
 5.  Exact numbers
     - Found when you count physically like there are 5 apples.
@@ -41,7 +41,9 @@ The numbers recorded in a measurement (all of the certain figures and uncertain 
 
 **Examples**
 
-\\ 4.0 + 18.004-0.915 \newline \\ The smallest sig fig comes from 4.0 so our solutions should only have two sig figs. \\ 4.0 + 18.004-0.915=22.919 \newline \textsf{rounding to two sig figs} \newline 22.9 \\
+$$4.0 + 18.004-0.915 \newline$$ The smallest sig fig comes from 4.0 so our solutions should only have two sig figs. $$4.0 + 18.004-0.915=22.919 \newline
+\textsf{rounding to two sig figs} \newline
+22.9$$
 
 ## Conversion Factors
 
@@ -51,22 +53,23 @@ To change one unit to another we use a conversion factor.
 
 **Example**: Convert 2.85cm to inches
 
-\\ 2.85 cm \* \frac{1 in}{2.54} = \frac{2.85in}{2.54} = 1.12in \\
+$$2.85 cm * \frac{1 in}{2.54} = \frac{2.85in}{2.54} = 1.12in$$
 
 - We choose a conversion factor that cancels the units we want to discard and leaves the units we want in the result.
 
 Convert 3.41 L to mL
 
-\\ 3.41L \* \frac{10000mL}{1L} \newline \newline \frac{3.41\*1000}{1}=3410mL \\
+$$3.41L * \frac{10000mL}{1L} \newline \newline
+\frac{3.41*1000}{1}=3410mL$$
 
 8522 cm to km
 
-\\ 8522 cm \* \frac{1m}{100cm} \* \frac{1km}{1000} = 0.08522 km \\
+$$8522 cm * \frac{1m}{100cm} * \frac{1km}{1000} = 0.08522 km$$
 
 Convert to meters first and convert the meters conversion to kilometers. You could also just take the true difference between kilometers and centimeter directly and skip the meter conversion.
 
-\\ 9.30\*10^3 km \* \frac{1000}{1} = 9.3\*10^6 meters \\
+$$9.30*10^3 km * \frac{1000}{1} = 9.3*10^6 meters$$
 
 0.015 g to mg
 
-\\ 0.015g \* \frac{1}{1\*10^-2} = 15mg \\
+$$0.015g * \frac{1}{1*10^-2} = 15mg$$

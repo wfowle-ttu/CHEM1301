@@ -21,9 +21,9 @@
 
 - Chemists have a set of abbreviations or element symbols for the chemical elements:
 
-For example Hydrogen is represented by the symbol \\\mathrm{H}\\
+For example Hydrogen is represented by the symbol $\mathrm{H}$
 
-- Some names came from weird stuff so like iron came from some ferron or something like that so it has the symbol \\\mathrm{Fe}\\
+- Some names came from weird stuff so like iron came from some ferron or something like that so it has the symbol $\mathrm{Fe}$
 
 ## Natural Materials
 
@@ -62,13 +62,13 @@ The Atomic Number of an element refers to the number of protons in it’s nucleu
 
 E.g.
 
-\\ \mathrm{NO} \\
+$$\mathrm{NO}$$
 
 a chemical formula with one Nitrogen atom and one Oxygen atom.
 
 Or For water:
 
-\\ \mathrm{H_2O} \\
+$$\mathrm{H_2O}$$
 
 Indicates two hydrogen atoms and one oxygen atom.
 
@@ -78,7 +78,7 @@ Is what we derived the nucleus from. Basically stuff bounced backwards which sug
 
 ## The Nuclear Model
 
-- The \\\alpha{}\\ particles passed directly throught the foil because the atom is mostly empty space.
+- The $\alpha{}$ particles passed directly throught the foil because the atom is mostly empty space.
 - The deflected particles came into contact with the center of the atom (the nucleus)
 
 ## Protons and Neutrons
@@ -97,13 +97,15 @@ Is what we derived the nucleus from. Basically stuff bounced backwards which sug
 
 Where, 1. is A and 2. is B
 
-\\ A + Z = \space \text{The Atomic Mass Number} \\
+$$A + Z = \space \text{The Atomic Mass Number}$$
 
 ![](IsotopeNotation.png)
 
 Isotope Notation
 
-\\ \newline \newline \newline \\
+$$\newline
+\newline
+\newline$$
 
 ![](AdditionalIsotopeNotation.png)
 

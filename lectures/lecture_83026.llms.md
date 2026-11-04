@@ -16,23 +16,23 @@
 
 A lot of these temperatures are based on when water boils and when it freezes.
 
-Celsius - \\0^\circ\\ for example at \\0^\circ\\ is when water freezes.
+Celsius - $0^\circ$ for example at $0^\circ$ is when water freezes.
 
 Kelvin helps relate temperature to the amount of energy (or average energy in a system).
 
 ## Converting Between Scales
 
-\\T\_{\circ{C}} + 273 = T\_\mathbf{K}\\
+$T_{\circ{C}} + 273 = T_\mathbf{K}$
 
 # Density
 
-\\ \text{Density} = \frac{\text{mass}}{\text{volume}} \\
+$$\text{Density} = \frac{\text{mass}}{\text{volume}}$$
 
-Typically measured in \\g/mL\\
+Typically measured in $g/mL$
 
 Anything more dense than water sinks in water, anything lese dense than water floats in water.
 
-Specific Gravity is the ratio of a the density of a given liquid to the desnity of water at 4 \\\circ{}\_C\\
+Specific Gravity is the ratio of a the density of a given liquid to the desnity of water at 4 $\circ{}_C$
 
 Density can be used to identify substances.
 

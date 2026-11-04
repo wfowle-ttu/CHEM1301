@@ -23,7 +23,7 @@ E.g. removing lead from drinking water.
 
 - In virtually every case when a solid containing ions dissolves in water, the ions separate and move independently.
 
-  - E.g. \\\mathrm{Ba(NO_3)\_2} \mathit{(aq)}\\ doesn’t contain \\\mathrm{Ba(NO_3)\_2}\\ units, instead it contains seperate \\\mathrm{Ba^{2+}}\\ and \\\mathrm{NO_3^-}\\ ions.
+  - E.g. $\mathrm{Ba(NO_3)_2} \mathit{(aq)}$ doesn’t contain $\mathrm{Ba(NO_3)_2}$ units, instead it contains seperate $\mathrm{Ba^{2+}}$ and $\mathrm{NO_3^-}$ ions.
 
 ## Strong Electrolytes
 
@@ -60,11 +60,11 @@ Slightly soluble and insoluble mean practically the same thing.
 
 ### Solubility Examples
 
-\\\mathrm{NaOH}\\: Sodium Hydroxide is soluble. Meaning it will disolve in water.
+$\mathrm{NaOH}$: Sodium Hydroxide is soluble. Meaning it will disolve in water.
 
-\\\mathrm{BaSO_4}\\ Does not have a rule so it is therefore insoluble. If paired
+$\mathrm{BaSO_4}$ Does not have a rule so it is therefore insoluble. If paired
 
-\\\mathrm{CaCO_3}\\
+$\mathrm{CaCO_3}$
 
 To identify look at the two ions in the compound. Figure out if they dissolve, if they do it’s soluble, if not it’s insoluble. If they are
 
