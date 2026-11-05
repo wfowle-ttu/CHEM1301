@@ -52,7 +52,7 @@ As n increases the orbital becomes larger and the electron therefore is present 
 
 Electrons will fill the principal levels of the electrons by first filling each orbital alone, once each orbital has at least one electron a second electron can then fill that level.
 
-## Valence Electrons 
+## Valence Electrons
 
 These are electrons in the outermost shell (highest principal energy level) of an atom.
 
@@ -62,12 +62,16 @@ The inner electrons which are known as core electrons are not involved in bondin
 
 Atomic elements int he same group have the same number of electrons in a given type of orbital.
 
-Elements with the same valence electron arrangement show similar chemical behavior. 
+Elements with the same valence electron arrangement show similar chemical behavior.
 
----
+------------------------------------------------------------------------
 
 ![Using the periodic table to reveal the valence shell config of elements](PeriodicTableValenceConfiguration.png)
 
 And some elements only have a partial configuration
 
 ![Partial electron configurations](PartialElectronConfig.png)
+
+Chromium and Copper have a special exception in their valence shell configuration. In terms of energy levels the 3rd level d shell has more energy than 4p and a greater energy level than the 4s. Electrons therefore tend to pair in 3d before they pair in 4s.
+
+---
