@@ -216,267 +216,277 @@
     ]
   },
   {
-    "objectID": "lectures/lecture_91626.html",
-    "href": "lectures/lecture_91626.html",
-    "title": "Lecture 9-16-2026",
+    "objectID": "lectures/lecture_11426.html",
+    "href": "lectures/lecture_11426.html",
+    "title": "Lecture 11-4-2026",
     "section": "",
-    "text": "Binary compounds are compounds composed of two elements\nYou can divide binary compounds into two broad classes\n\nCompounds that contain a metal and a nonmetal\nCompounds that contain two nonmetal\n\n\n\n\nWhen a metal combines with a non-metal the resulting compound contains ions.\nThe metal will lose an electron and form a cation. The nonmetal gains the electron and becomes an anion.\nThe naming convention is anion first then cation.\n\n\n\n\nCertain metal atoms only from one cation.\n\nFor example, \\(\\mathrm{Na}\\) only form \\(\\mathrm{Na}^+\\), likewise \\(\\mathrm{Cs}\\) only forms \\(\\mathrm{Cs}2+\\)\n\n\nNaming Type I Compounds:\n\n\\(\\mathrm{KCl}\\)\n\nThis is a type I compound\n\n\n\n\n\nThese metal atoms can form two or more cations, these are also Type II Binary Compounds. These are typically transition metals.\n\n\n\nName the Cation first and then the Anion. A simple cation takes its name from the name of the element.\nA simple Anion is named by taking the first part of the element name (the root) and adding “-ide” to the end.\nTherefore \\(\\mathrm{Cl}^-\\) is Chloride.\n\nCompounds formed from metals and nonmetals are ionic.\nIn an ionic compound the cation is always named first.\nThe net charge on the ionic compound is always zero.\n\nEx: \\(\\mathrm{LiBr}\\) is Lithium bromide\n\\(\\mathrm{SrCl_2}\\) is Strontium chloride\n\\(\\mathrm{Rb_2Se}\\) Rubidium selenide\n\\(\\mathrm{CaO}\\) Calcium oxide\n\\(\\mathrm{AlF_3}\\) is Aluminum fluoride\n\n\n\n\n\n\nCommon Cations in Type II Ionic Compounds\n\n\nMany metal atoms can form two or more cations. We use the Roman numeral to specify the charge on the cation. When dealing with transition metals in an ionic compound use the naming convention for example \\(\\mathrm{Fe}^{3+}\\) just say iron(III). The roman numeral specifies the charge on the element in the ion.\n\nThe cation is always named first and the anion second.\nBecause the cation can assume more than one charge, the charge is specified by a Roman numeral in parenthesis.\n\nThis is easy as ionic compounds are balanced (with regards to charge) so we can derive the charge on the transition metal.\nEx: \\(\\mathrm{CuF}\\) would have \\(\\mathrm{Cu}^+\\) and \\(\\mathrm{F}^-\\). So we know we have copper(I) fluoride. Whereas with \\(\\mathrm{CuF_2}\\) gives us \\(\\mathrm{Cu}^{2+}\\) therefore, we have copper(II) fluoride.",
+    "text": "Levels and Sublevels Example\n\n\nBohr’s model works well for the hydrogen atom because electrons only tend to move through principal levels.\nEach principal level introduces a new set of orbitals.\nAn orbital is a shape in which an electron can be found not necessarily the path an electron takes around an atom.\nSubelevels are called orbital types.\nEach orbital holds a max of two electrons.\n\n\n\nOrbital Shell Example\n\n\nThe hourglass shape represents the probability cloud, or the likely area where an electron is going to be found.\n\n\n\nOrbital Shapes\n\n\n\n\n\nConsider electrons spinning as a top spins on its axis.\nLike the top, an electron can only spin either clockwise or counterclockwise. In order for two electrons to occupy the same shell they must spin in opposite directions.\nThis is what the Pauli exclusion principal defines: An atomic orbital can hold a max of two electrons, and those two electrons must have opposite spins.\nThe opposite spins create an attractive force between the two electrons.\n\n\n\nAtoms have a series of energy levels called principal energy levels. These are whole numbers symbolized by n, n can equal 1,2,3,4, Level one corresponds to n=1 and so on.\n\n\n\nOrbital Presence at Specificed Principal Levels\n\n\nBased on the principal level of the atom, that determines what orbitals are present.\n\n\n\nThe most attractive orbital to an electron in any atom is always the 1s because this orbital is the closest to the positively charged nucleus.\nAs n increases the orbital becomes larger and the electron therefore is present in space further from the nucleus creating a less attractive force between the positively charged nucleus and the negatively charged electron.\n\n\n\nElectron Configuration\n\n\nElectrons will fill the principal levels of the electrons by first filling each orbital alone, once each orbital has at least one electron a second electron can then fill that level.\n\n\n\nThese are electrons in the outermost shell (highest principal energy level) of an atom.\nThe inner electrons which are known as core electrons are not involved in bonding atoms to each other.\n\n\n\nValence Electrons\n\n\nAtomic elements int he same group have the same number of electrons in a given type of orbital.\nElements with the same valence electron arrangement show similar chemical behavior.\n\n\n\n\nUsing the periodic table to reveal the valence shell config of elements\n\n\nAnd some elements only have a partial configuration\n\n\n\nPartial electron configurations\n\n\nChromium and Copper have a special exception in their valence shell configuration. In terms of energy levels the 3rd level d shell has more energy than 4p and a greater energy level than the 4s. Electrons therefore tend to pair in 3d before they pair in 4s.",
     "crumbs": [
       "Lectures",
-      "Lecture 9-16-2026"
+      "Lecture 11-4-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_91626.html#binary-compounds",
-    "href": "lectures/lecture_91626.html#binary-compounds",
-    "title": "Lecture 9-16-2026",
+    "objectID": "lectures/lecture_11426.html#levels-and-sublevels",
+    "href": "lectures/lecture_11426.html#levels-and-sublevels",
+    "title": "Lecture 11-4-2026",
     "section": "",
-    "text": "Binary compounds are compounds composed of two elements\nYou can divide binary compounds into two broad classes\n\nCompounds that contain a metal and a nonmetal\nCompounds that contain two nonmetal\n\n\n\n\nWhen a metal combines with a non-metal the resulting compound contains ions.\nThe metal will lose an electron and form a cation. The nonmetal gains the electron and becomes an anion.\nThe naming convention is anion first then cation.\n\n\n\n\nCertain metal atoms only from one cation.\n\nFor example, \\(\\mathrm{Na}\\) only form \\(\\mathrm{Na}^+\\), likewise \\(\\mathrm{Cs}\\) only forms \\(\\mathrm{Cs}2+\\)\n\n\nNaming Type I Compounds:\n\n\\(\\mathrm{KCl}\\)\n\nThis is a type I compound\n\n\n\n\n\nThese metal atoms can form two or more cations, these are also Type II Binary Compounds. These are typically transition metals.\n\n\n\nName the Cation first and then the Anion. A simple cation takes its name from the name of the element.\nA simple Anion is named by taking the first part of the element name (the root) and adding “-ide” to the end.\nTherefore \\(\\mathrm{Cl}^-\\) is Chloride.\n\nCompounds formed from metals and nonmetals are ionic.\nIn an ionic compound the cation is always named first.\nThe net charge on the ionic compound is always zero.\n\nEx: \\(\\mathrm{LiBr}\\) is Lithium bromide\n\\(\\mathrm{SrCl_2}\\) is Strontium chloride\n\\(\\mathrm{Rb_2Se}\\) Rubidium selenide\n\\(\\mathrm{CaO}\\) Calcium oxide\n\\(\\mathrm{AlF_3}\\) is Aluminum fluoride\n\n\n\n\n\n\nCommon Cations in Type II Ionic Compounds\n\n\nMany metal atoms can form two or more cations. We use the Roman numeral to specify the charge on the cation. When dealing with transition metals in an ionic compound use the naming convention for example \\(\\mathrm{Fe}^{3+}\\) just say iron(III). The roman numeral specifies the charge on the element in the ion.\n\nThe cation is always named first and the anion second.\nBecause the cation can assume more than one charge, the charge is specified by a Roman numeral in parenthesis.\n\nThis is easy as ionic compounds are balanced (with regards to charge) so we can derive the charge on the transition metal.\nEx: \\(\\mathrm{CuF}\\) would have \\(\\mathrm{Cu}^+\\) and \\(\\mathrm{F}^-\\). So we know we have copper(I) fluoride. Whereas with \\(\\mathrm{CuF_2}\\) gives us \\(\\mathrm{Cu}^{2+}\\) therefore, we have copper(II) fluoride.",
+    "text": "Levels and Sublevels Example\n\n\nBohr’s model works well for the hydrogen atom because electrons only tend to move through principal levels.\nEach principal level introduces a new set of orbitals.\nAn orbital is a shape in which an electron can be found not necessarily the path an electron takes around an atom.\nSubelevels are called orbital types.\nEach orbital holds a max of two electrons.\n\n\n\nOrbital Shell Example\n\n\nThe hourglass shape represents the probability cloud, or the likely area where an electron is going to be found.\n\n\n\nOrbital Shapes",
     "crumbs": [
       "Lectures",
-      "Lecture 9-16-2026"
+      "Lecture 11-4-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html",
-    "href": "lectures/lecture_101226.html",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_11426.html#spin",
+    "href": "lectures/lecture_11426.html#spin",
+    "title": "Lecture 11-4-2026",
     "section": "",
-    "text": "THe formation of a solid when two solutions are mixed. The solid that forms is called the Precipitate. You can determine what forms based on the solubility rules table:\n\n\n\nSolubility Rules\n\n\n\n\n\n\\[\n\\mathrm{K_2CrO_4 (aq) + Ba(NO_3)_2 (aq) \\rightarrow BaCrO_4 (s) + 2 KNO_3 (aq)}\n\\]\nIn the above reaction the two anions are exchanged. The products have inverse associates compared to the reactant side.\nThis occurs in acid-base reactions and precipitation reactions. It does not occur in electron exchange (redox) reactions.\n\n\n\nWhen a reaction involving a base and an acid occurs the formation of water and some other element is produced. Hydroxide and the extra hydrogen ion combine to create water.\n\n\n\n\\[\n\\mathrm{2Li(s) + F_2 (g) \\rightarrow 2LiF(s)}\n\\]\nIn this reaction each lithium atom loses one electron to form \\(\\mathrm{Li^+}\\) and each Fluorine gains the electron to form \\(\\mathrm{F^-}\\) ion.\nFor example:\n\\[\n\\mathrm{Fe (s) + CuCl_2 (aq) \\rightarrow Cu (s) + FeCl_2 (aq)}\n\\]\nThe iron reacts with the copper (II) chloride, as a result for copper (II) to remain stable as a solid it must gain two electrons to form a balanced Cu, otherwise it remains an ion at \\(\\mathrm{Cu^{2+}}\\)\nChlorine has two atoms in either Iron (II) chloride or copper (II) chloride. As a result, each Chlorine atom will gain one electron, and Iron will lose two electrons.\n\n\n\nA type of acid-base reaction in which a gas is formed in the products.\n\\[\n\\mathrm {2HCl (aq) + Na_2CO_3 (aq) \\rightarrow CO_2 (g) + H_2O (l) + NaCl(aq)}\n\\]\nThe reaction forms carbon dioxide out of it’s products as well as water.\n\n\n\n\\[\n\\mathrm{Zn (s) + 2 HCl(aq) \\rightarrow H_2 (g) + ZnCl_2 (aq)}\n\\]\nThis reaction is a type of oxidization-reduction reaction (redox). This reaction is also a single replacement reaction since a single type of anion was exchanged between \\(\\mathrm{H^+}\\) and \\(\\mathrm{CL^-}\\)\n\n\n\nMAny chemical reactions that involve oxygen produce energy (heat) so rapidly that a flame results.\nSuch reaction are called combustion reactions:\n\\[\n\\mathrm{CH_4 (g) + 2O_2 (g) \\rightarrow CO_2 (g) + 2 H_2O (g)}\n\\]\nTechincally also a redox reaction.\n\n\n\nWhen a given compound is formed via simpler materials, this is called a sythesis or combination reaction:\n\\[\n\\mathrm{2Na(s) + Cl_2 (g) \\rightarrow 2NaCl(s)}\n\\]\n\n\n\nIn many cases a compound can be broken down into simpler compounds or all the way to the component elements.\nThis is usually accomplished by heating or by application of an electric current\n\\[\n2H_2O (l) \\rightarrow 2H_2 + O_2\n\\]\n\n\n\nClasses of Reactions",
+    "text": "Consider electrons spinning as a top spins on its axis.\nLike the top, an electron can only spin either clockwise or counterclockwise. In order for two electrons to occupy the same shell they must spin in opposite directions.\nThis is what the Pauli exclusion principal defines: An atomic orbital can hold a max of two electrons, and those two electrons must have opposite spins.\nThe opposite spins create an attractive force between the two electrons.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 11-4-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#precipitation-reaction",
-    "href": "lectures/lecture_101226.html#precipitation-reaction",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_11426.html#principal-components-of-the-wave-mechanical-model-of-the-atom",
+    "href": "lectures/lecture_11426.html#principal-components-of-the-wave-mechanical-model-of-the-atom",
+    "title": "Lecture 11-4-2026",
     "section": "",
-    "text": "THe formation of a solid when two solutions are mixed. The solid that forms is called the Precipitate. You can determine what forms based on the solubility rules table:\n\n\n\nSolubility Rules",
+    "text": "Atoms have a series of energy levels called principal energy levels. These are whole numbers symbolized by n, n can equal 1,2,3,4, Level one corresponds to n=1 and so on.\n\n\n\nOrbital Presence at Specificed Principal Levels\n\n\nBased on the principal level of the atom, that determines what orbitals are present.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 11-4-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#double-displacement-reaction",
-    "href": "lectures/lecture_101226.html#double-displacement-reaction",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_11426.html#electron-arrangement",
+    "href": "lectures/lecture_11426.html#electron-arrangement",
+    "title": "Lecture 11-4-2026",
     "section": "",
-    "text": "\\[\n\\mathrm{K_2CrO_4 (aq) + Ba(NO_3)_2 (aq) \\rightarrow BaCrO_4 (s) + 2 KNO_3 (aq)}\n\\]\nIn the above reaction the two anions are exchanged. The products have inverse associates compared to the reactant side.\nThis occurs in acid-base reactions and precipitation reactions. It does not occur in electron exchange (redox) reactions.",
+    "text": "The most attractive orbital to an electron in any atom is always the 1s because this orbital is the closest to the positively charged nucleus.\nAs n increases the orbital becomes larger and the electron therefore is present in space further from the nucleus creating a less attractive force between the positively charged nucleus and the negatively charged electron.\n\n\n\nElectron Configuration\n\n\nElectrons will fill the principal levels of the electrons by first filling each orbital alone, once each orbital has at least one electron a second electron can then fill that level.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 11-4-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#acid-base-reaction",
-    "href": "lectures/lecture_101226.html#acid-base-reaction",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_11426.html#valence-electrons",
+    "href": "lectures/lecture_11426.html#valence-electrons",
+    "title": "Lecture 11-4-2026",
     "section": "",
-    "text": "When a reaction involving a base and an acid occurs the formation of water and some other element is produced. Hydroxide and the extra hydrogen ion combine to create water.",
+    "text": "These are electrons in the outermost shell (highest principal energy level) of an atom.\nThe inner electrons which are known as core electrons are not involved in bonding atoms to each other.\n\n\n\nValence Electrons\n\n\nAtomic elements int he same group have the same number of electrons in a given type of orbital.\nElements with the same valence electron arrangement show similar chemical behavior.\n\n\n\n\nUsing the periodic table to reveal the valence shell config of elements\n\n\nAnd some elements only have a partial configuration\n\n\n\nPartial electron configurations\n\n\nChromium and Copper have a special exception in their valence shell configuration. In terms of energy levels the 3rd level d shell has more energy than 4p and a greater energy level than the 4s. Electrons therefore tend to pair in 3d before they pair in 4s.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 11-4-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#oxidation-reduction-reaction",
-    "href": "lectures/lecture_101226.html#oxidation-reduction-reaction",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_92126.html",
+    "href": "lectures/lecture_92126.html",
+    "title": "Lecture 9-21-2026",
     "section": "",
-    "text": "\\[\n\\mathrm{2Li(s) + F_2 (g) \\rightarrow 2LiF(s)}\n\\]\nIn this reaction each lithium atom loses one electron to form \\(\\mathrm{Li^+}\\) and each Fluorine gains the electron to form \\(\\mathrm{F^-}\\) ion.\nFor example:\n\\[\n\\mathrm{Fe (s) + CuCl_2 (aq) \\rightarrow Cu (s) + FeCl_2 (aq)}\n\\]\nThe iron reacts with the copper (II) chloride, as a result for copper (II) to remain stable as a solid it must gain two electrons to form a balanced Cu, otherwise it remains an ion at \\(\\mathrm{Cu^{2+}}\\)\nChlorine has two atoms in either Iron (II) chloride or copper (II) chloride. As a result, each Chlorine atom will gain one electron, and Iron will lose two electrons.",
+    "text": "\\(\\mathrm{SO_3^{2-}}\\): Sulfite (The number of oxygen determines the name of the polyatomic ions, the presence of hydrogen just adds to the front of the name in either hydrogen or dihydrogen)\n\\(\\mathrm{CN^-}\\): Cyanide\n\\(\\mathrm{NH_4^+}\\): Ammonium\n\\(\\mathrm{NH_3^+}\\): Ammoniu??? This sucks to spell\n\\(\\mathrm{Ca(OCl)_2}\\) Calcium hypochlorite\n\\(\\mathrm{Ti(SO_4)_2}\\): Titanium (IV) sulfate\n\\(\\mathrm{KH_2PO_4}\\): Potassium dihydrogen phospate\n\\(\\mathrm{K_3P}\\): Potassium phosphide\n\n\n\nFigure containing logic tree for naming polyatomic ions\n\n\n\n\n\nAcids produce \\(\\mathrm{H^+}\\) when dissolved to water.\n\nAlso said to be dontating a proton because \\(\\mathrm{H^+}\\) is literally a proton without an electron.\n\nAcids solutions have a sour taste.\nAn acid can be viewed as a molecule with one or more \\(\\mathrm{H^+}\\) ions attached to an anion.\nThe rules for naming acids depend on whether the anion contains oxygen.\n\n\n\n\nIF the anion doesn’t contain oxygen, the acid named with the prefix hydro and the suffix -ic attached to the root name for the element:\n\ne.g. Hydrochloric acid.\n\nWhen the anion contains oxygen, the acid name is formed from the root name of the central element of the anion or the anion name, with a suffic of -ic or -ous, when the anion name ends in -ate, the suffix -ic is used.\nWhen the anion name ends in -ite the suffix -ous is used in the acid name.\n\n\\(\\mathrm{HClO_4}\\), Anion: perchorate, Name: perchloric acid\n\\(\\mathrm{HClO_3}\\) Anion: Chlorate: Name chloric acid\n\\(\\mathrm{HClO_2}\\) Anion: Chlorite Name: chlorous acid\n\\(\\mathrm{HClO}\\) Anion: hypochlorite Name: hypochlorous acid\n\n\n\nLogic for naming Acids\n\n\n\n\n\nTable of common Acids\n\n\n\\(\\mathrm{HF}\\) Hydro fluoric acid\n\\(\\mathrm{H_2S}\\) hydro sulfuiric acid\n\\(\\mathrm{HI}\\) hydro iodic acid\n\\(\\mathrm{H_2Se}\\) hydro selenic acid\n\\(\\mathrm{HBr}\\) hydro bromic acid\n\n\n\n\nImport to know when balancing equations.\nCl, Br, I are the 3 binary acids.\n\\(\\mathrm{HCl}\\), \\(\\mathrm{HBr}\\), and \\(\\mathrm{HI}\\)\nThen Poly atomic acids\n\\(\\mathrm{H_2SO_4}\\), \\(\\mathrm{HNO_3}\\), \\(\\mathrm{HClO_4}\\), and \\(\\mathrm{HClO_3}\\)\n\n\nNaming Acids Practice:\n\\(\\mathrm{HNO_2}\\): Nitrous Acid\n\\(\\mathrm{H_2SO_3}\\): sufurous acid\n\\(\\mathrm{H_3PO_4}\\): phosphoric acid\n\\(\\mathrm{H_2CO_3}\\): Carbonic acid\n\\(\\mathrm{HC_2H_3O_2}\\): Acetic acid (Vinegar).\n\\(\\mathrm{HCN}\\): Hydrocyanic acid\n\nImportant to learn the name, composition, and charge of each of the common polyatomic anions ( and the \\(\\mathrm{NH_4^+}\\) cation).\nKnowing the charge of all elements presence is important when balancing chemical formulas.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 9-21-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#gas-evolution-reaction",
-    "href": "lectures/lecture_101226.html#gas-evolution-reaction",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_92126.html#acids",
+    "href": "lectures/lecture_92126.html#acids",
+    "title": "Lecture 9-21-2026",
     "section": "",
-    "text": "A type of acid-base reaction in which a gas is formed in the products.\n\\[\n\\mathrm {2HCl (aq) + Na_2CO_3 (aq) \\rightarrow CO_2 (g) + H_2O (l) + NaCl(aq)}\n\\]\nThe reaction forms carbon dioxide out of it’s products as well as water.",
+    "text": "Acids produce \\(\\mathrm{H^+}\\) when dissolved to water.\n\nAlso said to be dontating a proton because \\(\\mathrm{H^+}\\) is literally a proton without an electron.\n\nAcids solutions have a sour taste.\nAn acid can be viewed as a molecule with one or more \\(\\mathrm{H^+}\\) ions attached to an anion.\nThe rules for naming acids depend on whether the anion contains oxygen.\n\n\n\n\nIF the anion doesn’t contain oxygen, the acid named with the prefix hydro and the suffix -ic attached to the root name for the element:\n\ne.g. Hydrochloric acid.\n\nWhen the anion contains oxygen, the acid name is formed from the root name of the central element of the anion or the anion name, with a suffic of -ic or -ous, when the anion name ends in -ate, the suffix -ic is used.\nWhen the anion name ends in -ite the suffix -ous is used in the acid name.\n\n\\(\\mathrm{HClO_4}\\), Anion: perchorate, Name: perchloric acid\n\\(\\mathrm{HClO_3}\\) Anion: Chlorate: Name chloric acid\n\\(\\mathrm{HClO_2}\\) Anion: Chlorite Name: chlorous acid\n\\(\\mathrm{HClO}\\) Anion: hypochlorite Name: hypochlorous acid\n\n\n\nLogic for naming Acids\n\n\n\n\n\nTable of common Acids\n\n\n\\(\\mathrm{HF}\\) Hydro fluoric acid\n\\(\\mathrm{H_2S}\\) hydro sulfuiric acid\n\\(\\mathrm{HI}\\) hydro iodic acid\n\\(\\mathrm{H_2Se}\\) hydro selenic acid\n\\(\\mathrm{HBr}\\) hydro bromic acid",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 9-21-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#single-replacement-reactions",
-    "href": "lectures/lecture_101226.html#single-replacement-reactions",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_92126.html#seven-strong-acids",
+    "href": "lectures/lecture_92126.html#seven-strong-acids",
+    "title": "Lecture 9-21-2026",
     "section": "",
-    "text": "\\[\n\\mathrm{Zn (s) + 2 HCl(aq) \\rightarrow H_2 (g) + ZnCl_2 (aq)}\n\\]\nThis reaction is a type of oxidization-reduction reaction (redox). This reaction is also a single replacement reaction since a single type of anion was exchanged between \\(\\mathrm{H^+}\\) and \\(\\mathrm{CL^-}\\)",
+    "text": "Import to know when balancing equations.\nCl, Br, I are the 3 binary acids.\n\\(\\mathrm{HCl}\\), \\(\\mathrm{HBr}\\), and \\(\\mathrm{HI}\\)\nThen Poly atomic acids\n\\(\\mathrm{H_2SO_4}\\), \\(\\mathrm{HNO_3}\\), \\(\\mathrm{HClO_4}\\), and \\(\\mathrm{HClO_3}\\)\n\n\nNaming Acids Practice:\n\\(\\mathrm{HNO_2}\\): Nitrous Acid\n\\(\\mathrm{H_2SO_3}\\): sufurous acid\n\\(\\mathrm{H_3PO_4}\\): phosphoric acid\n\\(\\mathrm{H_2CO_3}\\): Carbonic acid\n\\(\\mathrm{HC_2H_3O_2}\\): Acetic acid (Vinegar).\n\\(\\mathrm{HCN}\\): Hydrocyanic acid\n\nImportant to learn the name, composition, and charge of each of the common polyatomic anions ( and the \\(\\mathrm{NH_4^+}\\) cation).\nKnowing the charge of all elements presence is important when balancing chemical formulas.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 9-21-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#combustion-reaction",
-    "href": "lectures/lecture_101226.html#combustion-reaction",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_10226.html",
+    "href": "lectures/lecture_10226.html",
+    "title": "Lecture 10-2-2026",
     "section": "",
-    "text": "MAny chemical reactions that involve oxygen produce energy (heat) so rapidly that a flame results.\nSuch reaction are called combustion reactions:\n\\[\n\\mathrm{CH_4 (g) + 2O_2 (g) \\rightarrow CO_2 (g) + 2 H_2O (g)}\n\\]\nTechincally also a redox reaction.",
+    "text": "Most Common “driving forces” of a chemical reaction are:\n\nThe Formation of a solid\nFormation of Water\nTransfer of Electrons\nFormation of gas\n\n\n\n\n\nOne driving force for a chemical reaction is the formation of a solid, the process called precipitation.\nThe solid that forms is called a precipitate, and the reaction is known as a precipitation reaction.\n\nE.g. removing lead from drinking water.\n\n\n\n\nIn virtually every case when a solid containing ions dissolves in water, the ions separate and move independently.\n\nE.g. \\(\\mathrm{Ba(NO_3)_2} \\mathit{(aq)}\\) doesn’t contain \\(\\mathrm{Ba(NO_3)_2}\\) units, instead it contains seperate \\(\\mathrm{Ba^{2+}}\\) and \\(\\mathrm{NO_3^-}\\) ions.\n\n\n\n\n\n\nChemists know that sperated ions are present when a solution is an excellent conductor of electricty.\nPure water does not conduct an electric current.\nIons must be present in the water for a current to flow.\nWhen each unit of a substance that dissolves in water produces seperated ions, the substance is called a strong electrolyte.\n\n\n\n\nExample of Electrolysis\n\n\n\n\n\nMixing Electrolytes Example\n\n\n\n\n\n\n\nA solid compound must have a zero net charge.\nMost Ionic materials contain only two types of ions, one type of cation and one type of anion.\n\n\n\n\n\n\n\nList of Solubulity Rules\n\n\nSlightly soluble and insoluble mean practically the same thing.\n\n\n\\(\\mathrm{NaOH}\\): Sodium Hydroxide is soluble. Meaning it will disolve in water.\n\\(\\mathrm{BaSO_4}\\) Does not have a rule so it is therefore insoluble. If paired\n\\(\\mathrm{CaCO_3}\\)\nTo identify look at the two ions in the compound. Figure out if they dissolve, if they do it’s soluble, if not it’s insoluble. If they are\nThe last two exmaples would be visible at the bottom of the solution whereas Sodium Hydroxide would not be visible in the solution.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 10-2-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#synthesis-reactions",
-    "href": "lectures/lecture_101226.html#synthesis-reactions",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_10226.html#determining-when-a-reaction-will-occur",
+    "href": "lectures/lecture_10226.html#determining-when-a-reaction-will-occur",
+    "title": "Lecture 10-2-2026",
     "section": "",
-    "text": "When a given compound is formed via simpler materials, this is called a sythesis or combination reaction:\n\\[\n\\mathrm{2Na(s) + Cl_2 (g) \\rightarrow 2NaCl(s)}\n\\]",
+    "text": "Most Common “driving forces” of a chemical reaction are:\n\nThe Formation of a solid\nFormation of Water\nTransfer of Electrons\nFormation of gas",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 10-2-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_101226.html#decomposition-reaction",
-    "href": "lectures/lecture_101226.html#decomposition-reaction",
-    "title": "Lecture 10-12-2026",
+    "objectID": "lectures/lecture_10226.html#precipitation-reactions",
+    "href": "lectures/lecture_10226.html#precipitation-reactions",
+    "title": "Lecture 10-2-2026",
     "section": "",
-    "text": "In many cases a compound can be broken down into simpler compounds or all the way to the component elements.\nThis is usually accomplished by heating or by application of an electric current\n\\[\n2H_2O (l) \\rightarrow 2H_2 + O_2\n\\]\n\n\n\nClasses of Reactions",
+    "text": "One driving force for a chemical reaction is the formation of a solid, the process called precipitation.\nThe solid that forms is called a precipitate, and the reaction is known as a precipitation reaction.\n\nE.g. removing lead from drinking water.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-12-2026"
+      "Lecture 10-2-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_91826.html",
-    "href": "lectures/lecture_91826.html",
-    "title": "Lecture 9-18-2026",
+    "objectID": "lectures/lecture_10226.html#ionic-compounds-in-water",
+    "href": "lectures/lecture_10226.html#ionic-compounds-in-water",
+    "title": "Lecture 10-2-2026",
     "section": "",
-    "text": "These inlcude two non-metal ions. Nonmetals combine in various ratios. Prefixes are used to indicate the number of each type of nonmetal atom.\n\n\n\nPrefixes used in naming Type III ionic compounds\n\n\nThe ability of these ions to form compounds comes from electron sharing not a change in charge.\nThere is a prefix on the first element if there is more than one of it, the second element ALWAYS gets a prefix even with just one.\nThe ending of the second element still has it’s ending changed to “-ide” but the first element keeps the same name.\n\n\n\nThe first element used in the formula is named first and the full element name is used.\nThe second element is named as though it were an anion.\nPrefixes are used to denote the numbers of atoms present.\nThe prefix mono-is used on the second element if there is only one.\n\nex: \\(\\mathrm{N_2O_4}\\) dinitrogen tetraoxide.\n\\(\\mathrm{SF_6}\\): sulfur hexafluoride.\n\\(\\mathrm{NCl_3}\\) Nitrogen trichloride\n\\(\\mathrm{PF_5}\\) phosphorus pentafluoride\n\\(\\mathrm{S_2O}\\) disulfur monoxide\n\n\n\n\n\nType I: Ionic compounds with metals that always form a cation with the same charge\nType II: Ionic compounds with metals (usually transition metals) that form cations with various charges\nType III Compounds that contain only nonmetals.\n\n\n\n\nLogic for naming Binary Compounds\n\n\nEx:\n\\(\\mathrm{BaBr_2}\\) : Barium bromide\n\\(\\mathrm{XeF_4}\\) Xenon tetrafluoride\n\\(\\mathrm{IrO}\\) Iridium(II) oxide\n\\(\\mathrm{CI_4}\\) Carbon tetraiodine\n\\(\\mathrm{NO}\\) Nitrogen monoxide\n\n\n\n\nPolyatomic ions are charged entities composed of several atoms bounded together.\nPolyatomic ions are assigned special names that you have to memorize to name the compounds containing them.\n\n\n\n\nFigure showing common polyatomic ions\n\n\nIn order to know these you just have to memorize them, it’s annoying but it’s how it works because.\nFor all of group 17:\n\\(\\mathrm{ClO_4^-}\\): perchlorate\n\\(\\mathrm{ClO_3^-}\\): chlorate\n\\(\\mathrm{ClO_2^-}\\): chlorite\n\\(\\mathrm{OCl^-}\\) : hypochlorite\nThe prefix “per” meaning most, and the prefix “hypo” meaning least.\nTherefore:\n\\(\\mathrm{NO_3^-}\\): Nitrate\n\\(\\mathrm{NO_2^-}\\): Nitrite\nOr:\n\\(\\mathrm{HPO_4^{2-}}\\): hydrogen phosphate\n\\(\\mathrm{H_2PO_4^-}\\): dihydrogen phosphate\nKnow the Chlorine, Bromine, Iodine polyatomic ions, they just come up with the same O and prefixes and suffixes as expected:\nSo: \\(\\mathrm{IO_3^-}\\): Iodate, so on and so forth.\n\n\n\nNaming Ionic compounds that contain polyatomic ions is very similar to naming binary ionic compounds:\n\nE.g. the compound \\(\\mathrm{NaOH}\\) is called sodium hydroxide because it contains the \\(\\mathrm{Na^+}\\) cation and the \\(\\mathrm{OH^-}\\) hydroxide anion.\n\nRemember that when a metal is present that forms more than one cation, a Roman numeral is required to specify the cation charge, just as in naming Type II binary ionic compounds.\n\n\\(\\mathrm{FeSO_4}\\) is called Iron (III) sulfate in order to keep the charges balanced.\n\\(\\mathrm{NH_4Cl}\\) ammonium chloride\n\n\n\\(\\mathrm{KOH}\\): potassium hydroxide\n\\(\\mathrm{TiCO_3}\\) Titanium (II) carbonate\n\\(\\mathrm{NaCN}\\) Sodium cyanide",
+    "text": "In virtually every case when a solid containing ions dissolves in water, the ions separate and move independently.\n\nE.g. \\(\\mathrm{Ba(NO_3)_2} \\mathit{(aq)}\\) doesn’t contain \\(\\mathrm{Ba(NO_3)_2}\\) units, instead it contains seperate \\(\\mathrm{Ba^{2+}}\\) and \\(\\mathrm{NO_3^-}\\) ions.",
     "crumbs": [
       "Lectures",
-      "Lecture 9-18-2026"
+      "Lecture 10-2-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_91826.html#type-iii-binary-compounds",
-    "href": "lectures/lecture_91826.html#type-iii-binary-compounds",
-    "title": "Lecture 9-18-2026",
+    "objectID": "lectures/lecture_10226.html#strong-electrolytes",
+    "href": "lectures/lecture_10226.html#strong-electrolytes",
+    "title": "Lecture 10-2-2026",
     "section": "",
-    "text": "These inlcude two non-metal ions. Nonmetals combine in various ratios. Prefixes are used to indicate the number of each type of nonmetal atom.\n\n\n\nPrefixes used in naming Type III ionic compounds\n\n\nThe ability of these ions to form compounds comes from electron sharing not a change in charge.\nThere is a prefix on the first element if there is more than one of it, the second element ALWAYS gets a prefix even with just one.\nThe ending of the second element still has it’s ending changed to “-ide” but the first element keeps the same name.\n\n\n\nThe first element used in the formula is named first and the full element name is used.\nThe second element is named as though it were an anion.\nPrefixes are used to denote the numbers of atoms present.\nThe prefix mono-is used on the second element if there is only one.\n\nex: \\(\\mathrm{N_2O_4}\\) dinitrogen tetraoxide.\n\\(\\mathrm{SF_6}\\): sulfur hexafluoride.\n\\(\\mathrm{NCl_3}\\) Nitrogen trichloride\n\\(\\mathrm{PF_5}\\) phosphorus pentafluoride\n\\(\\mathrm{S_2O}\\) disulfur monoxide",
+    "text": "Chemists know that sperated ions are present when a solution is an excellent conductor of electricty.\nPure water does not conduct an electric current.\nIons must be present in the water for a current to flow.\nWhen each unit of a substance that dissolves in water produces seperated ions, the substance is called a strong electrolyte.\n\n\n\n\nExample of Electrolysis\n\n\n\n\n\nMixing Electrolytes Example",
     "crumbs": [
       "Lectures",
-      "Lecture 9-18-2026"
+      "Lecture 10-2-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_91826.html#types-of-binary-compounds",
-    "href": "lectures/lecture_91826.html#types-of-binary-compounds",
-    "title": "Lecture 9-18-2026",
+    "objectID": "lectures/lecture_10226.html#determining-what-products-form",
+    "href": "lectures/lecture_10226.html#determining-what-products-form",
+    "title": "Lecture 10-2-2026",
     "section": "",
-    "text": "Type I: Ionic compounds with metals that always form a cation with the same charge\nType II: Ionic compounds with metals (usually transition metals) that form cations with various charges\nType III Compounds that contain only nonmetals.\n\n\n\n\nLogic for naming Binary Compounds\n\n\nEx:\n\\(\\mathrm{BaBr_2}\\) : Barium bromide\n\\(\\mathrm{XeF_4}\\) Xenon tetrafluoride\n\\(\\mathrm{IrO}\\) Iridium(II) oxide\n\\(\\mathrm{CI_4}\\) Carbon tetraiodine\n\\(\\mathrm{NO}\\) Nitrogen monoxide",
+    "text": "A solid compound must have a zero net charge.\nMost Ionic materials contain only two types of ions, one type of cation and one type of anion.",
     "crumbs": [
       "Lectures",
-      "Lecture 9-18-2026"
+      "Lecture 10-2-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_91826.html#polyatomic-ions",
-    "href": "lectures/lecture_91826.html#polyatomic-ions",
-    "title": "Lecture 9-18-2026",
+    "objectID": "lectures/lecture_10226.html#solubility-rules",
+    "href": "lectures/lecture_10226.html#solubility-rules",
+    "title": "Lecture 10-2-2026",
     "section": "",
-    "text": "Polyatomic ions are charged entities composed of several atoms bounded together.\nPolyatomic ions are assigned special names that you have to memorize to name the compounds containing them.\n\n\n\n\nFigure showing common polyatomic ions\n\n\nIn order to know these you just have to memorize them, it’s annoying but it’s how it works because.\nFor all of group 17:\n\\(\\mathrm{ClO_4^-}\\): perchlorate\n\\(\\mathrm{ClO_3^-}\\): chlorate\n\\(\\mathrm{ClO_2^-}\\): chlorite\n\\(\\mathrm{OCl^-}\\) : hypochlorite\nThe prefix “per” meaning most, and the prefix “hypo” meaning least.\nTherefore:\n\\(\\mathrm{NO_3^-}\\): Nitrate\n\\(\\mathrm{NO_2^-}\\): Nitrite\nOr:\n\\(\\mathrm{HPO_4^{2-}}\\): hydrogen phosphate\n\\(\\mathrm{H_2PO_4^-}\\): dihydrogen phosphate\nKnow the Chlorine, Bromine, Iodine polyatomic ions, they just come up with the same O and prefixes and suffixes as expected:\nSo: \\(\\mathrm{IO_3^-}\\): Iodate, so on and so forth.\n\n\n\nNaming Ionic compounds that contain polyatomic ions is very similar to naming binary ionic compounds:\n\nE.g. the compound \\(\\mathrm{NaOH}\\) is called sodium hydroxide because it contains the \\(\\mathrm{Na^+}\\) cation and the \\(\\mathrm{OH^-}\\) hydroxide anion.\n\nRemember that when a metal is present that forms more than one cation, a Roman numeral is required to specify the cation charge, just as in naming Type II binary ionic compounds.\n\n\\(\\mathrm{FeSO_4}\\) is called Iron (III) sulfate in order to keep the charges balanced.\n\\(\\mathrm{NH_4Cl}\\) ammonium chloride\n\n\n\\(\\mathrm{KOH}\\): potassium hydroxide\n\\(\\mathrm{TiCO_3}\\) Titanium (II) carbonate\n\\(\\mathrm{NaCN}\\) Sodium cyanide",
+    "text": "List of Solubulity Rules\n\n\nSlightly soluble and insoluble mean practically the same thing.\n\n\n\\(\\mathrm{NaOH}\\): Sodium Hydroxide is soluble. Meaning it will disolve in water.\n\\(\\mathrm{BaSO_4}\\) Does not have a rule so it is therefore insoluble. If paired\n\\(\\mathrm{CaCO_3}\\)\nTo identify look at the two ions in the compound. Figure out if they dissolve, if they do it’s soluble, if not it’s insoluble. If they are\nThe last two exmaples would be visible at the bottom of the solution whereas Sodium Hydroxide would not be visible in the solution.",
     "crumbs": [
       "Lectures",
-      "Lecture 9-18-2026"
+      "Lecture 10-2-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture101626.html#molar-mass",
-    "href": "lectures/lecture101626.html#molar-mass",
-    "title": "Lecture 10-16-2026",
-    "section": "Molar Mass",
-    "text": "Molar Mass\nTo find the mass of 1 mole of methane, you can sum the masses of carbon and hydrogen present.\nMass of 1 mol C = 12.01g Mass of 4 mol H = 4*1.008g = 4.032g\n\\(12.01+4.032 = 16.04\\)g\nThe quantity \\(16.04\\) g is called the molar mass for methane. The mass of 1 mole of \\(\\mathrm{CH_4}\\) molecules.\nThe molar mass of any substance is the mass (in grams) of 1 mol of it.\nFor example the molar mass of \\(\\mathrm{NH_3}\\) (ammonia):\n1 mol N = 14.01 * 1 = 14.01g 1 mol H = 1.01g * 3 = 3.03g\n\\(14.01+3.03 = 17.04\\) g (g/mol) = molar mass of \\(\\mathrm{NH_3}\\)\nOr for \\(\\mathrm{H_2SO_4}\\)\nH = 1.01 * 2 = 2.02g S = 32.06 * 1 = 32.06g O = 16.00 * 4 = 64.00g\n\\(2.02+32.06+64.00 = 98.08\\) g/mol\n\\(\\mathrm{Ba(OH)_2}\\)\nBa = 137.33 * 1 = 137.33 O = 16.00 2 = 32.00 H = 1.01 2 = 2.02\n137.21+32.00+2.02 = 171.35 g/mol\nThis can also help figure out some other things.\nGiven a sample of \\(\\mathrm{NaOH}\\) contains 7.89 moles, what is the mass in grams of the sample.\n1 mol of \\(\\mathrm{NaOH}\\) = 40 g/mol\n7.89 * 40 = 316g of \\(\\mathrm{NaOH}\\)\nOr given a sample of \\(\\mathrm{Fe_2O_3}\\) weighs 982 g how many moles does the sample contain?\nMass of \\(\\mathrm{Fe}\\) = 55.82 * 2 = 111.64 g Mass of \\(\\mathrm{O}\\) = 16.00 * 3 = 48.00 g\n982/(111.64+48.00)= 56.8 mols of \\(\\mathrm{Fe_2O_3}\\)\nCa = 40.08 g * 1 = 40.1 Cl = 35.45 * 2 = 70.9\n1 Mol = 110.9\n.00943g of CaCl = .00943/110.9 = 8.50*10^-5\nTo determine the number of atoms in this.\nYou know that for each mol = 6.022*10^23 units of (CaCl_2)\nFor each unit of CaCl_2 there are 3 total atoms.\n\\((8.50*10^{-5}*6.022*10^{23})*3 = 1.54*10^{20}\\)",
-    "crumbs": [
-      "Lectures",
-      "Lecture 10-16-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_83026.html",
-    "href": "lectures/lecture_83026.html",
-    "title": "Lecture 8-30-2026",
+    "objectID": "lectures/lecture_82626.html",
+    "href": "lectures/lecture_82626.html",
+    "title": "Lecture 8-26-2026",
     "section": "",
-    "text": "Fahrenheit\n\n\nUsed in GB and US, used in most engineering sciences.\n\n\nCelsius\n\n\nUsed in Canada and Europe, used in physical life sciences in most countries.\n\n\nKelvin\n\n\nAbsolute temp scale\n\nA lot of these temperatures are based on when water boils and when it freezes.\nCelsius - \\(0^\\circ\\) for example at \\(0^\\circ\\) is when water freezes.\nKelvin helps relate temperature to the amount of energy (or average energy in a system).\n\n\n\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
+    "text": "Chemistry can be defined as the science that deals with materials of the universe and the changes these materials undergo.\nCommonly referred to as the “central” science.\n\nExamples of Chemical Change - Baking soda and vinegar react to fizz - Car engine burning gasoline - Food being digested by the body\n\n\nScience is a framework for gaining and organizing knowledge.(See Scientific Method).\n\n\nState the problem and collect data (make observations)\nQuantitative: How much of something. (Has units, such as pounds or inches) Qualitiative: This quality of something. (Does not include numbers and units)\nExample\n\nAn apple is red (qualitative)\nIt is raining outside (qualitative)\nThe car is travelling at 60 MPS (quantitative)\nA solution has a density of 1.2 g/mL (quantitative)\nA cheeseburger is delicious (qualitative, and opinionated)\nThe meal costs $11.00 (quantitative)\n\n\n\n\nCreating a Hypothesis:\nA Hypothesis is a possible explanation for the observation, in order for it to be science we musts be able to test the hypothesis.\n\n\n\nPerform Experiments:\n\nAn experiment is something we do to test hypothesis.\n\n\n\n\nOnce we have a set of consisting hypothesis that agree with our various observations, you can assemble the hypotheses into a theory often called a model.\nA theory can be an interpretation, which is a possible explanation of why nature behaves in a particular way.\n\n\n\nFill from Power point",
     "crumbs": [
       "Lectures",
-      "Lecture 8-30-2026"
+      "Lecture 8-26-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_83026.html#converting-between-scales",
-    "href": "lectures/lecture_83026.html#converting-between-scales",
-    "title": "Lecture 8-30-2026",
+    "objectID": "lectures/lecture_82626.html#what-is-science",
+    "href": "lectures/lecture_82626.html#what-is-science",
+    "title": "Lecture 8-26-2026",
     "section": "",
-    "text": "\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
+    "text": "Science is a framework for gaining and organizing knowledge.(See Scientific Method).\n\n\nState the problem and collect data (make observations)\nQuantitative: How much of something. (Has units, such as pounds or inches) Qualitiative: This quality of something. (Does not include numbers and units)\nExample\n\nAn apple is red (qualitative)\nIt is raining outside (qualitative)\nThe car is travelling at 60 MPS (quantitative)\nA solution has a density of 1.2 g/mL (quantitative)\nA cheeseburger is delicious (qualitative, and opinionated)\nThe meal costs $11.00 (quantitative)\n\n\n\n\nCreating a Hypothesis:\nA Hypothesis is a possible explanation for the observation, in order for it to be science we musts be able to test the hypothesis.\n\n\n\nPerform Experiments:\n\nAn experiment is something we do to test hypothesis.\n\n\n\n\nOnce we have a set of consisting hypothesis that agree with our various observations, you can assemble the hypotheses into a theory often called a model.\nA theory can be an interpretation, which is a possible explanation of why nature behaves in a particular way.\n\n\n\nFill from Power point",
     "crumbs": [
       "Lectures",
-      "Lecture 8-30-2026"
+      "Lecture 8-26-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_83026.html#solids",
-    "href": "lectures/lecture_83026.html#solids",
-    "title": "Lecture 8-30-2026",
-    "section": "Solids",
-    "text": "Solids\nProperties:\n\nRigid\nfixed shape\nfixed volume\n\nLike an ice cube, diamond, or iron bar.",
+    "objectID": "lectures/lecture_82626.html#scientific-notation",
+    "href": "lectures/lecture_82626.html#scientific-notation",
+    "title": "Lecture 8-26-2026",
+    "section": "Scientific Notation",
+    "text": "Scientific Notation\n\nScientific notation is a method for making very large or very small numbers more compact and easier to write.\n\nExpresses a number as a product of a number between 1 and 10 and the appropriate power of 10.\n\n\nErgo\n\\[\n93,000,000 = 9.3 * 10,000,000 = 9.3 * 10^7\n\\]\n93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many decimal places were moved to provide our 9.3 base.\nA positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.\nErgo \\(0.0072\\) can be represented as \\(7.2*10^-3\\)",
     "crumbs": [
       "Lectures",
-      "Lecture 8-30-2026"
+      "Lecture 8-26-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_83026.html#liquids",
-    "href": "lectures/lecture_83026.html#liquids",
-    "title": "Lecture 8-30-2026",
-    "section": "Liquids",
-    "text": "Liquids\nProperties * takes the shape of it’s container * Have a fixed volume\nExamples: Gasoline, water, alcohol.",
+    "objectID": "lectures/lecture_82626.html#examples-problems",
+    "href": "lectures/lecture_82626.html#examples-problems",
+    "title": "Lecture 8-26-2026",
+    "section": "Examples Problems",
+    "text": "Examples Problems\nWrite the following numbers in scientific notation:\n\n0.00000756 = \\(7.56*10^-5\\)\n13500 = \\(1.35*10^4\\)\n56000000 = \\(5.6*10^7\\)\n0.0089 = \\(8.9*10^2\\)\n\nConvert the following numbers into the standard notation:\n\\(9.1*10^3\\)\nThis can be simplified to \\(9.1 * 1000 = 9100\\)\nErgo \\(9.1*10^3=9100\\)\n\\(3.56*10^-4 = 0.000356\\)\n\\(1.10*10^5 = 110,000\\)\nSo all that being said the exponent over 10 can be used to represent how many places the decimal point should move left (negative) or right (positive).",
     "crumbs": [
       "Lectures",
-      "Lecture 8-30-2026"
+      "Lecture 8-26-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_83026.html#gases",
-    "href": "lectures/lecture_83026.html#gases",
-    "title": "Lecture 8-30-2026",
-    "section": "Gases",
-    "text": "Gases\nProperties: * Takes the shape of it’s container * Takes the volume of it’s container\nExamples: air, helium, oxygen.",
+    "objectID": "lectures/lecture_82626.html#units",
+    "href": "lectures/lecture_82626.html#units",
+    "title": "Lecture 8-26-2026",
+    "section": "Units",
+    "text": "Units\nSI Units\n\nSome fundamental SI units\n\n\nPhysical Quantity\nName of Unit\nAbbreviation\n\n\n\n\nmass\nkilogram\nkg\n\n\nlength\nmeter\nm\n\n\ntime\nsecond\ns\n\n\ntemperature\nkelvin\nK\n\n\n\n\nCommon Used Prefixes in the Metric System\n\n\nPrefix\nSymbol\nMeaning\nPower of 10 for Scientific Notation\n\n\n\n\nmega\nM\n1,000,000\n\\(10^6\\)\n\n\nkilo\nK\n1,000\n\\(10^3\\)\n\n\ndeci\nd\n0.1\n\\(10^{-1}\\)\n\n\ncenti\nc\n0.01\n\\(10^{-2}\\)\n\n\nmilli\nm\n0.001\n\\(10^{-3}\\)\n\n\nmicro\n\\(\\mu\\)\n0.000001\n\\(10^{-6}\\)\n\n\nnano\nn\n0.000000001\n\\(10^{-9}\\)\n\n\n\n\nSI Units of Length\n\nThe Metric System for Measuring Length\n\n\nUnit\nSymbol\nMeter Equivalent\n\n\n\n\nkilometer\nkm\n1000m or \\(10^3\\) m\n\n\nmeter\nm\n1m\n\n\ndecimeter\ndm\n0.1m or \\(10^{-1}\\) m\n\n\ncentimeter\ncm\n0.01m or \\(10^{-2}\\) m\n\n\nmillimeter\nmm\n0.001m or \\(10^{-3}\\) m\n\n\nmicrometer\n\\(\\mu\\)m\n0.000001m or \\(10^{-6}\\)m\n\n\nnanometer\nnm\n0.000000001 or \\(10^{-9}\\)m\n\n\n\n\n\nSI Units of Volume\nVolume is the amount of three dimensonal space occupied by a substance.\n\\(1 cm^2 = 1 mL\\)\n\n\nSI Units of Mass\nMass is the quanitity of matter present in an object. Everything has mass and volume.\nThe fundamental SI Unit of mass is the kilogram.",
     "crumbs": [
       "Lectures",
-      "Lecture 8-30-2026"
+      "Lecture 8-26-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_83026.html#physical-properties",
-    "href": "lectures/lecture_83026.html#physical-properties",
-    "title": "Lecture 8-30-2026",
-    "section": "Physical Properties",
-    "text": "Physical Properties\nThe characterisitics of a substance that do not involve changing to another substance.\nExamples: * Odor * Color * Volume * Density * Melting Point\nBasically anything used to describe some substance.",
+    "objectID": "lectures/lecture_10726.html",
+    "href": "lectures/lecture_10726.html",
+    "title": "Lecture 10-7-2026",
+    "section": "",
+    "text": "When a sodium atom reacts with a chlorine atom an electron is transferred.\n\n\n\nExample of Electron Transfer\n\n\n\n\n\n\n\nA reaction that involves a transfer of electrons is called an oxidation-reduction reaction.\n\n“LEO the lion says GER”\nLoss of electrons is oxidization (LEO)\nGaining of electrons is reduction (GER)\n\nA Redox reaction is a reduction-oxidization reaction.\n\\[\n\\mathrm{2Al + N_2 \\rightarrow 2AlN}\n\\]\nErgo based on the ions these form you can find where electrons have been gained/transferred and figure out who is being oxidized and who is being reduced.",
     "crumbs": [
       "Lectures",
-      "Lecture 8-30-2026"
+      "Lecture 10-7-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_83026.html#chemical-properties",
-    "href": "lectures/lecture_83026.html#chemical-properties",
-    "title": "Lecture 8-30-2026",
-    "section": "Chemical Properties",
-    "text": "Chemical Properties\nHow a substance reacts to another substance. Or the ability for a substance’s ability to change to a different substance.\nExamples: * Acidity * Flammability * Reactivity\n\nComputer:\n\nDark Gray Colored Tough, doesn’t bend easy Not very flammable Can rust… Not very dense",
+    "objectID": "lectures/lecture_10726.html#transferring-electrons",
+    "href": "lectures/lecture_10726.html#transferring-electrons",
+    "title": "Lecture 10-7-2026",
+    "section": "",
+    "text": "When a sodium atom reacts with a chlorine atom an electron is transferred.\n\n\n\nExample of Electron Transfer",
     "crumbs": [
       "Lectures",
-      "Lecture 8-30-2026"
+      "Lecture 10-7-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_10726.html#electron-transfer-in-reactions",
+    "href": "lectures/lecture_10726.html#electron-transfer-in-reactions",
+    "title": "Lecture 10-7-2026",
+    "section": "",
+    "text": "A reaction that involves a transfer of electrons is called an oxidation-reduction reaction.\n\n“LEO the lion says GER”\nLoss of electrons is oxidization (LEO)\nGaining of electrons is reduction (GER)\n\nA Redox reaction is a reduction-oxidization reaction.\n\\[\n\\mathrm{2Al + N_2 \\rightarrow 2AlN}\n\\]\nErgo based on the ions these form you can find where electrons have been gained/transferred and figure out who is being oxidized and who is being reduced.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 10-7-2026"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my notes site for CHEM 1301.",
+    "crumbs": [
+      "About"
     ]
   },
   {
@@ -601,211 +611,267 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "lectures/lecture_83026.html",
+    "href": "lectures/lecture_83026.html",
+    "title": "Lecture 8-30-2026",
     "section": "",
-    "text": "This is my notes site for CHEM 1301.",
+    "text": "Fahrenheit\n\n\nUsed in GB and US, used in most engineering sciences.\n\n\nCelsius\n\n\nUsed in Canada and Europe, used in physical life sciences in most countries.\n\n\nKelvin\n\n\nAbsolute temp scale\n\nA lot of these temperatures are based on when water boils and when it freezes.\nCelsius - \\(0^\\circ\\) for example at \\(0^\\circ\\) is when water freezes.\nKelvin helps relate temperature to the amount of energy (or average energy in a system).\n\n\n\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
     "crumbs": [
-      "About"
+      "Lectures",
+      "Lecture 8-30-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10726.html",
-    "href": "lectures/lecture_10726.html",
-    "title": "Lecture 10-7-2026",
+    "objectID": "lectures/lecture_83026.html#converting-between-scales",
+    "href": "lectures/lecture_83026.html#converting-between-scales",
+    "title": "Lecture 8-30-2026",
     "section": "",
-    "text": "When a sodium atom reacts with a chlorine atom an electron is transferred.\n\n\n\nExample of Electron Transfer\n\n\n\n\n\n\n\nA reaction that involves a transfer of electrons is called an oxidation-reduction reaction.\n\n“LEO the lion says GER”\nLoss of electrons is oxidization (LEO)\nGaining of electrons is reduction (GER)\n\nA Redox reaction is a reduction-oxidization reaction.\n\\[\n\\mathrm{2Al + N_2 \\rightarrow 2AlN}\n\\]\nErgo based on the ions these form you can find where electrons have been gained/transferred and figure out who is being oxidized and who is being reduced.",
+    "text": "\\(T_{\\circ{C}} + 273 = T_\\mathbf{K}\\)",
     "crumbs": [
       "Lectures",
-      "Lecture 10-7-2026"
+      "Lecture 8-30-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10726.html#transferring-electrons",
-    "href": "lectures/lecture_10726.html#transferring-electrons",
-    "title": "Lecture 10-7-2026",
+    "objectID": "lectures/lecture_83026.html#solids",
+    "href": "lectures/lecture_83026.html#solids",
+    "title": "Lecture 8-30-2026",
+    "section": "Solids",
+    "text": "Solids\nProperties:\n\nRigid\nfixed shape\nfixed volume\n\nLike an ice cube, diamond, or iron bar.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#liquids",
+    "href": "lectures/lecture_83026.html#liquids",
+    "title": "Lecture 8-30-2026",
+    "section": "Liquids",
+    "text": "Liquids\nProperties * takes the shape of it’s container * Have a fixed volume\nExamples: Gasoline, water, alcohol.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#gases",
+    "href": "lectures/lecture_83026.html#gases",
+    "title": "Lecture 8-30-2026",
+    "section": "Gases",
+    "text": "Gases\nProperties: * Takes the shape of it’s container * Takes the volume of it’s container\nExamples: air, helium, oxygen.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#physical-properties",
+    "href": "lectures/lecture_83026.html#physical-properties",
+    "title": "Lecture 8-30-2026",
+    "section": "Physical Properties",
+    "text": "Physical Properties\nThe characterisitics of a substance that do not involve changing to another substance.\nExamples: * Odor * Color * Volume * Density * Melting Point\nBasically anything used to describe some substance.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_83026.html#chemical-properties",
+    "href": "lectures/lecture_83026.html#chemical-properties",
+    "title": "Lecture 8-30-2026",
+    "section": "Chemical Properties",
+    "text": "Chemical Properties\nHow a substance reacts to another substance. Or the ability for a substance’s ability to change to a different substance.\nExamples: * Acidity * Flammability * Reactivity\n\nComputer:\n\nDark Gray Colored Tough, doesn’t bend easy Not very flammable Can rust… Not very dense",
+    "crumbs": [
+      "Lectures",
+      "Lecture 8-30-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture101626.html#molar-mass",
+    "href": "lectures/lecture101626.html#molar-mass",
+    "title": "Lecture 10-16-2026",
+    "section": "Molar Mass",
+    "text": "Molar Mass\nTo find the mass of 1 mole of methane, you can sum the masses of carbon and hydrogen present.\nMass of 1 mol C = 12.01g Mass of 4 mol H = 4*1.008g = 4.032g\n\\(12.01+4.032 = 16.04\\)g\nThe quantity \\(16.04\\) g is called the molar mass for methane. The mass of 1 mole of \\(\\mathrm{CH_4}\\) molecules.\nThe molar mass of any substance is the mass (in grams) of 1 mol of it.\nFor example the molar mass of \\(\\mathrm{NH_3}\\) (ammonia):\n1 mol N = 14.01 * 1 = 14.01g 1 mol H = 1.01g * 3 = 3.03g\n\\(14.01+3.03 = 17.04\\) g (g/mol) = molar mass of \\(\\mathrm{NH_3}\\)\nOr for \\(\\mathrm{H_2SO_4}\\)\nH = 1.01 * 2 = 2.02g S = 32.06 * 1 = 32.06g O = 16.00 * 4 = 64.00g\n\\(2.02+32.06+64.00 = 98.08\\) g/mol\n\\(\\mathrm{Ba(OH)_2}\\)\nBa = 137.33 * 1 = 137.33 O = 16.00 2 = 32.00 H = 1.01 2 = 2.02\n137.21+32.00+2.02 = 171.35 g/mol\nThis can also help figure out some other things.\nGiven a sample of \\(\\mathrm{NaOH}\\) contains 7.89 moles, what is the mass in grams of the sample.\n1 mol of \\(\\mathrm{NaOH}\\) = 40 g/mol\n7.89 * 40 = 316g of \\(\\mathrm{NaOH}\\)\nOr given a sample of \\(\\mathrm{Fe_2O_3}\\) weighs 982 g how many moles does the sample contain?\nMass of \\(\\mathrm{Fe}\\) = 55.82 * 2 = 111.64 g Mass of \\(\\mathrm{O}\\) = 16.00 * 3 = 48.00 g\n982/(111.64+48.00)= 56.8 mols of \\(\\mathrm{Fe_2O_3}\\)\nCa = 40.08 g * 1 = 40.1 Cl = 35.45 * 2 = 70.9\n1 Mol = 110.9\n.00943g of CaCl = .00943/110.9 = 8.50*10^-5\nTo determine the number of atoms in this.\nYou know that for each mol = 6.022*10^23 units of (CaCl_2)\nFor each unit of CaCl_2 there are 3 total atoms.\n\\((8.50*10^{-5}*6.022*10^{23})*3 = 1.54*10^{20}\\)",
+    "crumbs": [
+      "Lectures",
+      "Lecture 10-16-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_91826.html",
+    "href": "lectures/lecture_91826.html",
+    "title": "Lecture 9-18-2026",
     "section": "",
-    "text": "When a sodium atom reacts with a chlorine atom an electron is transferred.\n\n\n\nExample of Electron Transfer",
+    "text": "These inlcude two non-metal ions. Nonmetals combine in various ratios. Prefixes are used to indicate the number of each type of nonmetal atom.\n\n\n\nPrefixes used in naming Type III ionic compounds\n\n\nThe ability of these ions to form compounds comes from electron sharing not a change in charge.\nThere is a prefix on the first element if there is more than one of it, the second element ALWAYS gets a prefix even with just one.\nThe ending of the second element still has it’s ending changed to “-ide” but the first element keeps the same name.\n\n\n\nThe first element used in the formula is named first and the full element name is used.\nThe second element is named as though it were an anion.\nPrefixes are used to denote the numbers of atoms present.\nThe prefix mono-is used on the second element if there is only one.\n\nex: \\(\\mathrm{N_2O_4}\\) dinitrogen tetraoxide.\n\\(\\mathrm{SF_6}\\): sulfur hexafluoride.\n\\(\\mathrm{NCl_3}\\) Nitrogen trichloride\n\\(\\mathrm{PF_5}\\) phosphorus pentafluoride\n\\(\\mathrm{S_2O}\\) disulfur monoxide\n\n\n\n\n\nType I: Ionic compounds with metals that always form a cation with the same charge\nType II: Ionic compounds with metals (usually transition metals) that form cations with various charges\nType III Compounds that contain only nonmetals.\n\n\n\n\nLogic for naming Binary Compounds\n\n\nEx:\n\\(\\mathrm{BaBr_2}\\) : Barium bromide\n\\(\\mathrm{XeF_4}\\) Xenon tetrafluoride\n\\(\\mathrm{IrO}\\) Iridium(II) oxide\n\\(\\mathrm{CI_4}\\) Carbon tetraiodine\n\\(\\mathrm{NO}\\) Nitrogen monoxide\n\n\n\n\nPolyatomic ions are charged entities composed of several atoms bounded together.\nPolyatomic ions are assigned special names that you have to memorize to name the compounds containing them.\n\n\n\n\nFigure showing common polyatomic ions\n\n\nIn order to know these you just have to memorize them, it’s annoying but it’s how it works because.\nFor all of group 17:\n\\(\\mathrm{ClO_4^-}\\): perchlorate\n\\(\\mathrm{ClO_3^-}\\): chlorate\n\\(\\mathrm{ClO_2^-}\\): chlorite\n\\(\\mathrm{OCl^-}\\) : hypochlorite\nThe prefix “per” meaning most, and the prefix “hypo” meaning least.\nTherefore:\n\\(\\mathrm{NO_3^-}\\): Nitrate\n\\(\\mathrm{NO_2^-}\\): Nitrite\nOr:\n\\(\\mathrm{HPO_4^{2-}}\\): hydrogen phosphate\n\\(\\mathrm{H_2PO_4^-}\\): dihydrogen phosphate\nKnow the Chlorine, Bromine, Iodine polyatomic ions, they just come up with the same O and prefixes and suffixes as expected:\nSo: \\(\\mathrm{IO_3^-}\\): Iodate, so on and so forth.\n\n\n\nNaming Ionic compounds that contain polyatomic ions is very similar to naming binary ionic compounds:\n\nE.g. the compound \\(\\mathrm{NaOH}\\) is called sodium hydroxide because it contains the \\(\\mathrm{Na^+}\\) cation and the \\(\\mathrm{OH^-}\\) hydroxide anion.\n\nRemember that when a metal is present that forms more than one cation, a Roman numeral is required to specify the cation charge, just as in naming Type II binary ionic compounds.\n\n\\(\\mathrm{FeSO_4}\\) is called Iron (III) sulfate in order to keep the charges balanced.\n\\(\\mathrm{NH_4Cl}\\) ammonium chloride\n\n\n\\(\\mathrm{KOH}\\): potassium hydroxide\n\\(\\mathrm{TiCO_3}\\) Titanium (II) carbonate\n\\(\\mathrm{NaCN}\\) Sodium cyanide",
     "crumbs": [
       "Lectures",
-      "Lecture 10-7-2026"
+      "Lecture 9-18-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10726.html#electron-transfer-in-reactions",
-    "href": "lectures/lecture_10726.html#electron-transfer-in-reactions",
-    "title": "Lecture 10-7-2026",
+    "objectID": "lectures/lecture_91826.html#type-iii-binary-compounds",
+    "href": "lectures/lecture_91826.html#type-iii-binary-compounds",
+    "title": "Lecture 9-18-2026",
     "section": "",
-    "text": "A reaction that involves a transfer of electrons is called an oxidation-reduction reaction.\n\n“LEO the lion says GER”\nLoss of electrons is oxidization (LEO)\nGaining of electrons is reduction (GER)\n\nA Redox reaction is a reduction-oxidization reaction.\n\\[\n\\mathrm{2Al + N_2 \\rightarrow 2AlN}\n\\]\nErgo based on the ions these form you can find where electrons have been gained/transferred and figure out who is being oxidized and who is being reduced.",
+    "text": "These inlcude two non-metal ions. Nonmetals combine in various ratios. Prefixes are used to indicate the number of each type of nonmetal atom.\n\n\n\nPrefixes used in naming Type III ionic compounds\n\n\nThe ability of these ions to form compounds comes from electron sharing not a change in charge.\nThere is a prefix on the first element if there is more than one of it, the second element ALWAYS gets a prefix even with just one.\nThe ending of the second element still has it’s ending changed to “-ide” but the first element keeps the same name.\n\n\n\nThe first element used in the formula is named first and the full element name is used.\nThe second element is named as though it were an anion.\nPrefixes are used to denote the numbers of atoms present.\nThe prefix mono-is used on the second element if there is only one.\n\nex: \\(\\mathrm{N_2O_4}\\) dinitrogen tetraoxide.\n\\(\\mathrm{SF_6}\\): sulfur hexafluoride.\n\\(\\mathrm{NCl_3}\\) Nitrogen trichloride\n\\(\\mathrm{PF_5}\\) phosphorus pentafluoride\n\\(\\mathrm{S_2O}\\) disulfur monoxide",
     "crumbs": [
       "Lectures",
-      "Lecture 10-7-2026"
+      "Lecture 9-18-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_82626.html",
-    "href": "lectures/lecture_82626.html",
-    "title": "Lecture 8-26-2026",
+    "objectID": "lectures/lecture_91826.html#types-of-binary-compounds",
+    "href": "lectures/lecture_91826.html#types-of-binary-compounds",
+    "title": "Lecture 9-18-2026",
     "section": "",
-    "text": "Chemistry can be defined as the science that deals with materials of the universe and the changes these materials undergo.\nCommonly referred to as the “central” science.\n\nExamples of Chemical Change - Baking soda and vinegar react to fizz - Car engine burning gasoline - Food being digested by the body\n\n\nScience is a framework for gaining and organizing knowledge.(See Scientific Method).\n\n\nState the problem and collect data (make observations)\nQuantitative: How much of something. (Has units, such as pounds or inches) Qualitiative: This quality of something. (Does not include numbers and units)\nExample\n\nAn apple is red (qualitative)\nIt is raining outside (qualitative)\nThe car is travelling at 60 MPS (quantitative)\nA solution has a density of 1.2 g/mL (quantitative)\nA cheeseburger is delicious (qualitative, and opinionated)\nThe meal costs $11.00 (quantitative)\n\n\n\n\nCreating a Hypothesis:\nA Hypothesis is a possible explanation for the observation, in order for it to be science we musts be able to test the hypothesis.\n\n\n\nPerform Experiments:\n\nAn experiment is something we do to test hypothesis.\n\n\n\n\nOnce we have a set of consisting hypothesis that agree with our various observations, you can assemble the hypotheses into a theory often called a model.\nA theory can be an interpretation, which is a possible explanation of why nature behaves in a particular way.\n\n\n\nFill from Power point",
+    "text": "Type I: Ionic compounds with metals that always form a cation with the same charge\nType II: Ionic compounds with metals (usually transition metals) that form cations with various charges\nType III Compounds that contain only nonmetals.\n\n\n\n\nLogic for naming Binary Compounds\n\n\nEx:\n\\(\\mathrm{BaBr_2}\\) : Barium bromide\n\\(\\mathrm{XeF_4}\\) Xenon tetrafluoride\n\\(\\mathrm{IrO}\\) Iridium(II) oxide\n\\(\\mathrm{CI_4}\\) Carbon tetraiodine\n\\(\\mathrm{NO}\\) Nitrogen monoxide",
     "crumbs": [
       "Lectures",
-      "Lecture 8-26-2026"
+      "Lecture 9-18-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_82626.html#what-is-science",
-    "href": "lectures/lecture_82626.html#what-is-science",
-    "title": "Lecture 8-26-2026",
+    "objectID": "lectures/lecture_91826.html#polyatomic-ions",
+    "href": "lectures/lecture_91826.html#polyatomic-ions",
+    "title": "Lecture 9-18-2026",
     "section": "",
-    "text": "Science is a framework for gaining and organizing knowledge.(See Scientific Method).\n\n\nState the problem and collect data (make observations)\nQuantitative: How much of something. (Has units, such as pounds or inches) Qualitiative: This quality of something. (Does not include numbers and units)\nExample\n\nAn apple is red (qualitative)\nIt is raining outside (qualitative)\nThe car is travelling at 60 MPS (quantitative)\nA solution has a density of 1.2 g/mL (quantitative)\nA cheeseburger is delicious (qualitative, and opinionated)\nThe meal costs $11.00 (quantitative)\n\n\n\n\nCreating a Hypothesis:\nA Hypothesis is a possible explanation for the observation, in order for it to be science we musts be able to test the hypothesis.\n\n\n\nPerform Experiments:\n\nAn experiment is something we do to test hypothesis.\n\n\n\n\nOnce we have a set of consisting hypothesis that agree with our various observations, you can assemble the hypotheses into a theory often called a model.\nA theory can be an interpretation, which is a possible explanation of why nature behaves in a particular way.\n\n\n\nFill from Power point",
+    "text": "Polyatomic ions are charged entities composed of several atoms bounded together.\nPolyatomic ions are assigned special names that you have to memorize to name the compounds containing them.\n\n\n\n\nFigure showing common polyatomic ions\n\n\nIn order to know these you just have to memorize them, it’s annoying but it’s how it works because.\nFor all of group 17:\n\\(\\mathrm{ClO_4^-}\\): perchlorate\n\\(\\mathrm{ClO_3^-}\\): chlorate\n\\(\\mathrm{ClO_2^-}\\): chlorite\n\\(\\mathrm{OCl^-}\\) : hypochlorite\nThe prefix “per” meaning most, and the prefix “hypo” meaning least.\nTherefore:\n\\(\\mathrm{NO_3^-}\\): Nitrate\n\\(\\mathrm{NO_2^-}\\): Nitrite\nOr:\n\\(\\mathrm{HPO_4^{2-}}\\): hydrogen phosphate\n\\(\\mathrm{H_2PO_4^-}\\): dihydrogen phosphate\nKnow the Chlorine, Bromine, Iodine polyatomic ions, they just come up with the same O and prefixes and suffixes as expected:\nSo: \\(\\mathrm{IO_3^-}\\): Iodate, so on and so forth.\n\n\n\nNaming Ionic compounds that contain polyatomic ions is very similar to naming binary ionic compounds:\n\nE.g. the compound \\(\\mathrm{NaOH}\\) is called sodium hydroxide because it contains the \\(\\mathrm{Na^+}\\) cation and the \\(\\mathrm{OH^-}\\) hydroxide anion.\n\nRemember that when a metal is present that forms more than one cation, a Roman numeral is required to specify the cation charge, just as in naming Type II binary ionic compounds.\n\n\\(\\mathrm{FeSO_4}\\) is called Iron (III) sulfate in order to keep the charges balanced.\n\\(\\mathrm{NH_4Cl}\\) ammonium chloride\n\n\n\\(\\mathrm{KOH}\\): potassium hydroxide\n\\(\\mathrm{TiCO_3}\\) Titanium (II) carbonate\n\\(\\mathrm{NaCN}\\) Sodium cyanide",
     "crumbs": [
       "Lectures",
-      "Lecture 8-26-2026"
+      "Lecture 9-18-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_82626.html#scientific-notation",
-    "href": "lectures/lecture_82626.html#scientific-notation",
-    "title": "Lecture 8-26-2026",
-    "section": "Scientific Notation",
-    "text": "Scientific Notation\n\nScientific notation is a method for making very large or very small numbers more compact and easier to write.\n\nExpresses a number as a product of a number between 1 and 10 and the appropriate power of 10.\n\n\nErgo\n\\[\n93,000,000 = 9.3 * 10,000,000 = 9.3 * 10^7\n\\]\n93 million here becomes a number between 1 and 10 and we use the exponent applied to 10 to represent how many decimal places were moved to provide our 9.3 base.\nA positive power represents a number greater than one and a negative power represents a number less than 0. Use the decimal place to figure out how large the exponent over 10 should be.\nErgo \\(0.0072\\) can be represented as \\(7.2*10^-3\\)",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-26-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_82626.html#examples-problems",
-    "href": "lectures/lecture_82626.html#examples-problems",
-    "title": "Lecture 8-26-2026",
-    "section": "Examples Problems",
-    "text": "Examples Problems\nWrite the following numbers in scientific notation:\n\n0.00000756 = \\(7.56*10^-5\\)\n13500 = \\(1.35*10^4\\)\n56000000 = \\(5.6*10^7\\)\n0.0089 = \\(8.9*10^2\\)\n\nConvert the following numbers into the standard notation:\n\\(9.1*10^3\\)\nThis can be simplified to \\(9.1 * 1000 = 9100\\)\nErgo \\(9.1*10^3=9100\\)\n\\(3.56*10^-4 = 0.000356\\)\n\\(1.10*10^5 = 110,000\\)\nSo all that being said the exponent over 10 can be used to represent how many places the decimal point should move left (negative) or right (positive).",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-26-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_82626.html#units",
-    "href": "lectures/lecture_82626.html#units",
-    "title": "Lecture 8-26-2026",
-    "section": "Units",
-    "text": "Units\nSI Units\n\nSome fundamental SI units\n\n\nPhysical Quantity\nName of Unit\nAbbreviation\n\n\n\n\nmass\nkilogram\nkg\n\n\nlength\nmeter\nm\n\n\ntime\nsecond\ns\n\n\ntemperature\nkelvin\nK\n\n\n\n\nCommon Used Prefixes in the Metric System\n\n\nPrefix\nSymbol\nMeaning\nPower of 10 for Scientific Notation\n\n\n\n\nmega\nM\n1,000,000\n\\(10^6\\)\n\n\nkilo\nK\n1,000\n\\(10^3\\)\n\n\ndeci\nd\n0.1\n\\(10^{-1}\\)\n\n\ncenti\nc\n0.01\n\\(10^{-2}\\)\n\n\nmilli\nm\n0.001\n\\(10^{-3}\\)\n\n\nmicro\n\\(\\mu\\)\n0.000001\n\\(10^{-6}\\)\n\n\nnano\nn\n0.000000001\n\\(10^{-9}\\)\n\n\n\n\nSI Units of Length\n\nThe Metric System for Measuring Length\n\n\nUnit\nSymbol\nMeter Equivalent\n\n\n\n\nkilometer\nkm\n1000m or \\(10^3\\) m\n\n\nmeter\nm\n1m\n\n\ndecimeter\ndm\n0.1m or \\(10^{-1}\\) m\n\n\ncentimeter\ncm\n0.01m or \\(10^{-2}\\) m\n\n\nmillimeter\nmm\n0.001m or \\(10^{-3}\\) m\n\n\nmicrometer\n\\(\\mu\\)m\n0.000001m or \\(10^{-6}\\)m\n\n\nnanometer\nnm\n0.000000001 or \\(10^{-9}\\)m\n\n\n\n\n\nSI Units of Volume\nVolume is the amount of three dimensonal space occupied by a substance.\n\\(1 cm^2 = 1 mL\\)\n\n\nSI Units of Mass\nMass is the quanitity of matter present in an object. Everything has mass and volume.\nThe fundamental SI Unit of mass is the kilogram.",
-    "crumbs": [
-      "Lectures",
-      "Lecture 8-26-2026"
-    ]
-  },
-  {
-    "objectID": "lectures/lecture_10226.html",
-    "href": "lectures/lecture_10226.html",
-    "title": "Lecture 10-2-2026",
+    "objectID": "lectures/lecture_101226.html",
+    "href": "lectures/lecture_101226.html",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "Most Common “driving forces” of a chemical reaction are:\n\nThe Formation of a solid\nFormation of Water\nTransfer of Electrons\nFormation of gas\n\n\n\n\n\nOne driving force for a chemical reaction is the formation of a solid, the process called precipitation.\nThe solid that forms is called a precipitate, and the reaction is known as a precipitation reaction.\n\nE.g. removing lead from drinking water.\n\n\n\n\nIn virtually every case when a solid containing ions dissolves in water, the ions separate and move independently.\n\nE.g. \\(\\mathrm{Ba(NO_3)_2} \\mathit{(aq)}\\) doesn’t contain \\(\\mathrm{Ba(NO_3)_2}\\) units, instead it contains seperate \\(\\mathrm{Ba^{2+}}\\) and \\(\\mathrm{NO_3^-}\\) ions.\n\n\n\n\n\n\nChemists know that sperated ions are present when a solution is an excellent conductor of electricty.\nPure water does not conduct an electric current.\nIons must be present in the water for a current to flow.\nWhen each unit of a substance that dissolves in water produces seperated ions, the substance is called a strong electrolyte.\n\n\n\n\nExample of Electrolysis\n\n\n\n\n\nMixing Electrolytes Example\n\n\n\n\n\n\n\nA solid compound must have a zero net charge.\nMost Ionic materials contain only two types of ions, one type of cation and one type of anion.\n\n\n\n\n\n\n\nList of Solubulity Rules\n\n\nSlightly soluble and insoluble mean practically the same thing.\n\n\n\\(\\mathrm{NaOH}\\): Sodium Hydroxide is soluble. Meaning it will disolve in water.\n\\(\\mathrm{BaSO_4}\\) Does not have a rule so it is therefore insoluble. If paired\n\\(\\mathrm{CaCO_3}\\)\nTo identify look at the two ions in the compound. Figure out if they dissolve, if they do it’s soluble, if not it’s insoluble. If they are\nThe last two exmaples would be visible at the bottom of the solution whereas Sodium Hydroxide would not be visible in the solution.",
+    "text": "THe formation of a solid when two solutions are mixed. The solid that forms is called the Precipitate. You can determine what forms based on the solubility rules table:\n\n\n\nSolubility Rules\n\n\n\n\n\n\\[\n\\mathrm{K_2CrO_4 (aq) + Ba(NO_3)_2 (aq) \\rightarrow BaCrO_4 (s) + 2 KNO_3 (aq)}\n\\]\nIn the above reaction the two anions are exchanged. The products have inverse associates compared to the reactant side.\nThis occurs in acid-base reactions and precipitation reactions. It does not occur in electron exchange (redox) reactions.\n\n\n\nWhen a reaction involving a base and an acid occurs the formation of water and some other element is produced. Hydroxide and the extra hydrogen ion combine to create water.\n\n\n\n\\[\n\\mathrm{2Li(s) + F_2 (g) \\rightarrow 2LiF(s)}\n\\]\nIn this reaction each lithium atom loses one electron to form \\(\\mathrm{Li^+}\\) and each Fluorine gains the electron to form \\(\\mathrm{F^-}\\) ion.\nFor example:\n\\[\n\\mathrm{Fe (s) + CuCl_2 (aq) \\rightarrow Cu (s) + FeCl_2 (aq)}\n\\]\nThe iron reacts with the copper (II) chloride, as a result for copper (II) to remain stable as a solid it must gain two electrons to form a balanced Cu, otherwise it remains an ion at \\(\\mathrm{Cu^{2+}}\\)\nChlorine has two atoms in either Iron (II) chloride or copper (II) chloride. As a result, each Chlorine atom will gain one electron, and Iron will lose two electrons.\n\n\n\nA type of acid-base reaction in which a gas is formed in the products.\n\\[\n\\mathrm {2HCl (aq) + Na_2CO_3 (aq) \\rightarrow CO_2 (g) + H_2O (l) + NaCl(aq)}\n\\]\nThe reaction forms carbon dioxide out of it’s products as well as water.\n\n\n\n\\[\n\\mathrm{Zn (s) + 2 HCl(aq) \\rightarrow H_2 (g) + ZnCl_2 (aq)}\n\\]\nThis reaction is a type of oxidization-reduction reaction (redox). This reaction is also a single replacement reaction since a single type of anion was exchanged between \\(\\mathrm{H^+}\\) and \\(\\mathrm{CL^-}\\)\n\n\n\nMAny chemical reactions that involve oxygen produce energy (heat) so rapidly that a flame results.\nSuch reaction are called combustion reactions:\n\\[\n\\mathrm{CH_4 (g) + 2O_2 (g) \\rightarrow CO_2 (g) + 2 H_2O (g)}\n\\]\nTechincally also a redox reaction.\n\n\n\nWhen a given compound is formed via simpler materials, this is called a sythesis or combination reaction:\n\\[\n\\mathrm{2Na(s) + Cl_2 (g) \\rightarrow 2NaCl(s)}\n\\]\n\n\n\nIn many cases a compound can be broken down into simpler compounds or all the way to the component elements.\nThis is usually accomplished by heating or by application of an electric current\n\\[\n2H_2O (l) \\rightarrow 2H_2 + O_2\n\\]\n\n\n\nClasses of Reactions",
     "crumbs": [
       "Lectures",
-      "Lecture 10-2-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10226.html#determining-when-a-reaction-will-occur",
-    "href": "lectures/lecture_10226.html#determining-when-a-reaction-will-occur",
-    "title": "Lecture 10-2-2026",
+    "objectID": "lectures/lecture_101226.html#precipitation-reaction",
+    "href": "lectures/lecture_101226.html#precipitation-reaction",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "Most Common “driving forces” of a chemical reaction are:\n\nThe Formation of a solid\nFormation of Water\nTransfer of Electrons\nFormation of gas",
+    "text": "THe formation of a solid when two solutions are mixed. The solid that forms is called the Precipitate. You can determine what forms based on the solubility rules table:\n\n\n\nSolubility Rules",
     "crumbs": [
       "Lectures",
-      "Lecture 10-2-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10226.html#precipitation-reactions",
-    "href": "lectures/lecture_10226.html#precipitation-reactions",
-    "title": "Lecture 10-2-2026",
+    "objectID": "lectures/lecture_101226.html#double-displacement-reaction",
+    "href": "lectures/lecture_101226.html#double-displacement-reaction",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "One driving force for a chemical reaction is the formation of a solid, the process called precipitation.\nThe solid that forms is called a precipitate, and the reaction is known as a precipitation reaction.\n\nE.g. removing lead from drinking water.",
+    "text": "\\[\n\\mathrm{K_2CrO_4 (aq) + Ba(NO_3)_2 (aq) \\rightarrow BaCrO_4 (s) + 2 KNO_3 (aq)}\n\\]\nIn the above reaction the two anions are exchanged. The products have inverse associates compared to the reactant side.\nThis occurs in acid-base reactions and precipitation reactions. It does not occur in electron exchange (redox) reactions.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-2-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10226.html#ionic-compounds-in-water",
-    "href": "lectures/lecture_10226.html#ionic-compounds-in-water",
-    "title": "Lecture 10-2-2026",
+    "objectID": "lectures/lecture_101226.html#acid-base-reaction",
+    "href": "lectures/lecture_101226.html#acid-base-reaction",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "In virtually every case when a solid containing ions dissolves in water, the ions separate and move independently.\n\nE.g. \\(\\mathrm{Ba(NO_3)_2} \\mathit{(aq)}\\) doesn’t contain \\(\\mathrm{Ba(NO_3)_2}\\) units, instead it contains seperate \\(\\mathrm{Ba^{2+}}\\) and \\(\\mathrm{NO_3^-}\\) ions.",
+    "text": "When a reaction involving a base and an acid occurs the formation of water and some other element is produced. Hydroxide and the extra hydrogen ion combine to create water.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-2-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10226.html#strong-electrolytes",
-    "href": "lectures/lecture_10226.html#strong-electrolytes",
-    "title": "Lecture 10-2-2026",
+    "objectID": "lectures/lecture_101226.html#oxidation-reduction-reaction",
+    "href": "lectures/lecture_101226.html#oxidation-reduction-reaction",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "Chemists know that sperated ions are present when a solution is an excellent conductor of electricty.\nPure water does not conduct an electric current.\nIons must be present in the water for a current to flow.\nWhen each unit of a substance that dissolves in water produces seperated ions, the substance is called a strong electrolyte.\n\n\n\n\nExample of Electrolysis\n\n\n\n\n\nMixing Electrolytes Example",
+    "text": "\\[\n\\mathrm{2Li(s) + F_2 (g) \\rightarrow 2LiF(s)}\n\\]\nIn this reaction each lithium atom loses one electron to form \\(\\mathrm{Li^+}\\) and each Fluorine gains the electron to form \\(\\mathrm{F^-}\\) ion.\nFor example:\n\\[\n\\mathrm{Fe (s) + CuCl_2 (aq) \\rightarrow Cu (s) + FeCl_2 (aq)}\n\\]\nThe iron reacts with the copper (II) chloride, as a result for copper (II) to remain stable as a solid it must gain two electrons to form a balanced Cu, otherwise it remains an ion at \\(\\mathrm{Cu^{2+}}\\)\nChlorine has two atoms in either Iron (II) chloride or copper (II) chloride. As a result, each Chlorine atom will gain one electron, and Iron will lose two electrons.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-2-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10226.html#determining-what-products-form",
-    "href": "lectures/lecture_10226.html#determining-what-products-form",
-    "title": "Lecture 10-2-2026",
+    "objectID": "lectures/lecture_101226.html#gas-evolution-reaction",
+    "href": "lectures/lecture_101226.html#gas-evolution-reaction",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "A solid compound must have a zero net charge.\nMost Ionic materials contain only two types of ions, one type of cation and one type of anion.",
+    "text": "A type of acid-base reaction in which a gas is formed in the products.\n\\[\n\\mathrm {2HCl (aq) + Na_2CO_3 (aq) \\rightarrow CO_2 (g) + H_2O (l) + NaCl(aq)}\n\\]\nThe reaction forms carbon dioxide out of it’s products as well as water.",
     "crumbs": [
       "Lectures",
-      "Lecture 10-2-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_10226.html#solubility-rules",
-    "href": "lectures/lecture_10226.html#solubility-rules",
-    "title": "Lecture 10-2-2026",
+    "objectID": "lectures/lecture_101226.html#single-replacement-reactions",
+    "href": "lectures/lecture_101226.html#single-replacement-reactions",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "List of Solubulity Rules\n\n\nSlightly soluble and insoluble mean practically the same thing.\n\n\n\\(\\mathrm{NaOH}\\): Sodium Hydroxide is soluble. Meaning it will disolve in water.\n\\(\\mathrm{BaSO_4}\\) Does not have a rule so it is therefore insoluble. If paired\n\\(\\mathrm{CaCO_3}\\)\nTo identify look at the two ions in the compound. Figure out if they dissolve, if they do it’s soluble, if not it’s insoluble. If they are\nThe last two exmaples would be visible at the bottom of the solution whereas Sodium Hydroxide would not be visible in the solution.",
+    "text": "\\[\n\\mathrm{Zn (s) + 2 HCl(aq) \\rightarrow H_2 (g) + ZnCl_2 (aq)}\n\\]\nThis reaction is a type of oxidization-reduction reaction (redox). This reaction is also a single replacement reaction since a single type of anion was exchanged between \\(\\mathrm{H^+}\\) and \\(\\mathrm{CL^-}\\)",
     "crumbs": [
       "Lectures",
-      "Lecture 10-2-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_92126.html",
-    "href": "lectures/lecture_92126.html",
-    "title": "Lecture 9-21-2026",
+    "objectID": "lectures/lecture_101226.html#combustion-reaction",
+    "href": "lectures/lecture_101226.html#combustion-reaction",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "\\(\\mathrm{SO_3^{2-}}\\): Sulfite (The number of oxygen determines the name of the polyatomic ions, the presence of hydrogen just adds to the front of the name in either hydrogen or dihydrogen)\n\\(\\mathrm{CN^-}\\): Cyanide\n\\(\\mathrm{NH_4^+}\\): Ammonium\n\\(\\mathrm{NH_3^+}\\): Ammoniu??? This sucks to spell\n\\(\\mathrm{Ca(OCl)_2}\\) Calcium hypochlorite\n\\(\\mathrm{Ti(SO_4)_2}\\): Titanium (IV) sulfate\n\\(\\mathrm{KH_2PO_4}\\): Potassium dihydrogen phospate\n\\(\\mathrm{K_3P}\\): Potassium phosphide\n\n\n\nFigure containing logic tree for naming polyatomic ions\n\n\n\n\n\nAcids produce \\(\\mathrm{H^+}\\) when dissolved to water.\n\nAlso said to be dontating a proton because \\(\\mathrm{H^+}\\) is literally a proton without an electron.\n\nAcids solutions have a sour taste.\nAn acid can be viewed as a molecule with one or more \\(\\mathrm{H^+}\\) ions attached to an anion.\nThe rules for naming acids depend on whether the anion contains oxygen.\n\n\n\n\nIF the anion doesn’t contain oxygen, the acid named with the prefix hydro and the suffix -ic attached to the root name for the element:\n\ne.g. Hydrochloric acid.\n\nWhen the anion contains oxygen, the acid name is formed from the root name of the central element of the anion or the anion name, with a suffic of -ic or -ous, when the anion name ends in -ate, the suffix -ic is used.\nWhen the anion name ends in -ite the suffix -ous is used in the acid name.\n\n\\(\\mathrm{HClO_4}\\), Anion: perchorate, Name: perchloric acid\n\\(\\mathrm{HClO_3}\\) Anion: Chlorate: Name chloric acid\n\\(\\mathrm{HClO_2}\\) Anion: Chlorite Name: chlorous acid\n\\(\\mathrm{HClO}\\) Anion: hypochlorite Name: hypochlorous acid\n\n\n\nLogic for naming Acids\n\n\n\n\n\nTable of common Acids\n\n\n\\(\\mathrm{HF}\\) Hydro fluoric acid\n\\(\\mathrm{H_2S}\\) hydro sulfuiric acid\n\\(\\mathrm{HI}\\) hydro iodic acid\n\\(\\mathrm{H_2Se}\\) hydro selenic acid\n\\(\\mathrm{HBr}\\) hydro bromic acid\n\n\n\n\nImport to know when balancing equations.\nCl, Br, I are the 3 binary acids.\n\\(\\mathrm{HCl}\\), \\(\\mathrm{HBr}\\), and \\(\\mathrm{HI}\\)\nThen Poly atomic acids\n\\(\\mathrm{H_2SO_4}\\), \\(\\mathrm{HNO_3}\\), \\(\\mathrm{HClO_4}\\), and \\(\\mathrm{HClO_3}\\)\n\n\nNaming Acids Practice:\n\\(\\mathrm{HNO_2}\\): Nitrous Acid\n\\(\\mathrm{H_2SO_3}\\): sufurous acid\n\\(\\mathrm{H_3PO_4}\\): phosphoric acid\n\\(\\mathrm{H_2CO_3}\\): Carbonic acid\n\\(\\mathrm{HC_2H_3O_2}\\): Acetic acid (Vinegar).\n\\(\\mathrm{HCN}\\): Hydrocyanic acid\n\nImportant to learn the name, composition, and charge of each of the common polyatomic anions ( and the \\(\\mathrm{NH_4^+}\\) cation).\nKnowing the charge of all elements presence is important when balancing chemical formulas.",
+    "text": "MAny chemical reactions that involve oxygen produce energy (heat) so rapidly that a flame results.\nSuch reaction are called combustion reactions:\n\\[\n\\mathrm{CH_4 (g) + 2O_2 (g) \\rightarrow CO_2 (g) + 2 H_2O (g)}\n\\]\nTechincally also a redox reaction.",
     "crumbs": [
       "Lectures",
-      "Lecture 9-21-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_92126.html#acids",
-    "href": "lectures/lecture_92126.html#acids",
-    "title": "Lecture 9-21-2026",
+    "objectID": "lectures/lecture_101226.html#synthesis-reactions",
+    "href": "lectures/lecture_101226.html#synthesis-reactions",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "Acids produce \\(\\mathrm{H^+}\\) when dissolved to water.\n\nAlso said to be dontating a proton because \\(\\mathrm{H^+}\\) is literally a proton without an electron.\n\nAcids solutions have a sour taste.\nAn acid can be viewed as a molecule with one or more \\(\\mathrm{H^+}\\) ions attached to an anion.\nThe rules for naming acids depend on whether the anion contains oxygen.\n\n\n\n\nIF the anion doesn’t contain oxygen, the acid named with the prefix hydro and the suffix -ic attached to the root name for the element:\n\ne.g. Hydrochloric acid.\n\nWhen the anion contains oxygen, the acid name is formed from the root name of the central element of the anion or the anion name, with a suffic of -ic or -ous, when the anion name ends in -ate, the suffix -ic is used.\nWhen the anion name ends in -ite the suffix -ous is used in the acid name.\n\n\\(\\mathrm{HClO_4}\\), Anion: perchorate, Name: perchloric acid\n\\(\\mathrm{HClO_3}\\) Anion: Chlorate: Name chloric acid\n\\(\\mathrm{HClO_2}\\) Anion: Chlorite Name: chlorous acid\n\\(\\mathrm{HClO}\\) Anion: hypochlorite Name: hypochlorous acid\n\n\n\nLogic for naming Acids\n\n\n\n\n\nTable of common Acids\n\n\n\\(\\mathrm{HF}\\) Hydro fluoric acid\n\\(\\mathrm{H_2S}\\) hydro sulfuiric acid\n\\(\\mathrm{HI}\\) hydro iodic acid\n\\(\\mathrm{H_2Se}\\) hydro selenic acid\n\\(\\mathrm{HBr}\\) hydro bromic acid",
+    "text": "When a given compound is formed via simpler materials, this is called a sythesis or combination reaction:\n\\[\n\\mathrm{2Na(s) + Cl_2 (g) \\rightarrow 2NaCl(s)}\n\\]",
     "crumbs": [
       "Lectures",
-      "Lecture 9-21-2026"
+      "Lecture 10-12-2026"
     ]
   },
   {
-    "objectID": "lectures/lecture_92126.html#seven-strong-acids",
-    "href": "lectures/lecture_92126.html#seven-strong-acids",
-    "title": "Lecture 9-21-2026",
+    "objectID": "lectures/lecture_101226.html#decomposition-reaction",
+    "href": "lectures/lecture_101226.html#decomposition-reaction",
+    "title": "Lecture 10-12-2026",
     "section": "",
-    "text": "Import to know when balancing equations.\nCl, Br, I are the 3 binary acids.\n\\(\\mathrm{HCl}\\), \\(\\mathrm{HBr}\\), and \\(\\mathrm{HI}\\)\nThen Poly atomic acids\n\\(\\mathrm{H_2SO_4}\\), \\(\\mathrm{HNO_3}\\), \\(\\mathrm{HClO_4}\\), and \\(\\mathrm{HClO_3}\\)\n\n\nNaming Acids Practice:\n\\(\\mathrm{HNO_2}\\): Nitrous Acid\n\\(\\mathrm{H_2SO_3}\\): sufurous acid\n\\(\\mathrm{H_3PO_4}\\): phosphoric acid\n\\(\\mathrm{H_2CO_3}\\): Carbonic acid\n\\(\\mathrm{HC_2H_3O_2}\\): Acetic acid (Vinegar).\n\\(\\mathrm{HCN}\\): Hydrocyanic acid\n\nImportant to learn the name, composition, and charge of each of the common polyatomic anions ( and the \\(\\mathrm{NH_4^+}\\) cation).\nKnowing the charge of all elements presence is important when balancing chemical formulas.",
+    "text": "In many cases a compound can be broken down into simpler compounds or all the way to the component elements.\nThis is usually accomplished by heating or by application of an electric current\n\\[\n2H_2O (l) \\rightarrow 2H_2 + O_2\n\\]\n\n\n\nClasses of Reactions",
     "crumbs": [
       "Lectures",
-      "Lecture 9-21-2026"
+      "Lecture 10-12-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_91626.html",
+    "href": "lectures/lecture_91626.html",
+    "title": "Lecture 9-16-2026",
+    "section": "",
+    "text": "Binary compounds are compounds composed of two elements\nYou can divide binary compounds into two broad classes\n\nCompounds that contain a metal and a nonmetal\nCompounds that contain two nonmetal\n\n\n\n\nWhen a metal combines with a non-metal the resulting compound contains ions.\nThe metal will lose an electron and form a cation. The nonmetal gains the electron and becomes an anion.\nThe naming convention is anion first then cation.\n\n\n\n\nCertain metal atoms only from one cation.\n\nFor example, \\(\\mathrm{Na}\\) only form \\(\\mathrm{Na}^+\\), likewise \\(\\mathrm{Cs}\\) only forms \\(\\mathrm{Cs}2+\\)\n\n\nNaming Type I Compounds:\n\n\\(\\mathrm{KCl}\\)\n\nThis is a type I compound\n\n\n\n\n\nThese metal atoms can form two or more cations, these are also Type II Binary Compounds. These are typically transition metals.\n\n\n\nName the Cation first and then the Anion. A simple cation takes its name from the name of the element.\nA simple Anion is named by taking the first part of the element name (the root) and adding “-ide” to the end.\nTherefore \\(\\mathrm{Cl}^-\\) is Chloride.\n\nCompounds formed from metals and nonmetals are ionic.\nIn an ionic compound the cation is always named first.\nThe net charge on the ionic compound is always zero.\n\nEx: \\(\\mathrm{LiBr}\\) is Lithium bromide\n\\(\\mathrm{SrCl_2}\\) is Strontium chloride\n\\(\\mathrm{Rb_2Se}\\) Rubidium selenide\n\\(\\mathrm{CaO}\\) Calcium oxide\n\\(\\mathrm{AlF_3}\\) is Aluminum fluoride\n\n\n\n\n\n\nCommon Cations in Type II Ionic Compounds\n\n\nMany metal atoms can form two or more cations. We use the Roman numeral to specify the charge on the cation. When dealing with transition metals in an ionic compound use the naming convention for example \\(\\mathrm{Fe}^{3+}\\) just say iron(III). The roman numeral specifies the charge on the element in the ion.\n\nThe cation is always named first and the anion second.\nBecause the cation can assume more than one charge, the charge is specified by a Roman numeral in parenthesis.\n\nThis is easy as ionic compounds are balanced (with regards to charge) so we can derive the charge on the transition metal.\nEx: \\(\\mathrm{CuF}\\) would have \\(\\mathrm{Cu}^+\\) and \\(\\mathrm{F}^-\\). So we know we have copper(I) fluoride. Whereas with \\(\\mathrm{CuF_2}\\) gives us \\(\\mathrm{Cu}^{2+}\\) therefore, we have copper(II) fluoride.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-16-2026"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture_91626.html#binary-compounds",
+    "href": "lectures/lecture_91626.html#binary-compounds",
+    "title": "Lecture 9-16-2026",
+    "section": "",
+    "text": "Binary compounds are compounds composed of two elements\nYou can divide binary compounds into two broad classes\n\nCompounds that contain a metal and a nonmetal\nCompounds that contain two nonmetal\n\n\n\n\nWhen a metal combines with a non-metal the resulting compound contains ions.\nThe metal will lose an electron and form a cation. The nonmetal gains the electron and becomes an anion.\nThe naming convention is anion first then cation.\n\n\n\n\nCertain metal atoms only from one cation.\n\nFor example, \\(\\mathrm{Na}\\) only form \\(\\mathrm{Na}^+\\), likewise \\(\\mathrm{Cs}\\) only forms \\(\\mathrm{Cs}2+\\)\n\n\nNaming Type I Compounds:\n\n\\(\\mathrm{KCl}\\)\n\nThis is a type I compound\n\n\n\n\n\nThese metal atoms can form two or more cations, these are also Type II Binary Compounds. These are typically transition metals.\n\n\n\nName the Cation first and then the Anion. A simple cation takes its name from the name of the element.\nA simple Anion is named by taking the first part of the element name (the root) and adding “-ide” to the end.\nTherefore \\(\\mathrm{Cl}^-\\) is Chloride.\n\nCompounds formed from metals and nonmetals are ionic.\nIn an ionic compound the cation is always named first.\nThe net charge on the ionic compound is always zero.\n\nEx: \\(\\mathrm{LiBr}\\) is Lithium bromide\n\\(\\mathrm{SrCl_2}\\) is Strontium chloride\n\\(\\mathrm{Rb_2Se}\\) Rubidium selenide\n\\(\\mathrm{CaO}\\) Calcium oxide\n\\(\\mathrm{AlF_3}\\) is Aluminum fluoride\n\n\n\n\n\n\nCommon Cations in Type II Ionic Compounds\n\n\nMany metal atoms can form two or more cations. We use the Roman numeral to specify the charge on the cation. When dealing with transition metals in an ionic compound use the naming convention for example \\(\\mathrm{Fe}^{3+}\\) just say iron(III). The roman numeral specifies the charge on the element in the ion.\n\nThe cation is always named first and the anion second.\nBecause the cation can assume more than one charge, the charge is specified by a Roman numeral in parenthesis.\n\nThis is easy as ionic compounds are balanced (with regards to charge) so we can derive the charge on the transition metal.\nEx: \\(\\mathrm{CuF}\\) would have \\(\\mathrm{Cu}^+\\) and \\(\\mathrm{F}^-\\). So we know we have copper(I) fluoride. Whereas with \\(\\mathrm{CuF_2}\\) gives us \\(\\mathrm{Cu}^{2+}\\) therefore, we have copper(II) fluoride.",
+    "crumbs": [
+      "Lectures",
+      "Lecture 9-16-2026"
     ]
   },
   {
