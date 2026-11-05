@@ -1,0 +1,574 @@
+---
+title: "CHEM 1301 Exam 3 — Master Study Guide"
+subtitle: "Chapter 7 (Reactions in Aqueous Solutions) · Chapter 8 (Chemical Composition) · Chapter 9 (Chemical Quantities)"
+format:
+  pdf:
+    geometry: margin=0.75in
+    fontsize: 11pt
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    colorlinks: true
+---
+
+# How to use this guide
+
+* **Exam format:** 30–35 multiple-choice questions, choices a–e. You get a periodic table. **You do not get the
+  solubility rules, so memorize Table 7.1** (Section 7.3).
+* **Mix:** expect about half concept questions (definitions, classifications, "which is true") and half calculations.
+* Each section lists the slides it comes from (`Chapter N post.pdf` / `.pptx`, same slide numbers). **Definitions are
+  in the course's wording.** When a textbook or website words something differently, go with the slides.
+* Every "Worked example" is a practice problem from the slides, solved step by step. Cover the solution, try it, then check.
+* After each practice exam, use its key's "Source" line to jump back to the matching section here.
+
+\newpage
+
+# Chapter 7 — Reactions in Aqueous Solutions
+
+## 7.1 Driving forces (Ch 7 slides 2–4)
+
+A reaction tends to happen when it forms one of these. Memorize all four.
+
+1. **Formation of a solid** (precipitation)
+2. **Formation of water** (acid–base)
+3. **Transfer of electrons** (oxidation–reduction)
+4. **Formation of a gas** (gas evolution)
+
+## 7.2 Ions in water and electrolytes (Ch 7 slides 6–10)
+
+* When an ionic solid dissolves, **the ions separate and move around independently**. Ba(NO~3~)~2~(aq) contains
+  separated Ba^2+^ and NO~3~^−^ ions (two NO~3~^−^ for every Ba^2+^), not Ba(NO~3~)~2~ units.
+* Pure water does **not** conduct electricity. Ions must be present for current to flow.
+* **Strong electrolyte:** a substance where every unit that dissolves produces separated ions.
+* **A solid compound must have zero net charge**, so a precipitate must contain both a cation and an anion. Two cations
+  (K^+^ and Ba^2+^) or two anions (CrO~4~^2−^ and NO~3~^−^) can never form a solid together (slide 10).
+
+## 7.3 Solubility rules — MEMORIZE (Ch 7 slide 11, Table 7.1)
+
+| # | Rule | Exceptions to know |
+|:-:|:--|:--|
+| 1 | Most **nitrate** (NO~3~^−^) salts are **soluble** | — |
+| 2 | Most salts of **Na^+^, K^+^, NH~4~^+^** are **soluble** | — |
+| 3 | Most **chloride** salts are **soluble** | **AgCl, PbCl~2~, Hg~2~Cl~2~** are insoluble |
+| 4 | Most **sulfate** salts are **soluble** | **BaSO~4~, PbSO~4~, CaSO~4~** are insoluble |
+| 5 | Most **hydroxides** are only **slightly soluble** | **NaOH, KOH** soluble; Ba(OH)~2~, Ca(OH)~2~ moderately soluble |
+| 6 | Most **sulfide** (S^2−^), **carbonate** (CO~3~^2−^), **phosphate** (PO~4~^3−^) salts are only **slightly soluble** | — |
+
+"Insoluble" and "slightly soluble" mean the same thing here: too little dissolves to see.
+
+**Rules 1 and 2 beat rules 5 and 6.** If a compound contains Na^+^, K^+^, NH~4~^+^, or NO~3~^−^, it is soluble, even when
+the other ion is a sulfide, carbonate, phosphate, or hydroxide. Examples: (NH~4~)~2~S, K~3~PO~4~, and Na~2~CO~3~ are all **soluble**.
+
+Memory aid, in three tiers:
+
+* **Always soluble:** NO~3~^−^, Na^+^, K^+^, NH~4~^+^.
+* **Soluble except:** Cl^−^ (except **Ag, Pb, Hg~2~**), SO~4~^2−^ (except **Ba, Pb, Ca**). Pb is on both exception lists.
+* **Insoluble except tier 1:** OH^−^ (NaOH, KOH soluble), S^2−^, CO~3~^2−^, PO~4~^3−^.
+
+**Worked example (slide 12).** Classify NaOH, BaSO~4~, CaCO~3~.
+
+* NaOH: **soluble**. It is a named exception in rule 5, and rule 2 covers Na^+^.
+* BaSO~4~: **insoluble**. It is a named exception in rule 4.
+* CaCO~3~: **insoluble**. Rule 6 covers carbonates, and Ca^2+^ is not a rule-2 cation.
+
+**HW14 style:** "Which rule explains why ammonium sulfide is soluble?" Answer: *most salts of NH~4~^+^ are soluble* (rule 2),
+**not** the sulfide rule.
+
+## 7.4 Predicting precipitates (Ch 7 slide 14)
+
+1. **Write the reactants as they actually exist** (separated ions).
+2. **Consider the solids that could form** by **exchanging the anions**.
+3. **Use the solubility rules** to decide whether either product is insoluble. If neither is, write **NR** (no reaction).
+
+**Worked example (slides 15–17).** K~2~CrO~4~(aq) + Ba(NO~3~)~2~(aq).
+The ions are K^+^, CrO~4~^2−^, Ba^2+^, NO~3~^−^. Swapping anions gives KNO~3~ (soluble, rules 1 and 2) and BaCrO~4~,
+which is the solid on the slides.
+
+$$\text{K}_2\text{CrO}_4(aq) + \text{Ba(NO}_3)_2(aq) \rightarrow \text{BaCrO}_4(s) + 2\text{KNO}_3(aq)$$
+
+**NR example (HW15).** KNO~3~(aq) + Na~2~S(aq). Swapping gives K~2~S and NaNO~3~. Both contain rule-2 cations, so both are
+soluble and the answer is **NR**.
+
+## 7.5 Three kinds of equations (Ch 7 slides 15–20)
+
+| Equation | Shows | Spectator ions? |
+|:--|:--|:-:|
+| **Molecular** | complete formulas of all reactants and products; doesn't show the actual forms in solution | n/a |
+| **Complete ionic** | every **strong electrolyte** written as separated ions; **all** reactants and products included | included |
+| **Net ionic** | **only the components that undergo a change** (are directly involved) | **left out** |
+
+* **Spectator ions:** ions that don't participate directly in the reaction. They appear unchanged on both sides.
+* Write as ions: soluble ionic compounds (aq), strong acids, strong bases. Keep as full formulas: solids (s), water (l),
+  gases (g), and weak acids such as HNO~2~.
+
+**Worked example (slide 19).** Pb(NO~3~)~2~(aq) + 2KI(aq) $\rightarrow$ PbI~2~(s) + 2KNO~3~(aq)
+
+* Complete ionic: Pb^2+^(aq) + 2NO~3~^−^(aq) + 2K^+^(aq) + 2I^−^(aq) $\rightarrow$ PbI~2~(s) + 2K^+^(aq) + 2NO~3~^−^(aq)
+* Cancel the spectators K^+^ and NO~3~^−^.
+* Net ionic: **Pb^2+^(aq) + 2I^−^(aq) $\rightarrow$ PbI~2~(s)**
+
+**Worked example (slide 20).** Sodium chloride solution added to silver nitrate solution.
+
+* Molecular: NaCl(aq) + AgNO~3~(aq) $\rightarrow$ AgCl(s) + NaNO~3~(aq). AgCl is a rule-3 exception.
+* Complete ionic: Na^+^(aq) + Cl^−^(aq) + Ag^+^(aq) + NO~3~^−^(aq) $\rightarrow$ AgCl(s) + Na^+^(aq) + NO~3~^−^(aq)
+* Net ionic: **Ag^+^(aq) + Cl^−^(aq) $\rightarrow$ AgCl(s)**
+
+**Net ionic checklist:** right states, the smallest whole-number coefficients, and both charge and atoms balanced.
+
+## 7.6 Acids, bases, and acid–base reactions (Ch 7 slides 21–28)
+
+**Course definitions**
+
+* **Arrhenius acid:** a substance that produces **H^+^ ions** (protons) when dissolved in water.
+* **Arrhenius base:** a substance that produces **hydroxide ions (OH^−^)** in water.
+* **Strong acid:** a substance that **completely dissociates (ionizes)** in water. Each molecule breaks into H^+^ plus an anion.
+  Because strong acids are strong electrolytes that produce H^+^, they are called strong acids.
+* **Strong base:** a **metal hydroxide that is very soluble in water** and completely breaks up into separated ions.
+  Strong bases are **strong electrolytes**.
+* **Salt:** the ionic compound formed along with water in an acid–base reaction. It may stay dissolved or precipitate.
+
+**Memorize the lists:**
+
+* **Strong acids: HCl, HNO~3~, H~2~SO~4~.** Anything else here (HNO~2~, HF, HC~2~H~3~O~2~, H~3~PO~4~) is not on the list.
+* **Strong bases: NaOH, KOH.** (HW16 also uses CsOH, another very soluble group-1 hydroxide.)
+
+**The six principles (slides 24–26), condensed**
+
+1. The common strong acids are HCl, HNO~3~, H~2~SO~4~.
+2. A strong acid completely dissociates.
+3. A strong base is a very soluble metal hydroxide (NaOH, KOH) that completely breaks into ions.
+4. **Strong acid + strong base always has the same net ionic equation: H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l).**
+5. One product is always water. The other is a **salt** that stays dissolved and can be recovered by evaporating the water.
+6. H^+^ is the acidic ion and OH^−^ is the basic ion.
+
+**Naming the salt (HW16):** the base's cation goes with the acid's anion. HI + NaOH gives **NaI**, NaOH + HNO~3~ gives
+**NaNO~3~**, and HCl + CsOH gives **CsCl**.
+
+**Worked example (slide 27).** Balance H~3~PO~4~ + Ca(OH)~2~ $\rightarrow$ Ca~3~(PO~4~)~2~ + H~2~O.
+
+1. Balance Ca: 3 Ca(OH)~2~.
+2. Balance PO~4~ as a unit: 2 H~3~PO~4~.
+3. Balance H and O: 6 H^+^ + 6 OH^−^ make 6 H~2~O.
+
+$$2\text{H}_3\text{PO}_4 + 3\text{Ca(OH)}_2 \rightarrow \text{Ca}_3(\text{PO}_4)_2(s) + 6\text{H}_2\text{O}(l)$$
+
+Ca~3~(PO~4~)~2~ is a phosphate (rule 6), so it precipitates. Phosphoric acid isn't on the strong-acid list, so leave it
+molecular in the ionic equations:
+
+* Net ionic: 2H~3~PO~4~(aq) + 3Ca^2+^(aq) + 6OH^−^(aq) $\rightarrow$ Ca~3~(PO~4~)~2~(s) + 6H~2~O(l)
+
+**Worked example (slide 28).** Nitrous acid + potassium hydroxide.
+
+* Molecular: HNO~2~(aq) + KOH(aq) $\rightarrow$ KNO~2~(aq) + H~2~O(l), which is already balanced.
+* HNO~2~ is not a strong acid, so it stays molecular. KOH and KNO~2~ are written as ions.
+* Complete ionic: HNO~2~(aq) + K^+^(aq) + OH^−^(aq) $\rightarrow$ K^+^(aq) + NO~2~^−^(aq) + H~2~O(l)
+* Net ionic: **HNO~2~(aq) + OH^−^(aq) $\rightarrow$ NO~2~^−^(aq) + H~2~O(l)**. Only a **strong** acid gives H^+^ + OH^−^ $\rightarrow$ H~2~O.
+
+## 7.7 Oxidation–reduction (Ch 7 slides 29–34, 38)
+
+* **Oxidation–reduction (redox) reaction:** a reaction that involves a **transfer of electrons**. One species loses electrons
+  and another gains them (HW16).
+* **Principle 1:** **metal + nonmetal always makes an ionic compound and is always redox.** The metal loses electrons to become
+  a cation, and the nonmetal gains them to become an anion.
+* **Principle 2:** two nonmetals can also undergo redox. **For now, you recognize these by O~2~ appearing as a reactant or
+  product.** The compound formed by two nonmetals is not ionic.
+
+**How many electrons?** Use the charges in the ionic product. The number of electrons lost per metal atom equals the cation's charge.
+
+| Reaction | Ions formed | Electrons |
+|:--|:--|:--|
+| 2Li + F~2~ $\rightarrow$ 2LiF (slide 38) | Li^+^, F^−^ | each Li loses 1; each F gains 1 |
+| Ba + Cl~2~ $\rightarrow$ BaCl~2~ (HW16) | Ba^2+^, Cl^−^ | Ba loses 2; Cl~2~ gains 2 (1 per Cl) |
+| **2Al + N~2~ $\rightarrow$ 2AlN (slide 33)** | Al^3+^, N^3−^ | **each Al loses 3**; each N gains 3 |
+
+**Worked example (slide 34).** Solid copper reacts with aqueous iron(II) chloride to form solid iron and aqueous copper(II) chloride.
+
+$$\text{Cu}(s) + \text{FeCl}_2(aq) \rightarrow \text{Fe}(s) + \text{CuCl}_2(aq)$$
+
+This is already balanced. Cu (0) becomes Cu^2+^, so **Cu loses 2 e^−^**. Fe^2+^ becomes Fe (0), so **Fe^2+^ gains 2 e^−^**.
+Cl^−^ doesn't change; it is a spectator.
+
+## 7.8 Classifying reactions (Ch 7 slides 35–45)
+
+| Class | How to spot it | Slide example |
+|:--|:--|:--|
+| **Precipitation** | two solutions make a **solid** | K~2~CrO~4~ + Ba(NO~3~)~2~ $\rightarrow$ BaCrO~4~(s) + 2KNO~3~ |
+| **Double-displacement** (double-exchange) | two anions **swap** partners | same as above |
+| **Acid–base** | H^+^ ends up in **water** | HCl + KOH $\rightarrow$ H~2~O + KCl |
+| **Oxidation–reduction** | **electrons transferred** (metal + nonmetal, or O~2~ involved) | 2Li + F~2~ $\rightarrow$ 2LiF |
+| **Gas evolution** | a **gas** forms (also acid–base here) | 2HCl + Na~2~CO~3~ $\rightarrow$ CO~2~(g) + H~2~O + 2NaCl |
+| **Single-replacement** | **one** anion moves from one cation to another (always redox) | Zn + 2HCl $\rightarrow$ ZnCl~2~ + H~2~ |
+| **Combustion** | reacts with **oxygen**, releasing energy so fast that a **flame** results | CH~4~ + 2O~2~ $\rightarrow$ CO~2~ + 2H~2~O |
+| **Synthesis** (combination) | a compound forms from **simpler materials** | 2Na + Cl~2~ $\rightarrow$ 2NaCl |
+| **Decomposition** | a compound breaks into simpler compounds or elements, usually by **heat or electric current** | 2HgO $\rightarrow$ 2Hg + O~2~ |
+
+**One reaction can belong to several classes** (HW17):
+
+* C + O~2~ $\rightarrow$ CO~2~ is synthesis, combustion, and redox.
+* 2Fe + 3Cl~2~ $\rightarrow$ 2FeCl~3~ is synthesis and redox, but **not** combustion (no O~2~).
+* Combustion and synthesis/decomposition with elements are all redox. Combustion also produces **heat/energy** (HW17).
+
+**Worked example (slide 44).**
+
+* N~2~ + 3H~2~ $\rightarrow$ 2NH~3~ is **synthesis**.
+* C~6~H~12~O~6~ + 6O~2~ $\rightarrow$ 6CO~2~ + 6H~2~O is **combustion**.
+* 2H~2~O $\rightarrow$ 2H~2~ + O~2~ is **decomposition**.
+
+**Balancing from words (HW17):**
+
+* Phosphorus + chlorine: P~4~ + 6Cl~2~ $\rightarrow$ 4PCl~3~
+* Ammonium nitrite decomposes: NH~4~NO~2~ $\rightarrow$ N~2~ + 2H~2~O
+* Hydrobromic acid decomposes: 2HBr $\rightarrow$ H~2~ + Br~2~
+
+\newpage
+
+# Chapter 8 — Chemical Composition
+
+## 8.1 Counting by weighing; atomic mass units (Ch 8 slides 2–6)
+
+* Objects that differ slightly can be **counted by weighing** if you know their **average mass** (the jellybean idea).
+* **Atomic mass unit:** 1 amu = 1.66 × 10^−24^ g. Average atomic masses: H 1.008, C 12.01, N 14.01, O 16.00, Na 22.99, Al 26.98.
+* **Key idea (slide 6):** samples whose masses are in the **same ratio as their atomic masses** contain the **same number of
+  atoms**. So 26.98 g Al and 63.55 g Cu contain the same number of atoms.
+
+## 8.2 The mole (Ch 8 slides 7–9)
+
+* **Mole (course definition):** the number equal to the number of carbon atoms in **12.01 g of carbon**.
+* **Avogadro's number:** 6.022 × 10^23^. One mole of anything is 6.022 × 10^23^ units of it.
+* 1 mol of any element has a mass in grams equal to its atomic mass (Table 8.2): Al 26.98 g, Au 196.97 g, Fe 55.85 g,
+  S 32.07 g, B 10.81 g, Xe 131.3 g, and every one of these contains 6.022 × 10^23^ atoms.
+
+## 8.3 The conversion map (Ch 8 slides 10–15)
+
+$$\text{grams} \;\xrightarrow{\;\div\ \text{molar mass}\;}\; \text{moles} \;\xrightarrow{\;\times\ 6.022\times10^{23}\;}\; \text{atoms or molecules}$$
+
+Go backward by doing the opposite operations. **Moles are always the middle step.** For mg, $\mu$g, or kg, convert to grams first.
+
+**Worked example (slide 10).** How many H atoms are in 0.500 g of H?
+
+$$0.500\ \text{g H}\times\frac{1\ \text{mol H}}{1.008\ \text{g H}} = 0.496\ \text{mol H};\qquad 0.496\ \text{mol}\times\frac{6.022\times10^{23}\ \text{atoms}}{1\ \text{mol}} = 2.99\times10^{23}\ \text{H atoms}$$
+
+**Worked examples (slides 11–15).**
+
+| Slide | Problem | Setup | Answer |
+|:-:|:--|:--|:--|
+| 11 | 3.60 g Al $\rightarrow$ mol | 3.60 ÷ 26.98 | **0.133 mol** |
+| 12 | 544 g Ca $\rightarrow$ mol | 544 ÷ 40.08 | **13.6 mol** |
+| 13 | 0.133 mol Al $\rightarrow$ atoms | 0.133 × 6.022 × 10^23^ | **8.01 × 10^22^ atoms** |
+| 14 | 13.6 mol Ca $\rightarrow$ atoms | 13.6 × 6.022 × 10^23^ | **8.19 × 10^24^ atoms** |
+| 15 | 2.31 × 10^22^ atoms Au $\rightarrow$ g | (2.31 × 10^22^ ÷ 6.022 × 10^23^) × 196.97 | 0.0384 mol, so **7.56 g** |
+
+**Reality check (slide 19):** a sample smaller than 1 molar mass must be less than 1 mol and fewer than 6.022 × 10^23^ atoms.
+An atom count around 10^−20^ or 10^50^ means you flipped a step.
+
+**HW18 style:** "A sample of Co contains 3.10 × 10^24^ atoms; a sample of Mn contains 4.10 mol. Which has more atoms?"
+Convert to the same unit: 4.10 mol × 6.022 × 10^23^ = 2.47 × 10^24^ atoms of Mn, so the **Co** sample has more atoms.
+
+## 8.4 Conceptual problem solving (Ch 8 slides 16–19)
+
+1. **Where are we going?** Read the problem, identify the final goal, and sort the facts given (draw it if it helps).
+2. **How do we get there?** Work backward from the goal. In stoichiometry, always start with the balanced equation.
+3. **Reality check:** does the answer make sense?
+
+## 8.5 Molar mass (Ch 8 slides 21–29)
+
+* **Molar mass:** the mass in grams of **1 mole** of a substance, found by **summing the masses of the component atoms**.
+* **A subscript outside parentheses multiplies everything inside.** Ba(OH)~2~ has 1 Ba, 2 O, and 2 H.
+
+**Worked examples**
+
+| Slide | Compound | Sum | Molar mass |
+|:-:|:--|:--|:--|
+| 22 | CH~4~ | 12.01 + 4(1.008) | **16.04 g/mol** |
+| 23 | NH~3~ | 14.01 + 3(1.008) | **17.03 g/mol** |
+| 24 | H~2~SO~4~ | 2(1.008) + 32.07 + 4(16.00) | **98.09 g/mol** |
+| 25 | C~6~H~12~O~6~ | 6(12.01) + 12(1.008) + 6(16.00) | **180.16 g/mol** |
+| 26 | Ba(OH)~2~ | 137.33 + 2(17.01) | **171.35 g/mol** |
+
+**Mass and moles (slides 27–29)**
+
+| Slide | Problem | Work | Answer |
+|:-:|:--|:--|:--|
+| 27 | 7.89 mol NaOH $\rightarrow$ g | 7.89 × 40.00 | **316 g** |
+| 28 | 982 g FeO $\rightarrow$ mol | 982 ÷ 71.85 | **13.7 mol** |
+| 29 | 9.43 mg CaCl~2~ $\rightarrow$ mol | 9.43 × 10^−3^ g ÷ 110.98 | **8.50 × 10^−5^ mol** |
+
+**HW19 style:** write the formula first, then the molar mass. Iron(II) chloride = FeCl~2~ (126.75 g/mol),
+copper(II) sulfate = CuSO~4~ (159.62 g/mol), rubidium chloride = RbCl. **Molecules** = moles × 6.022 × 10^23^. For "a
+sample of C~6~H~6~ containing 5.09 mol C", the number of molecules is 5.09 ÷ 6 = 0.848 mol C~6~H~6~, then × N~A~.
+
+## 8.6 Mass percent (Ch 8 slides 30–33)
+
+$$\text{mass percent of element} = \frac{\text{mass of the element in 1 mol of compound}}{\text{mass of 1 mol of compound}}\times100\%$$
+
+**Worked example (slide 31).** Ethanol, C~2~H~5~OH, 46.07 g/mol:
+
+* C: 24.02 / 46.07 × 100 = **52.14%**
+* H: 6.048 / 46.07 × 100 = **13.13%**
+* O: 16.00 / 46.07 × 100 = **34.73%**
+
+These add to 100%.
+
+**Worked example (slide 32).** H~3~PO~4~, 97.99 g/mol:
+
+* H: 3(1.008) / 97.99 = **3.09%**
+* P: 30.97 / 97.99 = **31.60%**
+* O: 64.00 / 97.99 = **65.31%**
+
+**Worked example (slide 33).** Magnesium iodite, Mg(IO~2~)~2~ (the iodite ion is IO~2~^−^), 342.11 g/mol:
+
+* Mg: 24.31 / 342.11 = **7.11%**
+* I: 253.80 / 342.11 = **74.19%**
+* O: 64.00 / 342.11 = **18.71%**
+
+**Trap:** count the atoms of that element in the formula. KNO~2~ has 2 O, and PCl~5~ has 5 Cl (HW20: P 14.87%, Cl 85.13%).
+
+## 8.7 Empirical and molecular formulas (Ch 8 slides 34–50)
+
+* **Empirical (simplest) formula:** the **smallest whole-number ratio** of atoms in the compound.
+* **Molecular formula:** the **actual** formula, giving the composition of the molecules present.
+* **Molecular formula = (empirical formula)~n~**, where n is a whole number. For example, glucose C~6~H~12~O~6~ has the
+  empirical formula CH~2~O.
+* **What you need to know (slide 47, HW21):** the empirical formula needs the composition by mass. The molecular formula
+  also needs the **molar mass**.
+
+**Empirical formula practice (slide 40)**
+
+* H~2~O~2~ $\rightarrow$ **HO**
+* C~4~H~8~O~2~ $\rightarrow$ **C~2~H~4~O**
+* P~4~O~10~ $\rightarrow$ **P~2~O~5~**
+
+Benzoic acid, C~7~H~6~O~2~, is already in lowest terms (HW20).
+
+**Steps for the empirical formula (slides 42–43)**
+
+1. Get the **mass of each element** in grams. For percentages, **assume a 100 g sample**, so % becomes g.
+2. Convert each mass to **moles**.
+3. **Divide by the smallest number of moles.** If every result is a whole number, those are the subscripts.
+4. If not, **multiply all of them by the smallest integer** that makes them whole. For example, 1.5 × 2 = 3 and 1.33 × 3 = 4.
+
+**Worked example (slides 35–37).** 32.000% C, 6.714% H, 42.630% O, 18.660% N.
+
+| | g (per 100 g) | mol | ÷ 1.333 |
+|:-:|:-:|:-:|:-:|
+| C | 32.000 | 2.664 | 2 |
+| H | 6.714 | 6.648 | 5 |
+| O | 42.630 | 2.664 | 2 |
+| N | 18.660 | 1.333 | 1 |
+
+The empirical formula is **C~2~H~5~O~2~N**.
+
+**Worked example (slide 38).** C 9.94%, Cl 58.6%, F 31.4%.
+The moles are C 0.828, Cl 1.653, F 1.653. Dividing by 0.828 gives 1 : 2 : 2, so the formula is **CCl~2~F~2~**.
+
+**Worked example (slides 45–46).** 1.198 g C combines with 0.302 g H.
+C: 1.198 / 12.01 = 0.0998 mol. H: 0.302 / 1.008 = 0.300 mol. The ratio H/C = 3.00, so the formula is **CH~3~**.
+
+**HW21 style:**
+
+* Mg 20.19%, S 26.64%, O 53.17% gives **MgSO~4~**.
+* Si 10.85%, Cl 27.40%, Br 61.75% gives **SiCl~2~Br~2~**.
+
+**Combustion analysis (slide 44):** burn a carbon-containing sample in excess O~2~. The masses of the products give the
+percent C (and H), which leads to the empirical formula.
+
+**Molecular formula from molar mass (slides 47–49)**
+
+$$n = \frac{\text{molar mass}}{\text{empirical formula mass}}$$
+
+**Worked example (slide 49).** Empirical formula C~4~H~5~N~2~O, molar mass 194.14 g/mol.
+The empirical mass is 4(12.01) + 5(1.008) + 2(14.01) + 16.00 = 97.10. So n = 194.14 / 97.10 = 2, and the molecular formula
+is **C~8~H~10~N~4~O~2~**.
+
+**HW21 style:**
+
+* CH with molar mass $\approx$ 26: CH has mass 13.02, so n = 2 and the formula is **C~2~H~2~**.
+* C~3~H~7~NO with molar mass 145–150: the empirical mass is 73.10, so n = 2 and the formula is **C~6~H~14~N~2~O~2~**.
+
+**Why the molecular formula is more useful (slide 50):** it tells you the actual number of atoms in a molecule. The
+empirical formula only gives the ratio, and many different compounds share the same empirical formula.
+
+\newpage
+
+# Chapter 9 — Chemical Quantities
+
+## 9.1 What a balanced equation tells you (Ch 9 slides 2–5)
+
+* A balanced equation gives the **identities** of the reactants and products and **how much** of each takes part.
+* **Coefficients give relative numbers of molecules (or moles), never grams.** What matters is the *ratio* of the
+  coefficients, not any single coefficient.
+* CO(g) + 2H~2~(g) $\rightarrow$ CH~3~OH(l) can be read as 1 molecule + 2 molecules $\rightarrow$ 1 molecule, as
+  1 dozen + 2 dozen $\rightarrow$ 1 dozen, or as **1 mol + 2 mol $\rightarrow$ 1 mol** (Table 9.1).
+
+**Worked example (slide 4).** 2Al~2~O~3~ $\rightarrow$ 4Al + 3O~2~.
+
+* From 4 molecules of Al~2~O~3~: 4 × (3/2) = **6 molecules of O~2~**.
+* If 8 atoms of Al are produced: 8 × (3/4) = **6 molecules of O~2~**.
+
+## 9.2 Mole ratios (Ch 9 slides 5–9)
+
+Every pair of substances in a balanced equation gives a mole ratio. From 2H~2~O $\rightarrow$ 2H~2~ + O~2~:
+
+* 2 mol H~2~O = 2 mol H~2~
+* 2 mol H~2~O = 1 mol O~2~
+* 2 mol H~2~ = 1 mol O~2~
+
+**Worked example (slide 7).** N~2~ + 3H~2~ $\rightarrow$ 2NH~3~. The ratios are 1 mol N~2~ : 3 mol H~2~,
+1 mol N~2~ : 2 mol NH~3~, and 3 mol H~2~ : 2 mol NH~3~.
+
+**Worked example (slide 8).** N~2~ + O~2~ $\rightarrow$ 2NO. The ratios are 1 mol N~2~ : 1 mol O~2~, 1 mol N~2~ : 2 mol NO,
+and 1 mol O~2~ : 2 mol NO.
+
+**Worked example (slide 9).** Ethane burns: **2C~2~H~6~ + 7O~2~ $\rightarrow$ 4CO~2~ + 6H~2~O**.
+To balance, do C first, then H, then O. 7/2 O~2~ isn't a whole number, so double everything.
+
+**Orienting the ratio (HW22):** put the unit you **want** on top and the unit you **have** on the bottom. For
+4B + 3O~2~ $\rightarrow$ 2B~2~O~3~, going from mol B to mol O~2~ uses (3 mol O~2~ / 4 mol B).
+
+## 9.3 Mole–mole conversions (Ch 9 slides 10–12)
+
+$$\text{mol wanted} = \text{mol given}\times\frac{\text{coefficient wanted}}{\text{coefficient given}}$$
+
+**Worked examples**
+
+* **Slide 10.** Fe~2~O~3~ + 3CO $\rightarrow$ 2Fe + 3CO~2~. From 17.5 mol CO: 17.5 × (2/3) = **11.7 mol Fe**.
+* **Slide 11.** 2C~2~H~6~ + 7O~2~ $\rightarrow$ 4CO~2~ + 6H~2~O. For 0.987 mol C~2~H~6~: 0.987 × (7/2) = **3.45 mol O~2~**.
+* **Slide 12.** NH~3~ + NaOCl $\rightarrow$ NaOH + NH~2~Cl, a 1 : 1 ratio. 1.32 mol NH~3~ gives **1.32 mol NH~2~Cl**
+  (× 51.48 g/mol = 67.9 g).
+
+## 9.4 Stoichiometry with masses (Ch 9 slides 13–20)
+
+**Stoichiometry:** using a balanced chemical equation to calculate the relative masses of reactants and products.
+**The equation must be balanced first**, because the mole ratios come from the coefficients (slide 16).
+
+**Steps (slide 14)**
+
+1. Balance the equation.
+2. Convert grams to moles.
+3. Set up the mole ratio.
+4. Calculate the moles of the substance you want.
+5. Convert moles back to grams.
+
+$$\text{g A}\xrightarrow{\div\,\text{MM}_A}\text{mol A}\xrightarrow{\times\,\frac{\text{coef B}}{\text{coef A}}}\text{mol B}\xrightarrow{\times\,\text{MM}_B}\text{g B}$$
+
+**Worked examples**
+
+| Slide | Equation / question | Work | Answer |
+|:-:|:--|:--|:--|
+| 17 | 2SO~2~ + O~2~ $\rightarrow$ 2SO~3~; g SO~3~ from 2.33 mol O~2~ | 2.33 × 2 = 4.66 mol; × 80.07 | **373 g** |
+| 18 | H~2~SO~4~ + 2KOH $\rightarrow$ K~2~SO~4~ + 2H~2~O; mol H~2~SO~4~ for 19.9 g KOH | 19.9 ÷ 56.11 = 0.3547 mol; × ½ | **0.177 mol** |
+| 19 | 4NH~3~ + 5O~2~ $\rightarrow$ 4NO + 6H~2~O; g NH~3~ for 54.7 g NO | 54.7 ÷ 30.01 = 1.823 mol; × 4/4; × 17.03 | **31.0 g** |
+| 20 | CuSO~4~ + Fe $\rightarrow$ FeSO~4~ + Cu; g CuSO~4~ for 244 g Fe | 244 ÷ 55.85 = 4.369 mol; × 1/1; × 159.62 | **697 g** |
+
+**HW23 style:** Fe + Cl~2~ $\rightarrow$ FeCl~3~ must be balanced first, giving 2Fe + 3Cl~2~ $\rightarrow$ 2FeCl~3~.
+20.5 mg Fe is 0.367 mmol Fe, which makes 0.367 mmol FeCl~3~ × 162.20 = **59.5 mg**. You can work in mg and mmol throughout.
+
+## 9.5 Limiting reactant (Ch 9 slides 21–24)
+
+* **Limiting reactant (limiting reagent):** the reactant that is **used up first**. It **controls how much product forms**.
+* The other reactant is **in excess**: some of it is left over.
+
+**Method**
+
+1. Convert every reactant to **moles**.
+2. Pick one reactant and use the mole ratio to find **how much of the other it needs**.
+3. If you have **less** of the other than it needs, the other is limiting. Otherwise, the first one is.
+
+(Alternatively, calculate the product each reactant could make. The **smaller** amount comes from the limiting reactant.)
+
+**Never compare grams, and never compare raw coefficients.**
+
+**Worked example (slide 23).** 3Mg + N~2~ $\rightarrow$ Mg~3~N~2~, with 4.75 mol Mg and 2.11 mol N~2~.
+The Mg needs 4.75 / 3 = 1.58 mol N~2~, and there are 2.11 mol, so N~2~ is in excess and **Mg is limiting**.
+
+**Worked example (slide 24).** 4Al + 3O~2~ $\rightarrow$ 2Al~2~O~3~, with 17.9 g Al and 64 g O~2~.
+Al = 0.663 mol and O~2~ = 2.0 mol. The Al needs 0.663 × 3/4 = 0.498 mol O~2~, which is much less than 2.0, so **Al is limiting**.
+Note that Al has the *smaller* mass here, but that is not the reason it's limiting.
+
+## 9.6 Theoretical yield (Ch 9 slides 25–27)
+
+**Theoretical yield:** the amount of product **calculated from the limiting reactant**. It is the **maximum** amount of product
+that can be made from the amounts of reactants used.
+
+**Worked example (slide 26).** Pb(NO~3~)~2~ + 2NaCl $\rightarrow$ PbCl~2~ + 2NaNO~3~, with 237 g NaCl and excess Pb(NO~3~)~2~.
+
+$$237\ \text{g}\div58.44 = 4.055\ \text{mol NaCl};\quad \times\tfrac{1}{2} = 2.028\ \text{mol PbCl}_2;\quad\times278.1 = \mathbf{564\ g\ PbCl_2}$$
+
+**Worked example (slide 27).** 2Na + Cl~2~ $\rightarrow$ 2NaCl, with 68 g Na and 97 g Cl~2~.
+
+* Na = 2.958 mol and Cl~2~ = 1.368 mol.
+* The Cl~2~ needs 2.736 mol Na, and you have 2.958, so **Cl~2~ is limiting**.
+* NaCl = 1.368 × 2 × 58.44 = **160 g**.
+
+## 9.7 Actual and percent yield (Ch 9 slides 28–32)
+
+* **Actual yield:** the amount of product **actually produced**. It is usually less than the theoretical yield, for example
+  because of **side reactions** that consume reactants or products.
+* **Percent yield** shows how efficient a reaction is:
+
+$$\text{percent yield} = \frac{\text{actual yield}}{\text{theoretical yield}}\times100\%$$
+
+* **Can the actual yield be higher than the theoretical yield (slide 29)?** No. The theoretical yield is the maximum. A
+  result over 100% means an error, such as a wet or impure product or a math mistake.
+
+**Worked example (slide 31).** H~2~ + I~2~ $\rightarrow$ 2HI, with 69.1 g H~2~ and excess I~2~; 134 g HI is actually produced.
+
+$$69.1\div2.016 = 34.28\ \text{mol H}_2\ \rightarrow\ 68.55\ \text{mol HI}\times127.91 = 8768\ \text{g HI (theoretical)};\qquad \frac{134}{8768}\times100 = \mathbf{1.53\%}$$
+
+**Worked example (slide 32).** 2KClO~3~ $\rightarrow$ 2KCl + 3O~2~, with 191 g KClO~3~; 89.9 g KCl is actually produced.
+
+$$191\div122.55 = 1.559\ \text{mol}\ \rightarrow\ 1.559\ \text{mol KCl}\times74.55 = 116.2\ \text{g};\qquad \frac{89.9}{116.2}\times100 = \mathbf{77.4\%}$$
+
+**HW24 style (two-part):** find the theoretical yield, which may require finding the limiting reactant first (Xe + 2F~2~
+$\rightarrow$ XeF~4~), and then the percent yield. "Percentage of capacity reached" (the LiOH and CO~2~ canister) uses the same
+formula: actual / theoretical × 100.
+
+\newpage
+
+# Common traps — check these before you bubble
+
+1. **Solubility exceptions:** AgCl, PbCl~2~, Hg~2~Cl~2~ and BaSO~4~, PbSO~4~, CaSO~4~ are insoluble. Na^+^/K^+^/NH~4~^+^/NO~3~^−^ always win.
+2. **Net ionic means no spectators.** A choice that still has Na^+^ and NO~3~^−^ on both sides is the complete ionic equation.
+3. **Precipitates are (s).** The same formula labeled (aq) is a wrong choice.
+4. **Strong acids are HCl, HNO~3~, H~2~SO~4~ only.** HNO~2~ $\neq$ HNO~3~.
+5. **Electrons per atom = ion charge**, not the total for the equation.
+6. **More than one class can apply.** A single replacement is also redox. Burning in O~2~ is combustion even when one product forms.
+7. **mg $\rightarrow$ g first.** 1 mg = 10^−3^ g and 1 $\mu$g = 10^−6^ g.
+8. **Subscripts outside parentheses multiply everything inside**: Al~2~(SO~4~)~3~ has 12 O.
+9. **Mass percent uses mass, not atom counts.** 1 P out of 8 atoms is not 12.5% P.
+10. **Empirical formula:** divide by the *smallest* number of moles; multiply to clear 0.5, 0.33, or 0.25 fractions.
+11. **Coefficients are moles, not grams.** Always convert to moles before using a ratio.
+12. **Limiting reactant:** compare moles needed with moles available. Never compare grams or coefficients alone.
+13. **Percent yield $\leq$ 100%.** Divide actual by **theoretical** yield, not by the mass of the reactant.
+
+# Glossary of course definitions
+
+| Term | Course definition (slide) |
+|:--|:--|
+| Precipitation / precipitate | Formation of a solid when two solutions are mixed; the solid is the precipitate (7: 5, 35) |
+| Strong electrolyte | Each unit that dissolves produces separated ions (7: 7) |
+| Molecular equation | Shows complete formulas of all reactants and products (7: 15) |
+| Complete ionic equation | All strong electrolytes shown as ions; all reactants and products included (7: 16, 18) |
+| Net ionic equation | Only the components directly involved / that undergo a change; no spectators (7: 17) |
+| Spectator ions | Ions that don't participate directly in the reaction (7: 17) |
+| Arrhenius acid / base | Produces H^+^ / OH^−^ in water (7: 21, 22) |
+| Strong acid | Completely dissociates (ionizes) in water: HCl, HNO~3~, H~2~SO~4~ (7: 24) |
+| Strong base | Metal hydroxide that is very soluble and completely breaks into ions: NaOH, KOH (7: 25) |
+| Salt | Ionic compound formed with water in an acid–base reaction (7: 23, 26) |
+| Oxidation–reduction | Reaction involving a transfer of electrons (7: 30) |
+| Double-displacement | Two anions exchanged between cations (7: 36) |
+| Single-replacement | One anion moves from one cation to another (7: 40) |
+| Combustion | Reaction with oxygen that releases energy fast enough to make a flame (7: 41) |
+| Synthesis (combination) | A compound forms from simpler materials (7: 42) |
+| Decomposition | A compound breaks into simpler compounds or elements, by heat or current (7: 43) |
+| Atomic mass unit | 1 amu = 1.66 × 10^−24^ g (8: 5) |
+| Mole | Number of C atoms in 12.01 g of C = 6.022 × 10^23^ (Avogadro's number) (8: 7) |
+| Molar mass | Mass in grams of 1 mole of a substance; sum of the atomic masses (8: 22) |
+| Mass percent | (Mass of element in 1 mol) / (mass of 1 mol) × 100% (8: 30) |
+| Empirical formula | Smallest whole-number ratio of atoms (8: 39) |
+| Molecular formula | Actual formula = (empirical)~n~ (8: 39, 48) |
+| Stoichiometry | Using a balanced equation to calculate masses of reactants and products (9: 15) |
+| Limiting reactant | The reactant used up first; it controls the amount of product (9: 21) |
+| Theoretical yield | Product amount calculated from the limiting reactant; the maximum possible (9: 25, 28) |
+| Actual yield | Product amount actually obtained (9: 28) |
+| Percent yield | Actual / theoretical × 100% (9: 30) |

@@ -1,0 +1,677 @@
+---
+title: "CHEM 1301 Practice Exam 3-2"
+subtitle: "Chapters 7, 8, and 9 — 35 multiple-choice questions"
+format:
+  pdf:
+    geometry: margin=0.8in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Solubility rules are **not** provided. Calculators are allowed. Answers are rounded to the precision shown.
+Time yourself: aim to finish in 75 minutes or less.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** The reaction HCl(aq) + KOH(aq) $\rightarrow$ H~2~O(l) + KCl(aq) occurs mainly because of which driving force?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Formation of water\
+b)\ Transfer of electrons\
+c)\ An increase in the number of ions in solution\
+d)\ Formation of a solid\
+e)\ Formation of a gas
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** On the basis of the general solubility rules, which compound is **insoluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ K~2~CO~3~\
+b)\ BaSO~4~\
+c)\ NH~4~NO~3~\
+d)\ CaCl~2~\
+e)\ Na~3~PO~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** Which of the following compounds is expected to be **soluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ PbSO~4~\
+b)\ AgCl\
+c)\ Ca~3~(PO~4~)~2~\
+d)\ Fe(OH)~3~\
+e)\ K~2~S
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** Aqueous solutions of lead(II) nitrate, Pb(NO~3~)~2~, and sodium sulfate, Na~2~SO~4~, are mixed. What is the precipitate?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ PbSO~4~\
+b)\ NaPb\
+c)\ NaNO~3~\
+d)\ Pb(SO~4~)~2~\
+e)\ No precipitate forms
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** Which is the correct **net ionic equation** for the reaction of aqueous barium chloride with aqueous potassium sulfate?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ K^+^(aq) + Cl^−^(aq) $\rightarrow$ KCl(s)\
+b)\ Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s)\
+c)\ Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(aq)\
+d)\ Ba^2+^(aq) + 2Cl^−^(aq) + 2K^+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s) + 2K^+^(aq) + 2Cl^−^(aq)\
+e)\ BaCl~2~(aq) + K~2~SO~4~(aq) $\rightarrow$ BaSO~4~(s) + 2KCl(aq)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** When the equation below is balanced with the smallest whole-number coefficients, what is the **sum of all the coefficients**?
+
+\_\_ H~2~SO~4~(aq) + \_\_ Al(OH)~3~(s) $\rightarrow$ \_\_ Al~2~(SO~4~)~3~(aq) + \_\_ H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 4\
+b)\ 6\
+c)\ 8\
+d)\ 11\
+e)\ 12
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** In the reaction K~2~CrO~4~(aq) + Ba(NO~3~)~2~(aq) $\rightarrow$ BaCrO~4~(s) + 2KNO~3~(aq), the spectator ions are:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ NO~3~^−^ and CrO~4~^2−^\
+b)\ Ba^2+^ and CrO~4~^2−^\
+c)\ There are no spectator ions\
+d)\ K^+^ and Ba^2+^\
+e)\ K^+^ and NO~3~^−^
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** What are the products when aqueous nitric acid reacts with aqueous potassium hydroxide?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ KNO~2~(aq) and H~2~O(l)\
+b)\ KH(aq) and NO~3~OH(aq)\
+c)\ K~2~O(s) and HNO~3~(aq)\
+d)\ KNO~3~(aq) and H~2~O(l)\
+e)\ KNO~3~(s) and H~2~O(l)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Which pair contains **only** the most common strong bases named in this course?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ HCl and NaOH\
+b)\ Mg(OH)~2~ and Fe(OH)~3~\
+c)\ KOH and HNO~3~\
+d)\ Ca(OH)~2~ and Al(OH)~3~\
+e)\ NaOH and KOH
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** An aqueous solution of barium nitrate, Ba(NO~3~)~2~(aq), contains:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Ba^2+^, N^3−^, and O^2−^ ions\
+b)\ separated Ba^2+^ and NO~3~^−^ ions, two NO~3~^−^ for every Ba^2+^\
+c)\ separated Ba^2+^ and NO~3~^−^ ions, one NO~3~^−^ for every Ba^2+^\
+d)\ neutral Ba atoms and NO~3~ molecules\
+e)\ intact Ba(NO~3~)~2~ units
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** In the reaction 4Al(s) + 3O~2~(g) $\rightarrow$ 2Al~2~O~3~(s), how many electrons does **each O~2~ molecule** gain?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 4\
+e)\ 6
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** The reaction 2HCl(aq) + Na~2~CO~3~(aq) $\rightarrow$ CO~2~(g) + H~2~O(l) + 2NaCl(aq) is best classified as:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ gas evolution and acid–base\
+b)\ precipitation only\
+c)\ combustion\
+d)\ decomposition\
+e)\ oxidation–reduction and single-replacement
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** When heated, potassium chlorate reacts: 2KClO~3~(s) $\rightarrow$ 2KCl(s) + 3O~2~(g). This is best classified as a:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ synthesis reaction\
+b)\ acid–base reaction\
+c)\ double-displacement reaction\
+d)\ decomposition reaction\
+e)\ combustion reaction
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** The average mass of a single carbon atom is:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 12.01 amu\
+b)\ 1 amu\
+c)\ 6.022 × 10^23^ g\
+d)\ 1.66 × 10^−24^ amu\
+e)\ 12.01 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Which 10.0 g sample contains the **greatest number of atoms**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ gold (196.97 g/mol)\
+b)\ boron (10.81 g/mol)\
+c)\ aluminum (26.98 g/mol)\
+d)\ iron (55.85 g/mol)\
+e)\ xenon (131.3 g/mol)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**16.** How many moles of iron are in 25.0 g of Fe?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.448 mol\
+b)\ 2.23 mol\
+c)\ 4.48 mol\
+d)\ 1396 mol\
+e)\ 2.70 × 10^23^ mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**17.** How many atoms are in 2.75 mol of calcium?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 4.57 × 10^−24^ atoms\
+b)\ 4.13 × 10^22^ atoms\
+c)\ 1.66 × 10^23^ atoms\
+d)\ 1.66 × 10^24^ atoms\
+e)\ 6.64 × 10^25^ atoms
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**18.** What is the mass of 5.00 × 10^21^ atoms of copper?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1.31 × 10^−4^ g\
+b)\ 8.30 × 10^−3^ g\
+c)\ 0.528 g\
+d)\ 7.65 × 10^3^ g\
+e)\ 3.18 × 10^23^ g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**19.** What is the molar mass of calcium phosphate, Ca~3~(PO~4~)~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 135.1 g/mol\
+b)\ 215.2 g/mol\
+c)\ 230.0 g/mol\
+d)\ 246.2 g/mol\
+e)\ 310.2 g/mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**20.** What is the mass of 0.350 mol of sulfuric acid, H~2~SO~4~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 3.57 × 10^−3^ g\
+b)\ 11.2 g\
+c)\ 28.7 g\
+d)\ 34.3 g\
+e)\ 280 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**21.** How many moles of nitrogen dioxide, NO~2~, are in 125 mg of the gas?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 2.72 × 10^−3^ mol\
+b)\ 4.17 × 10^−3^ mol\
+c)\ 2.72 mol\
+d)\ 5.75 mol\
+e)\ 1.64 × 10^21^ mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**22.** What is the mass percent of nitrogen in ammonium sulfate, (NH~4~)~2~SO~4~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 10.60%\
+b)\ 13.33%\
+c)\ 21.20%\
+d)\ 24.27%\
+e)\ 48.43%
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**23.** Which pair of compounds has the **same empirical formula**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CO and CO~2~\
+b)\ C~2~H~4~ and C~2~H~6~\
+c)\ C~2~H~2~ and C~6~H~6~\
+d)\ H~2~O and H~2~O~2~\
+e)\ NO and NO~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**24.** An iron oxide is 69.94% Fe and 30.06% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ FeO~2~\
+b)\ Fe~3~O~4~\
+c)\ FeO\
+d)\ Fe~3~O~2~\
+e)\ Fe~2~O~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**25.** A compound has the empirical formula NO~2~ and a molar mass of 92.02 g/mol. What is its molecular formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ NO~4~\
+b)\ NO~2~\
+c)\ N~4~O~8~\
+d)\ N~2~O~4~\
+e)\ N~3~O~6~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**26.** In **combustion analysis**, a carbon-containing sample is:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ burned in excess oxygen so it fully converts to products, giving the percent C (and other elements) and so the empirical formula\
+b)\ heated with an electric current until it decomposes into its elements\
+c)\ weighed to determine its molecular formula without any other data\
+d)\ burned in a limited amount of oxygen to measure its molar mass directly\
+e)\ dissolved in water to see whether it conducts electricity
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**27.** Why must a chemical equation be balanced before it is used in a stoichiometry calculation?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Balancing is needed only so the molar masses can be calculated\
+b)\ The mole ratios used in the calculation come from the coefficients of the balanced equation\
+c)\ Balancing converts the coefficients from grams into moles\
+d)\ Balancing makes the total mass of the reactants equal the mass of each product\
+e)\ An unbalanced equation has no limiting reactant
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**28.** For 2Al~2~O~3~ $\rightarrow$ 4Al + 3O~2~, how many molecules of O~2~ are formed from 6 formula units of Al~2~O~3~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 3\
+b)\ 4\
+c)\ 9\
+d)\ 12\
+e)\ 18
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**29.** Ethane burns according to 2C~2~H~6~ + 7O~2~ $\rightarrow$ 4CO~2~ + 6H~2~O. How many moles of CO~2~ form when 0.750 mol of O~2~ reacts completely?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.214 mol\
+b)\ 0.429 mol\
+c)\ 0.750 mol\
+d)\ 1.31 mol\
+e)\ 1.50 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**30.** According to the course, one reason the actual yield of a reaction is usually **less** than the theoretical yield is:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ mass is not conserved in most chemical reactions\
+b)\ the excess reactant also turns into product\
+c)\ side reactions consume some of the reactants or products\
+d)\ the limiting reactant is never used up\
+e)\ the theoretical yield is calculated from the excess reactant
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**31.** For H~2~SO~4~ + 2KOH $\rightarrow$ K~2~SO~4~ + 2H~2~O, what mass of K~2~SO~4~ is produced from 25.0 g of KOH with excess H~2~SO~4~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.223 g\
+b)\ 21.9 g\
+c)\ 25.0 g\
+d)\ 38.8 g\
+e)\ 77.6 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**32.** For 3Mg + N~2~ $\rightarrow$ Mg~3~N~2~, 0.600 mol of Mg reacts with 0.250 mol of N~2~. What mass of Mg~3~N~2~ can form?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.200 g\
+b)\ 20.2 g\
+c)\ 21.6 g\
+d)\ 25.2 g\
+e)\ 60.6 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**33.** For Pb(NO~3~)~2~ + 2NaCl $\rightarrow$ PbCl~2~ + 2NaNO~3~, what is the theoretical yield of PbCl~2~ when 10.0 g of NaCl reacts with excess Pb(NO~3~)~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.0856 g\
+b)\ 10.0 g\
+c)\ 23.8 g\
+d)\ 28.3 g\
+e)\ 47.6 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**34.** For N~2~ + 3H~2~ $\rightarrow$ 2NH~3~, 14.0 g of N~2~ reacts with 6.00 g of H~2~, and 12.5 g of NH~3~ is collected. What is the percent yield?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 37.0%\
+b)\ 62.5%\
+c)\ 73.4%\
+d)\ 89.3%\
+e)\ 136%
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**35.** A student reports a percent yield of 112%. Which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ The theoretical yield must have been calculated from the limiting reactant\
+b)\ The excess reactant was converted into additional product\
+c)\ Yields above 100% are normal whenever the reaction is fast\
+d)\ Side reactions produced extra product beyond the theoretical yield\
+e)\ Something is wrong, such as a wet or impure product or a calculation error, because the theoretical yield is the maximum possible
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\newpage
+```
+
+## Answer Sheet
+
+Circle one letter per question.
+
+| Q | Answer | | Q | Answer |
+|:-:|:-:|:-:|:-:|:-:|
+| 1 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 19 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 2 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 20 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 3 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 21 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 4 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 22 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 5 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 23 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 6 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 24 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 7 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 25 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 8 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 26 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 9 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 27 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 10 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 28 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 11 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 29 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 12 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 30 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 13 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 31 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 14 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 32 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 15 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 33 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 16 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 34 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 17 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 35 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
+| 18 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | |  |  |
