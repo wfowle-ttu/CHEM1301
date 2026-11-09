@@ -9,6 +9,11 @@ format:
     toc-depth: 2
     number-sections: false
     colorlinks: true
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
 ---
 
 # How to use this guide
@@ -227,7 +232,24 @@ Cl^−^ doesn't change; it is a spectator.
 ## 8.1 Counting by weighing; atomic mass units (Ch 8 slides 2–6)
 
 * Objects that differ slightly can be **counted by weighing** if you know their **average mass** (the jellybean idea).
-* **Atomic mass unit:** 1 amu = 1.66 × 10^−24^ g. Average atomic masses: H 1.008, C 12.01, N 14.01, O 16.00, Na 22.99, Al 26.98.
+* **Atomic mass unit (slide 5):** a tiny unit of mass made for weighing single atoms. 1 amu = 1.66 × 10^−24^ g.
+* **Average atomic mass (Table 8.1):** the mass of **ONE atom** of the element, in **amu**. It is an *average* only because
+  an element's atoms are a mix of isotopes with slightly different masses (like jellybeans of slightly different sizes), so
+  the number is the mass of a typical single atom. Table 8.1: H 1.008 amu, C 12.01 amu, N 14.01 amu, O 16.00 amu,
+  Na 22.99 amu, Al 26.98 amu.
+
+| Number from the periodic table (C: 12.01) read as | Means | Unit |
+|:--|:--|:-:|
+| Average atomic mass | mass of **1 carbon atom** | **amu** |
+| Molar mass (section 8.2) | mass of **1 mole** (6.022 × 10^23^) of carbon atoms | **g/mol** |
+
+**Mass of one atom in grams:** multiply its amu value by 1.66 × 10^−24^ g/amu.
+
+$$1\ \text{C atom} = 12.01\ \text{amu}\times\frac{1.66\times10^{-24}\ \text{g}}{1\ \text{amu}} = 1.99\times10^{-23}\ \text{g}$$
+
+Check that the two readings agree: 6.022 × 10^23^ atoms × 1.99 × 10^−23^ g per atom = 12.0 g, so one mole of carbon weighs
+12.01 g. That's why the same number serves as amu per atom and as grams per mole.
+
 * **Key idea (slide 6):** samples whose masses are in the **same ratio as their atomic masses** contain the **same number of
   atoms**. So 26.98 g Al and 63.55 g Cu contain the same number of atoms.
 
@@ -244,25 +266,58 @@ $$\text{grams} \;\xrightarrow{\;\div\ \text{molar mass}\;}\; \text{moles} \;\xri
 
 Go backward by doing the opposite operations. **Moles are always the middle step.** For mg, $\mu$g, or kg, convert to grams first.
 
+The two conversion factors on this map:
+
+| Factor | Converts | Where the number comes from |
+|:--|:--|:--|
+| $\dfrac{1\ \text{mol X}}{\text{atomic mass of X in g}}$ (or flipped) | grams $\leftrightarrow$ moles | The element's atomic mass on the periodic table, read as **g/mol** (section 8.1) |
+| $\dfrac{6.022\times10^{23}\ \text{atoms}}{1\ \text{mol}}$ (or flipped) | moles $\leftrightarrow$ atoms | Avogadro's number: 1 mol is always 6.022 × 10^23^ things (section 8.2) |
+
+Put the unit you **want** on top and the unit you **have** on the bottom so the old unit cancels.
+
 **Worked example (slide 10).** How many H atoms are in 0.500 g of H?
 
-$$0.500\ \text{g H}\times\frac{1\ \text{mol H}}{1.008\ \text{g H}} = 0.496\ \text{mol H};\qquad 0.496\ \text{mol}\times\frac{6.022\times10^{23}\ \text{atoms}}{1\ \text{mol}} = 2.99\times10^{23}\ \text{H atoms}$$
+*Step 1: grams to moles.* The atomic mass of H is 1.008, so 1 mol H weighs 1.008 g. You have grams, so grams goes on the bottom:
 
-**Worked examples (slides 11–15).**
+$$0.500\ \cancel{\text{g H}}\times\underbrace{\frac{1\ \text{mol H}}{1.008\ \cancel{\text{g H}}}}_{\text{atomic mass of H}} = 0.496\ \text{mol H}$$
 
-| Slide | Problem | Setup | Answer |
-|:-:|:--|:--|:--|
-| 11 | 3.60 g Al $\rightarrow$ mol | 3.60 ÷ 26.98 | **0.133 mol** |
-| 12 | 544 g Ca $\rightarrow$ mol | 544 ÷ 40.08 | **13.6 mol** |
-| 13 | 0.133 mol Al $\rightarrow$ atoms | 0.133 × 6.022 × 10^23^ | **8.01 × 10^22^ atoms** |
-| 14 | 13.6 mol Ca $\rightarrow$ atoms | 13.6 × 6.022 × 10^23^ | **8.19 × 10^24^ atoms** |
-| 15 | 2.31 × 10^22^ atoms Au $\rightarrow$ g | (2.31 × 10^22^ ÷ 6.022 × 10^23^) × 196.97 | 0.0384 mol, so **7.56 g** |
+*Step 2: moles to atoms.* 1 mol is 6.022 × 10^23^ atoms. You have moles, so moles goes on the bottom:
+
+$$0.496\ \cancel{\text{mol H}}\times\underbrace{\frac{6.022\times10^{23}\ \text{H atoms}}{1\ \cancel{\text{mol H}}}}_{\text{Avogadro's number}} = \mathbf{2.99\times10^{23}\ H\ atoms}$$
+
+**Worked example (slide 11).** 3.60 g Al to moles. The atomic mass of Al is 26.98, so 1 mol Al = 26.98 g:
+
+$$3.60\ \cancel{\text{g Al}}\times\underbrace{\frac{1\ \text{mol Al}}{26.98\ \cancel{\text{g Al}}}}_{\text{atomic mass of Al}} = \mathbf{0.133\ mol\ Al}$$
+
+**Worked example (slide 12).** 544 g Ca to moles. The atomic mass of Ca is 40.08:
+
+$$544\ \cancel{\text{g Ca}}\times\underbrace{\frac{1\ \text{mol Ca}}{40.08\ \cancel{\text{g Ca}}}}_{\text{atomic mass of Ca}} = \mathbf{13.6\ mol\ Ca}$$
+
+**Worked example (slide 13).** 0.133 mol Al (from slide 11) to atoms:
+
+$$0.133\ \cancel{\text{mol Al}}\times\underbrace{\frac{6.022\times10^{23}\ \text{Al atoms}}{1\ \cancel{\text{mol Al}}}}_{\text{Avogadro's number}} = \mathbf{8.01\times10^{22}\ Al\ atoms}$$
+
+**Worked example (slide 14).** 13.6 mol Ca (from slide 12) to atoms:
+
+$$13.6\ \cancel{\text{mol Ca}}\times\underbrace{\frac{6.022\times10^{23}\ \text{Ca atoms}}{1\ \cancel{\text{mol Ca}}}}_{\text{Avogadro's number}} = \mathbf{8.19\times10^{24}\ Ca\ atoms}$$
+
+**Worked example (slide 15): going backward, atoms to grams.** What is the mass of 2.31 × 10^22^ Au atoms?
+Atoms to moles uses Avogadro's number **flipped** (atoms on the bottom), then moles to grams uses the atomic mass of Au
+(196.97) **with grams on top**:
+
+$$2.31\times10^{22}\ \cancel{\text{Au atoms}}\times\underbrace{\frac{1\ \text{mol Au}}{6.022\times10^{23}\ \cancel{\text{Au atoms}}}}_{\text{Avogadro's number, flipped}} = 0.0384\ \text{mol Au}$$
+
+$$0.0384\ \cancel{\text{mol Au}}\times\underbrace{\frac{196.97\ \text{g Au}}{1\ \cancel{\text{mol Au}}}}_{\text{atomic mass of Au}} = \mathbf{7.56\ g\ Au}$$
 
 **Reality check (slide 19):** a sample smaller than 1 molar mass must be less than 1 mol and fewer than 6.022 × 10^23^ atoms.
-An atom count around 10^−20^ or 10^50^ means you flipped a step.
+An atom count around 10^−20^ or 10^50^ means you flipped a factor upside down.
 
 **HW18 style:** "A sample of Co contains 3.10 × 10^24^ atoms; a sample of Mn contains 4.10 mol. Which has more atoms?"
-Convert to the same unit: 4.10 mol × 6.022 × 10^23^ = 2.47 × 10^24^ atoms of Mn, so the **Co** sample has more atoms.
+You can only compare amounts in the same unit, so convert the Mn to atoms:
+
+$$4.10\ \cancel{\text{mol Mn}}\times\underbrace{\frac{6.022\times10^{23}\ \text{Mn atoms}}{1\ \cancel{\text{mol Mn}}}}_{\text{Avogadro's number}} = 2.47\times10^{24}\ \text{Mn atoms}$$
+
+3.10 × 10^24^ Co atoms is more than 2.47 × 10^24^ Mn atoms, so the **Co** sample has more atoms.
 
 ## 8.4 Conceptual problem solving (Ch 8 slides 16–19)
 
@@ -275,122 +330,253 @@ Convert to the same unit: 4.10 mol × 6.022 × 10^23^ = 2.47 × 10^24^ atoms of 
 * **Molar mass:** the mass in grams of **1 mole** of a substance, found by **summing the masses of the component atoms**.
 * **A subscript outside parentheses multiplies everything inside.** Ba(OH)~2~ has 1 Ba, 2 O, and 2 H.
 
-**Worked examples**
+**How to calculate one:** (1) count how many atoms of each element are in the formula (the subscript; no subscript means 1);
+(2) multiply each count by that element's atomic mass from the periodic table; (3) add the results.
 
-| Slide | Compound | Sum | Molar mass |
-|:-:|:--|:--|:--|
-| 22 | CH~4~ | 12.01 + 4(1.008) | **16.04 g/mol** |
-| 23 | NH~3~ | 14.01 + 3(1.008) | **17.03 g/mol** |
-| 24 | H~2~SO~4~ | 2(1.008) + 32.07 + 4(16.00) | **98.09 g/mol** |
-| 25 | C~6~H~12~O~6~ | 6(12.01) + 12(1.008) + 6(16.00) | **180.16 g/mol** |
-| 26 | Ba(OH)~2~ | 137.33 + 2(17.01) | **171.35 g/mol** |
+**Worked examples.** Each term is (number of atoms) × (atomic mass of that element).
 
-**Mass and moles (slides 27–29)**
+| Slide | Compound | Atom count | (count × atomic mass), added | Molar mass |
+|:-:|:--|:--|:--|:--|
+| 22 | CH~4~ | 1 C, 4 H | 1(12.01) + 4(1.008) | **16.04 g/mol** |
+| 23 | NH~3~ | 1 N, 3 H | 1(14.01) + 3(1.008) | **17.03 g/mol** |
+| 24 | H~2~SO~4~ | 2 H, 1 S, 4 O | 2(1.008) + 1(32.07) + 4(16.00) | **98.09 g/mol** |
+| 25 | C~6~H~12~O~6~ | 6 C, 12 H, 6 O | 6(12.01) + 12(1.008) + 6(16.00) | **180.16 g/mol** |
+| 26 | Ba(OH)~2~ | 1 Ba, 2 O, 2 H | 1(137.33) + 2(16.00) + 2(1.008) | **171.35 g/mol** |
 
-| Slide | Problem | Work | Answer |
-|:-:|:--|:--|:--|
-| 27 | 7.89 mol NaOH $\rightarrow$ g | 7.89 × 40.00 | **316 g** |
-| 28 | 982 g FeO $\rightarrow$ mol | 982 ÷ 71.85 | **13.7 mol** |
-| 29 | 9.43 mg CaCl~2~ $\rightarrow$ mol | 9.43 × 10^−3^ g ÷ 110.98 | **8.50 × 10^−5^ mol** |
+**Mass and moles (slides 27–29).** The molar mass is the conversion factor: 1 mol of the compound = (molar mass) g.
 
-**HW19 style:** write the formula first, then the molar mass. Iron(II) chloride = FeCl~2~ (126.75 g/mol),
-copper(II) sulfate = CuSO~4~ (159.62 g/mol), rubidium chloride = RbCl. **Molecules** = moles × 6.022 × 10^23^. For "a
-sample of C~6~H~6~ containing 5.09 mol C", the number of molecules is 5.09 ÷ 6 = 0.848 mol C~6~H~6~, then × N~A~.
+**Slide 27.** What is the mass of 7.89 mol NaOH? Molar mass of NaOH = 22.99 + 16.00 + 1.008 = 40.00 g/mol. You have moles
+and want grams, so grams goes on top:
+
+$$7.89\ \cancel{\text{mol NaOH}}\times\underbrace{\frac{40.00\ \text{g NaOH}}{1\ \cancel{\text{mol NaOH}}}}_{\text{molar mass of NaOH}} = \mathbf{316\ g\ NaOH}$$
+
+**Slide 28.** How many moles are in 982 g FeO? Molar mass of FeO = 55.85 + 16.00 = 71.85 g/mol. You have grams and want
+moles, so grams goes on the bottom:
+
+$$982\ \cancel{\text{g FeO}}\times\underbrace{\frac{1\ \text{mol FeO}}{71.85\ \cancel{\text{g FeO}}}}_{\text{molar mass of FeO}} = \mathbf{13.7\ mol\ FeO}$$
+
+**Slide 29.** How many moles are in 9.43 mg CaCl~2~? Molar mass of CaCl~2~ = 40.08 + 2(35.45) = 110.98 g/mol. The molar
+mass is in **grams**, so convert mg to g first (1 g = 1000 mg):
+
+$$9.43\ \cancel{\text{mg}}\times\underbrace{\frac{1\ \text{g}}{1000\ \cancel{\text{mg}}}}_{\text{metric}} = 9.43\times10^{-3}\ \text{g CaCl}_2$$
+
+$$9.43\times10^{-3}\ \cancel{\text{g CaCl}_2}\times\underbrace{\frac{1\ \text{mol CaCl}_2}{110.98\ \cancel{\text{g CaCl}_2}}}_{\text{molar mass of CaCl}_2} = \mathbf{8.50\times10^{-5}\ mol}$$
+
+**HW19 style: name to formula to molar mass.** Write the formula first, then add up its atoms. Iron(II) chloride = FeCl~2~:
+55.85 + 2(35.45) = **126.75 g/mol**. Copper(II) sulfate = CuSO~4~: 63.55 + 32.07 + 4(16.00) = **159.62 g/mol**.
+Rubidium chloride = RbCl.
+
+**HW19 style: moles of an atom to molecules.** "A sample of C~6~H~6~ contains 5.09 mol C. How many C~6~H~6~ molecules
+are there?" Each C~6~H~6~ molecule contains **6** C atoms (the subscript), so 1 mol C~6~H~6~ contains 6 mol C. Use
+that as the factor, then Avogadro's number:
+
+$$5.09\ \cancel{\text{mol C}}\times\underbrace{\frac{1\ \text{mol C}_6\text{H}_6}{6\ \cancel{\text{mol C}}}}_{\text{subscript of C in C}_6\text{H}_6} = 0.848\ \text{mol C}_6\text{H}_6$$
+
+$$0.848\ \cancel{\text{mol}}\times\underbrace{\frac{6.022\times10^{23}\ \text{molecules}}{1\ \cancel{\text{mol}}}}_{\text{Avogadro's number}} = \mathbf{5.11\times10^{23}\ molecules}$$
 
 ## 8.6 Mass percent (Ch 8 slides 30–33)
 
 $$\text{mass percent of element} = \frac{\text{mass of the element in 1 mol of compound}}{\text{mass of 1 mol of compound}}\times100\%$$
 
-**Worked example (slide 31).** Ethanol, C~2~H~5~OH, 46.07 g/mol:
+**Method:** (1) find the molar mass of the compound (section 8.5). (2) For each element, the top of the fraction is
+(number of that atom in the formula) × (its atomic mass). (3) Divide by the molar mass and multiply by 100.
 
-* C: 24.02 / 46.07 × 100 = **52.14%**
-* H: 6.048 / 46.07 × 100 = **13.13%**
-* O: 16.00 / 46.07 × 100 = **34.73%**
+**Worked example (slide 31).** Ethanol, C~2~H~5~OH. Count the atoms: 2 C, **6** H (5 + the 1 in OH), 1 O.
+Molar mass = 2(12.01) + 6(1.008) + 1(16.00) = 24.02 + 6.048 + 16.00 = 46.07 g/mol.
 
-These add to 100%.
+* C: $\dfrac{2(12.01) = 24.02\ \text{g C}}{46.07\ \text{g C}_2\text{H}_5\text{OH}}\times100\% =$ **52.14%**
+* H: $\dfrac{6(1.008) = 6.048\ \text{g H}}{46.07\ \text{g C}_2\text{H}_5\text{OH}}\times100\% =$ **13.13%**
+* O: $\dfrac{1(16.00) = 16.00\ \text{g O}}{46.07\ \text{g C}_2\text{H}_5\text{OH}}\times100\% =$ **34.73%**
 
-**Worked example (slide 32).** H~3~PO~4~, 97.99 g/mol:
+These add to 100%, which checks the work.
 
-* H: 3(1.008) / 97.99 = **3.09%**
-* P: 30.97 / 97.99 = **31.60%**
-* O: 64.00 / 97.99 = **65.31%**
+**Worked example (slide 32).** H~3~PO~4~: 3 H, 1 P, 4 O. Molar mass = 3(1.008) + 30.97 + 4(16.00) = 97.99 g/mol.
 
-**Worked example (slide 33).** Magnesium iodite, Mg(IO~2~)~2~ (the iodite ion is IO~2~^−^), 342.11 g/mol:
+* H: 3(1.008) = 3.024 g; 3.024 / 97.99 × 100 = **3.09%**
+* P: 1(30.97) = 30.97 g; 30.97 / 97.99 × 100 = **31.60%**
+* O: 4(16.00) = 64.00 g; 64.00 / 97.99 × 100 = **65.31%**
 
-* Mg: 24.31 / 342.11 = **7.11%**
-* I: 253.80 / 342.11 = **74.19%**
-* O: 64.00 / 342.11 = **18.71%**
+**Worked example (slide 33).** Magnesium iodite, Mg(IO~2~)~2~ (the iodite ion is IO~2~^−^). The subscript 2 outside the
+parentheses doubles everything inside, so there are 1 Mg, **2** I, and **4** O.
+Molar mass = 24.31 + 2(126.90) + 4(16.00) = 342.11 g/mol.
+
+* Mg: 1(24.31) = 24.31 g; 24.31 / 342.11 × 100 = **7.11%**
+* I: 2(126.90) = 253.80 g; 253.80 / 342.11 × 100 = **74.19%**
+* O: 4(16.00) = 64.00 g; 64.00 / 342.11 × 100 = **18.71%**
 
 **Trap:** count the atoms of that element in the formula. KNO~2~ has 2 O, and PCl~5~ has 5 Cl (HW20: P 14.87%, Cl 85.13%).
 
 ## 8.7 Empirical and molecular formulas (Ch 8 slides 34–50)
 
+### Definitions
+
 * **Empirical (simplest) formula:** the **smallest whole-number ratio** of atoms in the compound.
-* **Molecular formula:** the **actual** formula, giving the composition of the molecules present.
-* **Molecular formula = (empirical formula)~n~**, where n is a whole number. For example, glucose C~6~H~12~O~6~ has the
-  empirical formula CH~2~O.
-* **What you need to know (slide 47, HW21):** the empirical formula needs the composition by mass. The molecular formula
-  also needs the **molar mass**.
+* **Molecular formula:** the **actual** formula: how many of each atom are really in one molecule.
+* **Molecular formula = (empirical formula)~n~**, where n is a whole number (1, 2, 3, ...).
+  Glucose is C~6~H~12~O~6~. Divide every subscript by 6 to get its empirical formula, CH~2~O, so n = 6.
+* **What data you need (slide 47, HW21):** the empirical formula needs the **composition by mass**. The molecular formula
+  needs the composition **and the molar mass**.
 
-**Empirical formula practice (slide 40)**
+There are **three different problem types** in this section. Figure out which one you have before you start.
 
-* H~2~O~2~ $\rightarrow$ **HO**
-* C~4~H~8~O~2~ $\rightarrow$ **C~2~H~4~O**
-* P~4~O~10~ $\rightarrow$ **P~2~O~5~**
+| You are given | You are asked for | Use |
+|:--|:--|:--|
+| A molecular formula (e.g. C~4~H~8~O~2~) | The empirical formula | **Type A**: reduce the subscripts. No masses needed. |
+| Masses or mass percents of each element | The empirical formula | **Type B**: the 4-step mass $\rightarrow$ moles method |
+| An empirical formula and a molar mass | The molecular formula | **Type C**: find n |
 
-Benzoic acid, C~7~H~6~O~2~, is already in lowest terms (HW20).
+### Type A: molecular formula $\rightarrow$ empirical formula (slide 40)
 
-**Steps for the empirical formula (slides 42–43)**
+You already have the atom counts, so **skip the mass and mole steps entirely**. Find the largest number that divides
+evenly into **every** subscript, and divide every subscript by it. A subscript you can't see is 1.
 
-1. Get the **mass of each element** in grams. For percentages, **assume a 100 g sample**, so % becomes g.
-2. Convert each mass to **moles**.
-3. **Divide by the smallest number of moles.** If every result is a whole number, those are the subscripts.
-4. If not, **multiply all of them by the smallest integer** that makes them whole. For example, 1.5 × 2 = 3 and 1.33 × 3 = 4.
+| Molecular formula | Subscripts | Largest number dividing all of them | Empirical formula |
+|:--|:--|:-:|:--|
+| H~2~O~2~ | H 2, O 2 | 2 | **HO** |
+| C~4~H~8~O~2~ | C 4, H 8, O 2 | 2 | **C~2~H~4~O** |
+| P~4~O~10~ | P 4, O 10 | 2 | **P~2~O~5~** |
+| C~6~H~12~O~6~ | C 6, H 12, O 6 | 6 | **CH~2~O** |
+| C~7~H~6~O~2~ (benzoic acid, HW20) | C 7, H 6, O 2 | 1 (nothing divides 7, 6, and 2) | **C~7~H~6~O~2~**, unchanged |
 
-**Worked example (slides 35–37).** 32.000% C, 6.714% H, 42.630% O, 18.660% N.
+If the only number that divides every subscript is 1, the formula is **already empirical**.
 
-| | g (per 100 g) | mol | ÷ 1.333 |
-|:-:|:-:|:-:|:-:|
-| C | 32.000 | 2.664 | 2 |
-| H | 6.714 | 6.648 | 5 |
-| O | 42.630 | 2.664 | 2 |
-| N | 18.660 | 1.333 | 1 |
+### Type B: masses or percents $\rightarrow$ empirical formula (slides 35–37, 42–46)
 
-The empirical formula is **C~2~H~5~O~2~N**.
+You only know **how many grams** of each element there are. A formula counts **atoms**, so first convert grams to moles,
+then compare the moles.
 
-**Worked example (slide 38).** C 9.94%, Cl 58.6%, F 31.4%.
-The moles are C 0.828, Cl 1.653, F 1.653. Dividing by 0.828 gives 1 : 2 : 2, so the formula is **CCl~2~F~2~**.
+**Step 1: Get grams of each element.**
+If you're given percents, pretend you have **exactly 100 g** of the compound. Then each percent is that many grams:
+32.0% C becomes 32.0 g C. If you're given grams, use them as they are.
 
-**Worked example (slides 45–46).** 1.198 g C combines with 0.302 g H.
-C: 1.198 / 12.01 = 0.0998 mol. H: 0.302 / 1.008 = 0.300 mol. The ratio H/C = 3.00, so the formula is **CH~3~**.
+**Step 2: Convert each element's grams to moles.** Do this separately for each element, using that element's atomic mass
+from the periodic table:
 
-**HW21 style:**
+$$\text{mol of element} = \frac{\text{grams of that element}}{\text{atomic mass of that element (g/mol)}}$$
 
-* Mg 20.19%, S 26.64%, O 53.17% gives **MgSO~4~**.
-* Si 10.85%, Cl 27.40%, Br 61.75% gives **SiCl~2~Br~2~**.
+**Step 3: Divide every mole value by the smallest mole value.**
+Look at the moles from step 2 and find the **smallest** one. Then divide **each** element's moles, including the smallest
+itself, by that one number. The smallest always becomes exactly 1, and the others tell you how many of that atom there
+are per 1 of the smallest.
 
-**Combustion analysis (slide 44):** burn a carbon-containing sample in excess O~2~. The masses of the products give the
-percent C (and H), which leads to the empirical formula.
+**Step 4: Turn the step-3 results into whole-number subscripts.**
 
-**Molecular formula from molar mass (slides 47–49)**
+* **"Whole number" means within about 0.1 of an integer.** Measured data and rounded atomic masses add a little error, so
+  1.997, 2.03, and 0.98 all count as whole: round them to 2, 2, and 1.
+* If a result ends in one of the decimals below, **don't round it**. It's a real fraction, so multiply.
+* **Pick ONE multiplier and multiply EVERY element's result by it**, including the ones that were already whole. Use the
+  smallest multiplier that makes **all** of them whole at the same time. (Using a different multiplier for each element
+  would change the ratio and give a wrong formula.)
 
-$$n = \frac{\text{molar mass}}{\text{empirical formula mass}}$$
+| Decimal part of a step-3 result | Meaning | Multiply **every** result by |
+|:-:|:-:|:-:|
+| about .5 | halves | **2** |
+| about .33 or .67 | thirds | **3** |
+| about .25 or .75 | quarters | **4** |
+| about .2, .4, .6, or .8 | fifths | **5** |
+
+If two elements need different multipliers, use the smallest number that works for both. For example, a .5 and a .33
+together need 6.
+
+The final whole numbers are the subscripts.
+
+**Worked example A, all whole after step 3 (slide 38).** C 9.94%, Cl 58.6%, F 31.4%.
+
+| Element | Step 1: g (100 g sample) | Step 2: mol = g ÷ atomic mass | Step 3: ÷ smallest (0.828) | Step 4 |
+|:-:|:-:|:-:|:-:|:-:|
+| C | 9.94 | 9.94 ÷ 12.01 = 0.828 | 0.828 ÷ 0.828 = 1.00 | 1 |
+| Cl | 58.6 | 58.6 ÷ 35.45 = 1.653 | 1.653 ÷ 0.828 = 1.997 | 2 |
+| F | 31.4 | 31.4 ÷ 19.00 = 1.653 | 1.653 ÷ 0.828 = 1.997 | 2 |
+
+1.997 is within 0.1 of 2, so round it. No multiplying is needed. The empirical formula is **CCl~2~F~2~**.
+
+**Worked example B, a .5 forces ×2.** An iron oxide is 69.94% Fe and 30.06% O.
+
+| Element | Step 1: g | Step 2: mol | Step 3: ÷ smallest (1.252) | Step 4: × 2 |
+|:-:|:-:|:-:|:-:|:-:|
+| Fe | 69.94 | 69.94 ÷ 55.85 = 1.252 | 1.00 | 1.00 × 2 = **2** |
+| O | 30.06 | 30.06 ÷ 16.00 = 1.879 | 1.50 | 1.50 × 2 = **3** |
+
+1.50 is not within 0.1 of a whole number, and it ends in .5, so multiply **both** results by 2. The formula is **Fe~2~O~3~**.
+Rounding 1.5 to 2 instead would give FeO~2~, which is wrong.
+
+**Worked example C, a .33 forces ×3, applied to all three elements.** Vitamin C is 40.92% C, 4.58% H, 54.50% O.
+
+| Element | Step 1: g | Step 2: mol | Step 3: ÷ smallest (3.406) | Step 4: × 3 |
+|:-:|:-:|:-:|:-:|:-:|
+| C | 40.92 | 40.92 ÷ 12.01 = 3.407 | 1.00 | **3** |
+| H | 4.58 | 4.58 ÷ 1.008 = 4.544 | 1.334 | 4.00, so **4** |
+| O | 54.50 | 54.50 ÷ 16.00 = 3.406 | 1.00 | **3** |
+
+Only H came out as a fraction, but C and O get multiplied by 3 too, because the ratio has to stay the same. The empirical formula
+is **C~3~H~4~O~3~**. Writing CH~4~O, with only H multiplied, is the classic mistake.
+
+**Worked example D, starting from grams (slides 45–46).** 1.198 g C combines with 0.302 g H.
+
+| Element | Step 1: g | Step 2: mol | Step 3: ÷ smallest (0.0998) | Step 4 |
+|:-:|:-:|:-:|:-:|:-:|
+| C | 1.198 | 1.198 ÷ 12.01 = 0.0998 | 1.00 | 1 |
+| H | 0.302 | 0.302 ÷ 1.008 = 0.300 | 3.00 | 3 |
+
+The empirical formula is **CH~3~**. You were given grams, so step 1 is just "use the given grams".
+
+**Worked example E, four elements (slides 35–37).** 32.000% C, 6.714% H, 42.630% O, 18.660% N.
+The moles are C 2.664, H 6.648, O 2.664, N 1.333. The smallest is 1.333, and dividing each by it gives 2, 5, 2, 1, so the formula is
+**C~2~H~5~O~2~N**.
+
+**HW21 style:** Mg 20.19%, S 26.64%, O 53.17% gives **MgSO~4~**. Si 10.85%, Cl 27.40%, Br 61.75% gives **SiCl~2~Br~2~**.
+Work them with the same table to check yourself.
+
+**Combustion analysis (slide 44):** a carbon-containing sample is burned in excess O~2~. The masses of the products give the
+percent of C (and the other elements), and from there it's a Type B problem.
+
+### Type C: empirical formula + molar mass $\rightarrow$ molecular formula (slides 47–49)
+
+1. Add up the **empirical formula mass** (the molar mass of the empirical formula).
+2. Divide: $n = \dfrac{\text{molar mass of the compound}}{\text{empirical formula mass}}$. The answer will be very close to a whole number.
+3. **Multiply every subscript in the empirical formula by n.**
 
 **Worked example (slide 49).** Empirical formula C~4~H~5~N~2~O, molar mass 194.14 g/mol.
-The empirical mass is 4(12.01) + 5(1.008) + 2(14.01) + 16.00 = 97.10. So n = 194.14 / 97.10 = 2, and the molecular formula
-is **C~8~H~10~N~4~O~2~**.
+
+1. Empirical mass = 4(12.01) + 5(1.008) + 2(14.01) + 16.00 = 97.10 g/mol.
+2. n = 194.14 ÷ 97.10 = 2.00
+3. C~4×2~H~5×2~N~2×2~O~1×2~ = **C~8~H~10~N~4~O~2~** (caffeine)
 
 **HW21 style:**
 
-* CH with molar mass $\approx$ 26: CH has mass 13.02, so n = 2 and the formula is **C~2~H~2~**.
-* C~3~H~7~NO with molar mass 145–150: the empirical mass is 73.10, so n = 2 and the formula is **C~6~H~14~N~2~O~2~**.
+* CH with molar mass about 26: CH = 13.02, n = 2, so **C~2~H~2~**.
+* C~3~H~7~NO with molar mass 145–150: empirical mass 73.10, n = 2, so **C~6~H~14~N~2~O~2~**.
+* Vitamin C from example C, C~3~H~4~O~3~ (88.06) with molar mass 176.12: n = 2, so **C~6~H~8~O~6~**.
 
-**Why the molecular formula is more useful (slide 50):** it tells you the actual number of atoms in a molecule. The
-empirical formula only gives the ratio, and many different compounds share the same empirical formula.
+**Why the molecular formula is more useful (slide 50):** it gives the actual number of atoms in a molecule. The empirical
+formula only gives the ratio, and many different compounds share one empirical formula (C~2~H~2~ and C~6~H~6~ are both CH).
+
+### Empirical-formula mistakes to avoid
+
+1. Using grams or percents directly as subscripts. **Always convert to moles first.**
+2. Dividing by something other than the **smallest mole value**, such as the smallest mass or the molar mass.
+3. Rounding 1.5 to 2 or 1.33 to 1. Only round results within about 0.1 of a whole number.
+4. Multiplying only the fractional element. **The same multiplier goes on every element.**
+5. In Type C, multiplying only some of the subscripts by n.
+
 
 \newpage
 
 # Chapter 9 — Chemical Quantities
+
+## 9.0 How to read the worked examples in this chapter
+
+Every Chapter 9 problem is a chain of **conversion factors**. A conversion factor is a fraction whose top and bottom are
+equal amounts, so multiplying by it changes the **unit** without changing the **amount**. Only two kinds appear:
+
+| Kind of factor | Where its numbers come from | Example |
+|:--|:--|:--|
+| **Molar mass** (grams $\leftrightarrow$ moles) | Add up the atomic masses on the periodic table (section 8.5) | $\dfrac{58.44\ \text{g NaCl}}{1\ \text{mol NaCl}}$ |
+| **Mole ratio** (moles of one substance $\leftrightarrow$ moles of another) | The **coefficients** of those two substances in the **balanced** equation | $\dfrac{2\ \text{mol NaCl}}{1\ \text{mol Cl}_2}$ |
+
+**Orientation rule:** write the factor with the unit you **want** on top and the unit you **have** on the bottom. The unit
+on the bottom cancels the unit you're carrying, and you're left with the unit on top. In the examples below, the labels
+under each factor say where its numbers came from, and crossed-out units are the ones that cancel.
 
 ## 9.1 What a balanced equation tells you (Ch 9 slides 2–5)
 
@@ -400,41 +586,71 @@ empirical formula only gives the ratio, and many different compounds share the s
 * CO(g) + 2H~2~(g) $\rightarrow$ CH~3~OH(l) can be read as 1 molecule + 2 molecules $\rightarrow$ 1 molecule, as
   1 dozen + 2 dozen $\rightarrow$ 1 dozen, or as **1 mol + 2 mol $\rightarrow$ 1 mol** (Table 9.1).
 
-**Worked example (slide 4).** 2Al~2~O~3~ $\rightarrow$ 4Al + 3O~2~.
+**Worked example (slide 4).** 2Al~2~O~3~ $\rightarrow$ 4Al + 3O~2~. The coefficients are Al~2~O~3~ **2**, Al **4**, O~2~ **3**.
 
-* From 4 molecules of Al~2~O~3~: 4 × (3/2) = **6 molecules of O~2~**.
-* If 8 atoms of Al are produced: 8 × (3/4) = **6 molecules of O~2~**.
+*(a) How many O~2~ molecules come from 4 molecules of Al~2~O~3~?* You have Al~2~O~3~ and want O~2~, so the factor is
+(O~2~ coefficient) over (Al~2~O~3~ coefficient):
+
+$$4\ \cancel{\text{Al}_2\text{O}_3} \times \underbrace{\frac{3\ \text{O}_2}{2\ \cancel{\text{Al}_2\text{O}_3}}}_{\text{coefficients of O}_2\text{ and Al}_2\text{O}_3} = \mathbf{6\ O_2\ molecules}$$
+
+*(b) If 8 atoms of Al are produced, how many O~2~ molecules form?* You have Al and want O~2~:
+
+$$8\ \cancel{\text{Al}} \times \underbrace{\frac{3\ \text{O}_2}{4\ \cancel{\text{Al}}}}_{\text{coefficients of O}_2\text{ and Al}} = \mathbf{6\ O_2\ molecules}$$
 
 ## 9.2 Mole ratios (Ch 9 slides 5–9)
 
-Every pair of substances in a balanced equation gives a mole ratio. From 2H~2~O $\rightarrow$ 2H~2~ + O~2~:
+A **mole ratio** comes from the coefficients of **two** substances in a balanced equation. Every pair of substances gives
+one, and each one can be written right side up or upside down.
 
-* 2 mol H~2~O = 2 mol H~2~
-* 2 mol H~2~O = 1 mol O~2~
-* 2 mol H~2~ = 1 mol O~2~
+**How to build one.** From 2H~2~O $\rightarrow$ 2H~2~ + O~2~ (coefficients: H~2~O **2**, H~2~ **2**, O~2~ **1**):
 
-**Worked example (slide 7).** N~2~ + 3H~2~ $\rightarrow$ 2NH~3~. The ratios are 1 mol N~2~ : 3 mol H~2~,
-1 mol N~2~ : 2 mol NH~3~, and 3 mol H~2~ : 2 mol NH~3~.
+| Pair | Statement | The two conversion factors it gives |
+|:--|:--|:--|
+| H~2~O and H~2~ | 2 mol H~2~O makes 2 mol H~2~ | $\dfrac{2\ \text{mol H}_2}{2\ \text{mol H}_2\text{O}}$ or $\dfrac{2\ \text{mol H}_2\text{O}}{2\ \text{mol H}_2}$ |
+| H~2~O and O~2~ | 2 mol H~2~O makes 1 mol O~2~ | $\dfrac{1\ \text{mol O}_2}{2\ \text{mol H}_2\text{O}}$ or $\dfrac{2\ \text{mol H}_2\text{O}}{1\ \text{mol O}_2}$ |
+| H~2~ and O~2~ | 2 mol H~2~ forms with 1 mol O~2~ | $\dfrac{1\ \text{mol O}_2}{2\ \text{mol H}_2}$ or $\dfrac{2\ \text{mol H}_2}{1\ \text{mol O}_2}$ |
 
-**Worked example (slide 8).** N~2~ + O~2~ $\rightarrow$ 2NO. The ratios are 1 mol N~2~ : 1 mol O~2~, 1 mol N~2~ : 2 mol NO,
-and 1 mol O~2~ : 2 mol NO.
+**Which one to use:** the one with the substance you **want** on top and the substance you **have** on the bottom.
+For 4B + 3O~2~ $\rightarrow$ 2B~2~O~3~, going from mol B to mol O~2~ uses $\dfrac{3\ \text{mol O}_2}{4\ \text{mol B}}$ (HW22).
+The 3 is O~2~'s coefficient and the 4 is B's coefficient.
 
-**Worked example (slide 9).** Ethane burns: **2C~2~H~6~ + 7O~2~ $\rightarrow$ 4CO~2~ + 6H~2~O**.
-To balance, do C first, then H, then O. 7/2 O~2~ isn't a whole number, so double everything.
+**Worked example (slide 7).** N~2~ + 3H~2~ $\rightarrow$ 2NH~3~ (coefficients N~2~ **1**, H~2~ **3**, NH~3~ **2**).
+The mole ratios are 1 mol N~2~ : 3 mol H~2~, 1 mol N~2~ : 2 mol NH~3~, and 3 mol H~2~ : 2 mol NH~3~.
 
-**Orienting the ratio (HW22):** put the unit you **want** on top and the unit you **have** on the bottom. For
-4B + 3O~2~ $\rightarrow$ 2B~2~O~3~, going from mol B to mol O~2~ uses (3 mol O~2~ / 4 mol B).
+**Worked example (slide 8).** N~2~ + O~2~ $\rightarrow$ 2NO (coefficients N~2~ **1**, O~2~ **1**, NO **2**).
+The mole ratios are 1 mol N~2~ : 1 mol O~2~, 1 mol N~2~ : 2 mol NO, and 1 mol O~2~ : 2 mol NO.
+
+**Worked example (slide 9): balance first.** Ethane burns: C~2~H~6~ + O~2~ $\rightarrow$ CO~2~ + H~2~O.
+
+1. **C:** 2 C on the left, so put 2 in front of CO~2~.
+2. **H:** 6 H on the left, so put 3 in front of H~2~O (3 × 2 = 6 H).
+3. **O:** the right now has 2(2) + 3(1) = 7 O, so O~2~ needs 7/2.
+4. 7/2 isn't a whole number, so double **every** coefficient: **2C~2~H~6~ + 7O~2~ $\rightarrow$ 4CO~2~ + 6H~2~O**.
 
 ## 9.3 Mole–mole conversions (Ch 9 slides 10–12)
 
-$$\text{mol wanted} = \text{mol given}\times\frac{\text{coefficient wanted}}{\text{coefficient given}}$$
+One step: multiply the moles you have by the mole ratio (want over have).
 
-**Worked examples**
+$$\text{mol wanted} = \text{mol given}\times\frac{\text{coefficient of the substance wanted}}{\text{coefficient of the substance given}}$$
 
-* **Slide 10.** Fe~2~O~3~ + 3CO $\rightarrow$ 2Fe + 3CO~2~. From 17.5 mol CO: 17.5 × (2/3) = **11.7 mol Fe**.
-* **Slide 11.** 2C~2~H~6~ + 7O~2~ $\rightarrow$ 4CO~2~ + 6H~2~O. For 0.987 mol C~2~H~6~: 0.987 × (7/2) = **3.45 mol O~2~**.
-* **Slide 12.** NH~3~ + NaOCl $\rightarrow$ NaOH + NH~2~Cl, a 1 : 1 ratio. 1.32 mol NH~3~ gives **1.32 mol NH~2~Cl**
-  (× 51.48 g/mol = 67.9 g).
+**Worked example (slide 10).** Fe~2~O~3~ + 3CO $\rightarrow$ 2Fe + 3CO~2~. How many mol Fe form from 17.5 mol CO?
+Have CO (coefficient **3**); want Fe (coefficient **2**).
+
+$$17.5\ \cancel{\text{mol CO}} \times \underbrace{\frac{2\ \text{mol Fe}}{3\ \cancel{\text{mol CO}}}}_{\text{coefficients of Fe and CO}} = \mathbf{11.7\ mol\ Fe}$$
+
+**Worked example (slide 11).** 2C~2~H~6~ + 7O~2~ $\rightarrow$ 4CO~2~ + 6H~2~O. How many mol O~2~ react with 0.987 mol C~2~H~6~?
+Have C~2~H~6~ (coefficient **2**); want O~2~ (coefficient **7**).
+
+$$0.987\ \cancel{\text{mol C}_2\text{H}_6} \times \underbrace{\frac{7\ \text{mol O}_2}{2\ \cancel{\text{mol C}_2\text{H}_6}}}_{\text{coefficients of O}_2\text{ and C}_2\text{H}_6} = \mathbf{3.45\ mol\ O_2}$$
+
+**Worked example (slide 12).** NH~3~ + NaOCl $\rightarrow$ NaOH + NH~2~Cl. How much NH~2~Cl forms from 1.32 mol NH~3~?
+Both coefficients are **1** (no number written means 1), so the ratio is 1 : 1.
+
+$$1.32\ \cancel{\text{mol NH}_3} \times \underbrace{\frac{1\ \text{mol NH}_2\text{Cl}}{1\ \cancel{\text{mol NH}_3}}}_{\text{coefficients}} = 1.32\ \text{mol NH}_2\text{Cl}$$
+
+To get grams, multiply by the molar mass of NH~2~Cl = 14.01 + 2(1.008) + 35.45 = 51.48 g/mol:
+
+$$1.32\ \cancel{\text{mol NH}_2\text{Cl}} \times \underbrace{\frac{51.48\ \text{g NH}_2\text{Cl}}{1\ \cancel{\text{mol NH}_2\text{Cl}}}}_{\text{molar mass of NH}_2\text{Cl}} = \mathbf{67.9\ g\ NH_2Cl}$$
 
 ## 9.4 Stoichiometry with masses (Ch 9 slides 13–20)
 
@@ -444,24 +660,62 @@ $$\text{mol wanted} = \text{mol given}\times\frac{\text{coefficient wanted}}{\te
 **Steps (slide 14)**
 
 1. Balance the equation.
-2. Convert grams to moles.
-3. Set up the mole ratio.
-4. Calculate the moles of the substance you want.
-5. Convert moles back to grams.
+2. Convert the grams you're given to **moles** (divide by that substance's molar mass).
+3. Set up the **mole ratio** (want over have, from the coefficients).
+4. Multiply to get the **moles** of the substance you want.
+5. Convert those moles to **grams** (multiply by the wanted substance's molar mass).
 
-$$\text{g A}\xrightarrow{\div\,\text{MM}_A}\text{mol A}\xrightarrow{\times\,\frac{\text{coef B}}{\text{coef A}}}\text{mol B}\xrightarrow{\times\,\text{MM}_B}\text{g B}$$
+$$\text{g A}\xrightarrow{\ \times\frac{1\ \text{mol A}}{\text{MM of A}}\ }\text{mol A}\xrightarrow{\ \times\frac{\text{coef B}}{\text{coef A}}\ }\text{mol B}\xrightarrow{\ \times\frac{\text{MM of B}}{1\ \text{mol B}}\ }\text{g B}$$
 
-**Worked examples**
+**You can never go straight from grams of A to grams of B.** The coefficients count moles, so you have to pass through moles.
 
-| Slide | Equation / question | Work | Answer |
-|:-:|:--|:--|:--|
-| 17 | 2SO~2~ + O~2~ $\rightarrow$ 2SO~3~; g SO~3~ from 2.33 mol O~2~ | 2.33 × 2 = 4.66 mol; × 80.07 | **373 g** |
-| 18 | H~2~SO~4~ + 2KOH $\rightarrow$ K~2~SO~4~ + 2H~2~O; mol H~2~SO~4~ for 19.9 g KOH | 19.9 ÷ 56.11 = 0.3547 mol; × ½ | **0.177 mol** |
-| 19 | 4NH~3~ + 5O~2~ $\rightarrow$ 4NO + 6H~2~O; g NH~3~ for 54.7 g NO | 54.7 ÷ 30.01 = 1.823 mol; × 4/4; × 17.03 | **31.0 g** |
-| 20 | CuSO~4~ + Fe $\rightarrow$ FeSO~4~ + Cu; g CuSO~4~ for 244 g Fe | 244 ÷ 55.85 = 4.369 mol; × 1/1; × 159.62 | **697 g** |
+**Worked example (slide 17).** 2SO~2~ + O~2~ $\rightarrow$ 2SO~3~. What mass of SO~3~ forms from 2.33 mol O~2~?
 
-**HW23 style:** Fe + Cl~2~ $\rightarrow$ FeCl~3~ must be balanced first, giving 2Fe + 3Cl~2~ $\rightarrow$ 2FeCl~3~.
-20.5 mg Fe is 0.367 mmol Fe, which makes 0.367 mmol FeCl~3~ × 162.20 = **59.5 mg**. You can work in mg and mmol throughout.
+* **Given:** 2.33 mol O~2~. It's already in moles, so skip step 2.
+* **Mole ratio:** have O~2~ (coefficient **1**), want SO~3~ (coefficient **2**).
+* **Molar mass of SO~3~:** 32.07 + 3(16.00) = 80.07 g/mol.
+
+$$2.33\ \cancel{\text{mol O}_2} \times \underbrace{\frac{2\ \text{mol SO}_3}{1\ \cancel{\text{mol O}_2}}}_{\text{coefficients}} = 4.66\ \text{mol SO}_3$$
+
+$$4.66\ \cancel{\text{mol SO}_3} \times \underbrace{\frac{80.07\ \text{g SO}_3}{1\ \cancel{\text{mol SO}_3}}}_{\text{molar mass of SO}_3} = \mathbf{373\ g\ SO_3}$$
+
+**Worked example (slide 18).** H~2~SO~4~ + 2KOH $\rightarrow$ K~2~SO~4~ + 2H~2~O. How many moles of H~2~SO~4~ react with 19.9 g KOH?
+
+* **Molar mass of KOH:** 39.10 + 16.00 + 1.008 = 56.11 g/mol.
+* **Mole ratio:** have KOH (coefficient **2**), want H~2~SO~4~ (coefficient **1**).
+* The question asks for **moles**, so stop after the mole ratio (no step 5).
+
+$$19.9\ \cancel{\text{g KOH}} \times \underbrace{\frac{1\ \text{mol KOH}}{56.11\ \cancel{\text{g KOH}}}}_{\text{molar mass of KOH}} = 0.3547\ \text{mol KOH}$$
+
+$$0.3547\ \cancel{\text{mol KOH}} \times \underbrace{\frac{1\ \text{mol H}_2\text{SO}_4}{2\ \cancel{\text{mol KOH}}}}_{\text{coefficients}} = \mathbf{0.177\ mol\ H_2SO_4}$$
+
+**Worked example (slide 19).** 4NH~3~ + 5O~2~ $\rightarrow$ 4NO + 6H~2~O. What mass of NH~3~ is needed to make 54.7 g NO?
+
+* **Molar masses:** NO = 14.01 + 16.00 = 30.01 g/mol; NH~3~ = 14.01 + 3(1.008) = 17.03 g/mol.
+* **Mole ratio:** have NO (coefficient **4**), want NH~3~ (coefficient **4**). It's 4 : 4, so the moles are equal.
+
+$$54.7\ \cancel{\text{g NO}} \times \underbrace{\frac{1\ \text{mol NO}}{30.01\ \cancel{\text{g NO}}}}_{\text{molar mass of NO}} = 1.823\ \text{mol NO}$$
+
+$$1.823\ \cancel{\text{mol NO}} \times \underbrace{\frac{4\ \text{mol NH}_3}{4\ \cancel{\text{mol NO}}}}_{\text{coefficients}} \times \underbrace{\frac{17.03\ \text{g NH}_3}{1\ \cancel{\text{mol NH}_3}}}_{\text{molar mass of NH}_3} = \mathbf{31.0\ g\ NH_3}$$
+
+**Worked example (slide 20).** CuSO~4~ + Fe $\rightarrow$ FeSO~4~ + Cu. What mass of CuSO~4~ reacts with 244 g Fe?
+
+* **Molar masses:** Fe = 55.85 g/mol; CuSO~4~ = 63.55 + 32.07 + 4(16.00) = 159.62 g/mol.
+* **Mole ratio:** have Fe (coefficient **1**), want CuSO~4~ (coefficient **1**).
+
+$$244\ \cancel{\text{g Fe}} \times \underbrace{\frac{1\ \text{mol Fe}}{55.85\ \cancel{\text{g Fe}}}}_{\text{molar mass of Fe}} = 4.369\ \text{mol Fe}$$
+
+$$4.369\ \cancel{\text{mol Fe}} \times \underbrace{\frac{1\ \text{mol CuSO}_4}{1\ \cancel{\text{mol Fe}}}}_{\text{coefficients}} \times \underbrace{\frac{159.62\ \text{g CuSO}_4}{1\ \cancel{\text{mol CuSO}_4}}}_{\text{molar mass of CuSO}_4} = \mathbf{697\ g\ CuSO_4}$$
+
+**HW23 style (balance first, work in mg).** Fe + Cl~2~ $\rightarrow$ FeCl~3~. What mass of FeCl~3~ forms from 20.5 mg Fe?
+
+1. **Balance:** FeCl~3~ has 3 Cl, and Cl~2~ comes in pairs, so use 2FeCl~3~ (6 Cl) and 3Cl~2~ (6 Cl). Then 2 Fe on the
+   left: **2Fe + 3Cl~2~ $\rightarrow$ 2FeCl~3~**.
+2. **Molar masses:** Fe = 55.85; FeCl~3~ = 55.85 + 3(35.45) = 162.20. A molar mass in g/mol is the same number in
+   **mg/mmol** (both top and bottom are divided by 1000), so you can stay in mg and mmol.
+3. **Mole ratio:** have Fe (coefficient **2**), want FeCl~3~ (coefficient **2**).
+
+$$20.5\ \cancel{\text{mg Fe}} \times \underbrace{\frac{1\ \text{mmol Fe}}{55.85\ \cancel{\text{mg Fe}}}}_{\text{molar mass of Fe}} \times \underbrace{\frac{2\ \text{mmol FeCl}_3}{2\ \cancel{\text{mmol Fe}}}}_{\text{coefficients}} \times \underbrace{\frac{162.20\ \text{mg FeCl}_3}{1\ \cancel{\text{mmol FeCl}_3}}}_{\text{molar mass of FeCl}_3} = \mathbf{59.5\ mg\ FeCl_3}$$
 
 ## 9.5 Limiting reactant (Ch 9 slides 21–24)
 
@@ -471,34 +725,116 @@ $$\text{g A}\xrightarrow{\div\,\text{MM}_A}\text{mol A}\xrightarrow{\times\,\fra
 **Method**
 
 1. Convert every reactant to **moles**.
-2. Pick one reactant and use the mole ratio to find **how much of the other it needs**.
-3. If you have **less** of the other than it needs, the other is limiting. Otherwise, the first one is.
+2. Pick one reactant. Use the mole ratio to find **how many moles of the other reactant it needs** to react completely.
+3. Compare that **need** with what you **have** of the other reactant:
+   * have **more** than needed: the other reactant is in excess, so the one you picked is **limiting**;
+   * have **less** than needed: the other reactant runs out first, so **it** is limiting.
 
-(Alternatively, calculate the product each reactant could make. The **smaller** amount comes from the limiting reactant.)
+**Cross-check (optional):** calculate how many moles of product each reactant could make on its own. The reactant that
+gives the **smaller** amount is limiting.
 
-**Never compare grams, and never compare raw coefficients.**
+**Never compare grams, and never compare raw mole amounts without the mole ratio.** A reactant with more moles can
+still be limiting if the equation needs a lot of it.
 
-**Worked example (slide 23).** 3Mg + N~2~ $\rightarrow$ Mg~3~N~2~, with 4.75 mol Mg and 2.11 mol N~2~.
-The Mg needs 4.75 / 3 = 1.58 mol N~2~, and there are 2.11 mol, so N~2~ is in excess and **Mg is limiting**.
+**Worked example (slide 23).** 3Mg + N~2~ $\rightarrow$ Mg~3~N~2~, with 4.75 mol Mg and 2.11 mol N~2~. Which is limiting?
 
-**Worked example (slide 24).** 4Al + 3O~2~ $\rightarrow$ 2Al~2~O~3~, with 17.9 g Al and 64 g O~2~.
-Al = 0.663 mol and O~2~ = 2.0 mol. The Al needs 0.663 × 3/4 = 0.498 mol O~2~, which is much less than 2.0, so **Al is limiting**.
-Note that Al has the *smaller* mass here, but that is not the reason it's limiting.
+*Step 1:* both are already in moles.
+
+*Step 2:* pick Mg and find how much N~2~ it needs. Have Mg (coefficient **3**), want N~2~ (coefficient **1**):
+
+$$4.75\ \cancel{\text{mol Mg}} \times \underbrace{\frac{1\ \text{mol N}_2}{3\ \cancel{\text{mol Mg}}}}_{\text{coefficients of N}_2\text{ and Mg}} = 1.58\ \text{mol N}_2\ \text{needed}$$
+
+*Step 3:* you **have** 2.11 mol N~2~ but only **need** 1.58 mol. There's more N~2~ than the Mg can use, so N~2~ is in
+excess and **Mg is limiting**. (Note that Mg has *more* moles, 4.75 vs 2.11, and is still limiting, because the equation
+uses 3 Mg for every 1 N~2~.)
+
+**Worked example (slide 24).** 4Al + 3O~2~ $\rightarrow$ 2Al~2~O~3~, with 17.9 g Al and 64 g O~2~. Which is limiting?
+
+*Step 1: grams to moles.* Molar masses: Al = 26.98 g/mol; O~2~ = 2(16.00) = 32.00 g/mol (O~2~ has two O atoms).
+
+$$17.9\ \cancel{\text{g Al}} \times \underbrace{\frac{1\ \text{mol Al}}{26.98\ \cancel{\text{g Al}}}}_{\text{molar mass of Al}} = 0.6635\ \text{mol Al}$$
+
+$$64\ \cancel{\text{g O}_2} \times \underbrace{\frac{1\ \text{mol O}_2}{32.00\ \cancel{\text{g O}_2}}}_{\text{molar mass of O}_2} = 2.0\ \text{mol O}_2$$
+
+*Step 2:* pick Al and find how much O~2~ it needs. Have Al (coefficient **4**), want O~2~ (coefficient **3**):
+
+$$0.6635\ \cancel{\text{mol Al}} \times \underbrace{\frac{3\ \text{mol O}_2}{4\ \cancel{\text{mol Al}}}}_{\text{coefficients of O}_2\text{ and Al}} = 0.498\ \text{mol O}_2\ \text{needed}$$
+
+*Step 3:* you **have** 2.0 mol O~2~ and only **need** 0.498 mol, so O~2~ is in excess and **Al is limiting**. Al also has
+the smaller mass here, but that is *not* the reason. The comparison has to be made in moles through the mole ratio.
 
 ## 9.6 Theoretical yield (Ch 9 slides 25–27)
 
 **Theoretical yield:** the amount of product **calculated from the limiting reactant**. It is the **maximum** amount of product
 that can be made from the amounts of reactants used.
 
-**Worked example (slide 26).** Pb(NO~3~)~2~ + 2NaCl $\rightarrow$ PbCl~2~ + 2NaNO~3~, with 237 g NaCl and excess Pb(NO~3~)~2~.
+**Method**
 
-$$237\ \text{g}\div58.44 = 4.055\ \text{mol NaCl};\quad \times\tfrac{1}{2} = 2.028\ \text{mol PbCl}_2;\quad\times278.1 = \mathbf{564\ g\ PbCl_2}$$
+1. Find the **limiting reactant** (section 9.5). If the problem says one reactant is "in excess," the **other** one is limiting.
+2. Start from the **moles of the limiting reactant**. Never start from the excess reactant.
+3. Multiply by the mole ratio $\dfrac{\text{coefficient of the product}}{\text{coefficient of the limiting reactant}}$ to get moles of product.
+4. Multiply by the **molar mass of the product** to get grams of product. That number is the theoretical yield.
 
-**Worked example (slide 27).** 2Na + Cl~2~ $\rightarrow$ 2NaCl, with 68 g Na and 97 g Cl~2~.
+**Worked example (slide 26): one reactant in excess.** Pb(NO~3~)~2~ + 2NaCl $\rightarrow$ PbCl~2~ + 2NaNO~3~, with 237 g NaCl
+and excess Pb(NO~3~)~2~. What is the theoretical yield of PbCl~2~?
 
-* Na = 2.958 mol and Cl~2~ = 1.368 mol.
-* The Cl~2~ needs 2.736 mol Na, and you have 2.958, so **Cl~2~ is limiting**.
-* NaCl = 1.368 × 2 × 58.44 = **160 g**.
+*Step 1: limiting reactant.* Pb(NO~3~)~2~ is "in excess," which means there's more than enough of it. So **NaCl is limiting**,
+and no comparison is needed.
+
+*Step 2: grams NaCl to moles NaCl.* Molar mass of NaCl = 22.99 + 35.45 = 58.44 g/mol.
+
+$$237\ \cancel{\text{g NaCl}} \times \underbrace{\frac{1\ \text{mol NaCl}}{58.44\ \cancel{\text{g NaCl}}}}_{\text{molar mass of NaCl}} = 4.055\ \text{mol NaCl}$$
+
+*Step 3: moles NaCl to moles PbCl~2~.* In the balanced equation, NaCl's coefficient is **2** and PbCl~2~'s coefficient is
+**1**. So 2 mol NaCl makes 1 mol PbCl~2~. Want PbCl~2~ on top, have NaCl on the bottom:
+
+$$4.055\ \cancel{\text{mol NaCl}} \times \underbrace{\frac{1\ \text{mol PbCl}_2}{2\ \cancel{\text{mol NaCl}}}}_{\text{coefficient of PbCl}_2\ /\ \text{coefficient of NaCl}} = 2.028\ \text{mol PbCl}_2$$
+
+*Step 4: moles PbCl~2~ to grams PbCl~2~.* Molar mass of PbCl~2~ = 207.2 + 2(35.45) = 278.1 g/mol.
+
+$$2.028\ \cancel{\text{mol PbCl}_2} \times \underbrace{\frac{278.1\ \text{g PbCl}_2}{1\ \cancel{\text{mol PbCl}_2}}}_{\text{molar mass of PbCl}_2} = \mathbf{564\ g\ PbCl_2}\ \text{(theoretical yield)}$$
+
+**Worked example (slide 27): you have to find the limiting reactant first.** 2Na + Cl~2~ $\rightarrow$ 2NaCl, with
+68 g Na and 97 g Cl~2~. What is the theoretical yield of NaCl?
+
+*Read the equation first.* Coefficients: Na **2**, Cl~2~ **1**, NaCl **2**. In words: 2 mol Na reacts with 1 mol Cl~2~
+to make 2 mol NaCl. The three mole ratios you can use are:
+
+$$\frac{2\ \text{mol Na}}{1\ \text{mol Cl}_2} \qquad \frac{2\ \text{mol NaCl}}{2\ \text{mol Na}} \qquad \frac{2\ \text{mol NaCl}}{1\ \text{mol Cl}_2}$$
+
+*Step 1a: grams to moles for each reactant.* Molar masses: Na = 22.99 g/mol (periodic table); Cl~2~ = 2(35.45) =
+70.90 g/mol (Cl~2~ is diatomic, so it has **two** Cl atoms).
+
+$$68\ \cancel{\text{g Na}} \times \underbrace{\frac{1\ \text{mol Na}}{22.99\ \cancel{\text{g Na}}}}_{\text{molar mass of Na}} = 2.958\ \text{mol Na}$$
+
+$$97\ \cancel{\text{g Cl}_2} \times \underbrace{\frac{1\ \text{mol Cl}_2}{70.90\ \cancel{\text{g Cl}_2}}}_{\text{molar mass of Cl}_2} = 1.368\ \text{mol Cl}_2$$
+
+*Step 1b: how much Na does all the Cl~2~ need?* Have Cl~2~ (coefficient **1**), want Na (coefficient **2**):
+
+$$1.368\ \cancel{\text{mol Cl}_2} \times \underbrace{\frac{2\ \text{mol Na}}{1\ \cancel{\text{mol Cl}_2}}}_{\text{coefficient of Na}\ /\ \text{coefficient of Cl}_2} = 2.736\ \text{mol Na needed}$$
+
+*Step 1c: compare.* You **have** 2.958 mol Na and the Cl~2~ only **needs** 2.736 mol Na. There's extra Na (2.958 − 2.736 =
+0.222 mol left over), so Na is in excess and the Cl~2~ runs out first: **Cl~2~ is limiting**.
+
+*Step 2: start from the limiting reactant, 1.368 mol Cl~2~.*
+
+*Step 3: moles Cl~2~ to moles NaCl.* Have Cl~2~ (coefficient **1**), want NaCl (coefficient **2**). Here the 2 is
+**NaCl's** coefficient, not Na's. They happen to be the same number in this equation.
+
+$$1.368\ \cancel{\text{mol Cl}_2} \times \underbrace{\frac{2\ \text{mol NaCl}}{1\ \cancel{\text{mol Cl}_2}}}_{\text{coefficient of NaCl}\ /\ \text{coefficient of Cl}_2} = 2.736\ \text{mol NaCl}$$
+
+*Step 4: moles NaCl to grams NaCl.* Molar mass of NaCl = 22.99 (Na) + 35.45 (Cl) = 58.44 g/mol.
+
+$$2.736\ \cancel{\text{mol NaCl}} \times \underbrace{\frac{58.44\ \text{g NaCl}}{1\ \cancel{\text{mol NaCl}}}}_{\text{molar mass of NaCl}} = \mathbf{160\ g\ NaCl}\ \text{(theoretical yield)}$$
+
+*All of steps 2–4 as one chain:*
+
+$$97\ \cancel{\text{g Cl}_2}\times\frac{1\ \cancel{\text{mol Cl}_2}}{70.90\ \cancel{\text{g Cl}_2}}\times\frac{2\ \cancel{\text{mol NaCl}}}{1\ \cancel{\text{mol Cl}_2}}\times\frac{58.44\ \text{g NaCl}}{1\ \cancel{\text{mol NaCl}}} = 160\ \text{g NaCl}$$
+
+*Check with the cross-check method.* If all the Na reacted, it would make
+2.958 mol Na × (2 mol NaCl / 2 mol Na) × 58.44 g/mol = 173 g NaCl. That's more than the 160 g the Cl~2~ allows, and the
+**smaller** amount wins. Using the Na would give 173 g, a wrong answer that is likely to appear among the choices, because
+there isn't enough Cl~2~ to make that much.
 
 ## 9.7 Actual and percent yield (Ch 9 slides 28–32)
 
@@ -508,20 +844,44 @@ $$237\ \text{g}\div58.44 = 4.055\ \text{mol NaCl};\quad \times\tfrac{1}{2} = 2.0
 
 $$\text{percent yield} = \frac{\text{actual yield}}{\text{theoretical yield}}\times100\%$$
 
+* The **actual yield is given** in the problem (it was measured). The **theoretical yield you calculate** (section 9.6). Both
+  must be in the same unit, usually grams.
 * **Can the actual yield be higher than the theoretical yield (slide 29)?** No. The theoretical yield is the maximum. A
   result over 100% means an error, such as a wet or impure product or a math mistake.
 
-**Worked example (slide 31).** H~2~ + I~2~ $\rightarrow$ 2HI, with 69.1 g H~2~ and excess I~2~; 134 g HI is actually produced.
+**Worked example (slide 31).** H~2~ + I~2~ $\rightarrow$ 2HI, with 69.1 g H~2~ and excess I~2~. 134 g HI is actually produced.
+What is the percent yield?
 
-$$69.1\div2.016 = 34.28\ \text{mol H}_2\ \rightarrow\ 68.55\ \text{mol HI}\times127.91 = 8768\ \text{g HI (theoretical)};\qquad \frac{134}{8768}\times100 = \mathbf{1.53\%}$$
+*Part 1: theoretical yield of HI.* I~2~ is in excess, so **H~2~ is limiting**. Molar masses: H~2~ = 2(1.008) = 2.016 g/mol;
+HI = 1.008 + 126.90 = 127.91 g/mol. Mole ratio: have H~2~ (coefficient **1**), want HI (coefficient **2**).
 
-**Worked example (slide 32).** 2KClO~3~ $\rightarrow$ 2KCl + 3O~2~, with 191 g KClO~3~; 89.9 g KCl is actually produced.
+$$69.1\ \cancel{\text{g H}_2} \times \underbrace{\frac{1\ \text{mol H}_2}{2.016\ \cancel{\text{g H}_2}}}_{\text{molar mass of H}_2} = 34.28\ \text{mol H}_2$$
 
-$$191\div122.55 = 1.559\ \text{mol}\ \rightarrow\ 1.559\ \text{mol KCl}\times74.55 = 116.2\ \text{g};\qquad \frac{89.9}{116.2}\times100 = \mathbf{77.4\%}$$
+$$34.28\ \cancel{\text{mol H}_2} \times \underbrace{\frac{2\ \text{mol HI}}{1\ \cancel{\text{mol H}_2}}}_{\text{coefficients}} \times \underbrace{\frac{127.91\ \text{g HI}}{1\ \cancel{\text{mol HI}}}}_{\text{molar mass of HI}} = 8768\ \text{g HI (theoretical)}$$
 
-**HW24 style (two-part):** find the theoretical yield, which may require finding the limiting reactant first (Xe + 2F~2~
-$\rightarrow$ XeF~4~), and then the percent yield. "Percentage of capacity reached" (the LiOH and CO~2~ canister) uses the same
-formula: actual / theoretical × 100.
+*Part 2: percent yield.* The actual yield (134 g) goes on top and the theoretical yield (8768 g) on the bottom:
+
+$$\frac{134\ \text{g}}{8768\ \text{g}}\times100\% = \mathbf{1.53\%}$$
+
+**Worked example (slide 32).** 2KClO~3~ $\rightarrow$ 2KCl + 3O~2~, with 191 g KClO~3~. 89.9 g KCl is actually produced.
+What is the percent yield?
+
+*Part 1: theoretical yield of KCl.* KClO~3~ is the only reactant, so it's limiting. Molar masses: KClO~3~ = 39.10 + 35.45 +
+3(16.00) = 122.55 g/mol; KCl = 39.10 + 35.45 = 74.55 g/mol. Mole ratio: have KClO~3~ (coefficient **2**), want KCl
+(coefficient **2**).
+
+$$191\ \cancel{\text{g KClO}_3} \times \underbrace{\frac{1\ \text{mol KClO}_3}{122.55\ \cancel{\text{g KClO}_3}}}_{\text{molar mass of KClO}_3} = 1.559\ \text{mol KClO}_3$$
+
+$$1.559\ \cancel{\text{mol KClO}_3} \times \underbrace{\frac{2\ \text{mol KCl}}{2\ \cancel{\text{mol KClO}_3}}}_{\text{coefficients}} \times \underbrace{\frac{74.55\ \text{g KCl}}{1\ \cancel{\text{mol KCl}}}}_{\text{molar mass of KCl}} = 116.2\ \text{g KCl (theoretical)}$$
+
+*Part 2: percent yield.*
+
+$$\frac{89.9\ \text{g}}{116.2\ \text{g}}\times100\% = \mathbf{77.4\%}$$
+
+**HW24 style (two-part).** Some problems give amounts of **both** reactants (for example Xe + 2F~2~ $\rightarrow$ XeF~4~). Then
+part 1 needs the limiting reactant first (section 9.5), followed by the theoretical yield from that reactant (section 9.6).
+Part 2 is percent yield = actual / theoretical × 100. "Percentage of capacity reached" (the LiOH and CO~2~ canister) uses the
+same formula: actual / theoretical × 100.
 
 \newpage
 

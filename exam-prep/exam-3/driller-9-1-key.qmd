@@ -1,0 +1,278 @@
+---
+title: "CHEM 1301 Driller 9-1 — Answer Key"
+subtitle: "Worked solutions with course-material citations"
+format:
+  pdf:
+    geometry: margin=0.75in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
+---
+
+Every numeric answer was recomputed by `_scripts/build_driller_9_1.py`, which builds this key and the driller from
+the same data. Atomic masses are periodic-table values (H 1.008, C 12.01, N 14.01, O 16.00, ...). Citations name the
+slide (same number in the `.pdf` and `.pptx`) where the content is taught, plus the closest homework screenshot.
+
+**How to read the solutions.** Each calculation is a chain of conversion factors written want-over-have. The label under
+each factor says where its numbers come from (a molar mass, or two coefficients from the balanced equation), and the
+crossed-out units are the ones that cancel. Study guide section 9.0 explains this format.
+
+**Score bands.** 9–10 solid on Chapter 9 · 7–8 rework the study guide sections for the questions you missed ·
+6 or below go back through study guide sections 9.2–9.7 before the next driller.
+
+| Q | Ans | Answer | Type | Topic (source) |
+|:-:|:-:|:----------------|:----:|:------------------------|
+| 1 | **a** | 2 mol of H~2~ reacts with 1 mol of O~2~ to form 2 mol of H~2~O | concept | What the coefficients mean (Ch 9 sl. 2–5) |
+| 2 | **b** | $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{2\ \text{mol Fe}_2\text{O}_3}{3\ \text{mol O}_2}$ | concept | Choosing the mole ratio (Ch 9 sl. 5–8) |
+| 3 | **e** | 12.0 mol | calc | Mole–mole conversion (Ch 9 sl. 10–11) |
+| 4 | **d** | grams A $\rightarrow$ moles A $\rightarrow$ moles B $\rightarrow$ grams B | concept | Order of the stoichiometry steps (Ch 9 sl. 13–14) |
+| 5 | **c** | 23.5 g | calc | Grams to grams (Ch 9 sl. 14, 17–19) |
+| 6 | **c** | 0.998 mol | calc | Grams to moles of another substance (Ch 9 sl. 18) |
+| 7 | **e** | 16.0 g | calc | Balance first, then grams of a reactant (Ch 9 sl. 9, 16, 19) |
+| 8 | **a** | CO is limiting, and 0.5 mol of O~2~ is left over | calc | Limiting reactant and leftover (Ch 9 sl. 21–23) |
+| 9 | **b** | 43.9 g | calc | Theoretical yield from two masses (Ch 9 sl. 24–27) |
+| 10 | **d** | 88.5% | calc | Percent yield (Ch 9 sl. 28–32) |
+
+Mix: 3 concept / 7 calculation · Ch 9: 10
+
+# 1. What the coefficients mean — **a) 2 mol of H~2~ reacts with 1 mol of O~2~ to form 2 mol of H~2~O**
+
+**Source:** Chapter 9 post, slide 2 (coefficients give relative numbers of molecules), slide 3 (Table 9.1: molecules, dozens, moles), slide 5  
+**Homework match:** HW22 — hw22ex1.png (H~2~ + F~2~ → 2HF read in molecules and in moles)  
+**What it tests:** Reading a balanced equation in moles: coefficients are mole (particle) ratios, not masses.
+
+**Step 1: read the coefficients.** H~2~ **2**, O~2~ **1** (nothing written means 1), H~2~O **2**.
+
+**Step 2: say it in moles.** Slide 3 (Table 9.1) shows that the same coefficients can be read as molecules, dozens, or
+moles. In moles: **2 mol H~2~ + 1 mol O~2~ $\rightarrow$ 2 mol H~2~O**.
+
+Coefficients never mean grams. 2 mol H~2~ (4.03 g) and 1 mol O~2~ (32.00 g) have very different masses.
+
+Why the other choices are wrong:
+
+* b) 2 molecules of H~2~ react to form 1 molecule of H~2~O: H~2~O's coefficient is 2, so 2 molecules of H~2~ form **2** molecules of H~2~O.
+* c) 2 g of H~2~ reacts with 1 g of O~2~ to form 2 g of H~2~O: Coefficients count molecules or moles, never grams (slide 2).
+* d) The mass of H~2~O formed equals the mass of H~2~ used: Mass is conserved for the whole reaction: mass of H~2~ + mass of O~2~ = mass of H~2~O.
+* e) 1 mol of H~2~ reacts with 2 mol of O~2~: The ratio is flipped. H~2~'s coefficient is 2 and O~2~'s is 1 (no number written means 1).
+
+# 2. Choosing the mole ratio — **b) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{2\ \text{mol Fe}_2\text{O}_3}{3\ \text{mol O}_2}$**
+
+**Source:** Chapter 9 post, slides 5–8 (mole ratios from the coefficients: N~2~ + 3H~2~ → 2NH~3~, N~2~ + O~2~ → 2NO)  
+**Homework match:** HW22 — hw22ex2.png (which mole ratio for 4B + 3O~2~ → 2B~2~O~3~: 3 mol O~2~ / 4 mol B)  
+**What it tests:** Building a mole ratio from two coefficients and orienting it want-over-have.
+
+**Step 1: pick the two substances.** You **have** O~2~ and **want** Fe~2~O~3~. Fe is not involved.
+
+**Step 2: read their coefficients.** O~2~ **3**, Fe~2~O~3~ **2**. So 3 mol O~2~ makes 2 mol Fe~2~O~3~.
+
+**Step 3: orient it want-over-have.** Fe~2~O~3~ (want) on top, O~2~ (have) on the bottom:
+
+$$\text{mol O}_2\times\frac{2\ \text{mol Fe}_2\text{O}_3}{3\ \text{mol O}_2}\ \text{leaves mol Fe}_2\text{O}_3$$
+
+Why the other choices are wrong:
+
+* a) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{3\ \text{mol O}_2}{2\ \text{mol Fe}_2\text{O}_3}$: Upside down. The unit you have (mol O~2~) has to be on the bottom so it cancels.
+* c) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{2\ \text{mol Fe}_2\text{O}_3}{4\ \text{mol Fe}}$: That converts mol Fe to mol Fe~2~O~3~. The question starts from O~2~.
+* d) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{3\ \text{mol O}_2}{4\ \text{mol Fe}}$: That relates the two reactants (O~2~ and Fe). It never reaches Fe~2~O~3~.
+* e) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{32.00\ \text{g O}_2}{1\ \text{mol O}_2}$: That is the molar mass of O~2~. It converts moles to grams of the **same** substance, not to another substance.
+
+# 3. Mole–mole conversion — **e) 12.0 mol**
+
+**Source:** Chapter 9 post, slide 11 (Mole–Mole Conversions Practice 2: 2C~2~H~6~ + 7O~2~), slide 10  
+**Homework match:** HW22 — hw22ex3.png (moles of one substance from moles of another, e.g. mol Se from mol H~2~O)  
+**What it tests:** Picking the right two coefficients out of a four-substance equation.
+
+**Step 1: coefficients you need.** Have C~3~H~8~ (coefficient **1**, nothing written); want O~2~ (coefficient **5**). CO~2~ and H~2~O are not involved.
+
+**Step 2: multiply by the mole ratio (want over have).**
+
+$$2.40\ \cancel{\text{mol C}_{3}\text{H}_{8}} \times \underbrace{\frac{5\ \text{mol O}_{2}}{1\ \cancel{\text{mol C}_{3}\text{H}_{8}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of C}_{3}\text{H}_{8}} = \boxed{12.0\ \text{mol O}_{2}}$$
+
+Why the other choices are wrong:
+
+* a) 0.480 mol: Ratio upside down: 2.40 × 1/5.
+* b) 2.40 mol: Assumed 1 : 1. O~2~'s coefficient is 5.
+* c) 7.20 mol: Used CO~2~'s coefficient (3) instead of O~2~'s (5).
+* d) 9.60 mol: Used H~2~O's coefficient (4) instead of O~2~'s (5).
+
+# 4. Order of the stoichiometry steps — **d) grams A $\rightarrow$ moles A $\rightarrow$ moles B $\rightarrow$ grams B**
+
+**Source:** Chapter 9 post, slide 14 (Steps for Calculating the Masses of Reactants and Products), slide 13, slide 16  
+**Homework match:** HW23 — hw23ex1.png (mass of C~2~H~2~ from 3.25 g CaC~2~)  
+**What it tests:** The four-step path of slide 14: moles are always the middle step, and the coefficients act only on moles.
+
+Slide 14's steps after balancing: convert grams to moles, use the mole ratio, then convert moles to grams.
+
+$$\text{g A}\xrightarrow{\ \times\frac{1\ \text{mol A}}{\text{molar mass of A}}\ }\text{mol A}\xrightarrow{\ \times\frac{\text{coef. B}}{\text{coef. A}}\ }\text{mol B}\xrightarrow{\ \times\frac{\text{molar mass of B}}{1\ \text{mol B}}\ }\text{g B}$$
+
+The mole ratio is the **only** link between A and B, and it only works on moles. So there has to be a moles step on each
+side of it.
+
+Why the other choices are wrong:
+
+* a) grams A $\rightarrow$ moles B $\rightarrow$ moles A $\rightarrow$ grams B: You can't get moles of B directly from grams of A. Convert to moles of A first.
+* b) grams A $\rightarrow$ grams B, using the coefficients as a mass ratio: Coefficients are mole ratios, never mass ratios (slide 2).
+* c) grams A $\rightarrow$ moles A $\rightarrow$ grams B: Skips the mole ratio. Moles of A are not moles of B unless the coefficients are equal.
+* e) grams A $\rightarrow$ moles A $\rightarrow$ moles B $\rightarrow$ atoms B: Ends in particles. The question asks for grams, so the last step multiplies by B's molar mass.
+
+# 5. Grams to grams — **c) 23.5 g**
+
+**Source:** Chapter 9 post, slides 17–19 (Stoichiometry Practice: g → mol → mol → g), slide 14 (steps)  
+**Homework match:** HW23 — hw23ex2.png (grams of Br~2~ from the decomposition of 34.0 g BrF~3~)  
+**What it tests:** The full g $\rightarrow$ mol $\rightarrow$ mol $\rightarrow$ g chain with a 2 : 1 ratio.
+
+**Step 1: molar masses.** H~2~O~2~ = 2(1.008) + 2(16.00) = 34.02 g/mol. O~2~ = 2(16.00) = 32.00 g/mol (O~2~ has two O atoms).
+
+**Step 2: grams H~2~O~2~ to moles H~2~O~2~.**
+
+$$50.0\ \cancel{\text{g H}_{2}\text{O}_{2}} \times \underbrace{\frac{1\ \text{mol H}_{2}\text{O}_{2}}{34.02\ \cancel{\text{g H}_{2}\text{O}_{2}}}}_{\text{molar mass of H}_{2}\text{O}_{2}} = 1.4699\ \text{mol H}_{2}\text{O}_{2}$$
+
+**Step 3: moles H~2~O~2~ to moles O~2~.** Have H~2~O~2~ (coefficient **2**), want O~2~ (coefficient **1**).
+
+$$1.4699\ \cancel{\text{mol H}_{2}\text{O}_{2}} \times \underbrace{\frac{1\ \text{mol O}_{2}}{2\ \cancel{\text{mol H}_{2}\text{O}_{2}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of H}_{2}\text{O}_{2}} = 0.7349\ \text{mol O}_{2}$$
+
+**Step 4: moles O~2~ to grams O~2~.**
+
+$$0.7349\ \cancel{\text{mol O}_{2}} \times \underbrace{\frac{32.00\ \text{g O}_{2}}{1\ \cancel{\text{mol O}_{2}}}}_{\text{molar mass of O}_{2}} = \boxed{23.5\ \text{g O}_{2}}$$
+
+Why the other choices are wrong:
+
+* a) 0.735 g: That is the **moles** of O~2~. You stopped before the last step.
+* b) 11.8 g: Used 16.00 g/mol (one O atom) instead of 32.00 g/mol for O~2~.
+* d) 47.0 g: Assumed 1 : 1. It takes 2 H~2~O~2~ to make 1 O~2~.
+* e) 50.0 g: Assumed the product mass equals the reactant mass. Some of the mass goes to H~2~O.
+
+# 6. Grams to moles of another substance — **c) 0.998 mol**
+
+**Source:** Chapter 9 post, slide 18 (Stoichiometry Practice 2: moles of H~2~SO~4~ from 19.9 g KOH), slide 14  
+**Homework match:** HW22 — hw22ex3.png (moles of Br~2~ needed to react with 0.206 g Al); HW23 — hw23ex1.png (CaC~2~ + H~2~O)  
+**What it tests:** Stopping at moles when the question asks for moles: g $\rightarrow$ mol $\rightarrow$ mol, no final mass step.
+
+**Step 1: molar mass of CaC~2~.** 40.08 + 2(12.01) = 64.10 g/mol.
+
+**Step 2: grams CaC~2~ to moles CaC~2~.**
+
+$$32.0\ \cancel{\text{g CaC}_{2}} \times \underbrace{\frac{1\ \text{mol CaC}_{2}}{64.10\ \cancel{\text{g CaC}_{2}}}}_{\text{molar mass of CaC}_{2}} = 0.4992\ \text{mol CaC}_{2}$$
+
+**Step 3: moles CaC~2~ to moles H~2~O.** Have CaC~2~ (coefficient **1**), want H~2~O (coefficient **2**). The question asks for **moles**, so stop here.
+
+$$0.4992\ \cancel{\text{mol CaC}_{2}} \times \underbrace{\frac{2\ \text{mol H}_{2}\text{O}}{1\ \cancel{\text{mol CaC}_{2}}}}_{\text{coefficient of H}_{2}\text{O / coefficient of CaC}_{2}} = \boxed{0.998\ \text{mol H}_{2}\text{O}}$$
+
+Why the other choices are wrong:
+
+* a) 0.250 mol: Ratio upside down: × 1/2 instead of × 2/1.
+* b) 0.499 mol: Assumed 1 : 1. Water's coefficient is 2.
+* d) 2.00 mol: Divided the molar mass by the grams (64.10 ÷ 32.0).
+* e) 18.0 mol: Multiplied by the molar mass of H~2~O. That gives grams of water, not moles.
+
+# 7. Balance first, then grams of a reactant — **e) 16.0 g**
+
+**Source:** Chapter 9 post, slide 16 (why the equation must be balanced first), slide 9 (balancing a combustion equation), slide 19  
+**Homework match:** HW22 — hw22ex3.png (unbalanced equations such as Al + Br~2~ → AlBr~3~: balance, then convert)  
+**What it tests:** Balancing before using coefficients, then g $\rightarrow$ mol $\rightarrow$ mol $\rightarrow$ g for a second reactant.
+
+**Step 1: balance.** P~4~O~10~ has 4 P, so put **4** in front of P. It has 10 O, and O~2~ supplies O in pairs, so put **5** in front of O~2~ (5 × 2 = 10). Balanced: **4P + 5O~2~ $\rightarrow$ P~4~O~10~**.
+
+**Step 2: grams P to moles P.** Atomic mass of P = 30.97 g/mol.
+
+$$12.4\ \cancel{\text{g P}} \times \underbrace{\frac{1\ \text{mol P}}{30.97\ \cancel{\text{g P}}}}_{\text{molar mass of P}} = 0.4004\ \text{mol P}$$
+
+**Step 3: moles P to moles O~2~.** Have P (coefficient **4**), want O~2~ (coefficient **5**).
+
+$$0.4004\ \cancel{\text{mol P}} \times \underbrace{\frac{5\ \text{mol O}_{2}}{4\ \cancel{\text{mol P}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of P}} = 0.5005\ \text{mol O}_{2}$$
+
+**Step 4: moles O~2~ to grams O~2~.** Molar mass of O~2~ = 2(16.00) = 32.00 g/mol.
+
+$$0.5005\ \cancel{\text{mol O}_{2}} \times \underbrace{\frac{32.00\ \text{g O}_{2}}{1\ \cancel{\text{mol O}_{2}}}}_{\text{molar mass of O}_{2}} = \boxed{16.0\ \text{g O}_{2}}$$
+
+Why the other choices are wrong:
+
+* a) 0.500 g: That is the **moles** of O~2~.
+* b) 8.01 g: Used 16.00 g/mol (one O atom) instead of 32.00 g/mol for O~2~.
+* c) 10.2 g: Ratio upside down: × 4/5 instead of × 5/4.
+* d) 12.8 g: Used the unbalanced equation (1 : 1). Balance it first.
+
+# 8. Limiting reactant and leftover — **a) CO is limiting, and 0.5 mol of O~2~ is left over**
+
+**Source:** Chapter 9 post, slide 23 (Limiting Reactants Practice: 3Mg + N~2~, both given in moles), slides 21–22  
+**Homework match:** HW23 — hw23ex2.png (determine which reactant is limiting)  
+**What it tests:** Comparing what one reactant needs with what is available, using the mole ratio, not raw moles.
+
+**Step 1: both amounts are already in moles.** CO 3.0 mol, O~2~ 2.0 mol.
+
+**Step 2: how much O~2~ does all the CO need?** Have CO (coefficient **2**), want O~2~ (coefficient **1**).
+
+$$3.0\ \cancel{\text{mol CO}} \times \underbrace{\frac{1\ \text{mol O}_{2}}{2\ \cancel{\text{mol CO}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of CO}} = 1.5\ \text{mol O}_{2}\text{ needed}$$
+
+**Step 3: compare.** You **have** 2.0 mol O~2~ and only **need** 1.5 mol. O~2~ is in excess, so **CO is limiting**.
+
+**Step 4: leftover.** 2.0 mol O~2~ available − 1.5 mol used = **0.5 mol O~2~ left over**.
+
+O~2~ has fewer moles (2.0 vs 3.0) and is still the excess reactant. That's why you never compare raw moles.
+
+Why the other choices are wrong:
+
+* b) Neither is limiting; both are used up completely: That needs exactly a 2 : 1 mole ratio. 3.0 : 2.0 is not 2 : 1.
+* c) O~2~ is limiting, because there are fewer moles of O~2~ than of CO: Compared raw moles. The equation needs only 1 O~2~ per 2 CO, so 3.0 mol CO uses just 1.5 mol O~2~.
+* d) CO is limiting, and 1.0 mol of O~2~ is left over: Right limiting reactant, wrong leftover. CO uses 1.5 mol O~2~, so 2.0 − 1.5 = 0.5 mol remains.
+* e) O~2~ is limiting, and 1.0 mol of CO is left over: 2.0 mol O~2~ would need 4.0 mol CO, and there is only 3.0 mol. CO runs out first.
+
+# 9. Theoretical yield from two masses — **b) 43.9 g**
+
+**Source:** Chapter 9 post, slide 27 (theoretical yield when both reactant masses are given), slide 24 (limiting reactant from grams), slide 25  
+**Homework match:** HW23 — hw23ex3.png (Fe + O~2~ unbalanced: find the limiting reactant, then the mass of product)  
+**What it tests:** Balance $\rightarrow$ moles of each reactant $\rightarrow$ limiting reactant $\rightarrow$ product from the limiting reactant only.
+
+**Step 1: balance.** AlCl~3~ has 3 Cl and Cl~2~ comes in pairs, so use 2AlCl~3~ (6 Cl) and 3Cl~2~ (6 Cl). Then 2 Al on the left: **2Al + 3Cl~2~ $\rightarrow$ 2AlCl~3~**.
+
+**Step 2: grams to moles for each reactant.** Al = 26.98 g/mol; Cl~2~ = 2(35.45) = 70.90 g/mol.
+
+$$10.0\ \cancel{\text{g Al}} \times \underbrace{\frac{1\ \text{mol Al}}{26.98\ \cancel{\text{g Al}}}}_{\text{molar mass of Al}} = 0.3706\ \text{mol Al}$$
+
+$$35.0\ \cancel{\text{g Cl}_{2}} \times \underbrace{\frac{1\ \text{mol Cl}_{2}}{70.90\ \cancel{\text{g Cl}_{2}}}}_{\text{molar mass of Cl}_{2}} = 0.4937\ \text{mol Cl}_{2}$$
+
+**Step 3: how much Cl~2~ does all the Al need?** Have Al (coefficient **2**), want Cl~2~ (coefficient **3**).
+
+$$0.3706\ \cancel{\text{mol Al}} \times \underbrace{\frac{3\ \text{mol Cl}_{2}}{2\ \cancel{\text{mol Al}}}}_{\text{coefficient of Cl}_{2}\text{ / coefficient of Al}} = 0.5560\ \text{mol Cl}_{2}\text{ needed}$$
+
+**Step 4: compare.** You **need** 0.5560 mol Cl~2~ but only **have** 0.4937 mol. The Cl~2~ runs out first, so **Cl~2~ is limiting** (even though Al has fewer moles and less mass).
+
+**Step 5: product from the limiting reactant.** Have Cl~2~ (coefficient **3**), want AlCl~3~ (coefficient **2**). Molar mass of AlCl~3~ = 26.98 + 3(35.45) = 133.33 g/mol.
+
+$$0.4937\ \cancel{\text{mol Cl}_{2}} \times \underbrace{\frac{2\ \text{mol AlCl}_{3}}{3\ \cancel{\text{mol Cl}_{2}}}}_{\text{coefficient of AlCl}_{3}\text{ / coefficient of Cl}_{2}} \times \underbrace{\frac{133.33\ \text{g AlCl}_{3}}{1\ \cancel{\text{mol AlCl}_{3}}}}_{\text{molar mass of AlCl}_{3}} = \boxed{43.9\ \text{g AlCl}_{3}}$$
+
+**Cross-check:** all the Al would make 0.3706 mol AlCl~3~ × 133.33 = 49.4 g. The smaller amount (43.9 g, from Cl~2~) is the theoretical yield.
+
+Why the other choices are wrong:
+
+* a) 0.329 g: That is the **moles** of AlCl~3~.
+* c) 45.0 g: Added the two reactant masses. Some Al is left over, so it isn't all in the product.
+* d) 49.4 g: Calculated from Al. Al is in excess here, so this is more than the Cl~2~ can make.
+* e) 65.8 g: Used Cl~2~ but assumed 1 : 1. The ratio is 2 AlCl~3~ : 3 Cl~2~.
+
+# 10. Percent yield — **d) 88.5%**
+
+**Source:** Chapter 9 post, slide 30 (percent yield = actual / theoretical × 100%), slide 32 (2KClO~3~ decomposition), slides 25, 28  
+**Homework match:** HW24 — hw24ex1.png (percent yield from theoretical and actual mass of magnesium oxide)  
+**What it tests:** Two parts: theoretical yield from the only reactant, then actual / theoretical × 100.
+
+**Part 1: theoretical yield of CaO.** CaCO~3~ is the only reactant, so it is limiting. Molar masses: CaCO~3~ = 40.08 + 12.01 + 3(16.00) = 100.09 g/mol; CaO = 40.08 + 16.00 = 56.08 g/mol. Mole ratio: have CaCO~3~ (coefficient **1**), want CaO (coefficient **1**).
+
+$$25.0\ \cancel{\text{g CaCO}_{3}} \times \underbrace{\frac{1\ \text{mol CaCO}_{3}}{100.09\ \cancel{\text{g CaCO}_{3}}}}_{\text{molar mass of CaCO}_{3}} = 0.2498\ \text{mol CaCO}_{3}$$
+
+$$0.2498\ \cancel{\text{mol CaCO}_{3}} \times \underbrace{\frac{1\ \text{mol CaO}}{1\ \cancel{\text{mol CaCO}_{3}}}}_{\text{coefficients}} \times \underbrace{\frac{56.08\ \text{g CaO}}{1\ \cancel{\text{mol CaO}}}}_{\text{molar mass of CaO}} = 14.01\ \text{g CaO (theoretical)}$$
+
+**Part 2: percent yield.** The actual yield (12.4 g, measured) goes on top; the theoretical yield on the bottom.
+
+$$\text{percent yield}=\frac{12.4\ \cancel{\text{g CaO}}\ (\text{actual})}{14.01\ \cancel{\text{g CaO}}\ (\text{theoretical})}\times100\% = \boxed{88.5\%}$$
+
+Why the other choices are wrong:
+
+* a) 0.885%: Forgot to multiply by 100.
+* b) 49.6%: Divided by the mass of CaCO~3~. The bottom must be the theoretical yield of **CaO**.
+* c) 56.0%: That is the mass percent of CaO in CaCO~3~ (56.08 / 100.09). It doesn't use the actual yield.
+* e) 113%: Upside down: theoretical / actual. A yield can't be over 100% (slide 29).
+

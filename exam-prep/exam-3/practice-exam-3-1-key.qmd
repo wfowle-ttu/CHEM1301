@@ -5,6 +5,11 @@ format:
   pdf:
     geometry: margin=0.75in
     fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl}
+filters:
+  - _filters/tables.lua
 ---
 
 Every numeric answer was recomputed by `_scripts/build_exam_3_1.py`, which builds this key and the exam

@@ -175,19 +175,27 @@ two NO~3~^−^ ions for every Ba^2+^ ion." The ions are why the solution conduct
 ))
 
 Q.append(dict(
-    ch=7, kind="calc", numeric=True, title="Electrons gained per molecule", short="Ch 7 sl. 31–33",
-    stem="In the reaction 4Al(s) + 3[[O2]](g) → 2[[Al2O3]](s), how many electrons does **each [[O2]] molecule** gain?",
-    correct=(4, "4", ""),
-    wrong=[(1, "1", "Neither ion has a charge of 1."),
-           (2, "2", "That is per O *atom* (O^2−^). Each O~2~ molecule has two O atoms."),
-           (3, "3", "That is the electrons lost per Al atom (Al^3+^)."),
-           (6, "6", "That is the total for one Al~2~O~3~ formula unit, not per O~2~.")],
-    cite=f"{C7}, slide 31 (metal + nonmetal = redox), slide 33 (electrons per atom: 2Al + N~2~), slide 38 (2Li + F~2~)",
-    hw="HW16 — hw16ex3.png (Ba + Cl~2~: Ba loses two electrons, Cl~2~ gains two)",
-    covers="Electrons per species from the ion charges, counting per molecule versus per atom.",
-    sol="""Al~2~O~3~ is ionic, made of Al^3+^ and O^2−^. Each O atom gains 2 e^−^, and an O~2~ molecule has 2 O atoms, so **each O~2~ gains 4 e^−^**.
-Check the totals: 4 Al × 3 e^−^ lost = 12 lost, and 3 O~2~ × 4 e^−^ gained = 12 gained.""",
+    ch=7, kind="calc", numeric=True, descending=True, title="Electrons gained per atom", short="Ch 7 sl. 31, 38",
+    stem="In the reaction 4Al(s) + 3[[O2]](g) → 2[[Al2O3]](s), how many electrons does **each oxygen atom** gain?",
+    correct=(2, "2", ""),
+    wrong=[(1, "1", "That would make O^−^. In Al~2~O~3~, oxygen is O^2−^ (2 Al^3+^ balance 3 O^2−^)."),
+           (3, "3", "That is the electrons **lost** by each Al atom (Al → Al^3+^), not gained by O."),
+           (4, "4", "That counts both O atoms from one O~2~ molecule. The question asks about one O atom."),
+           (6, "6", "That is the electrons transferred in one Al~2~O~3~ formula unit (3 O atoms × 2), not per O atom.")],
+    cite=f"{C7}, slide 31 (metal + nonmetal: the nonmetal atom becomes an anion), slide 38 (2Li + F~2~: each F atom gains one electron), slide 33",
+    hw="HW16 — hw16ex3.png (Ba + Cl~2~: each Ba atom loses two electrons)",
+    covers="Electrons gained per nonmetal atom, read from the charge of its ion in the ionic product.",
+    sol="""**Step 1: find the oxygen ion in the product.** Al~2~O~3~ is ionic (metal + nonmetal, slide 31), so it is made of
+Al^3+^ and O^2−^ ions. Check that the charges cancel: 2(+3) + 3(−2) = 0.
+
+**Step 2: read the electrons from the charge.** Each O atom starts neutral (charge 0) in O~2~ and ends as an O^2−^ ion.
+Going from 0 to −2 means it **gains 2 electrons**: O + 2e^−^ → O^2−^. This is the same per-atom count as slide 38,
+where each F atom gains one electron to become F^−^.
+
+**Check:** each Al atom goes from 0 to +3 and loses 3 electrons. In the equation, 4 Al × 3 = 12 lost and
+6 O atoms × 2 = 12 gained, so electrons lost = electrons gained.""",
 ))
+check(11, 0 - (-2), 2, 0)
 
 Q.append(dict(
     ch=7, kind="concept", title="Classifying a carbonate + acid reaction", short="Ch 7 sl. 39",

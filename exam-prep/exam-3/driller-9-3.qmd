@@ -1,0 +1,289 @@
+---
+title: "CHEM 1301 Driller 9-3"
+subtitle: "Section 8.7 (empirical and molecular formulas) + Chapter 9 — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    geometry: margin=0.8in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam).
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** When finding an empirical formula, after converting each element's mass to moles, you should next:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ divide every element's moles by the molar mass of the compound\
+b)\ divide each element's mass by the smallest mass\
+c)\ divide every element's moles by the largest mole value\
+d)\ round each mole value to the nearest whole number\
+e)\ divide every element's moles by the smallest mole value
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Sucrose has the molecular formula C~12~H~22~O~11~. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ C~6~H~11~O~11~\
+b)\ C~12~H~22~O~11~\
+c)\ C~12~H~22~O\
+d)\ C~6~H~11~O~5~\
+e)\ CH~2~O
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** A 2.000 g sample of an iron oxide contains 1.447 g of iron; the rest is oxygen. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Fe~3~O~4~\
+b)\ Fe~6~O~8~\
+c)\ FeO\
+d)\ Fe~3~O\
+e)\ FeO~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** A white powder is 39.05% K, 1.01% H, 12.00% C, and 47.94% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ K~2~HCO~3~\
+b)\ K~39~HC~12~O~47~\
+c)\ K~2~H~2~C~2~O~6~\
+d)\ K~3~HCO\
+e)\ KHCO~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** A manganese oxide is 49.55% Mn and 50.45% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Mn~2~O~7~\
+b)\ MnO\
+c)\ Mn~4~O~14~\
+d)\ MnO~3~\
+e)\ MnO~7~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** Ribose has the empirical formula CH~2~O and a molar mass of 150.13 g/mol. What is its molecular formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CH~2~O\
+b)\ C~5~H~10~O~5~\
+c)\ C~5~H~2~O\
+d)\ C~4~H~8~O~4~\
+e)\ C~6~H~12~O~6~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** A liquid hydrocarbon is 92.26% C and 7.74% H by mass, and its molar mass is 78.11 g/mol. It burns completely in O~2~ to form CO~2~ and H~2~O. How many moles of O~2~ are needed to burn 0.400 mol of the hydrocarbon?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.400 mol\
+b)\ 0.500 mol\
+c)\ 2.40 mol\
+d)\ 3.00 mol\
+e)\ 6.00 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** Which statement about the **excess** reactant in a reaction is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ It is used up before the limiting reactant\
+b)\ It determines the theoretical yield\
+c)\ Its leftover amount is added to the theoretical yield\
+d)\ It is always the reactant present in the larger mass\
+e)\ Some of it remains unreacted after the reaction stops
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Octane burns: 2C~8~H~18~(l) + 25O~2~(g) $\rightarrow$ 16CO~2~(g) + 18H~2~O(g). How many moles of O~2~ are needed to burn 0.300 mol of C~8~H~18~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.0240 mol\
+b)\ 0.300 mol\
+c)\ 2.40 mol\
+d)\ 3.75 mol\
+e)\ 120 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Mercury(II) oxide decomposes when heated: 2HgO(s) $\rightarrow$ 2Hg(l) + O~2~(g). How many moles of O~2~ form from 21.7 g of HgO?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.0501 mol\
+b)\ 0.100 mol\
+c)\ 0.200 mol\
+d)\ 1.60 mol\
+e)\ 4.99 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** The thermite reaction is Fe~2~O~3~(s) + 2Al(s) $\rightarrow$ 2Fe(l) + Al~2~O~3~(s). What mass of Fe forms from 40.0 g of Fe~2~O~3~ with excess Al?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.501 g\
+b)\ 6.99 g\
+c)\ 14.0 g\
+d)\ 28.0 g\
+e)\ 80.0 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Lithium burns according to the **unbalanced** equation Li(s) + O~2~(g) $\rightarrow$ Li~2~O(s). What mass of Li~2~O forms from 3.47 g of Li with excess O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.250 g\
+b)\ 1.74 g\
+c)\ 7.47 g\
+d)\ 14.9 g\
+e)\ 29.9 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** Silicon carbide forms by SiO~2~(s) + 3C(s) $\rightarrow$ SiC(s) + 2CO(g). A mixture of 30.0 g of SiO~2~ and 15.0 g of C is heated. Which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ C is limiting, and 30.0 g of SiO~2~ is left over\
+b)\ C is limiting, and 25.0 g of SiO~2~ is left over\
+c)\ C is limiting, and 4.98 g of SiO~2~ is left over\
+d)\ Neither is limiting; both reactants are used up completely\
+e)\ SiO~2~ is limiting, and C is left over
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** For 3NO~2~(g) + H~2~O(l) $\rightarrow$ 2HNO~3~(aq) + NO(g), 23.0 g of NO~2~ reacts with 5.00 g of H~2~O. What is the theoretical yield of HNO~3~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.333 g\
+b)\ 21.0 g\
+c)\ 28.0 g\
+d)\ 31.5 g\
+e)\ 35.0 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Yeast ferments glucose: C~6~H~12~O~6~(aq) $\rightarrow$ 2C~2~H~5~OH(aq) + 2CO~2~(g). Fermenting 45.0 g of glucose gives 19.5 g of ethanol, C~2~H~5~OH. What is the percent yield?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.847%\
+b)\ 43.3%\
+c)\ 84.7%\
+d)\ 118%\
+e)\ 169%
+
+```{=latex}
+\par\endgroup\medskip
+```
+

@@ -1,0 +1,289 @@
+---
+title: "CHEM 1301 Driller 9-2"
+subtitle: "Section 8.7 (empirical and molecular formulas) + Chapter 9 — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    geometry: margin=0.8in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam).
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** Which statement about empirical and molecular formulas is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ The molecular formula is always a whole-number multiple of the empirical formula\
+b)\ The empirical formula gives the actual number of atoms in one molecule\
+c)\ The empirical formula is always different from the molecular formula\
+d)\ An empirical formula may contain fractional subscripts such as CH~1.5~\
+e)\ Two different compounds can never have the same empirical formula
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Hexane has the molecular formula C~6~H~14~. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CH~2~\
+b)\ C~2~H~5~\
+c)\ C~6~H~14~\
+d)\ C~3~H~7~\
+e)\ C~3~H~8~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** A nitrogen oxide contains 25.94% N and 74.06% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ NO~5~\
+b)\ N~2~O~5~\
+c)\ NO~3~\
+d)\ N~4~O~10~\
+e)\ NO~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** Ethylene glycol is 38.70% C, 9.74% H, and 51.56% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CH~3~O\
+b)\ CH~4~O\
+c)\ C~4~HO~5~\
+d)\ C~2~H~3~O\
+e)\ C~2~H~6~O~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** A 5.00 g sample of a sulfur oxide contains 2.00 g of sulfur; the rest is oxygen. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ S~2~O~6~\
+b)\ SO~2~\
+c)\ S~3~O\
+d)\ SO~3~\
+e)\ S~2~O~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** Butane has the empirical formula C~2~H~5~ and a molar mass of 58.12 g/mol. What is its molecular formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ C~4~H~5~\
+b)\ C~8~H~20~\
+c)\ C~4~H~10~\
+d)\ C~6~H~15~\
+e)\ C~2~H~5~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** A gaseous hydrocarbon is 85.63% C and 14.37% H by mass, and its molar mass is 28.05 g/mol. It burns completely in O~2~ to form CO~2~ and H~2~O. How many moles of O~2~ are needed to burn 0.500 mol of the hydrocarbon?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.167 mol\
+b)\ 0.500 mol\
+c)\ 0.750 mol\
+d)\ 1.00 mol\
+e)\ 1.50 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** The **limiting reactant** in a chemical reaction is the reactant that:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ is left over when the reaction stops\
+b)\ is completely used up first and so determines how much product can form\
+c)\ has the fewest moles present\
+d)\ has the smallest coefficient in the balanced equation\
+e)\ has the smallest mass
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Air bags inflate by the reaction 2NaN~3~(s) $\rightarrow$ 2Na(s) + 3N~2~(g). How many moles of N~2~ form from 1.50 mol of NaN~3~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1.00 mol\
+b)\ 1.50 mol\
+c)\ 2.25 mol\
+d)\ 9.00 mol\
+e)\ 63.0 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** For N~2~(g) + O~2~(g) $\rightarrow$ 2NO(g), what mass of NO forms from 0.750 mol of N~2~ with excess O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1.50 g\
+b)\ 11.3 g\
+c)\ 22.5 g\
+d)\ 42.0 g\
+e)\ 45.0 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** Zinc dissolves in acid: Zn(s) + 2HCl(aq) $\rightarrow$ ZnCl~2~(aq) + H~2~(g). What mass of H~2~ forms when 10.0 g of Zn reacts with excess HCl?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.153 g\
+b)\ 0.308 g\
+c)\ 0.617 g\
+d)\ 10.0 g\
+e)\ 13.2 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Silicon reacts with chlorine according to the **unbalanced** equation Si(s) + Cl~2~(g) $\rightarrow$ SiCl~4~(l). What mass of Cl~2~ is needed to react completely with 7.00 g of Si?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.498 g\
+b)\ 8.83 g\
+c)\ 14.0 g\
+d)\ 17.7 g\
+e)\ 35.3 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** Methane burns: CH~4~(g) + 2O~2~(g) $\rightarrow$ CO~2~(g) + 2H~2~O(g). A mixture of 8.00 g of CH~4~ and 24.0 g of O~2~ reacts. Which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ O~2~ is limiting, and 1.98 g of CH~4~ is left over\
+b)\ O~2~ is limiting, and 6.02 g of CH~4~ is left over\
+c)\ Neither is limiting; both reactants are used up completely\
+d)\ O~2~ is limiting, and 8.00 g of CH~4~ is left over\
+e)\ CH~4~ is limiting, and O~2~ is left over
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** For 2NO(g) + O~2~(g) $\rightarrow$ 2NO~2~(g), 15.0 g of NO reacts with 10.0 g of O~2~. What is the theoretical yield of NO~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.500 g\
+b)\ 15.0 g\
+c)\ 23.0 g\
+d)\ 25.0 g\
+e)\ 28.8 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Baking soda decomposes when heated: 2NaHCO~3~(s) $\rightarrow$ Na~2~CO~3~(s) + H~2~O(g) + CO~2~(g). Heating 16.8 g of NaHCO~3~ gives 9.85 g of Na~2~CO~3~. What is the percent yield?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.929%\
+b)\ 46.5%\
+c)\ 58.6%\
+d)\ 92.9%\
+e)\ 108%
+
+```{=latex}
+\par\endgroup\medskip
+```
+

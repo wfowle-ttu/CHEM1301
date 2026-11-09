@@ -92,7 +92,8 @@ def place(questions, seed):
     counts = Counter()
     for q in questions:
         if q.get("numeric"):
-            q["choices"] = sorted([q["correct"]] + q["wrong"], key=lambda c: c[0])
+            q["choices"] = sorted([q["correct"]] + q["wrong"], key=lambda c: c[0],
+                                  reverse=q.get("descending", False))
             q["ans"] = LETTERS[q["choices"].index(q["correct"])]
             counts[q["ans"]] += 1
     for q in questions:
@@ -130,6 +131,9 @@ format:
 Solubility rules are **not** provided. Calculators are allowed. Answers are rounded to the precision shown.
 Time yourself: aim to finish in 75 minutes or less.
 
+**Answer sheet.** Print the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`, landscape,
+100% scale) and fill in one circle per question, rows 1–{count} (A–E match choices a–e). Leave the rest blank.
+
 """
 
 KEY_HEADER = """---
@@ -139,6 +143,11 @@ format:
   pdf:
     geometry: margin=0.75in
     fontsize: 11pt
+    include-in-header:
+      text: |
+        \\usepackage{{longtable,array,colortbl}}
+filters:
+  - _filters/tables.lua
 ---
 
 Every numeric answer was recomputed by `_scripts/build_exam_3_{n}.py`, which builds this key and the exam
@@ -151,9 +160,75 @@ content is taught, plus the homework screenshot with the closest problem.
 """
 
 
+DRILLER_HEADER = """---
+title: "CHEM 1301 Driller {name}"
+subtitle: "{scope} — {count} exam-style multiple-choice questions"
+format:
+  pdf:
+    geometry: margin=0.8in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \\usepackage{{needspace}}
+        \\usepackage{{array}}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about {minutes} minutes
+(roughly 2 minutes per question, the same pace as the full exam).
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–{count}.
+
+"""
+
+DRILLER_KEY_HEADER = """---
+title: "CHEM 1301 Driller {name} — Answer Key"
+subtitle: "Worked solutions with course-material citations"
+format:
+  pdf:
+    geometry: margin=0.75in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \\usepackage{{longtable,array,colortbl,cancel}}
+filters:
+  - _filters/tables.lua
+---
+
+Every numeric answer was recomputed by `_scripts/build_driller_{slug}.py`, which builds this key and the driller from
+the same data. Atomic masses are periodic-table values (H 1.008, C 12.01, N 14.01, O 16.00, ...). Citations name the
+slide (same number in the `.pdf` and `.pptx`) where the content is taught, plus the closest homework screenshot.
+
+**How to read the solutions.** Each calculation is a chain of conversion factors written want-over-have. The label under
+each factor says where its numbers come from (a molar mass, or two coefficients from the balanced equation), and the
+crossed-out units are the ones that cancel. Study guide section 9.0 explains this format.
+
+**Score bands.** {bands}
+
+"""
+
+BANDS_9 = ("9–10 solid on Chapter 9 · 7–8 rework the study guide sections for the questions you missed ·\n"
+           "6 or below go back through study guide sections 9.2–9.7 before the next driller.")
+
+
 def build(n, questions, seed):
     place(questions, seed)
-    exam = [EXAM_HEADER.format(n=n, count=len(questions))]
+    write(questions, f"practice-exam-3-{n}", EXAM_HEADER.format(n=n, count=len(questions)),
+          KEY_HEADER.format(n=n))
+
+
+def build_driller(ch, n, questions, seed, scope=None, bands=BANDS_9):
+    """Write driller-<ch>-<n>.qmd and its key (a short practice set on one topic area)."""
+    place(questions, seed)
+    name, slug = f"{ch}-{n}", f"{ch}_{n}"
+    count = len(questions)
+    write(questions, f"driller-{name}",
+          DRILLER_HEADER.format(name=name, scope=scope or f"Chapter {ch} only", count=count, minutes=2 * count),
+          DRILLER_KEY_HEADER.format(name=name, slug=slug, bands=bands))
+
+
+def write(questions, stem_name, exam_header, key_header):
+    exam = [exam_header]
     for i, q in enumerate(questions, 1):
         exam.append("```{=latex}\n\\needspace{9\\baselineskip}\n```\n")
         exam.append(f"**{i}.** {chem(q['stem'])}\n\n")
@@ -161,20 +236,9 @@ def build(n, questions, seed):
         exam.append("```{=latex}\n\\begingroup\\leftskip=1.5em\n```\n")
         exam.append("\\\n".join(lines) + "\n\n")
         exam.append("```{=latex}\n\\par\\endgroup\\medskip\n```\n\n")
-    # Answer sheet
-    exam.append("```{=latex}\n\\newpage\n```\n\n## Answer Sheet\n\n")
-    exam.append("Circle one letter per question.\n\n")
-    half = (len(questions) + 1) // 2
-    exam.append("| Q | Answer | | Q | Answer |\n|:-:|:-:|:-:|:-:|:-:|\n")
-    for r in range(half):
-        bubbles = " $\\quad$ ".join("abcde")
-        left = f"{r + 1} | {bubbles}"
-        j = r + 1 + half
-        right = f"{j} | {bubbles}" if j <= len(questions) else " | "
-        exam.append(f"| {left} | | {right} |\n")
-    (OUT / f"practice-exam-3-{n}.qmd").write_text("".join(exam), encoding="utf-8")
+    (OUT / f"{stem_name}.qmd").write_text("".join(exam), encoding="utf-8")
 
-    key = [KEY_HEADER.format(n=n)]
+    key = [key_header]
     key.append("| Q | Ans | Answer | Type | Topic (source) |\n|:-:|:-:|:----------------|:----:|:------------------------|\n")
     for i, q in enumerate(questions, 1):
         ans_text = q["choices"][LETTERS.index(q["ans"])][1]
@@ -197,5 +261,5 @@ def build(n, questions, seed):
             for L, c in notes:
                 key.append(f"* {L}) {chem(c[1])}: {chem(c[2])}\n")
             key.append("\n")
-    (OUT / f"practice-exam-3-{n}-key.qmd").write_text("".join(key), encoding="utf-8")
-    print(f"Wrote practice-exam-3-{n}.qmd and practice-exam-3-{n}-key.qmd")
+    (OUT / f"{stem_name}-key.qmd").write_text("".join(key), encoding="utf-8")
+    print(f"Wrote {stem_name}.qmd and {stem_name}-key.qmd")

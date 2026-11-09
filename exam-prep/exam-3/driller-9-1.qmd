@@ -1,0 +1,199 @@
+---
+title: "CHEM 1301 Driller 9-1"
+subtitle: "Chapter 9 only — 10 exam-style multiple-choice questions"
+format:
+  pdf:
+    geometry: margin=0.8in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 20 minutes
+(roughly 2 minutes per question, the same pace as the full exam).
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–10.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** For the balanced equation 2H~2~(g) + O~2~(g) $\rightarrow$ 2H~2~O(g), which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 2 mol of H~2~ reacts with 1 mol of O~2~ to form 2 mol of H~2~O\
+b)\ 2 molecules of H~2~ react to form 1 molecule of H~2~O\
+c)\ 2 g of H~2~ reacts with 1 g of O~2~ to form 2 g of H~2~O\
+d)\ The mass of H~2~O formed equals the mass of H~2~ used\
+e)\ 1 mol of H~2~ reacts with 2 mol of O~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** For 4Fe(s) + 3O~2~(g) $\rightarrow$ 2Fe~2~O~3~(s), which conversion factor converts **moles of O~2~** into **moles of Fe~2~O~3~**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{3\ \text{mol O}_2}{2\ \text{mol Fe}_2\text{O}_3}$\
+b)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{2\ \text{mol Fe}_2\text{O}_3}{3\ \text{mol O}_2}$\
+c)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{2\ \text{mol Fe}_2\text{O}_3}{4\ \text{mol Fe}}$\
+d)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{3\ \text{mol O}_2}{4\ \text{mol Fe}}$\
+e)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{32.00\ \text{g O}_2}{1\ \text{mol O}_2}$
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** Propane burns according to C~3~H~8~(g) + 5O~2~(g) $\rightarrow$ 3CO~2~(g) + 4H~2~O(g). How many moles of O~2~ are needed to burn 2.40 mol of C~3~H~8~ completely?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.480 mol\
+b)\ 2.40 mol\
+c)\ 7.20 mol\
+d)\ 9.60 mol\
+e)\ 12.0 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** You are given the mass of reactant A and asked for the mass of product B. Which sequence of conversions is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ grams A $\rightarrow$ moles B $\rightarrow$ moles A $\rightarrow$ grams B\
+b)\ grams A $\rightarrow$ grams B, using the coefficients as a mass ratio\
+c)\ grams A $\rightarrow$ moles A $\rightarrow$ grams B\
+d)\ grams A $\rightarrow$ moles A $\rightarrow$ moles B $\rightarrow$ grams B\
+e)\ grams A $\rightarrow$ moles A $\rightarrow$ moles B $\rightarrow$ atoms B
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** Hydrogen peroxide decomposes: 2H~2~O~2~(aq) $\rightarrow$ 2H~2~O(l) + O~2~(g). What mass of O~2~ forms when 50.0 g of H~2~O~2~ decomposes completely?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.735 g\
+b)\ 11.8 g\
+c)\ 23.5 g\
+d)\ 47.0 g\
+e)\ 50.0 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** Calcium carbide reacts with water: CaC~2~(s) + 2H~2~O(l) $\rightarrow$ C~2~H~2~(g) + Ca(OH)~2~(aq). How many moles of H~2~O are needed to react completely with 32.0 g of CaC~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.250 mol\
+b)\ 0.499 mol\
+c)\ 0.998 mol\
+d)\ 2.00 mol\
+e)\ 18.0 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** Phosphorus burns in oxygen according to the **unbalanced** equation P(s) + O~2~(g) $\rightarrow$ P~4~O~10~(s). What mass of O~2~ is needed to react completely with 12.4 g of P?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.500 g\
+b)\ 8.01 g\
+c)\ 10.2 g\
+d)\ 12.8 g\
+e)\ 16.0 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** For 2CO(g) + O~2~(g) $\rightarrow$ 2CO~2~(g), a mixture contains 3.0 mol of CO and 2.0 mol of O~2~. Which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CO is limiting, and 0.5 mol of O~2~ is left over\
+b)\ Neither is limiting; both are used up completely\
+c)\ O~2~ is limiting, because there are fewer moles of O~2~ than of CO\
+d)\ CO is limiting, and 1.0 mol of O~2~ is left over\
+e)\ O~2~ is limiting, and 1.0 mol of CO is left over
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Aluminum reacts with chlorine according to the **unbalanced** equation Al(s) + Cl~2~(g) $\rightarrow$ AlCl~3~(s). If 10.0 g of Al reacts with 35.0 g of Cl~2~, what is the theoretical yield of AlCl~3~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.329 g\
+b)\ 43.9 g\
+c)\ 45.0 g\
+d)\ 49.4 g\
+e)\ 65.8 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Limestone decomposes when heated: CaCO~3~(s) $\rightarrow$ CaO(s) + CO~2~(g). A student heats 25.0 g of CaCO~3~ and collects 12.4 g of CaO. What is the percent yield?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.885%\
+b)\ 49.6%\
+c)\ 56.0%\
+d)\ 88.5%\
+e)\ 113%
+
+```{=latex}
+\par\endgroup\medskip
+```
+

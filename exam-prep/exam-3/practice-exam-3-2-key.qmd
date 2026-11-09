@@ -5,6 +5,11 @@ format:
   pdf:
     geometry: margin=0.75in
     fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl}
+filters:
+  - _filters/tables.lua
 ---
 
 Every numeric answer was recomputed by `_scripts/build_exam_3_2.py`, which builds this key and the exam
@@ -26,7 +31,7 @@ content is taught, plus the homework screenshot with the closest problem.
 | 8 | **d** | KNO~3~(aq) and H~2~O(l) | concept | Products of strong acid + strong base (Ch 7 sl. 23, 26) |
 | 9 | **e** | NaOH and KOH | concept | Identifying strong bases (Ch 7 sl. 25) |
 | 10 | **b** | separated Ba^2+^ and NO~3~^−^ ions, two NO~3~^−^ for every Ba^2+^ | concept | Ions in solution (Ch 7 sl. 6–7) |
-| 11 | **d** | 4 | calc | Electrons gained per molecule (Ch 7 sl. 31–33) |
+| 11 | **d** | 2 | calc | Electrons gained per atom (Ch 7 sl. 31, 38) |
 | 12 | **a** | gas evolution and acid–base | concept | Classifying a carbonate + acid reaction (Ch 7 sl. 39) |
 | 13 | **d** | decomposition reaction | concept | Recognizing decomposition (Ch 7 sl. 43) |
 | 14 | **a** | 12.01 amu | concept | Atomic mass units (Ch 8 sl. 5, 7) |
@@ -220,21 +225,28 @@ Why the other choices are wrong:
 * d) neutral Ba atoms and NO~3~ molecules: Dissolving an ionic solid releases ions, not neutral atoms. That's why the solution conducts.
 * e) intact Ba(NO~3~)~2~ units: Slide 6: Ba(NO~3~)~2~(aq) does *not* contain Ba(NO~3~)~2~ units.
 
-# 11. Electrons gained per molecule — **d) 4**
+# 11. Electrons gained per atom — **d) 2**
 
-**Source:** Chapter 7 post, slide 31 (metal + nonmetal = redox), slide 33 (electrons per atom: 2Al + N~2~), slide 38 (2Li + F~2~)  
-**Homework match:** HW16 — hw16ex3.png (Ba + Cl~2~: Ba loses two electrons, Cl~2~ gains two)  
-**What it tests:** Electrons per species from the ion charges, counting per molecule versus per atom.
+**Source:** Chapter 7 post, slide 31 (metal + nonmetal: the nonmetal atom becomes an anion), slide 38 (2Li + F~2~: each F atom gains one electron), slide 33  
+**Homework match:** HW16 — hw16ex3.png (Ba + Cl~2~: each Ba atom loses two electrons)  
+**What it tests:** Electrons gained per nonmetal atom, read from the charge of its ion in the ionic product.
 
-Al~2~O~3~ is ionic, made of Al^3+^ and O^2−^. Each O atom gains 2 e^−^, and an O~2~ molecule has 2 O atoms, so **each O~2~ gains 4 e^−^**.
-Check the totals: 4 Al × 3 e^−^ lost = 12 lost, and 3 O~2~ × 4 e^−^ gained = 12 gained.
+**Step 1: find the oxygen ion in the product.** Al~2~O~3~ is ionic (metal + nonmetal, slide 31), so it is made of
+Al^3+^ and O^2−^ ions. Check that the charges cancel: 2(+3) + 3(−2) = 0.
+
+**Step 2: read the electrons from the charge.** Each O atom starts neutral (charge 0) in O~2~ and ends as an O^2−^ ion.
+Going from 0 to −2 means it **gains 2 electrons**: O + 2e^−^ $\rightarrow$ O^2−^. This is the same per-atom count as slide 38,
+where each F atom gains one electron to become F^−^.
+
+**Check:** each Al atom goes from 0 to +3 and loses 3 electrons. In the equation, 4 Al × 3 = 12 lost and
+6 O atoms × 2 = 12 gained, so electrons lost = electrons gained.
 
 Why the other choices are wrong:
 
-* a) 1: Neither ion has a charge of 1.
-* b) 2: That is per O *atom* (O^2−^). Each O~2~ molecule has two O atoms.
-* c) 3: That is the electrons lost per Al atom (Al^3+^).
-* e) 6: That is the total for one Al~2~O~3~ formula unit, not per O~2~.
+* a) 6: That is the electrons transferred in one Al~2~O~3~ formula unit (3 O atoms × 2), not per O atom.
+* b) 4: That counts both O atoms from one O~2~ molecule. The question asks about one O atom.
+* c) 3: That is the electrons **lost** by each Al atom (Al $\rightarrow$ Al^3+^), not gained by O.
+* e) 1: That would make O^−^. In Al~2~O~3~, oxygen is O^2−^ (2 Al^3+^ balance 3 O^2−^).
 
 # 12. Classifying a carbonate + acid reaction — **a) gas evolution and acid–base**
 

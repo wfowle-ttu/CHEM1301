@@ -1,0 +1,449 @@
+---
+title: "CHEM 1301 Driller 9-4 — Answer Key"
+subtitle: "Worked solutions with course-material citations"
+format:
+  pdf:
+    geometry: margin=0.75in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
+---
+
+Every numeric answer was recomputed by `_scripts/build_driller_9_4.py`, which builds this key and the driller from
+the same data. Atomic masses are periodic-table values (H 1.008, C 12.01, N 14.01, O 16.00, ...). Citations name the
+slide (same number in the `.pdf` and `.pptx`) where the content is taught, plus the closest homework screenshot.
+
+**How to read the solutions.** Each calculation is a chain of conversion factors written want-over-have. The label under
+each factor says where its numbers come from (a molar mass, or two coefficients from the balanced equation), and the
+crossed-out units are the ones that cancel. Study guide section 9.0 explains this format.
+
+**Score bands.** 14–15 solid on 8.7 and Chapter 9 · 11–13 rework the study guide sections cited for the questions you missed ·
+10 or below go back through study guide sections 8.7 and 9.2–9.7 before the next driller.
+
+| Q | Ans | Answer | Type | Topic (source) |
+|:-:|:-:|:----------------|:----:|:------------------------|
+| 1 | **b** | Multiply every element's result by 3, giving C~3~H~4~O~3~ | concept | A result that isn't a whole number (Ch 8 sl. 43) |
+| 2 | **d** | CH~2~O | calc | Molecular to empirical formula (Ch 8 sl. 39–40) |
+| 3 | **e** | C~9~H~8~O~4~ | calc | Percent composition to empirical formula (×4) (Ch 8 sl. 42–43) |
+| 4 | **a** | K~2~Cr~2~O~7~ | calc | Percent composition to empirical formula (×2) (Ch 8 sl. 35–38, 42–43) |
+| 5 | **d** | Na~2~SO~3~ | calc | Grams to empirical formula (Ch 8 sl. 45–46) |
+| 6 | **e** | C~9~H~12~ | calc | Empirical to molecular formula (Ch 8 sl. 47–49) |
+| 7 | **c** | 0.600 mol | calc | From percent composition to a mole ratio (Ch 8 sl. 42–49; Ch 9 sl. 9–11) |
+| 8 | **a** | The coefficients of A and B in the balanced equation | concept | What a mole–mole conversion needs (Ch 9 sl. 5–7, 10) |
+| 9 | **a** | 1.20 mol | calc | Mole–mole conversion (Ch 9 sl. 10–11) |
+| 10 | **c** | 0.399 mol | calc | Grams to moles of another substance (Ch 9 sl. 14, 18) |
+| 11 | **e** | 17.0 g | calc | Grams to grams (Ch 9 sl. 14, 19–20) |
+| 12 | **d** | 9.42 g | calc | Balance first, then grams to grams (Ch 9 sl. 14, 16, 19) |
+| 13 | **b** | O~2~ is limiting, and 9.40 g of ZnS is left over | calc | Limiting reactant and leftover (Ch 9 sl. 21–24) |
+| 14 | **b** | 15.9 g | calc | Theoretical yield from two masses (Ch 9 sl. 24–27) |
+| 15 | **c** | 88.1% | calc | Percent yield (Ch 9 sl. 28–32) |
+
+Mix: 2 concept / 13 calculation · Ch 8: 6 · Ch 9: 9
+
+# 1. A result that isn't a whole number — **b) Multiply every element's result by 3, giving C~3~H~4~O~3~**
+
+**Source:** Chapter 8 post, slide 43 (step 4: multiply by the smallest integer that gives whole numbers), slides 42, 46  
+**Homework match:** HW21 — hw21ex2.png (empirical formula from percent composition)  
+**What it tests:** Step 4 of the empirical-formula method: .33 means thirds, multiply **every** element by 3.
+
+**Step 1: is 1.33 a whole number?** "Whole" means within about 0.1 of an integer. 1.33 is 0.33 away from 1, so it is **not**
+whole, and you must not round it.
+
+**Step 2: which multiplier?** A decimal near .33 (or .67) is a third, so multiply by **3**: 1.33 × 3 = 3.99 $\approx$ 4.
+
+**Step 3: apply it to every element.** C 1.00 × 3 = 3, H 1.33 × 3 = 4, O 1.00 × 3 = 3, giving **C~3~H~4~O~3~**. This is the
+vitamin C example in study guide 8.7 (Type B, example C).
+
+Why the other choices are wrong:
+
+* a) Divide every result by 1.33 again: That would make C and O fractions (0.75). Step 4 multiplies; it never divides again.
+* c) Multiply every result by 2, giving C~2~H~3~O~2~: 1.33 × 2 = 2.67, still not whole. A .33 means thirds, so multiply by 3.
+* d) Multiply only the H result by 3, giving CH~4~O: That changes the ratio. The same multiplier goes on **every** element.
+* e) Round H to 1, giving CHO: Only results within about 0.1 of a whole number may be rounded. 1.33 is 0.33 away.
+
+# 2. Molecular to empirical formula — **d) CH~2~O**
+
+**Source:** Chapter 8 post, slide 39 (empirical formula = smallest whole-number ratio), slide 40  
+**Homework match:** HW21 — hw21ex3.png (relating empirical and molecular formulas)  
+**What it tests:** Type A (study guide 8.7): use the **largest** common divisor, not just 2.
+
+**Step 1: list the subscripts.** C 4, H 8, O 4.
+
+**Step 2: find the largest number that divides all three evenly.** 4 ÷ 4 = 1, 8 ÷ 4 = 2, 4 ÷ 4 = 1. Nothing larger than 4
+divides 4, so the divisor is **4**. (Dividing by 2 gives C~2~H~4~O~2~, which can still be reduced, so it isn't the
+smallest ratio.)
+
+**Step 3: divide every subscript by 4.** **CH~2~O**.
+
+Why the other choices are wrong:
+
+* a) CH~4~O: Divided C and O by 4 but H only by 2.
+* b) C~4~H~8~O~4~: That is the molecular formula; 4, 8, and 4 share a factor of 4.
+* c) CHO: Divided H by 8 instead of 4. Every subscript is divided by the **same** number.
+* e) C~2~H~4~O~2~: Divided by 2, but 2, 4, and 2 can still all be divided by 2. Use the **largest** common divisor, 4.
+
+# 3. Percent composition to empirical formula (×4) — **e) C~9~H~8~O~4~**
+
+**Source:** Chapter 8 post, slides 42–43 (Steps for Determining the Empirical Formula; step 4: multiply when not whole)  
+**Homework match:** HW21 — hw21ex2.png (empirical formula from percent composition)  
+**What it tests:** The 4-step method: grams $\rightarrow$ moles $\rightarrow$ divide by the smallest $\rightarrow$ whole numbers (multiply every element if needed).
+
+**Step 1: percent to grams.** Pretend you have exactly **100 g** of the compound, so each percent becomes that many grams: 60.00 g C, 4.48 g H, 35.52 g O.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$60.00\ \cancel{\text{g C}} \times \underbrace{\frac{1\ \text{mol C}}{12.01\ \cancel{\text{g C}}}}_{\text{atomic mass of C}} = 4.996\ \text{mol C}$$
+
+$$4.48\ \cancel{\text{g H}} \times \underbrace{\frac{1\ \text{mol H}}{1.008\ \cancel{\text{g H}}}}_{\text{atomic mass of H}} = 4.444\ \text{mol H}$$
+
+$$35.52\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 2.220\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 2.220 mol (O). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (2.220 mol O) | × 4 | Subscript |
+|:-:|:-:|:-:|:-:|:-:|
+| C | 4.996 | 2.25 | 9.00 | 9 |
+| H | 4.444 | 2.00 | 8.01 | 8 |
+| O | 2.220 | 1.00 | 4.00 | 4 |
+
+**Step 4: whole numbers?** 2.25 is not within 0.1 of a whole number. It ends in a decimal near .25 or .75 (quarters), so multiply **every** result by 4, including the elements that were already whole (last columns of the table). Empirical formula: **C~9~H~8~O~4~**.
+
+Why the other choices are wrong:
+
+* a) C~2~H~2~O: Rounded the fractional result instead of multiplying (only results within 0.1 of a whole number may be rounded).
+* b) C~18~H~16~O~8~: Not the **smallest** whole-number ratio; every subscript can still be divided by 2.
+* c) C~9~H~2~O: Multiplied only the fractional element by 4. The same multiplier goes on **every** element.
+* d) C~13~HO~8~: Used the masses (percents) directly instead of converting to moles first.
+
+# 4. Percent composition to empirical formula (×2) — **a) K~2~Cr~2~O~7~**
+
+**Source:** Chapter 8 post, slides 42–43 (step 4: multiply when not whole), slides 35–38  
+**Homework match:** HW21 — hw21ex2.png (three-element percent compositions: MgSO~4~, SiCl~2~Br~2~)  
+**What it tests:** The 4-step method: grams $\rightarrow$ moles $\rightarrow$ divide by the smallest $\rightarrow$ whole numbers (multiply every element if needed).
+
+**Step 1: percent to grams.** Pretend you have exactly **100 g** of the compound, so each percent becomes that many grams: 26.58 g K, 35.35 g Cr, 38.07 g O.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$26.58\ \cancel{\text{g K}} \times \underbrace{\frac{1\ \text{mol K}}{39.10\ \cancel{\text{g K}}}}_{\text{atomic mass of K}} = 0.6798\ \text{mol K}$$
+
+$$35.35\ \cancel{\text{g Cr}} \times \underbrace{\frac{1\ \text{mol Cr}}{52.00\ \cancel{\text{g Cr}}}}_{\text{atomic mass of Cr}} = 0.6798\ \text{mol Cr}$$
+
+$$38.07\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 2.379\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 0.6798 mol (K). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (0.6798 mol K) | × 2 | Subscript |
+|:-:|:-:|:-:|:-:|:-:|
+| K | 0.6798 | 1.00 | 2.00 | 2 |
+| Cr | 0.6798 | 1.00 | 2.00 | 2 |
+| O | 2.379 | 3.50 | 7.00 | 7 |
+
+**Step 4: whole numbers?** 3.50 is not within 0.1 of a whole number. It ends in a decimal near .5 (halves), so multiply **every** result by 2, including the elements that were already whole (last columns of the table). Empirical formula: **K~2~Cr~2~O~7~**.
+
+Why the other choices are wrong:
+
+* b) KCrO: Used the masses (percents) directly instead of converting to moles first.
+* c) KCrO~7~: Multiplied only the fractional element by 2. The same multiplier goes on **every** element.
+* d) KCrO~4~: Rounded the fractional result instead of multiplying (only results within 0.1 of a whole number may be rounded).
+* e) K~4~Cr~4~O~14~: Not the **smallest** whole-number ratio; every subscript can still be divided by 2.
+
+# 5. Grams to empirical formula — **d) Na~2~SO~3~**
+
+**Source:** Chapter 8 post, slides 45–46 (empirical formula from masses), slide 42  
+**Homework match:** HW21 — empirical formula from composition data  
+**What it tests:** The 4-step method: grams $\rightarrow$ moles $\rightarrow$ divide by the smallest $\rightarrow$ whole numbers (multiply every element if needed).
+
+**Step 1: grams of each element.** The grams are given: 2.30 g Na, 1.60 g S, 2.40 g O.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$2.30\ \cancel{\text{g Na}} \times \underbrace{\frac{1\ \text{mol Na}}{22.99\ \cancel{\text{g Na}}}}_{\text{atomic mass of Na}} = 0.1000\ \text{mol Na}$$
+
+$$1.60\ \cancel{\text{g S}} \times \underbrace{\frac{1\ \text{mol S}}{32.07\ \cancel{\text{g S}}}}_{\text{atomic mass of S}} = 0.04989\ \text{mol S}$$
+
+$$2.40\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 0.1500\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 0.04989 mol (S). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (0.04989 mol S) | Subscript |
+|:-:|:-:|:-:|:-:|
+| Na | 0.1000 | 2.01 | 2 |
+| S | 0.04989 | 1.00 | 1 |
+| O | 0.1500 | 3.01 | 3 |
+
+**Step 4: whole numbers?** Every result is within 0.1 of a whole number, so round them. No multiplier is needed. Empirical formula: **Na~2~SO~3~**.
+
+Why the other choices are wrong:
+
+* a) Na~3~SO~2~: Subscripts swapped between the elements.
+* b) NaSO: Used the masses (percents) directly instead of converting to moles first.
+* c) Na~4~S~2~O~6~: Not the **smallest** whole-number ratio; every subscript can still be divided by 2.
+* e) Na~3~SO~3~: Miscounted Na: its step-3 result is 2.01, which gives 2, not 3.
+
+# 6. Empirical to molecular formula — **e) C~9~H~12~**
+
+**Source:** Chapter 8 post, slide 48 (molecular formula = (empirical formula)~n~), slide 49 (LA Practice), slide 47  
+**Homework match:** HW21 — hw21ex3.png (empirical formula + molar mass → molecular formula)  
+**What it tests:** Molecular formula = (empirical formula)~n~ with n = molar mass ÷ empirical formula mass.
+
+**Step 1: empirical formula mass.** Add up the atomic masses in the empirical formula: C~3~H~4~ = 3(12.01) + 4(1.008) = 40.06 g/mol.
+
+**Step 2: find n.** $$n=\frac{\text{molar mass of the compound}}{\text{empirical formula mass}}=\frac{120.19\ \text{g/mol}}{40.06\ \text{g/mol}} = 3.00\approx 3$$
+
+**Step 3: multiply every subscript by n.** (C~3~H~4~)~3~: C 3 × 3 = 9, H 4 × 3 = 12. Molecular formula: **C~9~H~12~**.
+
+Why the other choices are wrong:
+
+* a) C~6~H~8~: n = 2 would give 80.12 g/mol.
+* b) C~12~H~16~: n = 4 would give a molar mass of 160.25 g/mol.
+* c) C~9~H~4~: Multiplied only the first subscript by n = 3. **Every** subscript gets multiplied.
+* d) C~3~H~4~: That is the empirical formula itself (n = 1). Its molar mass would be 40.06 g/mol, not 120.19.
+
+# 7. From percent composition to a mole ratio — **c) 0.600 mol**
+
+**Source:** Chapter 8 post, slides 42–49 (empirical then molecular formula); Chapter 9 post, slide 9 (balancing a combustion), slides 10–11  
+**Homework match:** HW21 — hw21ex3.png; HW22 — hw22ex3.png (CH~3~CH~2~OH + O~2~ equations)  
+**What it tests:** Section 8.7 feeding Chapter 9: percent composition $\rightarrow$ empirical $\rightarrow$ molecular formula $\rightarrow$ balanced equation $\rightarrow$ mole ratio.
+
+**Step 1: percent to grams.** Pretend you have exactly **100 g** of the compound, so each percent becomes that many grams: 52.14 g C, 13.13 g H, 34.73 g O.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$52.14\ \cancel{\text{g C}} \times \underbrace{\frac{1\ \text{mol C}}{12.01\ \cancel{\text{g C}}}}_{\text{atomic mass of C}} = 4.341\ \text{mol C}$$
+
+$$13.13\ \cancel{\text{g H}} \times \underbrace{\frac{1\ \text{mol H}}{1.008\ \cancel{\text{g H}}}}_{\text{atomic mass of H}} = 13.03\ \text{mol H}$$
+
+$$34.73\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 2.171\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 2.171 mol (O). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (2.171 mol O) | Subscript |
+|:-:|:-:|:-:|:-:|
+| C | 4.341 | 2.00 | 2 |
+| H | 13.03 | 6.00 | 6 |
+| O | 2.171 | 1.00 | 1 |
+
+**Step 4: whole numbers?** Every result is within 0.1 of a whole number, so round them. No multiplier is needed. Empirical formula: **C~2~H~6~O**.
+
+**Step 5: molecular formula.** Empirical formula mass: C~2~H~6~O = 2(12.01) + 6(1.008) + 16.00 = 46.07 g/mol. n = 46.07 ÷ 46.07 = 1.00 $\approx$ 1, so multiply every subscript by 1: **C~2~H~6~O**.
+
+**Step 6: write the balanced equation.** Combustion of C~2~H~6~O: C first (2CO~2~), then H (3H~2~O, 6 H). The right side has 2(2) + 3(1) = 7 O. The fuel already supplies **1** O, so O~2~ must supply 6 O: 3O~2~. **C~2~H~6~O + 3O~2~ $\rightarrow$ 2CO~2~ + 3H~2~O**.
+
+**Step 7: moles C~2~H~6~O to moles O~2~.** Have C~2~H~6~O (coefficient **1**), want O~2~ (coefficient **3**).
+
+$$0.2000\ \cancel{\text{mol C}_{2}\text{H}_{6}\text{O}} \times \underbrace{\frac{3\ \text{mol O}_{2}}{1\ \cancel{\text{mol C}_{2}\text{H}_{6}\text{O}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of C}_{2}\text{H}_{6}\text{O}} = \boxed{0.600\ \text{mol O}_{2}}$$
+
+The molecular formula matters here. A mole of the **empirical** unit is a different amount of substance from a mole of the real molecule, so it would give a different number of moles of product.
+
+Why the other choices are wrong:
+
+* a) 0.200 mol: Assumed 1 : 1. O~2~'s coefficient is 3.
+* b) 0.400 mol: Used CO~2~'s coefficient (2) instead of O~2~'s (3).
+* d) 0.700 mol: Balanced O without counting the O already in the fuel (3.5 O~2~ instead of 3).
+* e) 1.20 mol: Assumed n = 2 (C~4~H~12~O~2~). Here n = 46.07 ÷ 46.07 = 1.
+
+# 8. What a mole–mole conversion needs — **a) The coefficients of A and B in the balanced equation**
+
+**Source:** Chapter 9 post, slides 5–7 (mole ratios from the balanced equation), slide 10 (Mole–Mole Conversions)  
+**Homework match:** HW22 — hw22ex2.png (choosing the mole ratio from the coefficients)  
+**What it tests:** The mole ratio comes only from the coefficients of a balanced equation.
+
+The **mole ratio** (slides 5–7) is the only conversion factor that connects two different substances, and it comes from the
+**coefficients** of the balanced equation:
+
+$$\text{mol B} = \text{mol A}\times\frac{\text{coefficient of B}}{\text{coefficient of A}}$$
+
+Why the other choices are wrong:
+
+* b) Avogadro's number: That converts moles ↔ particles. It doesn't relate two different substances.
+* c) The masses of A and B present: Masses are needed to find moles, but the link from A to B is the mole ratio.
+* d) The molar masses of A and B: Molar masses convert grams ↔ moles of the **same** substance, not A to B.
+* e) The subscripts in the formulas of A and B: Subscripts count atoms within one formula. The ratio between substances comes from the coefficients.
+
+# 9. Mole–mole conversion — **a) 1.20 mol**
+
+**Source:** Chapter 9 post, slides 10–11 (Mole–Mole Conversions Practice)  
+**Homework match:** HW22 — hw22ex3.png (moles of product from moles of another substance)  
+**What it tests:** mol $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ mol.
+
+**Step 1: moles NH~3~ to moles N~2~.** Have NH~3~ (coefficient **4**), want N~2~ (coefficient **2**). The question asks for **moles**, so stop here.
+
+$$2.400\ \cancel{\text{mol NH}_{3}} \times \underbrace{\frac{2\ \text{mol N}_{2}}{4\ \cancel{\text{mol NH}_{3}}}}_{\text{coefficient of N}_{2}\text{ / coefficient of NH}_{3}} = \boxed{1.20\ \text{mol N}_{2}}$$
+
+Why the other choices are wrong:
+
+* b) 1.80 mol: Used O~2~'s coefficient (3) instead of N~2~'s (2).
+* c) 2.40 mol: Assumed 1 : 1. The coefficients are 4 (NH~3~) and 2 (N~2~).
+* d) 4.80 mol: Mole ratio upside down: × 4/2 instead of × 2/4.
+* e) 33.6 mol: Multiplied by the molar mass of N~2~. That gives grams, not moles.
+
+# 10. Grams to moles of another substance — **c) 0.399 mol**
+
+**Source:** Chapter 9 post, slide 18 (Stoichiometry Practice 2: moles of H~2~SO~4~ from 19.9 g KOH), slide 14  
+**Homework match:** HW22 — hw22ex3.png (moles needed from grams: 0.206 g Al → mol Br~2~)  
+**What it tests:** g $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ mol.
+
+**Step 1: molar masses.** CS~2~ = 12.01 + 2(32.07) = 76.15 g/mol.
+
+**Step 2: grams CS~2~ to moles CS~2~.** $$15.2\ \cancel{\text{g CS}_{2}} \times \underbrace{\frac{1\ \text{mol CS}_{2}}{76.15\ \cancel{\text{g CS}_{2}}}}_{\text{molar mass of CS}_{2}} = 0.1996\ \text{mol CS}_{2}$$
+
+**Step 3: moles CS~2~ to moles SO~2~.** Have CS~2~ (coefficient **1**), want SO~2~ (coefficient **2**). The question asks for **moles**, so stop here.
+
+$$0.1996\ \cancel{\text{mol CS}_{2}} \times \underbrace{\frac{2\ \text{mol SO}_{2}}{1\ \cancel{\text{mol CS}_{2}}}}_{\text{coefficient of SO}_{2}\text{ / coefficient of CS}_{2}} = \boxed{0.399\ \text{mol SO}_{2}}$$
+
+Why the other choices are wrong:
+
+* a) 0.0998 mol: Mole ratio upside down: × 1/2 instead of × 2/1.
+* b) 0.200 mol: Assumed 1 : 1. The coefficients are 1 (CS~2~) and 2 (SO~2~).
+* d) 0.599 mol: Used O~2~'s coefficient (3) instead of SO~2~'s (2).
+* e) 25.6 mol: Multiplied by the molar mass of SO~2~. That gives grams, not moles.
+
+# 11. Grams to grams — **e) 17.0 g**
+
+**Source:** Chapter 9 post, slides 19–20 (Stoichiometry Practice: g → mol → mol → g), slide 14  
+**Homework match:** HW23 — hw23ex1.png (grams of product from grams of reactant)  
+**What it tests:** g $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ g.
+
+**Step 1: molar masses.** Cu = 63.55 g/mol (periodic table); Ag = 107.87 g/mol (periodic table).
+
+**Step 2: grams Cu to moles Cu.** $$5.00\ \cancel{\text{g Cu}} \times \underbrace{\frac{1\ \text{mol Cu}}{63.55\ \cancel{\text{g Cu}}}}_{\text{molar mass of Cu}} = 0.07868\ \text{mol Cu}$$
+
+**Step 3: moles Cu to moles Ag.** Have Cu (coefficient **1**), want Ag (coefficient **2**).
+
+$$0.07868\ \cancel{\text{mol Cu}} \times \underbrace{\frac{2\ \text{mol Ag}}{1\ \cancel{\text{mol Cu}}}}_{\text{coefficient of Ag / coefficient of Cu}} = 0.1574\ \text{mol Ag}$$
+
+**Step 4: moles Ag to grams Ag.** $$0.1574\ \cancel{\text{mol Ag}} \times \underbrace{\frac{107.87\ \text{g Ag}}{1\ \cancel{\text{mol Ag}}}}_{\text{molar mass of Ag}} = \boxed{17.0\ \text{g Ag}}$$
+
+Why the other choices are wrong:
+
+* a) 0.157 g: That is the **moles** of Ag. The last step (× molar mass) is missing.
+* b) 4.24 g: Mole ratio upside down: × 1/2 instead of × 2/1.
+* c) 8.49 g: Assumed 1 : 1. The coefficients are 1 (Cu) and 2 (Ag).
+* d) 10.0 g: Used the molar mass of Cu in the last step instead of Ag's.
+
+# 12. Balance first, then grams to grams — **d) 9.42 g**
+
+**Source:** Chapter 9 post, slide 16 (balance before using coefficients), slide 14, slide 19  
+**Homework match:** HW22 — hw22ex1.png (balance with the lowest whole-number coefficients); HW23 — hw23ex3.png  
+**What it tests:** g $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ g, after balancing.
+
+**Step 1: balance the equation.** K~2~O has 1 O, and O~2~ supplies 2 O, so make **2**K~2~O. That has 4 K: **4K + O~2~ $\rightarrow$ 2K~2~O**.
+
+**Step 2: molar masses.** K = 39.10 g/mol (periodic table); K~2~O = 2(39.10) + 16.00 = 94.20 g/mol.
+
+**Step 3: grams K to moles K.** $$7.82\ \cancel{\text{g K}} \times \underbrace{\frac{1\ \text{mol K}}{39.10\ \cancel{\text{g K}}}}_{\text{molar mass of K}} = 0.2000\ \text{mol K}$$
+
+**Step 4: moles K to moles K~2~O.** Have K (coefficient **4**), want K~2~O (coefficient **2**).
+
+$$0.2000\ \cancel{\text{mol K}} \times \underbrace{\frac{2\ \text{mol K}_{2}\text{O}}{4\ \cancel{\text{mol K}}}}_{\text{coefficient of K}_{2}\text{O / coefficient of K}} = 0.1000\ \text{mol K}_{2}\text{O}$$
+
+**Step 5: moles K~2~O to grams K~2~O.** $$0.1000\ \cancel{\text{mol K}_{2}\text{O}} \times \underbrace{\frac{94.20\ \text{g K}_{2}\text{O}}{1\ \cancel{\text{mol K}_{2}\text{O}}}}_{\text{molar mass of K}_{2}\text{O}} = \boxed{9.42\ \text{g K}_{2}\text{O}}$$
+
+Why the other choices are wrong:
+
+* a) 0.100 g: That is the **moles** of K~2~O. The last step (× molar mass) is missing.
+* b) 3.91 g: Used the molar mass of K in the last step instead of K~2~O's.
+* c) 4.71 g: Used O~2~'s coefficient (1) instead of K~2~O's (2).
+* e) 18.8 g: Assumed 1 : 1. The coefficients are 4 (K) and 2 (K~2~O).
+
+# 13. Limiting reactant and leftover — **b) O~2~ is limiting, and 9.40 g of ZnS is left over**
+
+**Source:** Chapter 9 post, slide 24 (limiting reactant from two masses), slides 21–23  
+**Homework match:** HW23 — hw23ex2.png (5.65 g of each reactant: which is limiting?)  
+**What it tests:** Limiting reactant by need-vs-have in moles, then the leftover mass of the excess reactant.
+
+**Step 1: molar masses.** ZnS = 65.38 + 32.07 = 97.45 g/mol; O~2~ = 2(16.00) = 32.00 g/mol.
+
+**Step 2: grams to moles for each reactant.** $$50.0\ \cancel{\text{g ZnS}} \times \underbrace{\frac{1\ \text{mol ZnS}}{97.45\ \cancel{\text{g ZnS}}}}_{\text{molar mass of ZnS}} = 0.5131\ \text{mol ZnS}$$
+
+$$20.0\ \cancel{\text{g O}_{2}} \times \underbrace{\frac{1\ \text{mol O}_{2}}{32.00\ \cancel{\text{g O}_{2}}}}_{\text{molar mass of O}_{2}} = 0.6250\ \text{mol O}_{2}$$
+
+**Step 3: how much O~2~ does all the ZnS need?** Have ZnS (coefficient **2**), want O~2~ (coefficient **3**).
+
+$$0.5131\ \cancel{\text{mol ZnS}} \times \underbrace{\frac{3\ \text{mol O}_{2}}{2\ \cancel{\text{mol ZnS}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of ZnS}} = 0.7696\ \text{mol O}_{2}$$
+
+**Step 4: compare.** You **need** 0.7696 mol O~2~ but only **have** 0.6250 mol, so **O~2~ is limiting** and ZnS is in excess.
+
+**Step 5: how much ZnS reacts?** All 0.6250 mol of the limiting O~2~ reacts. Have O~2~ (coefficient **3**), want ZnS (coefficient **2**).
+
+$$0.6250\ \cancel{\text{mol O}_{2}} \times \underbrace{\frac{2\ \text{mol ZnS}}{3\ \cancel{\text{mol O}_{2}}}}_{\text{coefficient of ZnS / coefficient of O}_{2}} = 0.4167\ \text{mol ZnS}$$
+
+$$0.4167\ \cancel{\text{mol ZnS}} \times \underbrace{\frac{97.45\ \text{g ZnS}}{1\ \cancel{\text{mol ZnS}}}}_{\text{molar mass of ZnS}} = 40.6\ \text{g ZnS}$$
+
+**Step 6: left over.** 50.0 g ZnS at the start − 40.6 g that reacts = **9.40 g left over**.
+
+Mass alone never decides the limiting reactant: compare in moles, through the mole ratio.
+
+Why the other choices are wrong:
+
+* a) ZnS is limiting, and O~2~ is left over: Check what all of one reactant needs. The need-vs-have comparison shows the O~2~ runs out first.
+* c) O~2~ is limiting, and 50.0 g of ZnS is left over: That is **all** of the ZnS. Some of it reacts with the O~2~, so less is left.
+* d) O~2~ is limiting, and 40.6 g of ZnS is left over: That is the mass of ZnS that **reacts**. Left over = 50.0 g − 40.6 g.
+* e) Neither is limiting; both reactants are used up completely: That needs the moles to be in exactly a 2 : 3 ratio, and they aren't.
+
+# 14. Theoretical yield from two masses — **b) 15.9 g**
+
+**Source:** Chapter 9 post, slide 27 (theoretical yield when both masses are given), slide 25, slide 24  
+**Homework match:** HW23 — hw23ex3.png (limiting reactant, then mass of product); HW24 — hw24ex2.png  
+**What it tests:** Moles of each reactant $\rightarrow$ limiting reactant $\rightarrow$ product from the limiting reactant only.
+
+**Step 1: molar masses.** Al = 26.98 g/mol (periodic table); CuSO~4~ = 63.55 + 32.07 + 4(16.00) = 159.62 g/mol; Cu = 63.55 g/mol (periodic table).
+
+**Step 2: grams to moles for each reactant.** $$5.40\ \cancel{\text{g Al}} \times \underbrace{\frac{1\ \text{mol Al}}{26.98\ \cancel{\text{g Al}}}}_{\text{molar mass of Al}} = 0.2001\ \text{mol Al}$$
+
+$$40.0\ \cancel{\text{g CuSO}_{4}} \times \underbrace{\frac{1\ \text{mol CuSO}_{4}}{159.62\ \cancel{\text{g CuSO}_{4}}}}_{\text{molar mass of CuSO}_{4}} = 0.2506\ \text{mol CuSO}_{4}$$
+
+**Step 3: how much CuSO~4~ does all the Al need?** Have Al (coefficient **2**), want CuSO~4~ (coefficient **3**).
+
+$$0.2001\ \cancel{\text{mol Al}} \times \underbrace{\frac{3\ \text{mol CuSO}_{4}}{2\ \cancel{\text{mol Al}}}}_{\text{coefficient of CuSO}_{4}\text{ / coefficient of Al}} = 0.3002\ \text{mol CuSO}_{4}\text{ needed}$$
+
+**Step 4: compare.** You **need** 0.3002 mol CuSO~4~ but only **have** 0.2506 mol. The CuSO~4~ runs out first, so **CuSO~4~ is limiting** and Al is in excess.
+
+**Step 5: theoretical yield from the limiting reactant (CuSO~4~).** Have CuSO~4~ (coefficient **3**), want Cu (coefficient **3**).
+
+$$0.2506\ \cancel{\text{mol CuSO}_{4}} \times \underbrace{\frac{3\ \text{mol Cu}}{3\ \cancel{\text{mol CuSO}_{4}}}}_{\text{coefficient of Cu / coefficient of CuSO}_{4}} = 0.2506\ \text{mol Cu}$$
+
+$$0.2506\ \cancel{\text{mol Cu}} \times \underbrace{\frac{63.55\ \text{g Cu}}{1\ \cancel{\text{mol Cu}}}}_{\text{molar mass of Cu}} = \boxed{15.9\ \text{g Cu}}$$
+
+**Cross-check:** all the Al would make 19.1 g Cu. The smaller amount, 15.9 g, is the theoretical yield.
+
+Why the other choices are wrong:
+
+* a) 0.251 g: That is the **moles** of Cu.
+* c) 19.1 g: Calculated from Al. Al is in excess, so this is more than the CuSO~4~ can make.
+* d) 40.0 g: Used the molar mass of CuSO~4~ instead of Cu in the last step.
+* e) 45.4 g: Added the reactant masses. Part of the excess reactant is left over.
+
+# 15. Percent yield — **c) 88.1%**
+
+**Source:** Chapter 9 post, slide 30 (percent yield formula), slides 31–32, slide 28  
+**Homework match:** HW24 — hw24ex1.png (percent yield of magnesium oxide)  
+**What it tests:** Two parts: theoretical yield from the limiting reactant, then actual / theoretical × 100.
+
+**Step 1: which reactant controls the yield?** O~2~ is in excess, so **Mg is limiting** and the theoretical yield is calculated from it.
+
+**Step 2: molar masses.** Mg = 24.31 g/mol (periodic table); MgO = 24.31 + 16.00 = 40.31 g/mol.
+
+**Step 3: theoretical yield of MgO.** Have Mg (coefficient **2**), want MgO (coefficient **2**).
+
+$$4.86\ \cancel{\text{g Mg}} \times \underbrace{\frac{1\ \text{mol Mg}}{24.31\ \cancel{\text{g Mg}}}}_{\text{molar mass of Mg}} = 0.1999\ \text{mol Mg}$$
+
+$$0.1999\ \cancel{\text{mol Mg}} \times \underbrace{\frac{2\ \text{mol MgO}}{2\ \cancel{\text{mol Mg}}}}_{\text{coefficient of MgO / coefficient of Mg}} = 0.1999\ \text{mol MgO}$$
+
+$$0.1999\ \cancel{\text{mol MgO}} \times \underbrace{\frac{40.31\ \text{g MgO}}{1\ \cancel{\text{mol MgO}}}}_{\text{molar mass of MgO}} = 8.059\ \text{g MgO}\ (\text{theoretical})$$
+
+**Step 4: percent yield.** The actual yield (7.1 g, measured) goes on top, the theoretical yield on the bottom:
+
+$$\text{percent yield}=\frac{7.1\ \cancel{\text{g}}\ (\text{actual})}{8.059\ \cancel{\text{g}}\ (\text{theoretical})}\times100\% = \boxed{88.1\%}$$
+
+Why the other choices are wrong:
+
+* a) 0.881%: Forgot to multiply by 100.
+* b) 17.6%: Divided the actual mass by the molar mass of MgO (40.31) instead of by the theoretical yield.
+* d) 114%: Upside down: theoretical / actual. A yield can't be over 100%.
+* e) 146%: Divided by the mass of Mg. The bottom must be the theoretical yield of MgO.
+

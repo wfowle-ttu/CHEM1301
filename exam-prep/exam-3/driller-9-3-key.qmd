@@ -1,0 +1,440 @@
+---
+title: "CHEM 1301 Driller 9-3 — Answer Key"
+subtitle: "Worked solutions with course-material citations"
+format:
+  pdf:
+    geometry: margin=0.75in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
+---
+
+Every numeric answer was recomputed by `_scripts/build_driller_9_3.py`, which builds this key and the driller from
+the same data. Atomic masses are periodic-table values (H 1.008, C 12.01, N 14.01, O 16.00, ...). Citations name the
+slide (same number in the `.pdf` and `.pptx`) where the content is taught, plus the closest homework screenshot.
+
+**How to read the solutions.** Each calculation is a chain of conversion factors written want-over-have. The label under
+each factor says where its numbers come from (a molar mass, or two coefficients from the balanced equation), and the
+crossed-out units are the ones that cancel. Study guide section 9.0 explains this format.
+
+**Score bands.** 14–15 solid on 8.7 and Chapter 9 · 11–13 rework the study guide sections cited for the questions you missed ·
+10 or below go back through study guide sections 8.7 and 9.2–9.7 before the next driller.
+
+| Q | Ans | Answer | Type | Topic (source) |
+|:-:|:-:|:----------------|:----:|:------------------------|
+| 1 | **e** | divide every element's moles by the smallest mole value | concept | Step 3 of the empirical-formula method (Ch 8 sl. 42–43) |
+| 2 | **b** | C~12~H~22~O~11~ | calc | Molecular to empirical formula (Ch 8 sl. 39–40) |
+| 3 | **a** | Fe~3~O~4~ | calc | Grams to empirical formula (×3) (Ch 8 sl. 42–46) |
+| 4 | **e** | KHCO~3~ | calc | Percent composition to empirical formula (four elements) (Ch 8 sl. 35–37, 42) |
+| 5 | **a** | Mn~2~O~7~ | calc | Percent composition to empirical formula (×2) (Ch 8 sl. 42–43) |
+| 6 | **b** | C~5~H~10~O~5~ | calc | Empirical to molecular formula (Ch 8 sl. 47–49) |
+| 7 | **d** | 3.00 mol | calc | From percent composition to a mole ratio (Ch 8 sl. 42–49; Ch 9 sl. 9–11) |
+| 8 | **e** | Some of it remains unreacted after the reaction stops | concept | The excess reactant (Ch 9 sl. 21–22, 25) |
+| 9 | **d** | 3.75 mol | calc | Mole–mole conversion (Ch 9 sl. 9–11) |
+| 10 | **a** | 0.0501 mol | calc | Grams to moles of another substance (Ch 9 sl. 14, 18) |
+| 11 | **d** | 28.0 g | calc | Grams to grams (Ch 9 sl. 14, 19–20) |
+| 12 | **c** | 7.47 g | calc | Balance first, then grams to grams (Ch 9 sl. 14, 16, 19) |
+| 13 | **c** | C is limiting, and 4.98 g of SiO~2~ is left over | calc | Limiting reactant and leftover (Ch 9 sl. 21–24) |
+| 14 | **b** | 21.0 g | calc | Theoretical yield from two masses (Ch 9 sl. 24–27) |
+| 15 | **c** | 84.7% | calc | Percent yield (Ch 9 sl. 28–32) |
+
+Mix: 2 concept / 13 calculation · Ch 8: 6 · Ch 9: 9
+
+# 1. Step 3 of the empirical-formula method — **e) divide every element's moles by the smallest mole value**
+
+**Source:** Chapter 8 post, slide 42 (Steps for Determining the Empirical Formula, step 3), slides 35–37  
+**Homework match:** HW21 — hw21ex2.png (empirical formula from percent composition)  
+**What it tests:** The order of the empirical-formula method, aimed at its most-missed step.
+
+Slide 42's steps, as in study guide 8.7 Type B:
+
+1. Get grams of each element (assume 100 g if given percents).
+2. Convert each element's grams to **moles** (÷ its atomic mass).
+3. **Divide every mole value by the smallest mole value.** The smallest becomes exactly 1, and the others tell you how many
+   of that atom there are per 1 of the smallest.
+4. If any result isn't within 0.1 of a whole number, multiply **every** result by the same small integer.
+
+Why the other choices are wrong:
+
+* a) divide every element's moles by the molar mass of the compound: The molar mass is used later, to get the **molecular** formula (n = molar mass ÷ empirical mass).
+* b) divide each element's mass by the smallest mass: Masses aren't atom counts. The ratio has to be in **moles**, and you already converted to moles.
+* c) divide every element's moles by the largest mole value: Dividing by the largest makes the results fractions below 1. The smallest makes the smallest element exactly 1.
+* d) round each mole value to the nearest whole number: Mole values like 0.0998 or 1.852 aren't subscripts yet. First divide by the smallest to get the ratio.
+
+# 2. Molecular to empirical formula — **b) C~12~H~22~O~11~**
+
+**Source:** Chapter 8 post, slide 39 (empirical formula = smallest whole-number ratio), slide 40  
+**Homework match:** HW20 — hw20ex2.png (formulas such as theobromine); HW21 — hw21ex3.png  
+**What it tests:** Type A (study guide 8.7) when the formula is already empirical: the only common divisor is 1.
+
+**Step 1: list the subscripts.** C 12, H 22, O 11.
+
+**Step 2: find the largest number that divides all three evenly.** 11 is prime, so the only candidates are 1 and 11.
+12 ÷ 11 isn't whole, so the only common divisor is **1**. (2 divides 12 and 22 but not 11.)
+
+**Step 3: conclusion.** Dividing by 1 changes nothing, so the formula is **already empirical**: **C~12~H~22~O~11~**.
+
+Why the other choices are wrong:
+
+* a) C~6~H~11~O~11~: Divided only C and H by 2. Every subscript must be divided by the same number.
+* c) C~12~H~22~O: Dropped the O subscript. Every element keeps its count.
+* d) C~6~H~11~O~5~: Divided by 2, but 11 ÷ 2 isn't a whole number (5.5). You can't divide unless **every** subscript divides evenly.
+* e) CH~2~O: That is the empirical formula of glucose (C~6~H~12~O~6~), not sucrose.
+
+# 3. Grams to empirical formula (×3) — **a) Fe~3~O~4~**
+
+**Source:** Chapter 8 post, slides 45–46 (empirical formula from masses), slide 43 (step 4: multiply by the smallest integer)  
+**Homework match:** HW21 — empirical formula from composition data  
+**What it tests:** The 4-step method: grams $\rightarrow$ moles $\rightarrow$ divide by the smallest $\rightarrow$ whole numbers (multiply every element if needed).
+
+**Step 1: grams of each element.** Iron: 1.447 g (given). Oxygen is the rest: 2.000 g − 1.447 g = **0.553 g O**.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$1.447\ \cancel{\text{g Fe}} \times \underbrace{\frac{1\ \text{mol Fe}}{55.85\ \cancel{\text{g Fe}}}}_{\text{atomic mass of Fe}} = 0.02591\ \text{mol Fe}$$
+
+$$0.553\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 0.03456\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 0.02591 mol (Fe). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (0.02591 mol Fe) | × 3 | Subscript |
+|:-:|:-:|:-:|:-:|:-:|
+| Fe | 0.02591 | 1.00 | 3.00 | 3 |
+| O | 0.03456 | 1.33 | 4.00 | 4 |
+
+**Step 4: whole numbers?** 1.33 is not within 0.1 of a whole number. It ends in a decimal near .33 or .67 (thirds), so multiply **every** result by 3, including the elements that were already whole (last columns of the table). Empirical formula: **Fe~3~O~4~**.
+
+Why the other choices are wrong:
+
+* b) Fe~6~O~8~: Not the **smallest** whole-number ratio; every subscript can still be divided by 2.
+* c) FeO: Rounded the fractional result instead of multiplying (only results within 0.1 of a whole number may be rounded).
+* d) Fe~3~O: Used the masses (percents) directly instead of converting to moles first.
+* e) FeO~4~: Multiplied only the fractional element by 3. The same multiplier goes on **every** element.
+
+# 4. Percent composition to empirical formula (four elements) — **e) KHCO~3~**
+
+**Source:** Chapter 8 post, slides 35–37 (four-element example: C~2~H~5~O~2~N), slide 42  
+**Homework match:** HW21 — hw21ex2.png (empirical formula from percent composition: MgSO~4~)  
+**What it tests:** The 4-step method: grams $\rightarrow$ moles $\rightarrow$ divide by the smallest $\rightarrow$ whole numbers (multiply every element if needed).
+
+**Step 1: percent to grams.** Pretend you have exactly **100 g** of the compound, so each percent becomes that many grams: 39.05 g K, 1.01 g H, 12.00 g C, 47.94 g O.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$39.05\ \cancel{\text{g K}} \times \underbrace{\frac{1\ \text{mol K}}{39.10\ \cancel{\text{g K}}}}_{\text{atomic mass of K}} = 0.9987\ \text{mol K}$$
+
+$$1.01\ \cancel{\text{g H}} \times \underbrace{\frac{1\ \text{mol H}}{1.008\ \cancel{\text{g H}}}}_{\text{atomic mass of H}} = 1.002\ \text{mol H}$$
+
+$$12.00\ \cancel{\text{g C}} \times \underbrace{\frac{1\ \text{mol C}}{12.01\ \cancel{\text{g C}}}}_{\text{atomic mass of C}} = 0.9992\ \text{mol C}$$
+
+$$47.94\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 2.996\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 0.9987 mol (K). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (0.9987 mol K) | Subscript |
+|:-:|:-:|:-:|:-:|
+| K | 0.9987 | 1.00 | 1 |
+| H | 1.002 | 1.00 | 1 |
+| C | 0.9992 | 1.00 | 1 |
+| O | 2.996 | 3.00 | 3 |
+
+**Step 4: whole numbers?** Every result is within 0.1 of a whole number, so round them. No multiplier is needed. Empirical formula: **KHCO~3~**.
+
+Why the other choices are wrong:
+
+* a) K~2~HCO~3~: Miscounted K: its step-3 result is 1.00, which gives 1, not 2.
+* b) K~39~HC~12~O~47~: Used the masses (percents) directly instead of converting to moles first.
+* c) K~2~H~2~C~2~O~6~: Not the **smallest** whole-number ratio; every subscript can still be divided by 2.
+* d) K~3~HCO: Subscripts swapped between the elements.
+
+# 5. Percent composition to empirical formula (×2) — **a) Mn~2~O~7~**
+
+**Source:** Chapter 8 post, slides 42–43 (Steps for Determining the Empirical Formula; step 4: multiply when not whole)  
+**Homework match:** HW21 — hw21ex2.png (empirical formula from percent composition)  
+**What it tests:** The 4-step method: grams $\rightarrow$ moles $\rightarrow$ divide by the smallest $\rightarrow$ whole numbers (multiply every element if needed).
+
+**Step 1: percent to grams.** Pretend you have exactly **100 g** of the compound, so each percent becomes that many grams: 49.55 g Mn, 50.45 g O.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$49.55\ \cancel{\text{g Mn}} \times \underbrace{\frac{1\ \text{mol Mn}}{54.94\ \cancel{\text{g Mn}}}}_{\text{atomic mass of Mn}} = 0.9019\ \text{mol Mn}$$
+
+$$50.45\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 3.153\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 0.9019 mol (Mn). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (0.9019 mol Mn) | × 2 | Subscript |
+|:-:|:-:|:-:|:-:|:-:|
+| Mn | 0.9019 | 1.00 | 2.00 | 2 |
+| O | 3.153 | 3.50 | 6.99 | 7 |
+
+**Step 4: whole numbers?** 3.50 is not within 0.1 of a whole number. It ends in a decimal near .5 (halves), so multiply **every** result by 2, including the elements that were already whole (last columns of the table). Empirical formula: **Mn~2~O~7~**.
+
+Why the other choices are wrong:
+
+* b) MnO: Used the masses (percents) directly instead of converting to moles first.
+* c) Mn~4~O~14~: Not the **smallest** whole-number ratio; every subscript can still be divided by 2.
+* d) MnO~3~: Rounded the fractional result instead of multiplying (only results within 0.1 of a whole number may be rounded).
+* e) MnO~7~: Multiplied only the fractional element by 2. The same multiplier goes on **every** element.
+
+# 6. Empirical to molecular formula — **b) C~5~H~10~O~5~**
+
+**Source:** Chapter 8 post, slide 48 (molecular formula = (empirical formula)~n~), slide 49 (LA Practice), slide 47  
+**Homework match:** HW21 — hw21ex3.png (empirical formula + molar mass → molecular formula)  
+**What it tests:** Molecular formula = (empirical formula)~n~ with n = molar mass ÷ empirical formula mass.
+
+**Step 1: empirical formula mass.** Add up the atomic masses in the empirical formula: CH~2~O = 12.01 + 2(1.008) + 16.00 = 30.03 g/mol.
+
+**Step 2: find n.** $$n=\frac{\text{molar mass of the compound}}{\text{empirical formula mass}}=\frac{150.13\ \text{g/mol}}{30.03\ \text{g/mol}} = 5.00\approx 5$$
+
+**Step 3: multiply every subscript by n.** (CH~2~O)~5~: C 1 × 5 = 5, H 2 × 5 = 10, O 1 × 5 = 5. Molecular formula: **C~5~H~10~O~5~**.
+
+Why the other choices are wrong:
+
+* a) CH~2~O: That is the empirical formula itself (n = 1). Its molar mass would be 30.03 g/mol, not 150.13.
+* c) C~5~H~2~O: Multiplied only the first subscript by n = 5. **Every** subscript gets multiplied.
+* d) C~4~H~8~O~4~: n = 4 would give 120.10 g/mol.
+* e) C~6~H~12~O~6~: n = 6 would give a molar mass of 180.16 g/mol.
+
+# 7. From percent composition to a mole ratio — **d) 3.00 mol**
+
+**Source:** Chapter 8 post, slides 42–49 (empirical then molecular formula); Chapter 9 post, slide 9 (balancing a combustion: double to clear 7/2), slide 11  
+**Homework match:** HW21 — hw21ex3.png; HW22 — hw22ex1.png (2C~6~H~6~ + 15O~2~ → 12CO~2~ + 6H~2~O)  
+**What it tests:** Section 8.7 feeding Chapter 9: percent composition $\rightarrow$ empirical $\rightarrow$ molecular formula $\rightarrow$ balanced equation $\rightarrow$ mole ratio.
+
+**Step 1: percent to grams.** Pretend you have exactly **100 g** of the compound, so each percent becomes that many grams: 92.26 g C, 7.74 g H.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$92.26\ \cancel{\text{g C}} \times \underbrace{\frac{1\ \text{mol C}}{12.01\ \cancel{\text{g C}}}}_{\text{atomic mass of C}} = 7.682\ \text{mol C}$$
+
+$$7.74\ \cancel{\text{g H}} \times \underbrace{\frac{1\ \text{mol H}}{1.008\ \cancel{\text{g H}}}}_{\text{atomic mass of H}} = 7.679\ \text{mol H}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 7.679 mol (H). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (7.679 mol H) | Subscript |
+|:-:|:-:|:-:|:-:|
+| C | 7.682 | 1.00 | 1 |
+| H | 7.679 | 1.00 | 1 |
+
+**Step 4: whole numbers?** Every result is within 0.1 of a whole number, so round them. No multiplier is needed. Empirical formula: **CH**.
+
+**Step 5: molecular formula.** Empirical formula mass: CH = 12.01 + 1.008 = 13.02 g/mol. n = 78.11 ÷ 13.02 = 6.00 $\approx$ 6, so multiply every subscript by 6: **C~6~H~6~**.
+
+**Step 6: write the balanced equation.** Combustion of C~6~H~6~: C first (6CO~2~), then H (3H~2~O), then O: 6(2) + 3(1) = 15 O on the right, so 15/2 O~2~. That isn't whole, so double everything: **2C~6~H~6~ + 15O~2~ $\rightarrow$ 12CO~2~ + 6H~2~O**.
+
+**Step 7: moles C~6~H~6~ to moles O~2~.** Have C~6~H~6~ (coefficient **2**), want O~2~ (coefficient **15**).
+
+$$0.4000\ \cancel{\text{mol C}_{6}\text{H}_{6}} \times \underbrace{\frac{15\ \text{mol O}_{2}}{2\ \cancel{\text{mol C}_{6}\text{H}_{6}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of C}_{6}\text{H}_{6}} = \boxed{3.00\ \text{mol O}_{2}}$$
+
+The molecular formula matters here. A mole of the **empirical** unit is a different amount of substance from a mole of the real molecule, so it would give a different number of moles of product.
+
+Why the other choices are wrong:
+
+* a) 0.400 mol: Assumed 1 : 1. The ratio is 15 O~2~ : 2 C~6~H~6~.
+* b) 0.500 mol: Used the empirical formula CH (CH + 1.25O~2~), which is one-sixth of a molecule.
+* c) 2.40 mol: Used CO~2~'s coefficient (12) instead of O~2~'s (15).
+* e) 6.00 mol: Used 15 but forgot to divide by C~6~H~6~'s coefficient (2).
+
+# 8. The excess reactant — **e) Some of it remains unreacted after the reaction stops**
+
+**Source:** Chapter 9 post, slide 21 (Limiting Reactants), slide 22, slide 25 (theoretical yield from the limiting reactant)  
+**Homework match:** HW23 — hw23ex2.png (limiting reactant, then mass of product)  
+**What it tests:** Roles of the limiting and excess reactants.
+
+The limiting reactant runs out first and fixes how much product forms (slides 21, 25). The other reactant is **in excess**: when
+the limiting reactant is gone the reaction stops, and **some of the excess reactant is left over**, unreacted.
+
+Why the other choices are wrong:
+
+* a) It is used up before the limiting reactant: Backwards: the limiting reactant runs out first.
+* b) It determines the theoretical yield: The **limiting** reactant determines the theoretical yield (slide 25).
+* c) Its leftover amount is added to the theoretical yield: Leftover reactant never became product, so it isn't part of the yield.
+* d) It is always the reactant present in the larger mass: Mass doesn't decide it. Only a mole comparison through the ratio does.
+
+# 9. Mole–mole conversion — **d) 3.75 mol**
+
+**Source:** Chapter 9 post, slide 11 (Mole–Mole Conversions Practice 2: 2C~2~H~6~ + 7O~2~), slide 9  
+**Homework match:** HW22 — hw22ex1.png (2C~6~H~6~ + 15O~2~: reading mole amounts from coefficients)  
+**What it tests:** mol $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ mol.
+
+**Step 1: moles C~8~H~18~ to moles O~2~.** Have C~8~H~18~ (coefficient **2**), want O~2~ (coefficient **25**). The question asks for **moles**, so stop here.
+
+$$0.3000\ \cancel{\text{mol C}_{8}\text{H}_{18}} \times \underbrace{\frac{25\ \text{mol O}_{2}}{2\ \cancel{\text{mol C}_{8}\text{H}_{18}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of C}_{8}\text{H}_{18}} = \boxed{3.75\ \text{mol O}_{2}}$$
+
+Why the other choices are wrong:
+
+* a) 0.0240 mol: Mole ratio upside down: × 2/25 instead of × 25/2.
+* b) 0.300 mol: Assumed 1 : 1. The coefficients are 2 (C~8~H~18~) and 25 (O~2~).
+* c) 2.40 mol: Used CO~2~'s coefficient (16) instead of O~2~'s (25).
+* e) 120 mol: Multiplied by the molar mass of O~2~. That gives grams, not moles.
+
+# 10. Grams to moles of another substance — **a) 0.0501 mol**
+
+**Source:** Chapter 9 post, slide 18 (Stoichiometry Practice 2: moles of H~2~SO~4~ from 19.9 g KOH), slide 14; Chapter 8 post, slide 43 (2HgO → 2Hg + O~2~)  
+**Homework match:** HW22 — hw22ex3.png (moles of a substance from grams of another)  
+**What it tests:** g $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ mol.
+
+**Step 1: molar masses.** HgO = 200.59 + 16.00 = 216.59 g/mol.
+
+**Step 2: grams HgO to moles HgO.** $$21.7\ \cancel{\text{g HgO}} \times \underbrace{\frac{1\ \text{mol HgO}}{216.59\ \cancel{\text{g HgO}}}}_{\text{molar mass of HgO}} = 0.1002\ \text{mol HgO}$$
+
+**Step 3: moles HgO to moles O~2~.** Have HgO (coefficient **2**), want O~2~ (coefficient **1**). The question asks for **moles**, so stop here.
+
+$$0.1002\ \cancel{\text{mol HgO}} \times \underbrace{\frac{1\ \text{mol O}_{2}}{2\ \cancel{\text{mol HgO}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of HgO}} = \boxed{0.0501\ \text{mol O}_{2}}$$
+
+Why the other choices are wrong:
+
+* b) 0.100 mol: Assumed 1 : 1. The coefficients are 2 (HgO) and 1 (O~2~).
+* c) 0.200 mol: Mole ratio upside down: × 2/1 instead of × 1/2.
+* d) 1.60 mol: Multiplied by the molar mass of O~2~. That gives grams, not moles.
+* e) 4.99 mol: Divided the molar mass by the grams (216.59 ÷ 21.7).
+
+# 11. Grams to grams — **d) 28.0 g**
+
+**Source:** Chapter 9 post, slides 19–20 (Stoichiometry Practice: g → mol → mol → g), slide 14  
+**Homework match:** HW23 — hw23ex1.png (grams of product from grams of reactant)  
+**What it tests:** g $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ g.
+
+**Step 1: molar masses.** Fe~2~O~3~ = 2(55.85) + 3(16.00) = 159.70 g/mol; Fe = 55.85 g/mol (periodic table).
+
+**Step 2: grams Fe~2~O~3~ to moles Fe~2~O~3~.** $$40.0\ \cancel{\text{g Fe}_{2}\text{O}_{3}} \times \underbrace{\frac{1\ \text{mol Fe}_{2}\text{O}_{3}}{159.70\ \cancel{\text{g Fe}_{2}\text{O}_{3}}}}_{\text{molar mass of Fe}_{2}\text{O}_{3}} = 0.2505\ \text{mol Fe}_{2}\text{O}_{3}$$
+
+**Step 3: moles Fe~2~O~3~ to moles Fe.** Have Fe~2~O~3~ (coefficient **1**), want Fe (coefficient **2**).
+
+$$0.2505\ \cancel{\text{mol Fe}_{2}\text{O}_{3}} \times \underbrace{\frac{2\ \text{mol Fe}}{1\ \cancel{\text{mol Fe}_{2}\text{O}_{3}}}}_{\text{coefficient of Fe / coefficient of Fe}_{2}\text{O}_{3}} = 0.5009\ \text{mol Fe}$$
+
+**Step 4: moles Fe to grams Fe.** $$0.5009\ \cancel{\text{mol Fe}} \times \underbrace{\frac{55.85\ \text{g Fe}}{1\ \cancel{\text{mol Fe}}}}_{\text{molar mass of Fe}} = \boxed{28.0\ \text{g Fe}}$$
+
+Why the other choices are wrong:
+
+* a) 0.501 g: That is the **moles** of Fe. The last step (× molar mass) is missing.
+* b) 6.99 g: Mole ratio upside down: × 1/2 instead of × 2/1.
+* c) 14.0 g: Assumed 1 : 1. The coefficients are 1 (Fe~2~O~3~) and 2 (Fe).
+* e) 80.0 g: Used the molar mass of Fe~2~O~3~ in the last step instead of Fe's.
+
+# 12. Balance first, then grams to grams — **c) 7.47 g**
+
+**Source:** Chapter 9 post, slide 16 (balance before using coefficients), slide 14, slide 19  
+**Homework match:** HW22 — hw22ex1.png (balance with the lowest whole-number coefficients); HW23 — hw23ex3.png  
+**What it tests:** g $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ g, after balancing.
+
+**Step 1: balance the equation.** Li~2~O has 2 Li and 1 O. O~2~ supplies 2 O, so make **2**Li~2~O. That needs 4 Li: **4Li + O~2~ $\rightarrow$ 2Li~2~O**.
+
+**Step 2: molar masses.** Li = 6.94 g/mol (periodic table); Li~2~O = 2(6.94) + 16.00 = 29.88 g/mol.
+
+**Step 3: grams Li to moles Li.** $$3.47\ \cancel{\text{g Li}} \times \underbrace{\frac{1\ \text{mol Li}}{6.94\ \cancel{\text{g Li}}}}_{\text{molar mass of Li}} = 0.5000\ \text{mol Li}$$
+
+**Step 4: moles Li to moles Li~2~O.** Have Li (coefficient **4**), want Li~2~O (coefficient **2**).
+
+$$0.5000\ \cancel{\text{mol Li}} \times \underbrace{\frac{2\ \text{mol Li}_{2}\text{O}}{4\ \cancel{\text{mol Li}}}}_{\text{coefficient of Li}_{2}\text{O / coefficient of Li}} = 0.2500\ \text{mol Li}_{2}\text{O}$$
+
+**Step 5: moles Li~2~O to grams Li~2~O.** $$0.2500\ \cancel{\text{mol Li}_{2}\text{O}} \times \underbrace{\frac{29.88\ \text{g Li}_{2}\text{O}}{1\ \cancel{\text{mol Li}_{2}\text{O}}}}_{\text{molar mass of Li}_{2}\text{O}} = \boxed{7.47\ \text{g Li}_{2}\text{O}}$$
+
+Why the other choices are wrong:
+
+* a) 0.250 g: That is the **moles** of Li~2~O. The last step (× molar mass) is missing.
+* b) 1.74 g: Used the molar mass of Li in the last step instead of Li~2~O's.
+* d) 14.9 g: Assumed 1 : 1. The coefficients are 4 (Li) and 2 (Li~2~O).
+* e) 29.9 g: Mole ratio upside down: × 4/2 instead of × 2/4.
+
+# 13. Limiting reactant and leftover — **c) C is limiting, and 4.98 g of SiO~2~ is left over**
+
+**Source:** Chapter 9 post, slide 24 (limiting reactant from two masses), slides 21–23  
+**Homework match:** HW23 — hw23ex2.png (determine the limiting reactant)  
+**What it tests:** Limiting reactant by need-vs-have in moles, then the leftover mass of the excess reactant.
+
+**Step 1: molar masses.** SiO~2~ = 28.09 + 2(16.00) = 60.09 g/mol; C = 12.01 g/mol (periodic table).
+
+**Step 2: grams to moles for each reactant.** $$30.0\ \cancel{\text{g SiO}_{2}} \times \underbrace{\frac{1\ \text{mol SiO}_{2}}{60.09\ \cancel{\text{g SiO}_{2}}}}_{\text{molar mass of SiO}_{2}} = 0.4993\ \text{mol SiO}_{2}$$
+
+$$15.0\ \cancel{\text{g C}} \times \underbrace{\frac{1\ \text{mol C}}{12.01\ \cancel{\text{g C}}}}_{\text{molar mass of C}} = 1.249\ \text{mol C}$$
+
+**Step 3: how much C does all the SiO~2~ need?** Have SiO~2~ (coefficient **1**), want C (coefficient **3**).
+
+$$0.4993\ \cancel{\text{mol SiO}_{2}} \times \underbrace{\frac{3\ \text{mol C}}{1\ \cancel{\text{mol SiO}_{2}}}}_{\text{coefficient of C / coefficient of SiO}_{2}} = 1.498\ \text{mol C}$$
+
+**Step 4: compare.** You **need** 1.498 mol C but only **have** 1.249 mol, so **C is limiting** and SiO~2~ is in excess.
+
+**Step 5: how much SiO~2~ reacts?** All 1.249 mol of the limiting C reacts. Have C (coefficient **3**), want SiO~2~ (coefficient **1**).
+
+$$1.249\ \cancel{\text{mol C}} \times \underbrace{\frac{1\ \text{mol SiO}_{2}}{3\ \cancel{\text{mol C}}}}_{\text{coefficient of SiO}_{2}\text{ / coefficient of C}} = 0.4163\ \text{mol SiO}_{2}$$
+
+$$0.4163\ \cancel{\text{mol SiO}_{2}} \times \underbrace{\frac{60.09\ \text{g SiO}_{2}}{1\ \cancel{\text{mol SiO}_{2}}}}_{\text{molar mass of SiO}_{2}} = 25.0\ \text{g SiO}_{2}$$
+
+**Step 6: left over.** 30.0 g SiO~2~ at the start − 25.0 g that reacts = **4.98 g left over**.
+
+Mass alone never decides the limiting reactant: compare in moles, through the mole ratio.
+
+Why the other choices are wrong:
+
+* a) C is limiting, and 30.0 g of SiO~2~ is left over: That is **all** of the SiO~2~. Some of it reacts with the C, so less is left.
+* b) C is limiting, and 25.0 g of SiO~2~ is left over: That is the mass of SiO~2~ that **reacts**. Left over = 30.0 g − 25.0 g.
+* d) Neither is limiting; both reactants are used up completely: That needs the moles to be in exactly a 1 : 3 ratio, and they aren't.
+* e) SiO~2~ is limiting, and C is left over: Check what all of one reactant needs. The need-vs-have comparison shows the C runs out first.
+
+# 14. Theoretical yield from two masses — **b) 21.0 g**
+
+**Source:** Chapter 9 post, slide 27 (theoretical yield when both masses are given), slide 25, slide 24  
+**Homework match:** HW24 — hw24ex2.png (theoretical yield of XeF~4~ from two masses)  
+**What it tests:** Moles of each reactant $\rightarrow$ limiting reactant $\rightarrow$ product from the limiting reactant only.
+
+**Step 1: molar masses.** NO~2~ = 14.01 + 2(16.00) = 46.01 g/mol; H~2~O = 2(1.008) + 16.00 = 18.02 g/mol; HNO~3~ = 1.008 + 14.01 + 3(16.00) = 63.02 g/mol.
+
+**Step 2: grams to moles for each reactant.** $$23.0\ \cancel{\text{g NO}_{2}} \times \underbrace{\frac{1\ \text{mol NO}_{2}}{46.01\ \cancel{\text{g NO}_{2}}}}_{\text{molar mass of NO}_{2}} = 0.4999\ \text{mol NO}_{2}$$
+
+$$5.00\ \cancel{\text{g H}_{2}\text{O}} \times \underbrace{\frac{1\ \text{mol H}_{2}\text{O}}{18.02\ \cancel{\text{g H}_{2}\text{O}}}}_{\text{molar mass of H}_{2}\text{O}} = 0.2775\ \text{mol H}_{2}\text{O}$$
+
+**Step 3: how much H~2~O does all the NO~2~ need?** Have NO~2~ (coefficient **3**), want H~2~O (coefficient **1**).
+
+$$0.4999\ \cancel{\text{mol NO}_{2}} \times \underbrace{\frac{1\ \text{mol H}_{2}\text{O}}{3\ \cancel{\text{mol NO}_{2}}}}_{\text{coefficient of H}_{2}\text{O / coefficient of NO}_{2}} = 0.1666\ \text{mol H}_{2}\text{O needed}$$
+
+**Step 4: compare.** You **have** 0.2775 mol H~2~O and only **need** 0.1666 mol. H~2~O is in excess, so **NO~2~ is limiting**.
+
+**Step 5: theoretical yield from the limiting reactant (NO~2~).** Have NO~2~ (coefficient **3**), want HNO~3~ (coefficient **2**).
+
+$$0.4999\ \cancel{\text{mol NO}_{2}} \times \underbrace{\frac{2\ \text{mol HNO}_{3}}{3\ \cancel{\text{mol NO}_{2}}}}_{\text{coefficient of HNO}_{3}\text{ / coefficient of NO}_{2}} = 0.3333\ \text{mol HNO}_{3}$$
+
+$$0.3333\ \cancel{\text{mol HNO}_{3}} \times \underbrace{\frac{63.02\ \text{g HNO}_{3}}{1\ \cancel{\text{mol HNO}_{3}}}}_{\text{molar mass of HNO}_{3}} = \boxed{21.0\ \text{g HNO}_{3}}$$
+
+**Cross-check:** all the H~2~O would make 35.0 g HNO~3~. The smaller amount, 21.0 g, is the theoretical yield.
+
+Why the other choices are wrong:
+
+* a) 0.333 g: That is the **moles** of HNO~3~.
+* c) 28.0 g: Added the reactant masses. Part of the excess reactant is left over.
+* d) 31.5 g: Used NO~2~ but assumed 1 : 1. The ratio is 2 HNO~3~ : 3 NO~2~.
+* e) 35.0 g: Calculated from H~2~O. H~2~O is in excess, so this is more than the NO~2~ can make.
+
+# 15. Percent yield — **c) 84.7%**
+
+**Source:** Chapter 9 post, slide 30 (percent yield formula), slides 31–32 (worked percent yields), slide 28  
+**Homework match:** HW24 — hw24ex1.png (percent yield)  
+**What it tests:** Two parts: theoretical yield from the limiting reactant, then actual / theoretical × 100.
+
+**Step 1: which reactant controls the yield?** C~6~H~12~O~6~ is the only reactant, so it is limiting.
+
+**Step 2: molar masses.** C~6~H~12~O~6~ = 6(12.01) + 12(1.008) + 6(16.00) = 180.16 g/mol; C~2~H~5~OH = 2(12.01) + 6(1.008) + 16.00 = 46.07 g/mol.
+
+**Step 3: theoretical yield of C~2~H~5~OH.** Have C~6~H~12~O~6~ (coefficient **1**), want C~2~H~5~OH (coefficient **2**).
+
+$$45.0\ \cancel{\text{g C}_{6}\text{H}_{12}\text{O}_{6}} \times \underbrace{\frac{1\ \text{mol C}_{6}\text{H}_{12}\text{O}_{6}}{180.16\ \cancel{\text{g C}_{6}\text{H}_{12}\text{O}_{6}}}}_{\text{molar mass of C}_{6}\text{H}_{12}\text{O}_{6}} = 0.2498\ \text{mol C}_{6}\text{H}_{12}\text{O}_{6}$$
+
+$$0.2498\ \cancel{\text{mol C}_{6}\text{H}_{12}\text{O}_{6}} \times \underbrace{\frac{2\ \text{mol C}_{2}\text{H}_{5}\text{OH}}{1\ \cancel{\text{mol C}_{6}\text{H}_{12}\text{O}_{6}}}}_{\text{coefficient of C}_{2}\text{H}_{5}\text{OH / coefficient of C}_{6}\text{H}_{12}\text{O}_{6}} = 0.4996\ \text{mol C}_{2}\text{H}_{5}\text{OH}$$
+
+$$0.4996\ \cancel{\text{mol C}_{2}\text{H}_{5}\text{OH}} \times \underbrace{\frac{46.07\ \text{g C}_{2}\text{H}_{5}\text{OH}}{1\ \cancel{\text{mol C}_{2}\text{H}_{5}\text{OH}}}}_{\text{molar mass of C}_{2}\text{H}_{5}\text{OH}} = 23.01\ \text{g C}_{2}\text{H}_{5}\text{OH}\ (\text{theoretical})$$
+
+**Step 4: percent yield.** The actual yield (19.5 g, measured) goes on top, the theoretical yield on the bottom:
+
+$$\text{percent yield}=\frac{19.5\ \cancel{\text{g}}\ (\text{actual})}{23.01\ \cancel{\text{g}}\ (\text{theoretical})}\times100\% = \boxed{84.7\%}$$
+
+Why the other choices are wrong:
+
+* a) 0.847%: Forgot to multiply by 100.
+* b) 43.3%: Divided by the mass of C~6~H~12~O~6~. The bottom must be the theoretical yield of C~2~H~5~OH.
+* d) 118%: Upside down: theoretical / actual. A yield can't be over 100%.
+* e) 169%: Theoretical yield found with a 1 : 1 ratio. The coefficients are 1 (C~6~H~12~O~6~) and 2 (C~2~H~5~OH).
+

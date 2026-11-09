@@ -1,0 +1,289 @@
+---
+title: "CHEM 1301 Driller 9-4"
+subtitle: "Section 8.7 (empirical and molecular formulas) + Chapter 9 — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    geometry: margin=0.8in
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam).
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** While finding an empirical formula, you divide by the smallest mole value and get C 1.00, H 1.33, O 1.00. What should you do next?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Divide every result by 1.33 again\
+b)\ Multiply every element's result by 3, giving C~3~H~4~O~3~\
+c)\ Multiply every result by 2, giving C~2~H~3~O~2~\
+d)\ Multiply only the H result by 3, giving CH~4~O\
+e)\ Round H to 1, giving CHO
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Erythrose has the molecular formula C~4~H~8~O~4~. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CH~4~O\
+b)\ C~4~H~8~O~4~\
+c)\ CHO\
+d)\ CH~2~O\
+e)\ C~2~H~4~O~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** Aspirin is 60.00% C, 4.48% H, and 35.52% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ C~2~H~2~O\
+b)\ C~18~H~16~O~8~\
+c)\ C~9~H~2~O\
+d)\ C~13~HO~8~\
+e)\ C~9~H~8~O~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** An orange salt is 26.58% K, 35.35% Cr, and 38.07% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ K~2~Cr~2~O~7~\
+b)\ KCrO\
+c)\ KCrO~7~\
+d)\ KCrO~4~\
+e)\ K~4~Cr~4~O~14~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** A sample of a sodium salt contains 2.30 g of Na, 1.60 g of S, and 2.40 g of O. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Na~3~SO~2~\
+b)\ NaSO\
+c)\ Na~4~S~2~O~6~\
+d)\ Na~2~SO~3~\
+e)\ Na~3~SO~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** A hydrocarbon has the empirical formula C~3~H~4~ and a molar mass of 120.19 g/mol. What is its molecular formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ C~6~H~8~\
+b)\ C~12~H~16~\
+c)\ C~9~H~4~\
+d)\ C~3~H~4~\
+e)\ C~9~H~12~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** A liquid fuel is 52.14% C, 13.13% H, and 34.73% O by mass, and its molar mass is 46.07 g/mol. It burns completely in O~2~ to form CO~2~ and H~2~O. How many moles of O~2~ are needed to burn 0.200 mol of the fuel?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.200 mol\
+b)\ 0.400 mol\
+c)\ 0.600 mol\
+d)\ 0.700 mol\
+e)\ 1.20 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** To convert **moles of A** into **moles of B** for a reaction, which information do you need?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ The coefficients of A and B in the balanced equation\
+b)\ Avogadro's number\
+c)\ The masses of A and B present\
+d)\ The molar masses of A and B\
+e)\ The subscripts in the formulas of A and B
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** For 4NH~3~(g) + 3O~2~(g) $\rightarrow$ 2N~2~(g) + 6H~2~O(g), how many moles of N~2~ form from 2.40 mol of NH~3~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1.20 mol\
+b)\ 1.80 mol\
+c)\ 2.40 mol\
+d)\ 4.80 mol\
+e)\ 33.6 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** For CS~2~(l) + 3O~2~(g) $\rightarrow$ CO~2~(g) + 2SO~2~(g), how many moles of SO~2~ form from 15.2 g of CS~2~ with excess O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.0998 mol\
+b)\ 0.200 mol\
+c)\ 0.399 mol\
+d)\ 0.599 mol\
+e)\ 25.6 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** Copper displaces silver: Cu(s) + 2AgNO~3~(aq) $\rightarrow$ Cu(NO~3~)~2~(aq) + 2Ag(s). What mass of Ag forms when 5.00 g of Cu reacts with excess AgNO~3~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.157 g\
+b)\ 4.24 g\
+c)\ 8.49 g\
+d)\ 10.0 g\
+e)\ 17.0 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Potassium burns according to the **unbalanced** equation K(s) + O~2~(g) $\rightarrow$ K~2~O(s). What mass of K~2~O forms from 7.82 g of K with excess O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.100 g\
+b)\ 3.91 g\
+c)\ 4.71 g\
+d)\ 9.42 g\
+e)\ 18.8 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** Zinc sulfide is roasted: 2ZnS(s) + 3O~2~(g) $\rightarrow$ 2ZnO(s) + 2SO~2~(g). A mixture of 50.0 g of ZnS and 20.0 g of O~2~ reacts. Which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ ZnS is limiting, and O~2~ is left over\
+b)\ O~2~ is limiting, and 9.40 g of ZnS is left over\
+c)\ O~2~ is limiting, and 50.0 g of ZnS is left over\
+d)\ O~2~ is limiting, and 40.6 g of ZnS is left over\
+e)\ Neither is limiting; both reactants are used up completely
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** For 2Al(s) + 3CuSO~4~(aq) $\rightarrow$ Al~2~(SO~4~)~3~(aq) + 3Cu(s), 5.40 g of Al reacts with 40.0 g of CuSO~4~. What is the theoretical yield of Cu?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.251 g\
+b)\ 15.9 g\
+c)\ 19.1 g\
+d)\ 40.0 g\
+e)\ 45.4 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Magnesium burns: 2Mg(s) + O~2~(g) $\rightarrow$ 2MgO(s). Burning 4.86 g of Mg in excess O~2~ gives 7.10 g of MgO. What is the percent yield?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.881%\
+b)\ 17.6%\
+c)\ 88.1%\
+d)\ 114%\
+e)\ 146%
+
+```{=latex}
+\par\endgroup\medskip
+```
+

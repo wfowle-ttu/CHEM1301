@@ -15,6 +15,9 @@ format:
 Solubility rules are **not** provided. Calculators are allowed. Answers are rounded to the precision shown.
 Time yourself: aim to finish in 75 minutes or less.
 
+**Answer sheet.** Print the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`, landscape,
+100% scale) and fill in one circle per question, rows 1–35 (A–E match choices a–e). Leave the rest blank.
+
 ```{=latex}
 \needspace{9\baselineskip}
 ```
@@ -647,31 +650,3 @@ e)\ 129%
 \par\endgroup\medskip
 ```
 
-```{=latex}
-\newpage
-```
-
-## Answer Sheet
-
-Circle one letter per question.
-
-| Q | Answer | | Q | Answer |
-|:-:|:-:|:-:|:-:|:-:|
-| 1 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 19 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 2 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 20 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 3 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 21 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 4 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 22 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 5 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 23 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 6 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 24 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 7 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 25 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 8 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 26 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 9 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 27 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 10 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 28 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 11 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 29 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 12 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 30 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 13 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 31 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 14 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 32 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 15 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 33 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 16 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 34 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 17 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | | 35 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e |
-| 18 | a $\quad$ b $\quad$ c $\quad$ d $\quad$ e | |  |  |
