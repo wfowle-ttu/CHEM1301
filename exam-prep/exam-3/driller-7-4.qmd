@@ -1,0 +1,289 @@
+---
+title: "CHEM 1301 Driller 7-4"
+subtitle: "Solubility rules and precipitation reactions (Chapter 7, slides 10–20) — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam). **Solubility rules are not provided:** work from memory, as on the exam.
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** What is the name for a reaction in aqueous solution that results in the formation of a solid?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ A precipitation reaction\
+b)\ A decomposition reaction\
+c)\ An oxidation–reduction reaction\
+d)\ A neutralization (acid–base) reaction\
+e)\ A combustion reaction
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Which compound is **insoluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ K~3~PO~4~\
+b)\ Zn(OH)~2~\
+c)\ Cr~2~(SO~4~)~3~\
+d)\ BaCl~2~\
+e)\ Ni(NO~3~)~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** Which compound is **soluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ MnS\
+b)\ PbCO~3~\
+c)\ Ba~3~(PO~4~)~2~\
+d)\ Fe(OH)~2~\
+e)\ (NH~4~)~2~S
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** Which of these compounds **is** soluble in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ calcium phosphate\
+b)\ lead(II) sulfate\
+c)\ nickel(II) sulfide\
+d)\ iron(III) nitrate\
+e)\ cobalt(II) carbonate
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** Aqueous solutions of Mg(NO~3~)~2~ and KOH are mixed. What is the **net ionic** equation?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ K^+^(aq) + NO~3~^−^(aq) $\rightarrow$ KNO~3~(s)\
+b)\ Mg^2+^(aq) + OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s)\
+c)\ No reaction occurs (NR)\
+d)\ Mg^2+^(aq) + 2NO~3~^−^(aq) + 2K^+^(aq) + 2OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s) + 2K^+^(aq) + 2NO~3~^−^(aq)\
+e)\ Mg^2+^(aq) + 2OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** How many of the following compounds are **soluble** in water? AlCl~3~, Ag~2~CO~3~, NH~4~NO~3~, PbS, MnSO~4~
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 4\
+e)\ 5
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** Which of these compounds is **not** soluble in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ sodium phosphate\
+b)\ silver sulfide\
+c)\ barium nitrate\
+d)\ zinc sulfate\
+e)\ iron(III) chloride
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** Aqueous solutions of copper(II) chloride and potassium carbonate are mixed. What precipitate forms?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ No precipitate forms\
+b)\ Cu~2~CO~3~\
+c)\ KCl\
+d)\ CuCO~3~\
+e)\ Both CuCO~3~ and KCl
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Which is the balanced **molecular** equation for mixing aqueous Ni(NO~3~)~2~ and Na~3~PO~4~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Ni(NO~3~)~2~(aq) + Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(s) + NaNO~3~(aq)\
+b)\ Ni(NO~3~)~2~(aq) + Na~3~PO~4~(aq) $\rightarrow$ NiPO~4~(s) + NaNO~3~(aq)\
+c)\ 3Ni(NO~3~)~2~(aq) + 2Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(s) + 6NaNO~3~(aq)\
+d)\ 3Ni(NO~3~)~2~(aq) + 2Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(aq) + 6NaNO~3~(s)\
+e)\ No reaction (NR)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Which pair of aqueous solutions does **not** form a precipitate when mixed?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CrCl~3~ and KNO~3~\
+b)\ AgNO~3~ and NH~4~Cl\
+c)\ Pb(NO~3~)~2~ and K~2~CO~3~\
+d)\ CoSO~4~ and KOH\
+e)\ Ba(NO~3~)~2~ and Na~2~SO~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** Which pair of aqueous solutions forms a **precipitate** when mixed?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ BaCl~2~ and NH~4~NO~3~\
+b)\ CuSO~4~ and KCl\
+c)\ ZnCl~2~ and NaOH\
+d)\ Al(NO~3~)~3~ and NaCl\
+e)\ Fe~2~(SO~4~)~3~ and NaCl
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Aqueous solutions of mercury(I) nitrate and potassium chloride are mixed. What is the **net ionic** equation?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Hg~2~^2+^(aq) + 2Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s)\
+b)\ Hg~2~^2+^(aq) + 2NO~3~^−^(aq) + 2K^+^(aq) + 2Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s) + 2K^+^(aq) + 2NO~3~^−^(aq)\
+c)\ K^+^(aq) + NO~3~^−^(aq) $\rightarrow$ KNO~3~(s)\
+d)\ No reaction occurs (NR)\
+e)\ Hg~2~^2+^(aq) + Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** Aqueous solutions of calcium chloride and potassium phosphate are mixed and a precipitate forms. Which ions are **spectator ions**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Cl^−^ and PO~4~^3−^\
+b)\ Ca^2+^, Cl^−^, K^+^, PO~4~^3−^\
+c)\ Ca^2+^ and PO~4~^3−^\
+d)\ There are no spectator ions in this reaction\
+e)\ Cl^−^ and K^+^
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** A solution contains both Ca^2+^ and Zn^2+^ ions (as nitrates). Adding which solution precipitates **only** the Ca^2+^?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Na~2~CO~3~(aq)\
+b)\ Na~2~SO~4~(aq)\
+c)\ NaCl(aq)\
+d)\ Na~3~PO~4~(aq)\
+e)\ NH~4~NO~3~(aq)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** When aqueous KNO~3~ and NaCl are mixed, no reaction occurs. Which statement explains why?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Ions with the same charge can't react with each other\
+b)\ A precipitate forms, but it redissolves immediately\
+c)\ Nitrate ions always react to form a gas\
+d)\ Both possible products are soluble, so no solid forms and the ions simply stay dissolved\
+e)\ KNO~3~ and NaCl are both insoluble, so they can't react
+
+```{=latex}
+\par\endgroup\medskip
+```
+

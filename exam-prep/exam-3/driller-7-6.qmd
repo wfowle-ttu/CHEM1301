@@ -1,0 +1,291 @@
+---
+title: "CHEM 1301 Driller 7-6"
+subtitle: "Types of reactions: acid–base, oxidation–reduction, and classifying reactions (Chapter 7, slides 21–45) — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam). The strong-acid and strong-base lists are **not** provided: work from memory.
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** According to the Arrhenius definition used in this course, a **base** is a substance that:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ loses electrons to a nonmetal\
+b)\ produces H^+^ ions when it is dissolved in water\
+c)\ always contains a metal\
+d)\ is always insoluble in water\
+e)\ produces hydroxide ions (OH^−^) when it is dissolved in water
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Which compound is a **strong base**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ KOH\
+b)\ Fe(OH)~3~\
+c)\ HCl\
+d)\ NH~3~\
+e)\ Mg(OH)~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** What **salt** forms when nitric acid reacts completely with calcium hydroxide? 2HNO~3~(aq) + Ca(OH)~2~(aq) $\rightarrow$ ? + 2H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CaNO~3~\
+b)\ H~2~O\
+c)\ Ca~2~NO~3~\
+d)\ Ca(NO~3~)~2~\
+e)\ Ca(OH)~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** Sulfuric acid reacts with sodium hydroxide: H~2~SO~4~(aq) + 2NaOH(aq) $\rightarrow$ Na~2~SO~4~(aq) + 2H~2~O(l). What is the **net ionic** equation (smallest whole-number coefficients)?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)\
+b)\ 2H^+^(aq) + SO~4~^2−^(aq) + 2Na^+^(aq) + 2OH^−^(aq) $\rightarrow$ 2Na^+^(aq) + SO~4~^2−^(aq) + 2H~2~O(l)\
+c)\ H~2~SO~4~(aq) + 2OH^−^(aq) $\rightarrow$ SO~4~^2−^(aq) + 2H~2~O(l)\
+d)\ 2Na^+^(aq) + SO~4~^2−^(aq) $\rightarrow$ Na~2~SO~4~(s)\
+e)\ 2H^+^(aq) + 2OH^−^(aq) $\rightarrow$ 2H~2~O(l)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** When the equation below is balanced with the smallest whole-number coefficients, what is the **sum** of all four coefficients?
+
+\_\_ H~3~PO~4~(aq) + \_\_ KOH(aq) $\rightarrow$ \_\_ K~3~PO~4~(aq) + \_\_ H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 4\
+b)\ 6\
+c)\ 8\
+d)\ 10\
+e)\ 12
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** Which reaction is **not** an oxidation–reduction reaction?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Zn(s) + 2HCl(aq) $\rightarrow$ ZnCl~2~(aq) + H~2~(g)\
+b)\ Pb(NO~3~)~2~(aq) + 2NaCl(aq) $\rightarrow$ PbCl~2~(s) + 2NaNO~3~(aq)\
+c)\ 2Na(s) + Cl~2~(g) $\rightarrow$ 2NaCl(s)\
+d)\ N~2~(g) + O~2~(g) $\rightarrow$ 2NO(g)\
+e)\ CH~4~(g) + 2O~2~(g) $\rightarrow$ CO~2~(g) + 2H~2~O(g)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** In the reaction 3Ca(s) + N~2~(g) $\rightarrow$ Ca~3~N~2~(s), how many electrons does **each nitrogen atom** gain?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 5\
+e)\ 6
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** For Cu(s) + 2AgNO~3~(aq) $\rightarrow$ Cu(NO~3~)~2~(aq) + 2Ag(s), which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Each Cu atom loses 2 electrons and each Ag^+^ ion gains 2 electrons\
+b)\ Each Cu atom gains 2 electrons\
+c)\ The NO~3~^−^ ions transfer electrons to silver\
+d)\ No electrons transfer; the anions simply swap partners\
+e)\ Each Cu atom loses 2 electrons and each Ag^+^ ion gains 1 electron
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** According to the course, what happens when a **metal** reacts with a **nonmetal**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ The nonmetal transfers electrons to the metal\
+b)\ An ionic compound forms as the metal transfers electrons to the nonmetal, so the reaction is always redox\
+c)\ A molecular (non-ionic) compound forms by sharing electrons\
+d)\ No electrons transfer, so it is classified as a synthesis only\
+e)\ It is redox only if O~2~ is one of the reactants
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Classify Ni(s) + 2HCl(aq) $\rightarrow$ NiCl~2~(aq) + H~2~(g).
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ oxidation–reduction and single-replacement\
+b)\ decomposition\
+c)\ precipitation\
+d)\ double-displacement\
+e)\ acid–base only
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** SO~3~(g) + H~2~O(l) $\rightarrow$ H~2~SO~4~(aq) is best classified as:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ combustion\
+b)\ single-replacement\
+c)\ synthesis (combination)\
+d)\ double-displacement\
+e)\ decomposition
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Methane burns in a gas stove: CH~4~(g) + 2O~2~(g) $\rightarrow$ CO~2~(g) + 2H~2~O(g). Which classes apply?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ combustion only\
+b)\ decomposition and oxidation–reduction\
+c)\ synthesis and combustion\
+d)\ acid–base, because water is a product\
+e)\ combustion and oxidation–reduction
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** According to the course, a **single-replacement** reaction is one in which:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ a single substance reacts with oxygen\
+b)\ a single compound breaks into two elements\
+c)\ no electrons are transferred\
+d)\ a single type of anion is exchanged between two cations, as Cl^−^ moves from H^+^ to Zn^2+^ in Zn + 2HCl\
+e)\ two anions exchange cation partners
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** Sodium metal reacts with water to form sodium hydroxide and hydrogen gas. In the balanced equation with the smallest whole-number coefficients, what is the coefficient of water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 4\
+e)\ 6
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Hexane burns completely: \_\_ C~6~H~14~ + \_\_ O~2~ $\rightarrow$ \_\_ CO~2~ + \_\_ H~2~O. With the smallest whole-number coefficients, what is the coefficient of O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 7\
+b)\ 12\
+c)\ 14\
+d)\ 19\
+e)\ 38
+
+```{=latex}
+\par\endgroup\medskip
+```
+

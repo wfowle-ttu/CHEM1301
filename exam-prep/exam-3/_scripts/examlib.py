@@ -119,7 +119,7 @@ title: "CHEM 1301 Practice Exam 3-{n}"
 subtitle: "Chapters 7, 8, and 9 — {count} multiple-choice questions"
 format:
   pdf:
-    geometry: margin=0.8in
+    papersize: letter
     fontsize: 11pt
     include-in-header:
       text: |
@@ -141,11 +141,11 @@ title: "CHEM 1301 Practice Exam 3-{n} — Answer Key"
 subtitle: "Worked solutions with course-material citations"
 format:
   pdf:
-    geometry: margin=0.75in
+    papersize: letter
     fontsize: 11pt
     include-in-header:
       text: |
-        \\usepackage{{longtable,array,colortbl}}
+        \\usepackage{{longtable,array,colortbl,cancel}}
 filters:
   - _filters/tables.lua
 ---
@@ -165,7 +165,7 @@ title: "CHEM 1301 Driller {name}"
 subtitle: "{scope} — {count} exam-style multiple-choice questions"
 format:
   pdf:
-    geometry: margin=0.8in
+    papersize: letter
     fontsize: 11pt
     include-in-header:
       text: |
@@ -175,7 +175,7 @@ format:
 
 **Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
 Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about {minutes} minutes
-(roughly 2 minutes per question, the same pace as the full exam).
+(roughly 2 minutes per question, the same pace as the full exam).{note}
 
 **Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–{count}.
 
@@ -186,7 +186,7 @@ title: "CHEM 1301 Driller {name} — Answer Key"
 subtitle: "Worked solutions with course-material citations"
 format:
   pdf:
-    geometry: margin=0.75in
+    papersize: letter
     fontsize: 11pt
     include-in-header:
       text: |
@@ -195,17 +195,13 @@ filters:
   - _filters/tables.lua
 ---
 
-Every numeric answer was recomputed by `_scripts/build_driller_{slug}.py`, which builds this key and the driller from
-the same data. Atomic masses are periodic-table values (H 1.008, C 12.01, N 14.01, O 16.00, ...). Citations name the
-slide (same number in the `.pdf` and `.pptx`) where the content is taught, plus the closest homework screenshot.
-
-**How to read the solutions.** Each calculation is a chain of conversion factors written want-over-have. The label under
-each factor says where its numbers come from (a molar mass, or two coefficients from the balanced equation), and the
-crossed-out units are the ones that cancel. Study guide section 9.0 explains this format.
+{intro}
 
 **Score bands.** {bands}
 
 """
+
+INTRO_CALC = 'Every numeric answer was recomputed by `_scripts/build_driller_{slug}.py`, which builds this key and the driller from\nthe same data. Atomic masses are periodic-table values (H 1.008, C 12.01, N 14.01, O 16.00, ...). Citations name the\nslide (same number in the `.pdf` and `.pptx`) where the content is taught, plus the closest homework screenshot.\n\n**How to read the solutions.** Each calculation is a chain of conversion factors written want-over-have. The label under\neach factor says where its numbers come from (a molar mass, or two coefficients from the balanced equation), and the\ncrossed-out units are the ones that cancel. Study guide section 9.0 explains this format.'
 
 BANDS_9 = ("9–10 solid on Chapter 9 · 7–8 rework the study guide sections for the questions you missed ·\n"
            "6 or below go back through study guide sections 9.2–9.7 before the next driller.")
@@ -217,14 +213,15 @@ def build(n, questions, seed):
           KEY_HEADER.format(n=n))
 
 
-def build_driller(ch, n, questions, seed, scope=None, bands=BANDS_9):
+def build_driller(ch, n, questions, seed, scope=None, bands=BANDS_9, intro=INTRO_CALC, note=""):
     """Write driller-<ch>-<n>.qmd and its key (a short practice set on one topic area)."""
     place(questions, seed)
     name, slug = f"{ch}-{n}", f"{ch}_{n}"
     count = len(questions)
     write(questions, f"driller-{name}",
-          DRILLER_HEADER.format(name=name, scope=scope or f"Chapter {ch} only", count=count, minutes=2 * count),
-          DRILLER_KEY_HEADER.format(name=name, slug=slug, bands=bands))
+          DRILLER_HEADER.format(name=name, scope=scope or f"Chapter {ch} only", count=count, minutes=2 * count,
+                                note=note),
+          DRILLER_KEY_HEADER.format(name=name, slug=slug, bands=bands, intro=intro.format(slug=slug)))
 
 
 def write(questions, stem_name, exam_header, key_header):

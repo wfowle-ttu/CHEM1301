@@ -1,0 +1,770 @@
+---
+title: "CHEM 1301 Practice Exam 3-3 — Answer Key"
+subtitle: "Worked solutions with course-material citations"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
+---
+
+Every numeric answer was recomputed by `_scripts/build_exam_3_3.py`, which builds this key and the exam
+from the same data. Atomic masses are periodic-table values (H 1.008, C 12.01, N 14.01, O 16.00, ...),
+matching Ch 8 slides 5, 9, and 22. Citations name the slide (same number in the `.pdf` and `.pptx`) where the
+content is taught, plus the homework screenshot with the closest problem.
+
+**Score bands.** 32–35 exam-ready · 27–31 review the missed topics · 26 or below rework the study guide sections cited.
+
+| Q | Ans | Answer | Type | Topic (source) |
+|:-:|:-:|:----------------|:----:|:------------------------|
+| 1 | **a** | Formation of a solid | concept | Driving force of a precipitation (Ch 7 sl. 3, 35) |
+| 2 | **a** | PbS | concept | Which compound is insoluble? (Ch 7 sl. 11–12) |
+| 3 | **e** | K~3~PO~4~ | concept | Which compound is soluble? (Ch 7 sl. 11–12) |
+| 4 | **d** | Fe(OH)~3~ | concept | Predicting the precipitate (Ch 7 sl. 14) |
+| 5 | **a** | Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s) | concept | Net ionic equation (Ch 7 sl. 16–20) |
+| 6 | **d** | 12 | calc | Balancing an acid–base neutralization (Ch 7 sl. 27) |
+| 7 | **b** | KNO~3~ and MgSO~4~ | concept | Mixing with no reaction (Ch 7 sl. 14) |
+| 8 | **e** | H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l) | concept | Net ionic equation for an acid–base reaction (Ch 7 sl. 23–26) |
+| 9 | **a** | HCl, HNO~3~, H~2~SO~4~ | concept | The strong acids (Ch 7 sl. 21, 24) |
+| 10 | **d** | Cl^−^ and K^+^ | concept | Spectator ions (Ch 7 sl. 17–18) |
+| 11 | **b** | 2 | calc | Electrons transferred per atom (Ch 7 sl. 31, 33) |
+| 12 | **e** | oxidation–reduction and single-replacement | concept | Classifying a metal + salt reaction (Ch 7 sl. 34, 40) |
+| 13 | **b** | synthesis, combustion, and oxidation–reduction | concept | A reaction in several classes (Ch 7 sl. 41–42) |
+| 14 | **b** | 9.27 × 10^−23^ g | calc | Mass of one atom (Ch 8 sl. 5) |
+| 15 | **a** | 26.98 g of aluminum | concept | Same number of atoms (Ch 8 sl. 6, 9) |
+| 16 | **b** | 0.514 mol | calc | Grams to moles (Ch 8 sl. 11–12) |
+| 17 | **d** | 1.51 × 10^23^ atoms | calc | Moles to atoms (Ch 8 sl. 13–14) |
+| 18 | **c** | 53.9 g | calc | Atoms to grams (Ch 8 sl. 15) |
+| 19 | **e** | 342.2 g/mol | calc | Molar mass with parentheses (Ch 8 sl. 22–26) |
+| 20 | **c** | 75.7 g | calc | Moles to grams (Ch 8 sl. 25, 27) |
+| 21 | **c** | 3.01 × 10^23^ molecules | calc | Grams to molecules (Ch 8 sl. 10–15, 28) |
+| 22 | **e** | 58.50% | calc | Mass percent (Ch 8 sl. 30–33) |
+| 23 | **d** | CH | concept | Molecular to empirical formula (Ch 8 sl. 39–40) |
+| 24 | **c** | Cr~2~O~3~ | calc | Percent composition to empirical formula (Ch 8 sl. 42–43) |
+| 25 | **e** | C~4~H~8~O~2~ | calc | Empirical to molecular formula (Ch 8 sl. 47–49) |
+| 26 | **b** | It gives the actual number of each kind of atom in one molecule | concept | Why the molecular formula (Ch 8 sl. 39, 50) |
+| 27 | **a** | The number of atoms of each element | concept | What a balanced equation conserves (Ch 9 sl. 2–4, 16) |
+| 28 | **e** | $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{6\ \text{mol H}_2\text{O}}{7\ \text{mol O}_2}$ | concept | Choosing the mole ratio (Ch 9 sl. 5–9) |
+| 29 | **a** | 0.900 mol | calc | Mole–mole conversion (Ch 9 sl. 10–11) |
+| 30 | **b** | The actual yield | concept | Actual yield (Ch 9 sl. 28, 30) |
+| 31 | **d** | 8.99 g | calc | Grams to grams (Ch 9 sl. 14, 19–20) |
+| 32 | **c** | Cl~2~ is limiting, and 4.75 g of Fe is left over | calc | Limiting reactant and leftover (Ch 9 sl. 21–24) |
+| 33 | **c** | 18.0 g | calc | Theoretical yield with a limiting reactant (Ch 9 sl. 24–27) |
+| 34 | **c** | 87.5% | calc | Percent yield (Ch 9 sl. 28–32) |
+| 35 | **d** | It is completely used up, and the theoretical yield is calculated from it | concept | The limiting reactant (Ch 9 sl. 21, 25) |
+
+Mix: 18 concept / 17 calculation · Ch 7: 13 · Ch 8: 13 · Ch 9: 9
+
+# 1. Driving force of a precipitation — **a) Formation of a solid**
+
+**Source:** Chapter 7 post, slide 3 (Driving Forces), slide 35 (Precipitation Reaction: BaCrO~4~)  
+**Homework match:** HW14 — hw14ex1.png (a reaction that forms a solid is a precipitation)  
+**What it tests:** Matching a reaction to its driving force: precipitation ↔ formation of a solid.
+
+Slide 3 lists four driving forces: formation of a solid, of water, or of a gas, and transfer of electrons. Here a solid, BaCrO~4~, forms from two solutions, so the driving force is **formation of a solid** (slide 35 calls this a precipitation reaction).
+
+Why the other choices are wrong:
+
+* b) Formation of water: No H^+^ or OH^−^ is involved, so no water forms.
+* c) Transfer of electrons: Every ion keeps its charge (Ba stays +2, CrO~4~ stays −2).
+* d) Formation of a strong acid: Not one of the four driving forces.
+* e) Formation of a gas: No gas is produced.
+
+# 2. Which compound is insoluble? — **a) PbS**
+
+**Source:** Chapter 7 post, slide 11 (Table 7.1), slide 12 (Solubility Practice)  
+**Homework match:** HW14 — hw14ex5.png (classify compounds as soluble or not soluble)  
+**What it tests:** Applying Table 7.1, including the rule-1/rule-2 priority and the named exceptions.
+
+**How to decide (study guide 7.3):** check rules 1 and 2 first (nitrate? Na^+^, K^+^, NH~4~^+^? then soluble, no matter what the other ion is). Then chloride $\rightarrow$ rule 3, sulfate $\rightarrow$ rule 4, hydroxide $\rightarrow$ rule 5, sulfide/carbonate/phosphate $\rightarrow$ rule 6.
+
+* Cu(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+* (NH~4~)~2~CO~3~: it contains NH~4~^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+* MgCl~2~: most chlorides are soluble and Mg^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+* ZnSO~4~: most sulfates are soluble and Zn^2+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4).
+* PbS: most sulfides are only slightly soluble and Pb^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+
+Why the other choices are wrong:
+
+* b) Cu(NO~3~)~2~: Cu(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+* c) (NH~4~)~2~CO~3~: (NH~4~)~2~CO~3~: it contains NH~4~^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+* d) ZnSO~4~: ZnSO~4~: most sulfates are soluble and Zn^2+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4).
+* e) MgCl~2~: MgCl~2~: most chlorides are soluble and Mg^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+
+# 3. Which compound is soluble? — **e) K~3~PO~4~**
+
+**Source:** Chapter 7 post, slide 11 (Table 7.1), slide 12 (Solubility Practice)  
+**Homework match:** HW14 — hw14ex5.png (classify compounds as soluble or not soluble)  
+**What it tests:** Applying Table 7.1, including the rule-1/rule-2 priority and the named exceptions.
+
+**How to decide (study guide 7.3):** check rules 1 and 2 first (nitrate? Na^+^, K^+^, NH~4~^+^? then soluble, no matter what the other ion is). Then chloride $\rightarrow$ rule 3, sulfate $\rightarrow$ rule 4, hydroxide $\rightarrow$ rule 5, sulfide/carbonate/phosphate $\rightarrow$ rule 6.
+
+* K~3~PO~4~: it contains K^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+* CaSO~4~: sulfates are soluble **except** BaSO~4~, PbSO~4~, CaSO~4~, and this is one of them, so it is **insoluble** (rule 4).
+* Ni(OH)~2~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+* AgCl: chlorides are soluble **except** AgCl, PbCl~2~, Hg~2~Cl~2~, and this is one of them, so it is **insoluble** (rule 3).
+* BaCO~3~: most carbonates are only slightly soluble and Ba^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+
+Why the other choices are wrong:
+
+* a) Ni(OH)~2~: Ni(OH)~2~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+* b) CaSO~4~: CaSO~4~: sulfates are soluble **except** BaSO~4~, PbSO~4~, CaSO~4~, and this is one of them, so it is **insoluble** (rule 4).
+* c) BaCO~3~: BaCO~3~: most carbonates are only slightly soluble and Ba^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* d) AgCl: AgCl: chlorides are soluble **except** AgCl, PbCl~2~, Hg~2~Cl~2~, and this is one of them, so it is **insoluble** (rule 3).
+
+# 4. Predicting the precipitate — **d) Fe(OH)~3~**
+
+**Source:** Chapter 7 post, slide 14 (How to Predict Precipitates), slide 11  
+**Homework match:** HW15 — hw15ex3.png (does a reaction occur? NR or net ionic)  
+**What it tests:** Slide 14's three steps: ions $\rightarrow$ swap anions $\rightarrow$ solubility rules; writing the solid's formula from charges.
+
+**Step 1: write the reactants as ions** (slide 14). FeCl~3~ gives Fe^3+^ and Cl^−^; NaOH gives Na^+^ and OH^−^.
+
+**Step 2: exchange the anions** to find the possible solids: Fe(OH)~3~ and NaCl. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* Fe(OH)~3~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+* NaCl: it contains Na^+^, so it is **soluble** (rule 2).
+
+**Molecular equation:** FeCl~3~(aq) + 3NaOH(aq) $\rightarrow$ Fe(OH)~3~(s) + 3NaCl(aq)
+
+Why the other choices are wrong:
+
+* a) NaCl: NaCl: it contains Na^+^, so it is **soluble** (rule 2). It stays dissolved as spectator ions.
+* b) No precipitate forms: Fe(OH)~3~ is insoluble, so it precipitates.
+* c) Fe(OH)~2~: Fe^3+^ needs **three** OH^−^ to be neutral: Fe(OH)~3~.
+* e) Both Fe(OH)~3~ and NaCl: NaCl: it contains Na^+^, so it is **soluble** (rule 2).
+
+# 5. Net ionic equation — **a) Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s)**
+
+**Source:** Chapter 7 post, slides 16–17 (complete and net ionic equations), slides 19–20, slide 11  
+**Homework match:** HW15 — hw15ex2.png (net ionic equations for precipitations)  
+**What it tests:** Molecular $\rightarrow$ complete ionic $\rightarrow$ net ionic: keep only the ions that form the solid.
+
+**Step 1: write the reactants as ions** (slide 14). Ba(NO~3~)~2~ gives Ba^2+^ and NO~3~^−^; Na~2~SO~4~ gives Na^+^ and SO~4~^2−^.
+
+**Step 2: exchange the anions** to find the possible solids: BaSO~4~ and NaNO~3~. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* BaSO~4~: sulfates are soluble **except** BaSO~4~, PbSO~4~, CaSO~4~, and this is one of them, so it is **insoluble** (rule 4).
+* NaNO~3~: it's a nitrate, so it is **soluble** (rule 1).
+
+**Molecular equation:** Ba(NO~3~)~2~(aq) + Na~2~SO~4~(aq) $\rightarrow$ BaSO~4~(s) + 2NaNO~3~(aq)
+
+**Complete ionic equation** (strong electrolytes as ions, slide 16): Ba^2+^(aq) + 2NO~3~^−^(aq) + 2Na^+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s) + 2Na^+^(aq) + 2NO~3~^−^(aq)
+
+**Cancel the spectator ions** (NO~3~^−^ and Na^+^): they appear unchanged on both sides.
+
+**Net ionic equation:** **Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s)**. Check: atoms and charge balance, smallest whole numbers, states shown.
+
+Why the other choices are wrong:
+
+* b) Ba^2+^(aq) + 2NO~3~^−^(aq) + 2Na^+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s) + 2Na^+^(aq) + 2NO~3~^−^(aq): That is the **complete** ionic equation. It still contains the spectator ions.
+* c) No reaction occurs (NR): BaSO~4~ is insoluble, so a precipitate forms.
+* d) Na^+^(aq) + NO~3~^−^(aq) $\rightarrow$ NaNO~3~(s): NaNO~3~: it's a nitrate, so it is **soluble** (rule 1). Those ions are spectators, so they don't form a solid.
+* e) Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(aq): The product is a precipitate, so its state is (s), not (aq).
+
+# 6. Balancing an acid–base neutralization — **d) 12**
+
+**Source:** Chapter 7 post, slide 27 (Practice: balance H~3~PO~4~ + Ca(OH)~2~ → Ca~3~(PO~4~)~2~ + H~2~O)  
+**Homework match:** HW17 — hw17ex2.png (balance with the lowest whole-number coefficients)  
+**What it tests:** Balancing a neutralization: metal first, the polyatomic ion as a unit, then water.
+
+**Step 1: Ba.** Ba~3~(PO~4~)~2~ has 3 Ba, so **3**Ba(OH)~2~.
+
+**Step 2: PO~4~ as a unit.** Ba~3~(PO~4~)~2~ has 2 PO~4~, so **2**H~3~PO~4~.
+
+**Step 3: water.** 2 H~3~PO~4~ give 6 H^+^ and 3 Ba(OH)~2~ give 6 OH^−^, so **6**H~2~O. Check H: 6 + 6 = 12 = 6 × 2.
+
+2H~3~PO~4~ + 3Ba(OH)~2~ $\rightarrow$ Ba~3~(PO~4~)~2~ + 6H~2~O. Sum: 2 + 3 + 1 + 6 = **12**.
+
+Why the other choices are wrong:
+
+* a) 4: All coefficients 1 doesn't balance Ba, PO~4~, H, or O.
+* b) 8: Balanced Ba and PO~4~ (3 and 2) but used 2 H~2~O; 6 H^+^ + 6 OH^−^ make 6 H~2~O.
+* c) 10: Off by two: check the water. 2 H~3~PO~4~ supply 6 H^+^.
+* e) 14: One coefficient too large; the smallest set is 2, 3, 1, 6.
+
+# 7. Mixing with no reaction — **b) KNO~3~ and MgSO~4~**
+
+**Source:** Chapter 7 post, slide 14 (How to Predict Precipitates), slide 11  
+**Homework match:** HW15 — hw15ex3.png (does a reaction occur? NR or net ionic)  
+**What it tests:** Predicting precipitation vs no reaction (NR) for several mixtures.
+
+For each pair, swap the anions and check both products (slide 14).
+
+* KNO~3~ and MgSO~4~: products K~2~SO~4~ and Mg(NO~3~)~2~. **Both soluble: NR.**
+* AgNO~3~ and Na~3~PO~4~: products Ag~3~PO~4~ and NaNO~3~. **Precipitate: Ag~3~PO~4~.**
+* Pb(NO~3~)~2~ and KCl: products PbCl~2~ and KNO~3~. **Precipitate: PbCl~2~.**
+* CuCl~2~ and Na~2~S: products CuS and NaCl. **Precipitate: CuS.**
+* CaCl~2~ and K~2~CO~3~: products CaCO~3~ and KCl. **Precipitate: CaCO~3~.**
+
+Why the other choices are wrong:
+
+* a) CuCl~2~ and Na~2~S: Forms CuS. CuS: most sulfides are only slightly soluble and Cu^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* c) Pb(NO~3~)~2~ and KCl: Forms PbCl~2~. PbCl~2~: chlorides are soluble **except** AgCl, PbCl~2~, Hg~2~Cl~2~, and this is one of them, so it is **insoluble** (rule 3).
+* d) CaCl~2~ and K~2~CO~3~: Forms CaCO~3~. CaCO~3~: most carbonates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* e) AgNO~3~ and Na~3~PO~4~: Forms Ag~3~PO~4~. Ag~3~PO~4~: most phosphates are only slightly soluble and Ag^+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+
+# 8. Net ionic equation for an acid–base reaction — **e) H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)**
+
+**Source:** Chapter 7 post, slide 23 (HNO~3~ + KOH: the net ionic equation shows water forming), slide 25 (principle 4), slide 26  
+**Homework match:** HW16 — hw16ex1.png (the same net ionic process for any strong acid and strong base)  
+**What it tests:** Acid–base net ionic equation: H^+^ + OH^−^ $\rightarrow$ H~2~O, with the salt's ions as spectators.
+
+**Step 1: write the strong electrolytes as ions** (slides 24–25). HNO~3~ $\rightarrow$ H^+^ + NO~3~^−^; KOH $\rightarrow$ K^+^ + OH^−^;
+KNO~3~ (soluble) $\rightarrow$ K^+^ + NO~3~^−^. Water stays H~2~O(l).
+
+**Step 2: complete ionic.** H^+^(aq) + NO~3~^−^(aq) + K^+^(aq) + OH^−^(aq) $\rightarrow$ K^+^(aq) + NO~3~^−^(aq) + H~2~O(l)
+
+**Step 3: cancel the spectators** K^+^ and NO~3~^−^ (unchanged on both sides).
+
+**Net ionic:** **H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)**. Slide 23 uses this exact reaction: the net ionic equation shows water
+being formed.
+
+Why the other choices are wrong:
+
+* a) H^+^(aq) + NO~3~^−^(aq) + K^+^(aq) + OH^−^(aq) $\rightarrow$ K^+^(aq) + NO~3~^−^(aq) + H~2~O(l): That's the **complete** ionic equation. Cancel the spectators K^+^ and NO~3~^−^.
+* b) HNO~3~(aq) + KOH(aq) $\rightarrow$ KNO~3~(aq) + H~2~O(l): That's the **molecular** equation.
+* c) K^+^(aq) + NO~3~^−^(aq) $\rightarrow$ KNO~3~(s): KNO~3~ is soluble (rules 1 and 2); K^+^ and NO~3~^−^ are spectators.
+* d) HNO~3~(aq) + OH^−^(aq) $\rightarrow$ NO~3~^−^(aq) + H~2~O(l): HNO~3~ is a strong acid: it completely dissociates (slide 24), so it is written as H^+^ and NO~3~^−^, and NO~3~^−^ then cancels.
+
+# 9. The strong acids — **a) HCl, HNO~3~, H~2~SO~4~**
+
+**Source:** Chapter 7 post, slide 21 (HCl, HNO~3~, H~2~SO~4~ are strong acids), slide 24 (principle 1)  
+**Homework match:** HW16 — hw16ex2.png (strong acid / strong base reactions)  
+**What it tests:** The course's strong-acid list: HCl, HNO~3~, H~2~SO~4~.
+
+Slide 24, principle 1: the common strong acids are aqueous solutions of **HCl, HNO~3~, and H~2~SO~4~** (also slide 21). Each other list swaps one of them for an acid that isn't on the course's list.
+
+Why the other choices are wrong:
+
+* b) HCl, HNO~3~, HC~2~H~3~O~2~: Acetic acid, HC~2~H~3~O~2~, isn't on the course's strong-acid list.
+* c) HNO~3~, HNO~2~, H~2~SO~4~: HNO~2~ (nitrous acid, 2 O) isn't on the list. Don't confuse it with HNO~3~.
+* d) HCl, HF, HNO~3~: HF isn't on the course's strong-acid list (slide 24).
+* e) HCl, H~3~PO~4~, H~2~SO~4~: H~3~PO~4~ isn't on the course's strong-acid list.
+
+# 10. Spectator ions — **d) Cl^−^ and K^+^**
+
+**Source:** Chapter 7 post, slide 17 (spectator ions), slide 18, slide 14  
+**Homework match:** HW15 — hw15ex1.png (what a net ionic equation shows)  
+**What it tests:** Spectator ions (slide 17): ions that appear unchanged on both sides.
+
+**Step 1: write the reactants as ions** (slide 14). NiCl~2~ gives Ni^2+^ and Cl^−^; K~2~CO~3~ gives K^+^ and CO~3~^2−^.
+
+**Step 2: exchange the anions** to find the possible solids: NiCO~3~ and KCl. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* NiCO~3~: most carbonates are only slightly soluble and Ni^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* KCl: it contains K^+^, so it is **soluble** (rule 2).
+
+**Molecular equation:** NiCl~2~(aq) + K~2~CO~3~(aq) $\rightarrow$ NiCO~3~(s) + 2KCl(aq)
+
+The solid uses Ni^2+^ and CO~3~^2−^. The remaining ions, **Cl^−^ and K^+^**, stay in solution unchanged, so they are the spectator ions and are left out of the net ionic equation.
+
+Why the other choices are wrong:
+
+* a) There are no spectator ions in this reaction: Cl^−^ and K^+^ stay dissolved and unchanged.
+* b) Ni^2+^, Cl^−^, K^+^, CO~3~^2−^: Not all four: the ions in the precipitate change.
+* c) Cl^−^ and CO~3~^2−^: CO~3~^2−^ ends up in the solid, so it isn't a spectator.
+* e) Ni^2+^ and CO~3~^2−^: Those ions form the precipitate, so they **do** take part.
+
+# 11. Electrons transferred per atom — **b) 2**
+
+**Source:** Chapter 7 post, slide 33 (Practice: electrons transferred from each Al atom in 2Al + N~2~), slide 31  
+**Homework match:** HW16 — hw16ex3.png (Ba + Cl~2~: electrons lost and gained)  
+**What it tests:** Electrons lost per metal atom = the cation's charge.
+
+**Step 1: ions.** Mg~3~N~2~ is ionic: Mg^2+^ and N^3−^. Check: 3(+2) + 2(−3) = 0.
+
+**Step 2:** each Mg goes 0 $\rightarrow$ +2, so it **loses 2 electrons**.
+
+**Check:** 3 Mg × 2 = 6 lost; 2 N × 3 = 6 gained.
+
+Why the other choices are wrong:
+
+* a) 1: That would make Mg^+^. In Mg~3~N~2~ magnesium is Mg^2+^.
+* c) 3: That is what each **N** atom gains (N $\rightarrow$ N^3−^).
+* d) 5: Nitrogen has 5 valence electrons; that isn't a count of electrons transferred.
+* e) 6: That is the total for one Mg~3~N~2~ formula unit (3 Mg × 2), not per Mg atom.
+
+# 12. Classifying a metal + salt reaction — **e) oxidation–reduction and single-replacement**
+
+**Source:** Chapter 7 post, slide 40 (Single-Replacement: one anion moves; also redox), slide 34 (Cu + FeCl~2~)  
+**Homework match:** HW17 — hw17ex1.png (classify: precipitation, acid–base, oxidation–reduction)  
+**What it tests:** Metal + ionic compound: single replacement, always redox.
+
+* **Single replacement:** one anion (SO~4~^2−^) moves from Cu^2+^ to Fe^2+^ (the pattern of slide 40).
+* **Oxidation–reduction:** Fe goes 0 $\rightarrow$ +2 (loses 2 e^−^) and Cu goes +2 $\rightarrow$ 0 (gains 2 e^−^), like slide 34 in reverse.
+
+Why the other choices are wrong:
+
+* a) acid–base: No acid, base, or water.
+* b) decomposition: Two reactants exchange; nothing breaks apart.
+* c) precipitation and double-displacement: Cu(s) is an element, not a precipitate of two ions, and only one anion moves.
+* d) combustion: No O~2~ and no flame.
+
+# 13. A reaction in several classes — **b) synthesis, combustion, and oxidation–reduction**
+
+**Source:** Chapter 7 post, slides 41–42 (combustion; synthesis), slide 31 (metal + nonmetal is redox)  
+**Homework match:** HW17 — hw17ex2.png (definition of combustion: reacts with oxygen, flame, heat energy)  
+**What it tests:** One reaction can belong to several classes.
+
+* **Synthesis:** one compound (MgO) from simpler materials (Mg and O~2~) (slide 42).
+* **Combustion:** reacts with oxygen and releases energy fast enough to give a flame (slide 41).
+* **Oxidation–reduction:** metal + nonmetal (slide 31); each Mg loses 2 e^−^ and each O gains 2 e^−^.
+
+Why the other choices are wrong:
+
+* a) decomposition and oxidation–reduction: Two elements combine; nothing breaks apart.
+* c) synthesis only: It also burns in O~2~ with a flame (combustion), and a metal + nonmetal is always redox.
+* d) precipitation: No solutions are mixed; MgO forms directly from the elements.
+* e) combustion only: One compound forms from two elements (synthesis), and it's also redox.
+
+# 14. Mass of one atom — **b) 9.27 × 10^−23^ g**
+
+**Source:** Chapter 8 post, slide 5 (Atomic Mass Units: 1 amu = 1.66 × 10^−24^ g; Table 8.1)  
+**Homework match:** HW18 — average atomic masses  
+**What it tests:** Average atomic mass is the mass of **one** atom in amu; convert to grams with 1 amu = 1.66 × 10^−24^ g.
+
+The average atomic mass of Fe, 55.85 amu, is the mass of **one** Fe atom (study guide 8.1). Convert amu to grams:
+
+$$55.85\ \cancel{\text{amu}} \times \underbrace{\frac{1.66\times10^{-24}\ \text{g}}{1\ \cancel{\text{amu}}}}_{\text{definition of the amu (slide 5)}} = \boxed{9.27\times10^{-23}\ \text{g}}$$
+
+Why the other choices are wrong:
+
+* a) 1.66 × 10^−24^ g: That is the mass of 1 amu, not 55.85 amu.
+* c) 9.27 × 10^−22^ g: Decimal slip: check the exponent.
+* d) 55.85 g: That is the mass of one **mole** of Fe atoms.
+* e) 3.36 × 10^25^ g: Divided by 1.66 × 10^−24^ instead of multiplying.
+
+# 15. Same number of atoms — **a) 26.98 g of aluminum**
+
+**Source:** Chapter 8 post, slide 6 (same mass ratio as atomic masses gives the same number of atoms), slide 9 (Table 8.2: 1-mole samples)  
+**Homework match:** HW18 — comparing samples (which contains more atoms?)  
+**What it tests:** 1 mole of any element = its atomic mass in grams = 6.022 × 10^23^ atoms.
+
+32.07 g S is exactly **1 mol** of S (atomic mass 32.07), which is 6.022 × 10^23^ atoms. Any element's atomic mass in grams is also 1 mol (Table 8.2, slide 9), so **26.98 g Al = 1 mol Al** has the same number of atoms. Slide 6 makes the same point with 26.98 g Al and 63.55 g Cu.
+
+Why the other choices are wrong:
+
+* b) 6.022 g of carbon: Avogadro's **number** isn't a mass. 6.022 g C is only 0.501 mol.
+* c) 1.00 g of hydrogen atoms (H): 1.00 g H is 0.992 mol, slightly less than 1 mol.
+* d) 32.07 g of aluminum: Same mass isn't the same number of atoms; Al atoms are lighter than S atoms.
+* e) 16.04 g of sulfur: That is half a mole of S, so half as many atoms.
+
+# 16. Grams to moles — **b) 0.514 mol**
+
+**Source:** Chapter 8 post, slides 11–12 (Mole Conversion Practice: 3.60 g Al, 544 g Ca)  
+**Homework match:** HW18 — hw18ex1.png (moles from grams)  
+**What it tests:** Grams $\rightarrow$ moles: multiply by (1 mol / atomic mass in g).
+
+Atomic mass of Mg = 24.31, so 1 mol Mg = 24.31 g. You have grams, so grams goes on the bottom:
+
+$$12.5\ \cancel{\text{g Mg}} \times \underbrace{\frac{1\ \text{mol Mg}}{24.31\ \cancel{\text{g Mg}}}}_{\text{atomic mass of Mg}} = \boxed{0.514\ \text{mol Mg}}$$
+
+Why the other choices are wrong:
+
+* a) 0.0514 mol: Decimal slip (off by 10).
+* c) 1.94 mol: Inverted: 24.31 ÷ 12.5.
+* d) 304 mol: Multiplied by the molar mass instead of dividing.
+* e) 3.10 × 10^23^ mol: That is the number of **atoms**, not moles.
+
+# 17. Moles to atoms — **d) 1.51 × 10^23^ atoms**
+
+**Source:** Chapter 8 post, slides 13–14 (Atom Conversion Practice: 0.133 mol Al, 13.6 mol Ca)  
+**Homework match:** HW18 — hw18ex3.png (atoms from moles)  
+**What it tests:** Moles $\rightarrow$ atoms: multiply by 6.022 × 10^23^. The molar mass isn't needed.
+
+$$0.250\ \cancel{\text{mol Zn}} \times \underbrace{\frac{6.022\times10^{23}\ \text{Zn atoms}}{1\ \cancel{\text{mol Zn}}}}_{\text{Avogadro's number}} = \boxed{1.51\times10^{23}\ \text{Zn atoms}}$$
+
+Why the other choices are wrong:
+
+* a) 4.15 × 10^−25^ atoms: Divided by Avogadro's number instead of multiplying.
+* b) 16.3 atoms: That is the mass in **grams** (0.250 × 65.38).
+* c) 1.51 × 10^22^ atoms: Exponent slip.
+* e) 9.84 × 10^24^ atoms: Multiplied by the molar mass too; moles $\rightarrow$ atoms needs only Avogadro's number.
+
+# 18. Atoms to grams — **c) 53.9 g**
+
+**Source:** Chapter 8 post, slide 15 (Convert atoms to grams: 2.31 × 10^22^ atoms of gold)  
+**Homework match:** HW18 — atoms → grams setup ((1 mol / 6.022 × 10^23^ atoms)(g / 1 mol))  
+**What it tests:** Atoms $\rightarrow$ moles (÷ N~A~) $\rightarrow$ grams (× molar mass).
+
+**Step 1: atoms to moles** (Avogadro's number flipped, atoms on the bottom):
+
+$$3.01\times10^{23}\ \cancel{\text{Ag atoms}} \times \underbrace{\frac{1\ \text{mol Ag}}{6.022\times10^{23}\ \cancel{\text{Ag atoms}}}}_{\text{Avogadro's number, flipped}} = 0.4998\ \text{mol Ag}$$
+
+**Step 2: moles to grams** (atomic mass of Ag = 107.87):
+
+$$0.4998\ \cancel{\text{mol Ag}} \times \underbrace{\frac{107.87\ \text{g Ag}}{1\ \cancel{\text{mol Ag}}}}_{\text{atomic mass of Ag}} = \boxed{53.9\ \text{g Ag}}$$
+
+Why the other choices are wrong:
+
+* a) 4.63 × 10^−3^ g: Divided by the molar mass instead of multiplying.
+* b) 0.500 g: That is the number of **moles**; one more step (× molar mass) is needed.
+* d) 216 g: Inverted the last factor: 107.87 ÷ 0.500.
+* e) 3.25 × 10^25^ g: Never divided by Avogadro's number.
+
+# 19. Molar mass with parentheses — **e) 342.2 g/mol**
+
+**Source:** Chapter 8 post, slide 26 (LA problem: Ba(OH)~2~, a subscript outside parentheses), slides 22–25  
+**Homework match:** HW19 — hw19ex1.png (formula and molar mass)  
+**What it tests:** Counting atoms when a subscript multiplies a polyatomic ion.
+
+**Step 1: count atoms.** Al 2; the 3 outside (SO~4~) multiplies everything inside: S 1 × 3 = 3, O 4 × 3 = 12.
+
+**Step 2: (count × atomic mass), added:** 2(26.98) + 3(32.07) + 12(16.00) = 53.96 + 96.21 + 192.00 = **342.17 $\approx$ 342.2 g/mol**.
+
+Why the other choices are wrong:
+
+* a) 123.0 g/mol: Ignored every subscript outside the parentheses.
+* b) 150.0 g/mol: Dropped the 3 outside the parentheses.
+* c) 214.2 g/mol: Applied the 3 to S but not to O.
+* d) 315.2 g/mol: Dropped the 2 on Al.
+
+# 20. Moles to grams — **c) 75.7 g**
+
+**Source:** Chapter 8 post, slide 27 (Calculating Mass from Moles: 7.89 mol NaOH), slide 25 (molar mass of C~6~H~12~O~6~)  
+**Homework match:** HW18 — hw18ex2.png (mass in grams from moles)  
+**What it tests:** Moles $\rightarrow$ grams: multiply by the molar mass.
+
+**Step 1: molar mass** (slide 25): 6(12.01) + 12(1.008) + 6(16.00) = 180.16 g/mol.
+
+**Step 2: moles to grams** (grams on top):
+
+$$0.420\ \cancel{\text{mol C}_{6}\text{H}_{12}\text{O}_{6}} \times \underbrace{\frac{180.16\ \text{g C}_{6}\text{H}_{12}\text{O}_{6}}{1\ \cancel{\text{mol C}_{6}\text{H}_{12}\text{O}_{6}}}}_{\text{molar mass of C}_{6}\text{H}_{12}\text{O}_{6}} = \boxed{75.7\ \text{g C}_{6}\text{H}_{12}\text{O}_{6}}$$
+
+Why the other choices are wrong:
+
+* a) 2.33 × 10^−3^ g: Divided by the molar mass instead of multiplying.
+* b) 12.6 g: Used the empirical formula CH~2~O (30.03 g/mol) instead of C~6~H~12~O~6~.
+* d) 429 g: Divided the molar mass by the moles.
+* e) 2.53 × 10^23^ g: That is the number of molecules.
+
+# 21. Grams to molecules — **c) 3.01 × 10^23^ molecules**
+
+**Source:** Chapter 8 post, slide 28 (grams → moles), slides 13–14 (moles → particles)  
+**Homework match:** HW19 — number of molecules from a mass  
+**What it tests:** Grams $\rightarrow$ moles $\rightarrow$ molecules; moles are always the middle step.
+
+**Step 1: molar mass of H~2~O** = 2(1.008) + 16.00 = 18.02 g/mol.
+
+**Step 2: grams to moles.**
+
+$$9.00\ \cancel{\text{g H}_{2}\text{O}} \times \underbrace{\frac{1\ \text{mol H}_{2}\text{O}}{18.02\ \cancel{\text{g H}_{2}\text{O}}}}_{\text{molar mass of H}_{2}\text{O}} = 0.4996\ \text{mol H}_{2}\text{O}$$
+
+**Step 3: moles to molecules.**
+
+$$0.4996\ \cancel{\text{mol H}_{2}\text{O}} \times \underbrace{\frac{6.022\times10^{23}\ \text{molecules}}{1\ \cancel{\text{mol H}_{2}\text{O}}}}_{\text{Avogadro's number}} = \boxed{3.01\times10^{23}\ \text{molecules}}$$
+
+Why the other choices are wrong:
+
+* a) 0.500 molecules: That is the number of **moles**. Multiply by Avogadro's number.
+* b) 3.01 × 10^22^ molecules: Exponent slip.
+* d) 9.02 × 10^23^ molecules: That counts **atoms** (3 per molecule), not molecules.
+* e) 5.42 × 10^24^ molecules: Skipped grams $\rightarrow$ moles: multiplied the grams by Avogadro's number.
+
+# 22. Mass percent — **e) 58.50%**
+
+**Source:** Chapter 8 post, slide 30 (Mass Percent), slides 31–33 (ethanol, H~3~PO~4~, Mg(IO~2~)~2~)  
+**Homework match:** HW20 — hw20ex2.png (percent by mass of an element)  
+**What it tests:** Mass percent: (atoms of the element × atomic mass) ÷ molar mass × 100, counting through parentheses.
+
+**Step 1: count atoms.** Ca 1, N 1 × 2 = 2, O 3 × 2 = **6**.
+
+**Step 2: molar mass.** 40.08 + 2(14.01) + 6(16.00) = 164.10 g/mol.
+
+**Step 3: mass percent.**
+$$\%\,\text{O}=\frac{6(16.00)\ \text{g O}}{164.10\ \text{g Ca(NO}_3)_2}\times100\%=\frac{96.00}{164.10}\times100\% = \boxed{58.50\%}$$
+
+Why the other choices are wrong:
+
+* a) 9.75%: Counted only one O atom. There are 6.
+* b) 17.07%: That is the percent of **N**.
+* c) 24.42%: That is the percent of **Ca**.
+* d) 29.25%: Counted 3 O (one nitrate). The subscript 2 doubles it to 6.
+
+# 23. Molecular to empirical formula — **d) CH**
+
+**Source:** Chapter 8 post, slide 39 (empirical formula = smallest whole-number ratio), slide 40  
+**Homework match:** HW21 — hw21ex3.png (CH with molar mass ≈ 26 is C~2~H~2~)  
+**What it tests:** Type A (study guide 8.7): divide every subscript by the largest common divisor.
+
+Subscripts: C 8, H 8. The largest number dividing both is **8**: 8 ÷ 8 = 1 and 8 ÷ 8 = 1. Empirical formula: **CH** (the same as benzene and acetylene; slide 39's point that different compounds can share an empirical formula).
+
+Why the other choices are wrong:
+
+* a) C~2~H~2~: Divided by 4; it can still be reduced to CH.
+* b) C~4~H~4~: Divided by 2, but 4 and 4 can still be divided. Use the **largest** common divisor, 8.
+* c) CH~2~: C and H are equal (8 : 8), so the ratio is 1 : 1.
+* e) C~8~H~8~: 8 and 8 share a factor of 8, so it isn't the smallest ratio.
+
+# 24. Percent composition to empirical formula — **c) Cr~2~O~3~**
+
+**Source:** Chapter 8 post, slides 42–43 (Steps for Determining the Empirical Formula; step 4)  
+**Homework match:** HW21 — hw21ex2.png (empirical formula from percent composition)  
+**What it tests:** The 4-step method: grams $\rightarrow$ moles $\rightarrow$ divide by the smallest $\rightarrow$ whole numbers (multiply every element if needed).
+
+**Step 1: percent to grams.** Pretend you have exactly **100 g** of the compound, so each percent becomes that many grams: 68.42 g Cr, 31.58 g O.
+
+**Step 2: grams to moles for each element.** Divide by each element's own atomic mass (periodic table):
+
+$$68.42\ \cancel{\text{g Cr}} \times \underbrace{\frac{1\ \text{mol Cr}}{52.00\ \cancel{\text{g Cr}}}}_{\text{atomic mass of Cr}} = 1.316\ \text{mol Cr}$$
+
+$$31.58\ \cancel{\text{g O}} \times \underbrace{\frac{1\ \text{mol O}}{16.00\ \cancel{\text{g O}}}}_{\text{atomic mass of O}} = 1.974\ \text{mol O}$$
+
+**Step 3: divide every mole value by the smallest one.** The smallest mole value is 1.316 mol (Cr). Divide **each** element's moles by it:
+
+| Element | Moles (step 2) | ÷ smallest (1.316 mol Cr) | × 2 | Subscript |
+|:-:|:-:|:-:|:-:|:-:|
+| Cr | 1.316 | 1.00 | 2.00 | 2 |
+| O | 1.974 | 1.50 | 3.00 | 3 |
+
+**Step 4: whole numbers?** 1.50 is not within 0.1 of a whole number. It ends in a decimal near .5 (halves), so multiply **every** result by 2, including the elements that were already whole (last columns of the table). Empirical formula: **Cr~2~O~3~**.
+
+Why the other choices are wrong:
+
+* a) CrO~3~: Multiplied only the fractional element by 2. The same multiplier goes on **every** element.
+* b) Cr~4~O~6~: Not the **smallest** whole-number ratio; every subscript can still be divided by 2.
+* d) CrO~2~: Rounded the fractional result instead of multiplying (only results within 0.1 of a whole number may be rounded).
+* e) Cr~2~O: Used the masses (percents) directly instead of converting to moles first.
+
+# 25. Empirical to molecular formula — **e) C~4~H~8~O~2~**
+
+**Source:** Chapter 8 post, slide 48 ((empirical formula)~n~), slide 49 (LA Practice), slide 47  
+**Homework match:** HW21 — hw21ex3.png (C~3~H~7~NO, molar mass 145–150 → C~6~H~14~N~2~O~2~)  
+**What it tests:** Molecular formula = (empirical formula)~n~ with n = molar mass ÷ empirical formula mass.
+
+**Step 1: empirical formula mass.** Add up the atomic masses in the empirical formula: C~2~H~4~O = 2(12.01) + 4(1.008) + 16.00 = 44.05 g/mol.
+
+**Step 2: find n.** $$n=\frac{\text{molar mass of the compound}}{\text{empirical formula mass}}=\frac{88.11\ \text{g/mol}}{44.05\ \text{g/mol}} = 2.00\approx 2$$
+
+**Step 3: multiply every subscript by n.** (C~2~H~4~O)~2~: C 2 × 2 = 4, H 4 × 2 = 8, O 1 × 2 = 2. Molecular formula: **C~4~H~8~O~2~**.
+
+Why the other choices are wrong:
+
+* a) C~2~H~4~O: That is the empirical formula itself (n = 1). Its molar mass would be 44.05 g/mol, not 88.11.
+* b) C~4~H~4~O: Multiplied only the first subscript by n = 2. **Every** subscript gets multiplied.
+* c) C~6~H~12~O~3~: n = 3 would give a molar mass of 132.16 g/mol.
+* d) C~8~H~16~O~4~: n = 4 would give 176.21 g/mol.
+
+# 26. Why the molecular formula — **b) It gives the actual number of each kind of atom in one molecule**
+
+**Source:** Chapter 8 post, slide 50 (why the molecular formula is more useful), slide 39, slide 47  
+**Homework match:** HW21 — hw21ex1.png (what evidence is needed for empirical vs molecular formulas)  
+**What it tests:** Empirical = ratio only; molecular = actual atom counts.
+
+The empirical formula gives only the **smallest whole-number ratio** of atoms; many compounds share one (C~2~H~2~ and C~6~H~6~ are both CH). The molecular formula gives the **actual number of atoms** in one molecule (slide 50). Getting it needs the molar mass as well as the composition (slide 47).
+
+Why the other choices are wrong:
+
+* a) It always has smaller subscripts: The molecular formula has subscripts equal to or **larger** than the empirical formula's.
+* c) It shows the mass percent of each element: Both formulas give the same mass percents.
+* d) It can be found from percent composition alone: Percent composition gives only the empirical formula; you also need the molar mass (slide 47).
+* e) It is always different from the empirical formula: They can be the same (n = 1), as for H~2~O.
+
+# 27. What a balanced equation conserves — **a) The number of atoms of each element**
+
+**Source:** Chapter 9 post, slide 2 (balanced equation: identities and amounts), slides 3–4, slide 16 (why balance first)  
+**Homework match:** HW22 — hw22ex1.png (balancing with whole-number coefficients)  
+**What it tests:** Balancing conserves atoms (and total mass), not molecules or moles.
+
+Balancing makes the **number of atoms of each element** equal on both sides, because atoms are only rearranged. Molecules and moles of molecules can change: 2H~2~ + O~2~ $\rightarrow$ 2H~2~O turns 3 molecules into 2, yet has 4 H and 2 O on each side.
+
+Why the other choices are wrong:
+
+* b) The number of different compounds: Reactions change which compounds are present.
+* c) The sum of the coefficients: The coefficient sums usually differ (3 vs 2 above).
+* d) The number of moles of substances: Moles of molecules can change (3 mol $\rightarrow$ 2 mol in the same example).
+* e) The number of molecules: 2H~2~ + O~2~ $\rightarrow$ 2H~2~O has 3 molecules on the left and 2 on the right.
+
+# 28. Choosing the mole ratio — **e) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{6\ \text{mol H}_2\text{O}}{7\ \text{mol O}_2}$**
+
+**Source:** Chapter 9 post, slides 5–8 (mole ratios from coefficients), slide 9 (ethane combustion), slide 11  
+**Homework match:** HW22 — hw22ex2.png (choose the mole ratio)  
+**What it tests:** Mole ratio from two coefficients, oriented want-over-have.
+
+Have O~2~ (coefficient **7**), want H~2~O (coefficient **6**). So 7 mol O~2~ produce 6 mol H~2~O, and with the wanted unit on top: **6 mol H~2~O / 7 mol O~2~**.
+
+Why the other choices are wrong:
+
+* a) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{6\ \text{mol H}_2\text{O}}{2\ \text{mol C}_2\text{H}_6}$: That starts from C~2~H~6~, not O~2~.
+* b) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{18.02\ \text{g H}_2\text{O}}{1\ \text{mol H}_2\text{O}}$: That's a molar mass (moles ↔ grams of the same substance).
+* c) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{7\ \text{mol O}_2}{6\ \text{mol H}_2\text{O}}$: Upside down: the unit you have (mol O~2~) goes on the bottom.
+* d) $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{4\ \text{mol CO}_2}{7\ \text{mol O}_2}$: That gives moles of CO~2~, not H~2~O.
+
+# 29. Mole–mole conversion — **a) 0.900 mol**
+
+**Source:** Chapter 9 post, slides 10–11 (Mole–Mole Conversions)  
+**Homework match:** HW22 — hw22ex3.png (moles of product from moles of reactant)  
+**What it tests:** mol $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ mol.
+
+**Step 1: moles Al to moles Al~2~O~3~.** Have Al (coefficient **4**), want Al~2~O~3~ (coefficient **2**). The question asks for **moles**, so stop here.
+
+$$1.800\ \cancel{\text{mol Al}} \times \underbrace{\frac{2\ \text{mol Al}_{2}\text{O}_{3}}{4\ \cancel{\text{mol Al}}}}_{\text{coefficient of Al}_{2}\text{O}_{3}\text{ / coefficient of Al}} = \boxed{0.900\ \text{mol Al}_{2}\text{O}_{3}}$$
+
+Why the other choices are wrong:
+
+* b) 1.35 mol: Used O~2~'s coefficient (3) instead of Al~2~O~3~'s (2).
+* c) 1.80 mol: Assumed 1 : 1. The coefficients are 4 (Al) and 2 (Al~2~O~3~).
+* d) 3.60 mol: Mole ratio upside down: × 4/2 instead of × 2/4.
+* e) 91.8 mol: Multiplied by the molar mass of Al~2~O~3~. That gives grams, not moles.
+
+# 30. Actual yield — **b) The actual yield**
+
+**Source:** Chapter 9 post, slide 28 (Actual Yield: the amount actually produced), slide 30 (percent yield), slide 25  
+**Homework match:** HW24 — hw24ex1.png (theoretical yield calculated; actual yield weighed)  
+**What it tests:** Actual (measured) vs theoretical (calculated) yield.
+
+The **actual yield** is the amount of product **actually produced and measured** (slide 28). The theoretical yield is **calculated** from the limiting reactant (slide 25). Percent yield = actual ÷ theoretical × 100% (slide 30).
+
+Why the other choices are wrong:
+
+* a) The theoretical yield: The theoretical yield is **calculated** from the limiting reactant (slide 25).
+* c) The mole ratio: Mole ratios come from the balanced equation's coefficients.
+* d) The molar mass of the product: Molar masses come from the periodic table.
+* e) The limiting reactant: The limiting reactant is identified by calculation (need vs have).
+
+# 31. Grams to grams — **d) 8.99 g**
+
+**Source:** Chapter 9 post, slides 19–20 (Stoichiometry Practice), slide 14 (steps)  
+**Homework match:** HW23 — hw23ex1.png (grams of product from grams of reactant)  
+**What it tests:** g $\rightarrow$ mol $\rightarrow$ mole ratio $\rightarrow$ g.
+
+**Step 1: molar masses.** N~2~H~4~ = 2(14.01) + 4(1.008) = 32.05 g/mol; H~2~O = 2(1.008) + 16.00 = 18.02 g/mol.
+
+**Step 2: grams N~2~H~4~ to moles N~2~H~4~.** $$8.00\ \cancel{\text{g N}_{2}\text{H}_{4}} \times \underbrace{\frac{1\ \text{mol N}_{2}\text{H}_{4}}{32.05\ \cancel{\text{g N}_{2}\text{H}_{4}}}}_{\text{molar mass of N}_{2}\text{H}_{4}} = 0.2496\ \text{mol N}_{2}\text{H}_{4}$$
+
+**Step 3: moles N~2~H~4~ to moles H~2~O.** Have N~2~H~4~ (coefficient **1**), want H~2~O (coefficient **2**).
+
+$$0.2496\ \cancel{\text{mol N}_{2}\text{H}_{4}} \times \underbrace{\frac{2\ \text{mol H}_{2}\text{O}}{1\ \cancel{\text{mol N}_{2}\text{H}_{4}}}}_{\text{coefficient of H}_{2}\text{O / coefficient of N}_{2}\text{H}_{4}} = 0.4992\ \text{mol H}_{2}\text{O}$$
+
+**Step 4: moles H~2~O to grams H~2~O.** $$0.4992\ \cancel{\text{mol H}_{2}\text{O}} \times \underbrace{\frac{18.02\ \text{g H}_{2}\text{O}}{1\ \cancel{\text{mol H}_{2}\text{O}}}}_{\text{molar mass of H}_{2}\text{O}} = \boxed{8.99\ \text{g H}_{2}\text{O}}$$
+
+Why the other choices are wrong:
+
+* a) 0.499 g: That is the **moles** of H~2~O. The last step (× molar mass) is missing.
+* b) 2.25 g: Mole ratio upside down: × 1/2 instead of × 2/1.
+* c) 4.50 g: Assumed 1 : 1. The coefficients are 1 (N~2~H~4~) and 2 (H~2~O).
+* e) 16.0 g: Used the molar mass of N~2~H~4~ in the last step instead of H~2~O's.
+
+# 32. Limiting reactant and leftover — **c) Cl~2~ is limiting, and 4.75 g of Fe is left over**
+
+**Source:** Chapter 9 post, slide 24 (limiting reactant from two masses), slides 21–23  
+**Homework match:** HW23 — hw23ex2.png (equal masses of each reactant: which is limiting?)  
+**What it tests:** Limiting reactant by need-vs-have in moles, then the leftover mass of the excess reactant.
+
+**Step 1: molar masses.** Fe = 55.85 g/mol (periodic table); Cl~2~ = 2(35.45) = 70.90 g/mol.
+
+**Step 2: grams to moles for each reactant.** $$10.0\ \cancel{\text{g Fe}} \times \underbrace{\frac{1\ \text{mol Fe}}{55.85\ \cancel{\text{g Fe}}}}_{\text{molar mass of Fe}} = 0.1791\ \text{mol Fe}$$
+
+$$10.0\ \cancel{\text{g Cl}_{2}} \times \underbrace{\frac{1\ \text{mol Cl}_{2}}{70.90\ \cancel{\text{g Cl}_{2}}}}_{\text{molar mass of Cl}_{2}} = 0.1410\ \text{mol Cl}_{2}$$
+
+**Step 3: how much Cl~2~ does all the Fe need?** Have Fe (coefficient **2**), want Cl~2~ (coefficient **3**).
+
+$$0.1791\ \cancel{\text{mol Fe}} \times \underbrace{\frac{3\ \text{mol Cl}_{2}}{2\ \cancel{\text{mol Fe}}}}_{\text{coefficient of Cl}_{2}\text{ / coefficient of Fe}} = 0.2686\ \text{mol Cl}_{2}$$
+
+**Step 4: compare.** You **need** 0.2686 mol Cl~2~ but only **have** 0.1410 mol, so **Cl~2~ is limiting** and Fe is in excess.
+
+**Step 5: how much Fe reacts?** All 0.1410 mol of the limiting Cl~2~ reacts. Have Cl~2~ (coefficient **3**), want Fe (coefficient **2**).
+
+$$0.1410\ \cancel{\text{mol Cl}_{2}} \times \underbrace{\frac{2\ \text{mol Fe}}{3\ \cancel{\text{mol Cl}_{2}}}}_{\text{coefficient of Fe / coefficient of Cl}_{2}} = 0.09403\ \text{mol Fe}$$
+
+$$0.09403\ \cancel{\text{mol Fe}} \times \underbrace{\frac{55.85\ \text{g Fe}}{1\ \cancel{\text{mol Fe}}}}_{\text{molar mass of Fe}} = 5.25\ \text{g Fe}$$
+
+**Step 6: left over.** 10.0 g Fe at the start − 5.25 g that reacts = **4.75 g left over**.
+
+Mass alone never decides the limiting reactant: compare in moles, through the mole ratio.
+
+Why the other choices are wrong:
+
+* a) Fe is limiting, and Cl~2~ is left over: Check what all of one reactant needs. The need-vs-have comparison shows the Cl~2~ runs out first.
+* b) Cl~2~ is limiting, and 10.0 g of Fe is left over: That is **all** of the Fe. Some of it reacts with the Cl~2~, so less is left.
+* d) Cl~2~ is limiting, and 5.25 g of Fe is left over: That is the mass of Fe that **reacts**. Left over = 10.0 g − 5.25 g.
+* e) Neither is limiting; both reactants are used up completely: That needs the moles to be in exactly a 2 : 3 ratio, and they aren't.
+
+# 33. Theoretical yield with a limiting reactant — **c) 18.0 g**
+
+**Source:** Chapter 9 post, slide 27 (theoretical yield with two masses), slide 25, slide 24  
+**Homework match:** HW24 — hw24ex2.png (theoretical yield of XeF~4~ from two masses)  
+**What it tests:** Moles of each reactant $\rightarrow$ limiting reactant $\rightarrow$ product from the limiting reactant only.
+
+**Step 1: molar masses.** H~2~ = 2(1.008) = 2.02 g/mol; O~2~ = 2(16.00) = 32.00 g/mol; H~2~O = 2(1.008) + 16.00 = 18.02 g/mol.
+
+**Step 2: grams to moles for each reactant.** $$4.00\ \cancel{\text{g H}_{2}} \times \underbrace{\frac{1\ \text{mol H}_{2}}{2.02\ \cancel{\text{g H}_{2}}}}_{\text{molar mass of H}_{2}} = 1.984\ \text{mol H}_{2}$$
+
+$$16.0\ \cancel{\text{g O}_{2}} \times \underbrace{\frac{1\ \text{mol O}_{2}}{32.00\ \cancel{\text{g O}_{2}}}}_{\text{molar mass of O}_{2}} = 0.5000\ \text{mol O}_{2}$$
+
+**Step 3: how much O~2~ does all the H~2~ need?** Have H~2~ (coefficient **2**), want O~2~ (coefficient **1**).
+
+$$1.984\ \cancel{\text{mol H}_{2}} \times \underbrace{\frac{1\ \text{mol O}_{2}}{2\ \cancel{\text{mol H}_{2}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of H}_{2}} = 0.9921\ \text{mol O}_{2}\text{ needed}$$
+
+**Step 4: compare.** You **need** 0.9921 mol O~2~ but only **have** 0.5000 mol. The O~2~ runs out first, so **O~2~ is limiting** and H~2~ is in excess.
+
+**Step 5: theoretical yield from the limiting reactant (O~2~).** Have O~2~ (coefficient **1**), want H~2~O (coefficient **2**).
+
+$$0.5000\ \cancel{\text{mol O}_{2}} \times \underbrace{\frac{2\ \text{mol H}_{2}\text{O}}{1\ \cancel{\text{mol O}_{2}}}}_{\text{coefficient of H}_{2}\text{O / coefficient of O}_{2}} = 1.000\ \text{mol H}_{2}\text{O}$$
+
+$$1.000\ \cancel{\text{mol H}_{2}\text{O}} \times \underbrace{\frac{18.02\ \text{g H}_{2}\text{O}}{1\ \cancel{\text{mol H}_{2}\text{O}}}}_{\text{molar mass of H}_{2}\text{O}} = \boxed{18.0\ \text{g H}_{2}\text{O}}$$
+
+**Cross-check:** all the H~2~ would make 35.7 g H~2~O. The smaller amount, 18.0 g, is the theoretical yield.
+
+Why the other choices are wrong:
+
+* a) 1.00 g: That is the **moles** of H~2~O.
+* b) 9.01 g: Used O~2~ but assumed 1 : 1. The ratio is 2 H~2~O : 1 O~2~.
+* d) 20.0 g: Added the reactant masses. Part of the excess reactant is left over.
+* e) 35.7 g: Calculated from H~2~. H~2~ is in excess, so this is more than the O~2~ can make.
+
+# 34. Percent yield — **c) 87.5%**
+
+**Source:** Chapter 9 post, slide 30 (percent yield formula), slides 31–32, slide 28  
+**Homework match:** HW24 — hw24ex1.png (percent yield)  
+**What it tests:** Two parts: theoretical yield from the limiting reactant, then actual / theoretical × 100.
+
+**Step 1: which reactant controls the yield?** O~2~ is in excess, so **SO~2~ is limiting** and the theoretical yield comes from it.
+
+**Step 2: molar masses.** SO~2~ = 32.07 + 2(16.00) = 64.07 g/mol; SO~3~ = 32.07 + 3(16.00) = 80.07 g/mol.
+
+**Step 3: theoretical yield of SO~3~.** Have SO~2~ (coefficient **2**), want SO~3~ (coefficient **2**).
+
+$$48.0\ \cancel{\text{g SO}_{2}} \times \underbrace{\frac{1\ \text{mol SO}_{2}}{64.07\ \cancel{\text{g SO}_{2}}}}_{\text{molar mass of SO}_{2}} = 0.7492\ \text{mol SO}_{2}$$
+
+$$0.7492\ \cancel{\text{mol SO}_{2}} \times \underbrace{\frac{2\ \text{mol SO}_{3}}{2\ \cancel{\text{mol SO}_{2}}}}_{\text{coefficient of SO}_{3}\text{ / coefficient of SO}_{2}} = 0.7492\ \text{mol SO}_{3}$$
+
+$$0.7492\ \cancel{\text{mol SO}_{3}} \times \underbrace{\frac{80.07\ \text{g SO}_{3}}{1\ \cancel{\text{mol SO}_{3}}}}_{\text{molar mass of SO}_{3}} = 59.99\ \text{g SO}_{3}\ (\text{theoretical})$$
+
+**Step 4: percent yield.** The actual yield (52.5 g, measured) goes on top, the theoretical yield on the bottom:
+
+$$\text{percent yield}=\frac{52.5\ \cancel{\text{g}}\ (\text{actual})}{59.99\ \cancel{\text{g}}\ (\text{theoretical})}\times100\% = \boxed{87.5\%}$$
+
+Why the other choices are wrong:
+
+* a) 0.875%: Forgot to multiply by 100.
+* b) 65.6%: Divided the actual mass by the molar mass of SO~3~ (80.07) instead of by the theoretical yield.
+* d) 109%: Divided by the mass of SO~2~. The bottom must be the theoretical yield of SO~3~.
+* e) 114%: Upside down: theoretical / actual. A yield can't be over 100%.
+
+# 35. The limiting reactant — **d) It is completely used up, and the theoretical yield is calculated from it**
+
+**Source:** Chapter 9 post, slide 21 (Limiting Reactants: runs out first), slide 25 (theoretical yield from the limiting reactant)  
+**Homework match:** HW23 — hw23ex2.png (limiting reactant)  
+**What it tests:** Role of the limiting reactant.
+
+The limiting reactant **runs out first** and so **limits the amount of product** (slide 21). The theoretical yield is the amount of product **calculated from the limiting reactant** (slide 25). The other reactant is in excess, and some of it is left over.
+
+Why the other choices are wrong:
+
+* a) Its amount has no effect on how much product forms: It's exactly what limits how much product forms.
+* b) It is the reactant left over when the reaction stops: That is the **excess** reactant.
+* c) It is always the reactant with the smaller coefficient: Coefficients alone don't decide it; the amounts present matter too.
+* e) It is always the reactant with the smaller mass: Mass doesn't decide it; compare moles through the mole ratio.
+

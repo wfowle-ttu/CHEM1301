@@ -1,0 +1,334 @@
+---
+title: "CHEM 1301 Exam 3 (Fall 2026, Ver 1) — Certified Answer Key"
+subtitle: "Answers worked from the returned exam, each checked against the course slides"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
+---
+
+**How this key was certified.** Each question was transcribed from the photos of the returned exam (Ver 1, pages 1–6).
+Every numeric answer was recomputed by `_scripts/build_live_key.py` and checked against the printed choice. Every citation
+was checked against the actual text of the cited slide in `Chapter 7/8/9 post.pptx` (slide numbers match the PDFs).
+Atomic masses are periodic-table values. **Notes** flag any answer that relies on something outside the Chapter 7–9 slides.
+The handwritten answers on the exam were not used to choose these answers.
+
+| Q | Answer | | Q | Answer |
+|:-:|:--|-|:-:|:--|
+| 1 | **c**  strong electrolyte | | 19 | **a**  2NH~4~^+^(aq) |
+| 2 | **b**  All of the samples contain the same number of atoms | | 20 | **d**  C~2~H~4~Br~2~ |
+| 3 | **b**  1.1 × 10^24^ atoms | | 21 | **a**  6.022 × 10^23^ units |
+| 4 | **b**  1.09 × 10^24^ molecules oxygen | | 22 | **c**  2.01 g |
+| 5 | **a**  produces 8.0 mol of CuO | | 23 | **b**  no precipitate forms |
+| 6 | **c**  oxidation–reduction reaction | | 24 | **a**  BaSO~4~ |
+| 7 | **a**  601.93 g/mol | | 25 | **d**  132.10 g/mol |
+| 8 | **d**  94.1 g | | 26 | **b**  decomposition reaction |
+| 9 | **d**  13.48 mol | | 27 | **a**  C~2~H~3~O~2~ |
+| 10 | **b**  acid–base reaction | | 28 | **b**  precipitate |
+| 11 | **b**  14.3 g | | 29 | **b**  64.0% |
+| 12 | **b**  Both beakers A and B contain the same number of atoms because there is one mole in each | | 30 | **a**  41.1% |
+| 13 | **a**  acid–base reaction | | 31 | **d**  molecular equation |
+| 14 | **a**  oxidation–reduction reaction | | 32 | **d**  C~3~H~8~ |
+| 15 | **a**  HNO~3~ | | 33 | **b**  3 |
+| 16 | **a**  1.0 mol Zn | | 34 | **c**  Ag~2~CrO~4~ |
+| 17 | **d**  37.2% | | 35 | **d**  7.5 mol |
+| 18 | **a**  75.5 g | | | |
+
+# 1. **c)** strong electrolyte
+
+**Course source:** Ch 7 slide 7 (Strong Electrolytes)
+
+Slide 7: separated ions are present when a solution is an **excellent conductor of electricity**, and a substance whose every dissolved unit produces separated ions is called a **strong electrolyte**.
+
+# 2. **b)** All of the samples contain the same number of atoms
+
+**Course source:** Ch 8 slide 7 (The Mole), slide 9 (Table 8.2)
+
+Slide 7: one mole of something consists of 6.022 × 10^23^ units. Each sample is **1 mol**, so each has 6.022 × 10^23^ atoms (Table 8.2 on slide 9 shows equal atom counts for 1-mole samples of different elements).
+
+# 3. **b)** 1.1 × 10^24^ atoms
+
+**Course source:** Ch 8 slide 7 (Avogadro's number), slides 13–14 (Atom Conversion Practice)
+
+$$1.8\ \cancel{\text{mol O}} \times \underbrace{\frac{6.022\times10^{23}\ \text{O atoms}}{1\ \cancel{\text{mol O}}}}_{\text{Avogadro's number}} = \boxed{1.1\times10^{24}\ \text{O atoms}}$$
+
+# 4. **b)** 1.09 × 10^24^ molecules oxygen
+
+**Course source:** Ch 9 slide 14 (steps: g → mol → mole ratio), slides 17–20; Ch 8 slides 13–14 (moles → particles)
+
+**Step 1: grams S $\rightarrow$ moles S** (atomic mass of S = 32.07):
+
+$$38.8\ \cancel{\text{g S}} \times \underbrace{\frac{1\ \text{mol S}}{32.07\ \cancel{\text{g S}}}}_{\text{atomic mass of S}} = 1.210\ \text{mol S}$$
+
+**Step 2: moles S $\rightarrow$ moles O~2~** (2S + 3O~2~ $\rightarrow$ 2SO~3~):
+
+$$1.210\ \cancel{\text{mol S}} \times \underbrace{\frac{3\ \text{mol O}_{2}}{2\ \cancel{\text{mol S}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of S}} = 1.815\ \text{mol O}_{2}$$
+
+**Step 3: moles O~2~ $\rightarrow$ molecules:**
+
+$$1.815\ \cancel{\text{mol O}_{2}} \times \underbrace{\frac{6.022\times10^{23}\ \text{molecules}}{1\ \cancel{\text{mol O}_{2}}}}_{\text{Avogadro's number}} = \boxed{1.09\times10^{24}\ \text{molecules O}_{2}}$$
+
+# 5. **a)** produces 8.0 mol of CuO
+
+**Course source:** Ch 9 slides 5–6 (mole ratios from a balanced equation)
+
+From 2Cu + O~2~ $\rightarrow$ 2CuO, the mole ratio Cu : CuO is **2 : 2**:
+
+$$8.0\ \cancel{\text{mol Cu}} \times \underbrace{\frac{2\ \text{mol CuO}}{2\ \cancel{\text{mol Cu}}}}_{\text{coefficient of CuO / coefficient of Cu}} = \boxed{8.0\ \text{mol CuO}}$$
+
+It reacts with 8.0 × (1/2) = 4.0 mol O~2~, so choice c (8.0 mol O~2~) is wrong.
+
+# 6. **c)** oxidation–reduction reaction
+
+**Course source:** Ch 7 slide 31 (Principle 1: metal + nonmetal), slide 38 (2Li + F~2~ → 2LiF)
+
+K (a metal) reacts with Br~2~ (a nonmetal) to form an ionic compound. Slide 31: a metal–nonmetal reaction is **always** oxidation–reduction. It is the same pattern as slide 38 (2Li + F~2~): each K loses one electron to become K^+^. No solid forms from solutions (not precipitation), one compound doesn't break apart (not decomposition), and no ion is exchanged (not displacement).
+
+# 7. **a)** 601.93 g/mol
+
+**Course source:** Ch 8 slide 22 (Molar Mass), slide 26 (Ba(OH)~2~: subscript outside parentheses)
+
+Atoms: Ba 3, P 1 × 2 = 2, O 4 × 2 = 8.
+
+3(137.33) + 2(30.97) + 8(16.00) = 411.99 + 61.94 + 128.00 = **601.93 g/mol**.
+
+# 8. **d)** 94.1 g
+
+**Course source:** Ch 8 slide 27 (Calculating Mass from Moles)
+
+$$23.5\ \cancel{\text{mol He}} \times \underbrace{\frac{4.003\ \text{g He}}{1\ \cancel{\text{mol He}}}}_{\text{atomic mass of He}} = \boxed{94.1\ \text{g He}}$$
+
+# 9. **d)** 13.48 mol
+
+**Course source:** Ch 8 slides 11–12 (Mole Conversion Practice: 544 g Ca), slide 28
+
+$$540.3\ \cancel{\text{g Ca}} \times \underbrace{\frac{1\ \text{mol Ca}}{40.08\ \cancel{\text{g Ca}}}}_{\text{atomic mass of Ca}} = \boxed{13.48\ \text{mol Ca}}$$
+
+# 10. **b)** acid–base reaction
+
+**Course source:** Ch 7 slide 37 (Acid–Base Reactions), slides 21–23
+
+HI is an acid (produces H^+^, slide 21) and NaOH a base (produces OH^−^, slide 22). Slide 37: you recognize an acid–base reaction because it involves an **H^+^ ion that ends up in the product water**. NaI is soluble (rule 2), so it isn't precipitation.
+
+# 11. **b)** 14.3 g
+
+**Course source:** Ch 9 slides 21–24 (limiting reactant), slides 25, 27 (theoretical yield from the limiting reactant)
+
+**Step 1: moles of each reactant.**
+
+$$5.71\ \cancel{\text{g S}} \times \underbrace{\frac{1\ \text{mol S}}{32.07\ \cancel{\text{g S}}}}_{\text{atomic mass of S}} = 0.1780\ \text{mol S}$$
+
+$$10.0\ \cancel{\text{g O}_{2}} \times \underbrace{\frac{1\ \text{mol O}_{2}}{32.00\ \cancel{\text{g O}_{2}}}}_{\text{molar mass of O}_{2}} = 0.3125\ \text{mol O}_{2}$$
+
+**Step 2: how much O~2~ does all the S need?**
+
+$$0.1780\ \cancel{\text{mol S}} \times \underbrace{\frac{3\ \text{mol O}_{2}}{2\ \cancel{\text{mol S}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of S}} = 0.2671\ \text{mol O}_{2}\text{ needed}$$
+
+**Step 3: compare.** Need 0.2671 mol O~2~, have 0.3125 mol, so O~2~ is in excess and **S is limiting**.
+
+**Step 4: SO~3~ from the limiting reactant** (molar mass SO~3~ = 32.07 + 3(16.00) = 80.07 g/mol):
+
+$$0.1780\ \cancel{\text{mol S}} \times \underbrace{\frac{2\ \text{mol SO}_{3}}{2\ \cancel{\text{mol S}}}}_{\text{coefficient of SO}_{3}\text{ / coefficient of S}} \times \underbrace{\frac{80.07\ \text{g SO}_{3}}{1\ \cancel{\text{mol SO}_{3}}}}_{\text{molar mass of SO}_{3}} = \boxed{14.3\ \text{g SO}_{3}}$$
+
+# 12. **b)** Both beakers A and B contain the same number of atoms because there is one mole in each
+
+**Course source:** Ch 8 slide 6 (same mass ratio as atomic masses → same number of atoms), slides 7, 9
+
+32.07 g S is 1 mol S (atomic mass 32.07) and 74.92 g As is 1 mol As (atomic mass 74.92, periodic table). One mole of anything is 6.022 × 10^23^ units (slide 7), so the counts are equal. Slide 6 makes the same argument with 26.98 g Al and 63.55 g Cu.
+
+**Note:** The atomic mass of As (74.92) comes from the periodic table provided on the exam.
+
+# 13. **a)** acid–base reaction
+
+**Course source:** Ch 7 slide 23 (Acid–Base Reactions), slide 26 (principle 5)
+
+Slide 23: "Besides water, **which is always a product** of the reaction of an acid with OH^−^ ..." Slide 26 (principle 5) repeats that one product is always water.
+
+# 14. **a)** oxidation–reduction reaction
+
+**Course source:** Ch 7 slide 40 (Single-Replacement Reactions)
+
+Slide 40 uses this exact reaction: "This reaction is an **oxidation–reduction reaction**. This reaction is also a single-replacement reaction." No solid forms (not precipitation), and the H^+^ ends up in H~2~ gas, not water (not acid–base).
+
+# 15. **a)** HNO~3~
+
+**Course source:** Ch 8 slide 30 (Mass Percent), slides 31–32
+
+Mass percent N = (N atoms × 14.01) ÷ molar mass × 100% (slide 30):
+
+* NH~3~: 82.2%
+* N~2~O: 63.7%
+* HCN: 51.8%
+* N~2~H~4~: 87.4%
+* HNO~3~: 22.2%
+
+The smallest is **HNO~3~ (22.2%)**. With 100.0 g of each, the sample with the smallest percent has the least N.
+
+# 16. **a)** 1.0 mol Zn
+
+**Course source:** Ch 8 slide 9 (Table 8.2: the mass of 1 mol equals the atomic mass in grams)
+
+1 mol of an element weighs its atomic mass in grams (Table 8.2): Zn 65.38 g, Ni 58.69 g, Cr 52.00 g, Si 28.09 g. The largest is **Zn**.
+
+**Note:** Atomic masses from the periodic table provided on the exam.
+
+# 17. **d)** 37.2%
+
+**Course source:** Ch 9 slide 25 (theoretical yield), slide 30 (Percent Yield), slides 31–32
+
+CH~4~ is the limiting reactant (Cl~2~ in excess). Molar masses: CH~4~ = 12.01 + 4(1.008) = 16.04; CH~3~Cl = 12.01 + 3(1.008) + 35.45 = 50.48 g/mol.
+
+$$38.4\ \cancel{\text{g CH}_{4}} \times \underbrace{\frac{1\ \text{mol CH}_{4}}{16.04\ \cancel{\text{g CH}_{4}}}}_{\text{molar mass of CH}_{4}} \times \underbrace{\frac{1\ \text{mol CH}_{3}\text{Cl}}{1\ \cancel{\text{mol CH}_{4}}}}_{\text{coefficients}} \times \underbrace{\frac{50.48\ \text{g CH}_{3}\text{Cl}}{1\ \cancel{\text{mol CH}_{3}\text{Cl}}}}_{\text{molar mass of CH}_{3}\text{Cl}} = 120.8\ \text{g CH}_{3}\text{Cl (theoretical)}$$
+
+$$\text{percent yield}=\frac{45.0\ \text{g (actual)}}{120.8\ \text{g (theoretical)}}\times100\% = \boxed{37.2\%}$$
+
+# 18. **a)** 75.5 g
+
+**Course source:** Ch 9 slide 14 (step 1: balance the equation), slide 16, slides 17–20; Ch 9 slide 9 (balancing a combustion)
+
+**Step 1: balance.** C: 6CO~2~. H: 14 H $\rightarrow$ 7H~2~O. O: 6(2) + 7 = 19 O $\rightarrow$ 19/2 O~2~, so double everything: **2C~6~H~14~ + 19O~2~ $\rightarrow$ 12CO~2~ + 14H~2~O**.
+
+**Step 2: g $\rightarrow$ mol $\rightarrow$ mol $\rightarrow$ g** (C~6~H~14~ = 6(12.01) + 14(1.008) = 86.17 g/mol):
+
+$$21.4\ \cancel{\text{g C}_{6}\text{H}_{14}} \times \underbrace{\frac{1\ \text{mol C}_{6}\text{H}_{14}}{86.17\ \cancel{\text{g C}_{6}\text{H}_{14}}}}_{\text{molar mass of C}_{6}\text{H}_{14}} \times \underbrace{\frac{19\ \text{mol O}_{2}}{2\ \cancel{\text{mol C}_{6}\text{H}_{14}}}}_{\text{coefficients}} \times \underbrace{\frac{32.00\ \text{g O}_{2}}{1\ \cancel{\text{mol O}_{2}}}}_{\text{molar mass of O}_{2}} = \boxed{75.5\ \text{g O}_{2}}$$
+
+# 19. **a)** 2NH~4~^+^(aq)
+
+**Course source:** Ch 7 slide 16 (Complete Ionic Equations), slide 14, slide 11
+
+Molecular: (NH~4~)~2~CO~3~(aq) + BaCl~2~(aq) $\rightarrow$ BaCO~3~(s) + 2NH~4~Cl(aq). BaCO~3~ is a carbonate (rule 6), so it precipitates; NH~4~Cl is soluble (rule 2).
+
+Complete ionic (strong electrolytes as ions, slide 16):
+
+**2NH~4~^+^(aq)** + CO~3~^2−^(aq) + Ba^2+^(aq) + 2Cl^−^(aq) $\rightarrow$ BaCO~3~(s) + 2NH~4~^+^(aq) + 2Cl^−^(aq)
+
+Only **2NH~4~^+^(aq)** appears among the choices with the coefficient it has in standard form. Chloride appears as 2Cl^−^, not Cl^−^; barium as Ba^2+^, not 3Ba^2+^; carbonate as CO~3~^2−^, not 2CO~3~^2−^.
+
+# 20. **d)** C~2~H~4~Br~2~
+
+**Course source:** Ch 8 slides 35–37, 42–43 (empirical formula steps), slides 47–48 (molecular formula)
+
+**Empirical formula** (100 g sample): C 12.8/12.01 = 1.066 mol; H 2.1/1.008 = 2.083 mol; Br 85.1/79.90 = 1.065 mol. Divide by the smallest (1.065): C 1.00, H 1.96, Br 1.00 $\rightarrow$ **CH~2~Br**.
+
+**Molecular formula:** empirical mass = 12.01 + 2(1.008) + 79.90 = 93.93 g/mol; n = 188 ÷ 93.93 = 2.00 $\approx$ 2 (slide 48), so (CH~2~Br)~2~ = **C~2~H~4~Br~2~**.
+
+# 21. **a)** 6.022 × 10^23^ units
+
+**Course source:** Ch 8 slide 7 (The Mole)
+
+Slide 7: "One mole of something consists of **6.022 × 10^23^ units** of that substance."
+
+# 22. **c)** 2.01 g
+
+**Course source:** Ch 9 slide 14 (steps), slides 17–20 (Stoichiometry Practice)
+
+$$9.33\ \cancel{\text{g N}_{2}} \times \underbrace{\frac{1\ \text{mol N}_{2}}{28.02\ \cancel{\text{g N}_{2}}}}_{\text{molar mass of N}_{2}} \times \underbrace{\frac{3\ \text{mol H}_{2}}{1\ \cancel{\text{mol N}_{2}}}}_{\text{coefficients}} \times \underbrace{\frac{2.016\ \text{g H}_{2}}{1\ \cancel{\text{mol H}_{2}}}}_{\text{molar mass of H}_{2}} = \boxed{2.01\ \text{g H}_{2}}$$
+
+# 23. **b)** no precipitate forms
+
+**Course source:** Ch 7 slide 14 (exchange the anions), slide 11 (Table 7.1, rule 2)
+
+Ions: K^+^, Cl^−^, Na^+^, SO~4~^2−^. Exchanging anions gives K~2~SO~4~ and NaCl. Both contain K^+^ or Na^+^, so both are soluble (rule 2): **no precipitate forms**. (Na~2~SO~4~ is a reactant, not a product.)
+
+# 24. **a)** BaSO~4~
+
+**Course source:** Ch 7 slide 11 (Table 7.1, rule 4), slide 12 (Solubility Practice: BaSO~4~)
+
+Rule 4: most sulfates are soluble; **notable exceptions are BaSO~4~, PbSO~4~, and CaSO~4~**. FeSO~4~ and CuSO~4~ are soluble by rule 4, and Na~2~SO~4~ by rules 2 and 4. Slide 12 classifies BaSO~4~ as insoluble.
+
+# 25. **d)** 132.10 g/mol
+
+**Course source:** Ch 8 slide 22 (Molar Mass), slide 26 (subscript outside parentheses)
+
+Calcium nitrite is Ca(NO~2~)~2~ (Ca^2+^ with two nitrite ions, NO~2~^−^). Atoms: Ca 1, N 2, O 4.
+
+40.08 + 2(14.01) + 4(16.00) = 40.08 + 28.02 + 64.00 = **132.10 g/mol**.
+
+**Note:** The formula of the nitrite ion (NO~2~^−^) comes from ion naming taught earlier in the course; it is not in the Chapter 7–9 slides. (Choice a, 164.10 g/mol, is calcium **nitrate**, Ca(NO~3~)~2~.)
+
+# 26. **b)** decomposition reaction
+
+**Course source:** Ch 7 slide 43 (Decomposition Reactions)
+
+Slide 43 uses this exact reaction as its example: 2HgO(s) $\rightarrow$ 2Hg(l) + O~2~(g), with heat. A compound broken down into simpler substances (here its elements) is a **decomposition** reaction.
+
+# 27. **a)** C~2~H~3~O~2~
+
+**Course source:** Ch 8 slides 42–43 (Steps for Determining the Empirical Formula, step 4), slides 35–37
+
+**Steps 1–2** (100 g sample): C 40.68/12.01 = 3.3872 mol; H 5.12/1.008 = 5.0794 mol; O 54.20/16.00 = 3.3875 mol.
+
+**Step 3** (÷ smallest, 3.3872): C 1.00, H 1.50, O 1.00.
+
+**Step 4** (slide 43): 1.50 isn't whole, so multiply **every** result by 2: C 2, H 3, O 2 $\rightarrow$ **C~2~H~3~O~2~**.
+
+# 28. **b)** precipitate
+
+**Course source:** Ch 7 slide 5 (Precipitation Reactions)
+
+Slide 5: "The solid that forms is called a **precipitate**, and the reaction is known as a precipitation reaction."
+
+# 29. **b)** 64.0%
+
+**Course source:** Ch 8 slide 30 (Mass Percent), slides 31–33
+
+Atoms: Cd 3, P 2, O 8. Molar mass = 3(112.41) + 2(30.97) + 8(16.00) = 337.23 + 61.94 + 128.00 = 527.17 g/mol.
+
+$$\%\,\text{Cd}=\frac{337.23}{527.17}\times100\% = \boxed{64.0\%}$$
+
+**Note:** The atomic mass of Cd (112.41) comes from the periodic table provided on the exam.
+
+# 30. **a)** 41.1%
+
+**Course source:** Ch 9 slide 25 (theoretical yield), slide 30 (Percent Yield), slides 31–32
+
+**Step 1: balanced equation.** CaCO~3~ + H~2~SO~4~ $\rightarrow$ CaSO~4~ + H~2~O + CO~2~ (all coefficients 1). CaCO~3~ (100.09 g/mol) is the given reactant.
+
+$$49.3\ \cancel{\text{g CaCO}_{3}} \times \underbrace{\frac{1\ \text{mol CaCO}_{3}}{100.09\ \cancel{\text{g CaCO}_{3}}}}_{\text{molar mass of CaCO}_{3}} \times \underbrace{\frac{1\ \text{mol H}_{2}\text{O}}{1\ \cancel{\text{mol CaCO}_{3}}}}_{\text{coefficients}} \times \underbrace{\frac{18.02\ \text{g H}_{2}\text{O}}{1\ \cancel{\text{mol H}_{2}\text{O}}}}_{\text{molar mass of H}_{2}\text{O}} = 8.874\ \text{g H}_{2}\text{O (theoretical)}$$
+
+$$\text{percent yield}=\frac{3.65\ \text{g}}{8.874\ \text{g}}\times100\% = \boxed{41.1\%}$$
+
+# 31. **d)** molecular equation
+
+**Course source:** Ch 7 slide 15 (Molecular Equations), slide 18
+
+Slide 15: "A molecular equation shows the **complete formulas** of all reactants and products." Every substance here is written as a full formula (no separated ions), so it is a **molecular equation**.
+
+# 32. **d)** C~3~H~8~
+
+**Course source:** Ch 8 slide 22 (Molar Mass: g per mol), slides 27–28 (mass ↔ moles)
+
+Molar mass = mass ÷ moles = 0.376 g ÷ 8.55 × 10^−3^ mol = **44.0 g/mol**.
+
+* C~4~H~10~: 58.12 g/mol
+* CH~4~: 16.04 g/mol
+* C~2~H~6~: 30.07 g/mol
+* C~3~H~8~: 44.09 g/mol
+
+Only **C~3~H~8~ (44.09 g/mol)** matches 44.0 g/mol.
+
+# 33. **b)** 3
+
+**Course source:** Ch 7 slide 33 (electrons transferred from each Al atom), slide 31 (Principle 1)
+
+AlF~3~ is ionic (metal + nonmetal, slide 31): Al^3+^ and F^−^ (charges: +3 + 3(−1) = 0). Each Al goes from 0 to +3, so **3 electrons** are transferred from each Al atom, the same count as slide 33's 2Al + N~2~ practice.
+
+# 34. **c)** Ag~2~CrO~4~
+
+**Course source:** Ch 7 slide 14 (exchange the anions), slide 11 (rules 1 and 2), slides 35–36 (BaCrO~4~ precipitate)
+
+Ions: Ag^+^, NO~3~^−^, K^+^, CrO~4~^2−^. Exchanging anions gives **Ag~2~CrO~4~** (2 Ag^+^ balance CrO~4~^2−^) and KNO~3~. KNO~3~ is soluble (rules 1 and 2), and AgNO~3~ and K~2~CrO~4~ are the dissolved reactants, so the precipitate is **Ag~2~CrO~4~**.
+
+**Note:** Table 7.1 has no rule for chromates. The answer follows from the slide-14 method plus elimination (KNO~3~ is soluble by rules 1 and 2). Slides 35–36 show another chromate, BaCrO~4~, precipitating.
+
+# 35. **d)** 7.5 mol
+
+**Course source:** Ch 9 slides 10–11 (Mole–Mole Conversions)
+
+$$5.0\ \cancel{\text{mol CO}_{2}} \times \underbrace{\frac{3\ \text{mol O}_{2}}{2\ \cancel{\text{mol CO}_{2}}}}_{\text{coefficient of O}_{2}\text{ / coefficient of CO}_{2}} = \boxed{7.5\ \text{mol O}_{2}}$$
+

@@ -1,0 +1,289 @@
+---
+title: "CHEM 1301 Driller 7-1"
+subtitle: "Solubility rules and precipitation reactions (Chapter 7, slides 10–20) — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam). **Solubility rules are not provided:** work from memory, as on the exam.
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** Table 7.1 calls some salts "slightly soluble." According to the course, how does that compare with "insoluble"?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Insoluble salts are strong electrolytes; slightly soluble salts are not\
+b)\ Slightly soluble means more than half of the salt dissolves\
+c)\ Slightly soluble salts never form precipitates\
+d)\ They mean the same thing: so little dissolves that it can't be detected with the naked eye\
+e)\ Slightly soluble salts dissolve completely if the solution is stirred
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Which compound is **insoluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Ni(OH)~2~\
+b)\ K~2~CO~3~\
+c)\ Pb(NO~3~)~2~\
+d)\ ZnSO~4~\
+e)\ CuCl~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** Which compound is **soluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Mg(OH)~2~\
+b)\ CaCO~3~\
+c)\ (NH~4~)~3~PO~4~\
+d)\ PbSO~4~\
+e)\ FeS
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** Which solubility rule explains why Na~2~S is **soluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Rule 3: most chlorides are soluble, except AgCl, PbCl~2~, and Hg~2~Cl~2~\
+b)\ Rule 1: most nitrate (NO~3~^−^) salts are soluble\
+c)\ Rule 6: most sulfides, carbonates, and phosphates are only slightly soluble\
+d)\ Rule 5: most hydroxides are only slightly soluble (NaOH and KOH are the exceptions)\
+e)\ Rule 2: most salts of Na^+^, K^+^, and NH~4~^+^ are soluble
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** Which solubility rule explains why PbCl~2~ is **insoluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Rule 4: most sulfates are soluble, except BaSO~4~, PbSO~4~, and CaSO~4~\
+b)\ Rule 3: most chlorides are soluble, except AgCl, PbCl~2~, and Hg~2~Cl~2~\
+c)\ Rule 6: most sulfides, carbonates, and phosphates are only slightly soluble\
+d)\ Rule 2: most salts of Na^+^, K^+^, and NH~4~^+^ are soluble\
+e)\ Rule 1: most nitrate (NO~3~^−^) salts are soluble
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** How many of the following compounds are **soluble** in water? KOH, BaSO~4~, Cu(NO~3~)~2~, AgCl, ZnCO~3~
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 4\
+e)\ 5
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** Which of these compounds is **not** soluble in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ ammonium chloride\
+b)\ manganese(II) nitrate\
+c)\ iron(II) sulfate\
+d)\ sodium carbonate\
+e)\ cobalt(II) hydroxide
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** Aqueous solutions of calcium nitrate and sodium phosphate are mixed. What precipitate forms?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CaPO~4~\
+b)\ No precipitate forms\
+c)\ Ca~3~(PO~4~)~2~\
+d)\ NaNO~3~\
+e)\ Both Ca~3~(PO~4~)~2~ and NaNO~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Which is the balanced **molecular** equation for mixing aqueous BaCl~2~ and K~2~SO~4~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ BaCl~2~(aq) + K~2~SO~4~(aq) $\rightarrow$ BaSO~4~(s) + 2KCl(aq)\
+b)\ BaCl~2~(aq) + K~2~SO~4~(aq) $\rightarrow$ BaSO~4~(aq) + 2KCl(aq)\
+c)\ No reaction (NR)\
+d)\ BaCl~2~(aq) + K~2~SO~4~(aq) $\rightarrow$ BaSO~4~(aq) + 2KCl(s)\
+e)\ BaCl~2~(aq) + K~2~SO~4~(aq) $\rightarrow$ BaSO~4~(s) + KCl(aq)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Which pair of aqueous solutions does **not** form a precipitate when mixed?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ FeCl~2~ and KOH\
+b)\ Pb(NO~3~)~2~ and NaCl\
+c)\ MgCl~2~ and Na~3~PO~4~\
+d)\ NaNO~3~ and CuCl~2~\
+e)\ Zn(NO~3~)~2~ and Na~2~S
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** Which pair of aqueous solutions forms a **precipitate** when mixed?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Mg(NO~3~)~2~ and KCl\
+b)\ NH~4~NO~3~ and Na~2~SO~4~\
+c)\ NiCl~2~ and Na~2~CO~3~\
+d)\ KCl and Zn(NO~3~)~2~\
+e)\ CuSO~4~ and NaNO~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Aqueous solutions of iron(III) nitrate and sodium hydroxide are mixed. What is the **net ionic** equation?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Fe^3+^(aq) + 3OH^−^(aq) $\rightarrow$ Fe(OH)~3~(s)\
+b)\ Na^+^(aq) + NO~3~^−^(aq) $\rightarrow$ NaNO~3~(s)\
+c)\ No reaction occurs (NR)\
+d)\ Fe^3+^(aq) + OH^−^(aq) $\rightarrow$ Fe(OH)~3~(s)\
+e)\ Fe^3+^(aq) + 3NO~3~^−^(aq) + 3Na^+^(aq) + 3OH^−^(aq) $\rightarrow$ Fe(OH)~3~(s) + 3Na^+^(aq) + 3NO~3~^−^(aq)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** Aqueous solutions of copper(II) sulfate and sodium sulfide are mixed and a precipitate forms. Which ions are **spectator ions**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ There are no spectator ions in this reaction\
+b)\ SO~4~^2−^ and Na^+^\
+c)\ SO~4~^2−^ and S^2−^\
+d)\ Cu^2+^ and S^2−^\
+e)\ Cu^2+^, SO~4~^2−^, Na^+^, S^2−^
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** A solution contains both Ba^2+^ and Mg^2+^ ions (as nitrates). Adding which solution precipitates **only** the Ba^2+^?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Na~2~CO~3~(aq)\
+b)\ Na~3~PO~4~(aq)\
+c)\ NaCl(aq)\
+d)\ KNO~3~(aq)\
+e)\ Na~2~SO~4~(aq)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** When K~2~CrO~4~(aq) and Ba(NO~3~)~2~(aq) are mixed, a yellow solid forms. Why can't that solid be made of only K^+^ and Ba^2+^ ions?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Only nitrate ions can form solids with Ba^2+^\
+b)\ Potassium salts are always soluble, so K^+^ can't be in a solid\
+c)\ Ba^2+^ never forms solids, so the solid must contain K^+^\
+d)\ A solid compound must have zero net charge, so it needs both a cation and an anion\
+e)\ K^+^ and Ba^2+^ have different charges, so they can't fit in one crystal
+
+```{=latex}
+\par\endgroup\medskip
+```
+

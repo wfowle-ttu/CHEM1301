@@ -3,7 +3,7 @@ title: "CHEM 1301 Driller 9-4 — Answer Key"
 subtitle: "Worked solutions with course-material citations"
 format:
   pdf:
-    geometry: margin=0.75in
+    papersize: letter
     fontsize: 11pt
     include-in-header:
       text: |

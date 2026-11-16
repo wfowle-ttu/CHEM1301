@@ -1,0 +1,652 @@
+---
+title: "CHEM 1301 Practice Exam 3-3"
+subtitle: "Chapters 7, 8, and 9 — 35 multiple-choice questions"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Solubility rules are **not** provided. Calculators are allowed. Answers are rounded to the precision shown.
+Time yourself: aim to finish in 75 minutes or less.
+
+**Answer sheet.** Print the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`, landscape,
+100% scale) and fill in one circle per question, rows 1–35 (A–E match choices a–e). Leave the rest blank.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** When aqueous K~2~CrO~4~ and Ba(NO~3~)~2~ are mixed, yellow BaCrO~4~(s) forms. Which driving force makes this reaction occur?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Formation of a solid\
+b)\ Formation of water\
+c)\ Transfer of electrons\
+d)\ Formation of a strong acid\
+e)\ Formation of a gas
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** On the basis of the solubility rules, which compound is **insoluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ PbS\
+b)\ Cu(NO~3~)~2~\
+c)\ (NH~4~)~2~CO~3~\
+d)\ ZnSO~4~\
+e)\ MgCl~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** Which compound is expected to be **soluble** in water?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Ni(OH)~2~\
+b)\ CaSO~4~\
+c)\ BaCO~3~\
+d)\ AgCl\
+e)\ K~3~PO~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** Aqueous solutions of iron(III) chloride and sodium hydroxide are mixed. What precipitate forms?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ NaCl\
+b)\ No precipitate forms\
+c)\ Fe(OH)~2~\
+d)\ Fe(OH)~3~\
+e)\ Both Fe(OH)~3~ and NaCl
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** Aqueous solutions of barium nitrate and sodium sulfate are mixed. What is the **net ionic** equation?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s)\
+b)\ Ba^2+^(aq) + 2NO~3~^−^(aq) + 2Na^+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(s) + 2Na^+^(aq) + 2NO~3~^−^(aq)\
+c)\ No reaction occurs (NR)\
+d)\ Na^+^(aq) + NO~3~^−^(aq) $\rightarrow$ NaNO~3~(s)\
+e)\ Ba^2+^(aq) + SO~4~^2−^(aq) $\rightarrow$ BaSO~4~(aq)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** When the equation below is balanced with the smallest whole-number coefficients, what is the **sum** of all four coefficients?
+
+\_\_ H~3~PO~4~(aq) + \_\_ Ba(OH)~2~(aq) $\rightarrow$ \_\_ Ba~3~(PO~4~)~2~(s) + \_\_ H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 4\
+b)\ 8\
+c)\ 10\
+d)\ 12\
+e)\ 14
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** Which pair of aqueous solutions does **not** form a precipitate when mixed?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CuCl~2~ and Na~2~S\
+b)\ KNO~3~ and MgSO~4~\
+c)\ Pb(NO~3~)~2~ and KCl\
+d)\ CaCl~2~ and K~2~CO~3~\
+e)\ AgNO~3~ and Na~3~PO~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** Nitric acid reacts with potassium hydroxide: HNO~3~(aq) + KOH(aq) $\rightarrow$ KNO~3~(aq) + H~2~O(l). What is the **net ionic** equation?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ H^+^(aq) + NO~3~^−^(aq) + K^+^(aq) + OH^−^(aq) $\rightarrow$ K^+^(aq) + NO~3~^−^(aq) + H~2~O(l)\
+b)\ HNO~3~(aq) + KOH(aq) $\rightarrow$ KNO~3~(aq) + H~2~O(l)\
+c)\ K^+^(aq) + NO~3~^−^(aq) $\rightarrow$ KNO~3~(s)\
+d)\ HNO~3~(aq) + OH^−^(aq) $\rightarrow$ NO~3~^−^(aq) + H~2~O(l)\
+e)\ H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Which list contains **only** the strong acids named in the course?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ HCl, HNO~3~, H~2~SO~4~\
+b)\ HCl, HNO~3~, HC~2~H~3~O~2~\
+c)\ HNO~3~, HNO~2~, H~2~SO~4~\
+d)\ HCl, HF, HNO~3~\
+e)\ HCl, H~3~PO~4~, H~2~SO~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Aqueous solutions of nickel(II) chloride and potassium carbonate are mixed and a precipitate forms. Which ions are **spectator ions**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ There are no spectator ions in this reaction\
+b)\ Ni^2+^, Cl^−^, K^+^, CO~3~^2−^\
+c)\ Cl^−^ and CO~3~^2−^\
+d)\ Cl^−^ and K^+^\
+e)\ Ni^2+^ and CO~3~^2−^
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** In the reaction 3Mg(s) + N~2~(g) $\rightarrow$ Mg~3~N~2~(s), how many electrons does **each magnesium atom** lose?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 5\
+e)\ 6
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** The reaction Fe(s) + CuSO~4~(aq) $\rightarrow$ FeSO~4~(aq) + Cu(s) is best classified as:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ acid–base\
+b)\ decomposition\
+c)\ precipitation and double-displacement\
+d)\ combustion\
+e)\ oxidation–reduction and single-replacement
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** A magnesium ribbon burns in air with a bright flame: 2Mg(s) + O~2~(g) $\rightarrow$ 2MgO(s). Which classes apply?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ decomposition and oxidation–reduction\
+b)\ synthesis, combustion, and oxidation–reduction\
+c)\ synthesis only\
+d)\ precipitation\
+e)\ combustion only
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** Using 1 amu = 1.66 × 10^−24^ g, what is the mass in grams of **one** iron atom (average atomic mass 55.85 amu)?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1.66 × 10^−24^ g\
+b)\ 9.27 × 10^−23^ g\
+c)\ 9.27 × 10^−22^ g\
+d)\ 55.85 g\
+e)\ 3.36 × 10^25^ g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Which sample contains the **same number of atoms** as 32.07 g of sulfur?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 26.98 g of aluminum\
+b)\ 6.022 g of carbon\
+c)\ 1.00 g of hydrogen atoms (H)\
+d)\ 32.07 g of aluminum\
+e)\ 16.04 g of sulfur
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**16.** How many moles of magnesium are in 12.5 g of Mg?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.0514 mol\
+b)\ 0.514 mol\
+c)\ 1.94 mol\
+d)\ 304 mol\
+e)\ 3.10 × 10^23^ mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**17.** How many zinc atoms are in 0.250 mol of Zn?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 4.15 × 10^−25^ atoms\
+b)\ 16.3 atoms\
+c)\ 1.51 × 10^22^ atoms\
+d)\ 1.51 × 10^23^ atoms\
+e)\ 9.84 × 10^24^ atoms
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**18.** What is the mass of 3.01 × 10^23^ silver atoms?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 4.63 × 10^−3^ g\
+b)\ 0.500 g\
+c)\ 53.9 g\
+d)\ 216 g\
+e)\ 3.25 × 10^25^ g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**19.** What is the molar mass of aluminum sulfate, Al~2~(SO~4~)~3~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 123.0 g/mol\
+b)\ 150.0 g/mol\
+c)\ 214.2 g/mol\
+d)\ 315.2 g/mol\
+e)\ 342.2 g/mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**20.** What is the mass of 0.420 mol of glucose, C~6~H~12~O~6~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 2.33 × 10^−3^ g\
+b)\ 12.6 g\
+c)\ 75.7 g\
+d)\ 429 g\
+e)\ 2.53 × 10^23^ g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**21.** How many water molecules are in 9.00 g of H~2~O?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.500 molecules\
+b)\ 3.01 × 10^22^ molecules\
+c)\ 3.01 × 10^23^ molecules\
+d)\ 9.02 × 10^23^ molecules\
+e)\ 5.42 × 10^24^ molecules
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**22.** What is the mass percent of **oxygen** in calcium nitrate, Ca(NO~3~)~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 9.75%\
+b)\ 17.07%\
+c)\ 24.42%\
+d)\ 29.25%\
+e)\ 58.50%
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**23.** Styrene has the molecular formula C~8~H~8~. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ C~2~H~2~\
+b)\ C~4~H~4~\
+c)\ CH~2~\
+d)\ CH\
+e)\ C~8~H~8~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**24.** A chromium oxide is 68.42% Cr and 31.58% O by mass. What is its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CrO~3~\
+b)\ Cr~4~O~6~\
+c)\ Cr~2~O~3~\
+d)\ CrO~2~\
+e)\ Cr~2~O
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**25.** A compound has the empirical formula C~2~H~4~O and a molar mass of 88.11 g/mol. What is its molecular formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ C~2~H~4~O\
+b)\ C~4~H~4~O\
+c)\ C~6~H~12~O~3~\
+d)\ C~8~H~16~O~4~\
+e)\ C~4~H~8~O~2~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**26.** Why is the **molecular** formula of a compound more informative than its empirical formula?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ It always has smaller subscripts\
+b)\ It gives the actual number of each kind of atom in one molecule\
+c)\ It shows the mass percent of each element\
+d)\ It can be found from percent composition alone\
+e)\ It is always different from the empirical formula
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**27.** In a correctly balanced chemical equation, which quantity is always the **same** on both sides?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ The number of atoms of each element\
+b)\ The number of different compounds\
+c)\ The sum of the coefficients\
+d)\ The number of moles of substances\
+e)\ The number of molecules
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**28.** For 2C~2~H~6~(g) + 7O~2~(g) $\rightarrow$ 4CO~2~(g) + 6H~2~O(g), which conversion factor converts **moles of O~2~** into **moles of H~2~O**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{6\ \text{mol H}_2\text{O}}{2\ \text{mol C}_2\text{H}_6}$\
+b)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{18.02\ \text{g H}_2\text{O}}{1\ \text{mol H}_2\text{O}}$\
+c)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{7\ \text{mol O}_2}{6\ \text{mol H}_2\text{O}}$\
+d)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{4\ \text{mol CO}_2}{7\ \text{mol O}_2}$\
+e)\ $\rule[-2.2ex]{0pt}{5.8ex}\dfrac{6\ \text{mol H}_2\text{O}}{7\ \text{mol O}_2}$
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**29.** For 4Al(s) + 3O~2~(g) $\rightarrow$ 2Al~2~O~3~(s), how many moles of Al~2~O~3~ form from 1.80 mol of Al?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.900 mol\
+b)\ 1.35 mol\
+c)\ 1.80 mol\
+d)\ 3.60 mol\
+e)\ 91.8 mol
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**30.** In a percent-yield calculation, which quantity is found by **measuring** the product in the lab?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ The theoretical yield\
+b)\ The actual yield\
+c)\ The mole ratio\
+d)\ The molar mass of the product\
+e)\ The limiting reactant
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**31.** Hydrazine burns: N~2~H~4~(l) + O~2~(g) $\rightarrow$ N~2~(g) + 2H~2~O(g). What mass of H~2~O forms from 8.00 g of N~2~H~4~ with excess O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.499 g\
+b)\ 2.25 g\
+c)\ 4.50 g\
+d)\ 8.99 g\
+e)\ 16.0 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**32.** For 2Fe(s) + 3Cl~2~(g) $\rightarrow$ 2FeCl~3~(s), 10.0 g of Fe reacts with 10.0 g of Cl~2~. Which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Fe is limiting, and Cl~2~ is left over\
+b)\ Cl~2~ is limiting, and 10.0 g of Fe is left over\
+c)\ Cl~2~ is limiting, and 4.75 g of Fe is left over\
+d)\ Cl~2~ is limiting, and 5.25 g of Fe is left over\
+e)\ Neither is limiting; both reactants are used up completely
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**33.** For 2H~2~(g) + O~2~(g) $\rightarrow$ 2H~2~O(l), 4.00 g of H~2~ reacts with 16.0 g of O~2~. What is the theoretical yield of H~2~O?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1.00 g\
+b)\ 9.01 g\
+c)\ 18.0 g\
+d)\ 20.0 g\
+e)\ 35.7 g
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**34.** For 2SO~2~(g) + O~2~(g) $\rightarrow$ 2SO~3~(g), 48.0 g of SO~2~ reacts with excess O~2~ and 52.5 g of SO~3~ is collected. What is the percent yield?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0.875%\
+b)\ 65.6%\
+c)\ 87.5%\
+d)\ 109%\
+e)\ 114%
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**35.** Which statement about the **limiting reactant** is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Its amount has no effect on how much product forms\
+b)\ It is the reactant left over when the reaction stops\
+c)\ It is always the reactant with the smaller coefficient\
+d)\ It is completely used up, and the theoretical yield is calculated from it\
+e)\ It is always the reactant with the smaller mass
+
+```{=latex}
+\par\endgroup\medskip
+```
+

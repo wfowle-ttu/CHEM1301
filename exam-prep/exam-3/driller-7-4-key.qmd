@@ -1,0 +1,392 @@
+---
+title: "CHEM 1301 Driller 7-4 — Answer Key"
+subtitle: "Worked solutions with course-material citations"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
+---
+
+Every answer was checked by `_scripts/solib.py`, which applies the six rules of Table 7.1 (slide 11) in the
+course's priority order and refuses any compound the rules don't settle cleanly. Citations name the slide (same
+number in the `.pdf` and `.pptx`) plus the closest homework screenshot.
+
+**How to read the solutions.** Each compound's call names the rule that decides it. Mixing problems follow
+slide 14: write the ions, exchange the anions, apply the rules. Study guide 7.3–7.5 uses the same method.
+
+**Score bands.** 14–15 solubility rules are solid · 11–13 reread study guide 7.3–7.5 for the questions you missed ·
+10 or below rewrite Table 7.1 from memory, then redo this driller before the next one.
+
+| Q | Ans | Answer | Type | Topic (source) |
+|:-:|:-:|:----------------|:----:|:------------------------|
+| 1 | **a** | A precipitation reaction | concept | Naming the reaction type (Ch 7 sl. 3, 14) |
+| 2 | **b** | Zn(OH)~2~ | concept | Which compound is insoluble? (Ch 7 sl. 11–12) |
+| 3 | **e** | (NH~4~)~2~S | concept | Which compound is soluble? (Ch 7 sl. 11–12) |
+| 4 | **d** | iron(III) nitrate | concept | Classifying compounds by name (soluble) (Ch 7 sl. 11) |
+| 5 | **e** | Mg^2+^(aq) + 2OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s) | concept | Net ionic equation from formulas (Ch 7 sl. 16–20) |
+| 6 | **c** | 3 | concept | Counting soluble compounds (Ch 7 sl. 11–12) |
+| 7 | **b** | silver sulfide | concept | Classifying compounds by name (Ch 7 sl. 11) |
+| 8 | **d** | CuCO~3~ | concept | Predicting the precipitate (Ch 7 sl. 14) |
+| 9 | **c** | 3Ni(NO~3~)~2~(aq) + 2Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(s) + 6NaNO~3~(aq) | concept | Balanced molecular equation (Ch 7 sl. 14–15) |
+| 10 | **a** | CrCl~3~ and KNO~3~ | concept | Which mixture gives no reaction? (Ch 7 sl. 14) |
+| 11 | **c** | ZnCl~2~ and NaOH | concept | Which mixture forms a precipitate? (Ch 7 sl. 14) |
+| 12 | **a** | Hg~2~^2+^(aq) + 2Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s) | concept | Net ionic equation (Ch 7 sl. 16–20) |
+| 13 | **e** | Cl^−^ and K^+^ | concept | Spectator ions (Ch 7 sl. 17–18) |
+| 14 | **b** | Na~2~SO~4~(aq) | concept | Precipitating one ion but not another (Ch 7 sl. 11, 14) |
+| 15 | **d** | Both possible products are soluble, so no solid forms and the ions simply stay dissolved | concept | Why some mixtures give no reaction (Ch 7 sl. 3, 14) |
+
+Mix: 15 concept / 0 calculation · Ch 7: 15
+
+# 1. Naming the reaction type — **a) A precipitation reaction**
+
+**Source:** Chapter 7 post, slide 3 (Driving Forces: formation of a solid), slide 14 (predicting precipitates)  
+**Homework match:** HW14 — hw14ex1.png (name for a reaction that forms a solid: precipitation)  
+**What it tests:** Driving force 1 (formation of a solid) and its name.
+
+Formation of a solid is driving force #1 on slide 3. The solid is a **precipitate**, and the reaction is a **precipitation**
+reaction. The other driving forces match the other names: formation of water (acid–base), transfer of electrons
+(oxidation–reduction), and formation of a gas.
+
+Why the other choices are wrong:
+
+* b) A decomposition reaction: Decomposition breaks one compound into simpler substances.
+* c) An oxidation–reduction reaction: Redox reactions are driven by **electron transfer** (slide 3).
+* d) A neutralization (acid–base) reaction: Acid–base reactions are driven by forming **water** (slide 3).
+* e) A combustion reaction: Combustion is a reaction with O~2~ that produces energy, usually as a flame.
+
+# 2. Which compound is insoluble? — **b) Zn(OH)~2~**
+
+**Source:** Chapter 7 post, slide 11 (Table 7.1: General Rules for Solubility), slide 12 (Solubility Practice: NaOH, BaSO~4~, CaCO~3~)  
+**Homework match:** HW14 — hw14ex5.png (classify iron(II) sulfate, sodium carbonate, nickel(II) hydroxide)  
+**What it tests:** Applying Table 7.1, including the rule-1/rule-2 priority and the named exceptions.
+
+**How to decide (study guide 7.3):** check rules 1 and 2 first (nitrate? Na^+^, K^+^, NH~4~^+^? then soluble, no matter what the other ion is). Then chloride $\rightarrow$ rule 3, sulfate $\rightarrow$ rule 4, hydroxide $\rightarrow$ rule 5, sulfide/carbonate/phosphate $\rightarrow$ rule 6.
+
+* Cr~2~(SO~4~)~3~: most sulfates are soluble and Cr^3+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4).
+* Ni(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+* K~3~PO~4~: it contains K^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+* BaCl~2~: most chlorides are soluble and Ba^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+* Zn(OH)~2~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+
+Why the other choices are wrong:
+
+* a) K~3~PO~4~: K~3~PO~4~: it contains K^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+* c) Cr~2~(SO~4~)~3~: Cr~2~(SO~4~)~3~: most sulfates are soluble and Cr^3+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4).
+* d) BaCl~2~: BaCl~2~: most chlorides are soluble and Ba^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+* e) Ni(NO~3~)~2~: Ni(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+
+# 3. Which compound is soluble? — **e) (NH~4~)~2~S**
+
+**Source:** Chapter 7 post, slide 11 (Table 7.1: General Rules for Solubility), slide 12 (Solubility Practice: NaOH, BaSO~4~, CaCO~3~)  
+**Homework match:** HW14 — hw14ex5.png (classify iron(II) sulfate, sodium carbonate, nickel(II) hydroxide)  
+**What it tests:** Applying Table 7.1, including the rule-1/rule-2 priority and the named exceptions.
+
+**How to decide (study guide 7.3):** check rules 1 and 2 first (nitrate? Na^+^, K^+^, NH~4~^+^? then soluble, no matter what the other ion is). Then chloride $\rightarrow$ rule 3, sulfate $\rightarrow$ rule 4, hydroxide $\rightarrow$ rule 5, sulfide/carbonate/phosphate $\rightarrow$ rule 6.
+
+* MnS: most sulfides are only slightly soluble and Mn^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* PbCO~3~: most carbonates are only slightly soluble and Pb^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* Ba~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ba^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* Fe(OH)~2~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+* (NH~4~)~2~S: it contains NH~4~^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+
+Why the other choices are wrong:
+
+* a) MnS: MnS: most sulfides are only slightly soluble and Mn^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* b) PbCO~3~: PbCO~3~: most carbonates are only slightly soluble and Pb^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* c) Ba~3~(PO~4~)~2~: Ba~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ba^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* d) Fe(OH)~2~: Fe(OH)~2~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+
+# 4. Classifying compounds by name (soluble) — **d) iron(III) nitrate**
+
+**Source:** Chapter 7 post, slide 11 (Table 7.1: General Rules for Solubility), slide 12 (Solubility Practice: NaOH, BaSO~4~, CaCO~3~)  
+**Homework match:** HW14 — hw14ex5.png (classify iron(II) sulfate, sodium carbonate, nickel(II) hydroxide)  
+**What it tests:** Applying Table 7.1, including the rule-1/rule-2 priority and the named exceptions.
+
+**How to decide (study guide 7.3):** check rules 1 and 2 first (nitrate? Na^+^, K^+^, NH~4~^+^? then soluble, no matter what the other ion is). Then chloride $\rightarrow$ rule 3, sulfate $\rightarrow$ rule 4, hydroxide $\rightarrow$ rule 5, sulfide/carbonate/phosphate $\rightarrow$ rule 6.
+
+Names to formulas: calcium phosphate = Ca~3~(PO~4~)~2~; cobalt(II) carbonate = CoCO~3~; lead(II) sulfate = PbSO~4~; nickel(II) sulfide = NiS; iron(III) nitrate = Fe(NO~3~)~3~.
+
+* Ca~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* CoCO~3~: most carbonates are only slightly soluble and Co^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* PbSO~4~: sulfates are soluble **except** BaSO~4~, PbSO~4~, CaSO~4~, and this is one of them, so it is **insoluble** (rule 4).
+* NiS: most sulfides are only slightly soluble and Ni^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* Fe(NO~3~)~3~: it's a nitrate, so it is **soluble** (rule 1).
+
+Why the other choices are wrong:
+
+* a) calcium phosphate: Ca~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* b) lead(II) sulfate: PbSO~4~: sulfates are soluble **except** BaSO~4~, PbSO~4~, CaSO~4~, and this is one of them, so it is **insoluble** (rule 4).
+* c) nickel(II) sulfide: NiS: most sulfides are only slightly soluble and Ni^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* e) cobalt(II) carbonate: CoCO~3~: most carbonates are only slightly soluble and Co^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+
+# 5. Net ionic equation from formulas — **e) Mg^2+^(aq) + 2OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s)**
+
+**Source:** Chapter 7 post, slides 16–17 (complete ionic and net ionic equations), slides 19–20 (Writing Equations Practice), slide 11  
+**Homework match:** HW15 — hw15ex2.png (net ionic equations: Sr^2+^ + CrO~4~^2−^, MgCl~2~ + K~2~CO~3~)  
+**What it tests:** Molecular $\rightarrow$ complete ionic $\rightarrow$ net ionic: keep only the ions that form the solid.
+
+**Step 1: write the reactants as ions** (slide 14). Mg(NO~3~)~2~ gives Mg^2+^ and NO~3~^−^; KOH gives K^+^ and OH^−^.
+
+**Step 2: exchange the anions** to find the possible solids: Mg(OH)~2~ and KNO~3~. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* Mg(OH)~2~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+* KNO~3~: it's a nitrate, so it is **soluble** (rule 1).
+
+**Molecular equation:** Mg(NO~3~)~2~(aq) + 2KOH(aq) $\rightarrow$ Mg(OH)~2~(s) + 2KNO~3~(aq)
+
+**Complete ionic equation** (strong electrolytes as ions, slide 16): Mg^2+^(aq) + 2NO~3~^−^(aq) + 2K^+^(aq) + 2OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s) + 2K^+^(aq) + 2NO~3~^−^(aq)
+
+**Cancel the spectator ions** (NO~3~^−^ and K^+^): they appear unchanged on both sides.
+
+**Net ionic equation:** **Mg^2+^(aq) + 2OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s)**. Check: atoms and charge balance, smallest whole numbers, states shown.
+
+Why the other choices are wrong:
+
+* a) K^+^(aq) + NO~3~^−^(aq) $\rightarrow$ KNO~3~(s): KNO~3~: it's a nitrate, so it is **soluble** (rule 1). Those ions are spectators, so they don't form a solid.
+* b) Mg^2+^(aq) + OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s): Not balanced: the atoms and charges on the left don't match the solid's formula.
+* c) No reaction occurs (NR): Mg(OH)~2~ is insoluble, so a precipitate forms.
+* d) Mg^2+^(aq) + 2NO~3~^−^(aq) + 2K^+^(aq) + 2OH^−^(aq) $\rightarrow$ Mg(OH)~2~(s) + 2K^+^(aq) + 2NO~3~^−^(aq): That is the **complete** ionic equation. It still contains the spectator ions.
+
+# 6. Counting soluble compounds — **c) 3**
+
+**Source:** Chapter 7 post, slide 11 (Table 7.1: General Rules for Solubility), slide 12 (Solubility Practice: NaOH, BaSO~4~, CaCO~3~)  
+**Homework match:** HW14 — hw14ex5.png (classify iron(II) sulfate, sodium carbonate, nickel(II) hydroxide)  
+**What it tests:** Fast classification with Table 7.1.
+
+**How to decide (study guide 7.3):** check rules 1 and 2 first (nitrate? Na^+^, K^+^, NH~4~^+^? then soluble, no matter what the other ion is). Then chloride $\rightarrow$ rule 3, sulfate $\rightarrow$ rule 4, hydroxide $\rightarrow$ rule 5, sulfide/carbonate/phosphate $\rightarrow$ rule 6.
+
+* AlCl~3~: most chlorides are soluble and Al^3+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+* Ag~2~CO~3~: most carbonates are only slightly soluble and Ag^+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* NH~4~NO~3~: it's a nitrate, so it is **soluble** (rule 1).
+* PbS: most sulfides are only slightly soluble and Pb^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* MnSO~4~: most sulfates are soluble and Mn^2+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4).
+
+Soluble count: **3**.
+
+Why the other choices are wrong:
+
+* a) 1: Recount: exactly 3 of the five are soluble.
+* b) 2: Recount: exactly 3 of the five are soluble.
+* d) 4: Recount: exactly 3 of the five are soluble.
+* e) 5: Recount: exactly 3 of the five are soluble.
+
+# 7. Classifying compounds by name — **b) silver sulfide**
+
+**Source:** Chapter 7 post, slide 11 (Table 7.1: General Rules for Solubility), slide 12 (Solubility Practice: NaOH, BaSO~4~, CaCO~3~)  
+**Homework match:** HW14 — hw14ex5.png (classify iron(II) sulfate, sodium carbonate, nickel(II) hydroxide)  
+**What it tests:** Applying Table 7.1, including the rule-1/rule-2 priority and the named exceptions.
+
+**How to decide (study guide 7.3):** check rules 1 and 2 first (nitrate? Na^+^, K^+^, NH~4~^+^? then soluble, no matter what the other ion is). Then chloride $\rightarrow$ rule 3, sulfate $\rightarrow$ rule 4, hydroxide $\rightarrow$ rule 5, sulfide/carbonate/phosphate $\rightarrow$ rule 6.
+
+Names to formulas: barium nitrate = Ba(NO~3~)~2~; iron(III) chloride = FeCl~3~; silver sulfide = Ag~2~S; sodium phosphate = Na~3~PO~4~; zinc sulfate = ZnSO~4~.
+
+* Ba(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+* FeCl~3~: most chlorides are soluble and Fe^3+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+* Ag~2~S: most sulfides are only slightly soluble and Ag^+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* Na~3~PO~4~: it contains Na^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+* ZnSO~4~: most sulfates are soluble and Zn^2+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4).
+
+Why the other choices are wrong:
+
+* a) sodium phosphate: Na~3~PO~4~: it contains Na^+^, so it is **soluble** (rule 2). Rule 2 beats rule 6.
+* c) barium nitrate: Ba(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+* d) zinc sulfate: ZnSO~4~: most sulfates are soluble and Zn^2+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4).
+* e) iron(III) chloride: FeCl~3~: most chlorides are soluble and Fe^3+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+
+# 8. Predicting the precipitate — **d) CuCO~3~**
+
+**Source:** Chapter 7 post, slide 14 (How to Predict Precipitates When Solutions of Two Ionic Compounds Are Mixed), slide 11  
+**Homework match:** HW15 — hw15ex3.png (does a reaction occur? NR or net ionic: KNO~3~ + Na~2~S, AlCl~3~ + KOH)  
+**What it tests:** Slide 14's three steps: ions $\rightarrow$ swap anions $\rightarrow$ solubility rules; writing the solid's formula from charges.
+
+**Step 1: write the reactants as ions** (slide 14). CuCl~2~ gives Cu^2+^ and Cl^−^; K~2~CO~3~ gives K^+^ and CO~3~^2−^.
+
+**Step 2: exchange the anions** to find the possible solids: CuCO~3~ and KCl. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* CuCO~3~: most carbonates are only slightly soluble and Cu^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* KCl: it contains K^+^, so it is **soluble** (rule 2).
+
+**Molecular equation:** CuCl~2~(aq) + K~2~CO~3~(aq) $\rightarrow$ CuCO~3~(s) + 2KCl(aq)
+
+Why the other choices are wrong:
+
+* a) No precipitate forms: CuCO~3~ is insoluble, so it precipitates.
+* b) Cu~2~CO~3~: Cu^2+^ (+2) and CO~3~^2−^ (−2) already cancel 1 : 1: CuCO~3~.
+* c) KCl: KCl: it contains K^+^, so it is **soluble** (rule 2). It stays dissolved as spectator ions.
+* e) Both CuCO~3~ and KCl: KCl: it contains K^+^, so it is **soluble** (rule 2).
+
+# 9. Balanced molecular equation — **c) 3Ni(NO~3~)~2~(aq) + 2Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(s) + 6NaNO~3~(aq)**
+
+**Source:** Chapter 7 post, slide 15 (Molecular Equations: K~2~CrO~4~ + Ba(NO~3~)~2~), slide 14, slide 11  
+**Homework match:** HW15 — hw15ex4.png (balanced molecular equations for precipitations, or NR)  
+**What it tests:** Writing and balancing the molecular equation for a precipitation, with correct states.
+
+**Step 1: write the reactants as ions** (slide 14). Ni(NO~3~)~2~ gives Ni^2+^ and NO~3~^−^; Na~3~PO~4~ gives Na^+^ and PO~4~^3−^.
+
+**Step 2: exchange the anions** to find the possible solids: Ni~3~(PO~4~)~2~ and NaNO~3~. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* Ni~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ni^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* NaNO~3~: it's a nitrate, so it is **soluble** (rule 1).
+
+**Molecular equation:** 3Ni(NO~3~)~2~(aq) + 2Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(s) + 6NaNO~3~(aq)
+
+**Balance:** the coefficients 3, 2, 1, 6 make every ion count match on both sides (count each ion separately). Only the insoluble product gets (s); everything else is (aq).
+
+Why the other choices are wrong:
+
+* a) Ni(NO~3~)~2~(aq) + Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(s) + NaNO~3~(aq): Not balanced: count each ion on both sides.
+* b) Ni(NO~3~)~2~(aq) + Na~3~PO~4~(aq) $\rightarrow$ NiPO~4~(s) + NaNO~3~(aq): Formulas written by just joining the ions. Each formula must use the charges so it is neutral.
+* d) 3Ni(NO~3~)~2~(aq) + 2Na~3~PO~4~(aq) $\rightarrow$ Ni~3~(PO~4~)~2~(aq) + 6NaNO~3~(s): NaNO~3~: it's a nitrate, so it is **soluble** (rule 1). Ni~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ni^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* e) No reaction (NR): Ni~3~(PO~4~)~2~ is insoluble, so a precipitate forms.
+
+# 10. Which mixture gives no reaction? — **a) CrCl~3~ and KNO~3~**
+
+**Source:** Chapter 7 post, slide 14 (How to Predict Precipitates When Solutions of Two Ionic Compounds Are Mixed), slide 11  
+**Homework match:** HW15 — hw15ex3.png (does a reaction occur? NR or net ionic: KNO~3~ + Na~2~S, AlCl~3~ + KOH)  
+**What it tests:** Predicting precipitation vs no reaction (NR) for several mixtures.
+
+For each pair, swap the anions and check both products (slide 14).
+
+* CrCl~3~ and KNO~3~: products Cr(NO~3~)~3~ and KCl. **Both soluble: NR.**
+* Ba(NO~3~)~2~ and Na~2~SO~4~: products BaSO~4~ and NaNO~3~. **Precipitate: BaSO~4~.**
+* AgNO~3~ and NH~4~Cl: products AgCl and NH~4~NO~3~. **Precipitate: AgCl.**
+* CoSO~4~ and KOH: products Co(OH)~2~ and K~2~SO~4~. **Precipitate: Co(OH)~2~.**
+* Pb(NO~3~)~2~ and K~2~CO~3~: products PbCO~3~ and KNO~3~. **Precipitate: PbCO~3~.**
+
+Why the other choices are wrong:
+
+* b) AgNO~3~ and NH~4~Cl: Forms AgCl. AgCl: chlorides are soluble **except** AgCl, PbCl~2~, Hg~2~Cl~2~, and this is one of them, so it is **insoluble** (rule 3).
+* c) Pb(NO~3~)~2~ and K~2~CO~3~: Forms PbCO~3~. PbCO~3~: most carbonates are only slightly soluble and Pb^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* d) CoSO~4~ and KOH: Forms Co(OH)~2~. Co(OH)~2~: most hydroxides are only slightly soluble and only NaOH and KOH are exceptions, so it is **insoluble** (rule 5).
+* e) Ba(NO~3~)~2~ and Na~2~SO~4~: Forms BaSO~4~. BaSO~4~: sulfates are soluble **except** BaSO~4~, PbSO~4~, CaSO~4~, and this is one of them, so it is **insoluble** (rule 4).
+
+# 11. Which mixture forms a precipitate? — **c) ZnCl~2~ and NaOH**
+
+**Source:** Chapter 7 post, slide 14 (How to Predict Precipitates When Solutions of Two Ionic Compounds Are Mixed), slide 11  
+**Homework match:** HW15 — hw15ex3.png (does a reaction occur? NR or net ionic: KNO~3~ + Na~2~S, AlCl~3~ + KOH)  
+**What it tests:** Predicting precipitation vs no reaction (NR) for several mixtures.
+
+For each pair, swap the anions and check both products (slide 14).
+
+* ZnCl~2~ and NaOH: products Zn(OH)~2~ and NaCl. **Precipitate: Zn(OH)~2~.**
+* Fe~2~(SO~4~)~3~ and NaCl: products FeCl~3~ and Na~2~SO~4~. **Both soluble: NR.**
+* BaCl~2~ and NH~4~NO~3~: products Ba(NO~3~)~2~ and NH~4~Cl. **Both soluble: NR.**
+* CuSO~4~ and KCl: products CuCl~2~ and K~2~SO~4~. **Both soluble: NR.**
+* Al(NO~3~)~3~ and NaCl: products AlCl~3~ and NaNO~3~. **Both soluble: NR.**
+
+Why the other choices are wrong:
+
+* a) BaCl~2~ and NH~4~NO~3~: Swapping gives Ba(NO~3~)~2~ and NH~4~Cl, both soluble, so NR.
+* b) CuSO~4~ and KCl: Swapping gives CuCl~2~ and K~2~SO~4~, both soluble, so NR.
+* d) Al(NO~3~)~3~ and NaCl: Swapping gives AlCl~3~ and NaNO~3~, both soluble, so NR.
+* e) Fe~2~(SO~4~)~3~ and NaCl: Swapping gives FeCl~3~ and Na~2~SO~4~, both soluble, so NR.
+
+# 12. Net ionic equation — **a) Hg~2~^2+^(aq) + 2Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s)**
+
+**Source:** Chapter 7 post, slides 16–17 (complete ionic and net ionic equations), slides 19–20 (Writing Equations Practice), slide 11  
+**Homework match:** HW15 — hw15ex2.png (net ionic equations: Sr^2+^ + CrO~4~^2−^, MgCl~2~ + K~2~CO~3~)  
+**What it tests:** Molecular $\rightarrow$ complete ionic $\rightarrow$ net ionic: keep only the ions that form the solid.
+
+**Step 1: write the reactants as ions** (slide 14). Hg~2~(NO~3~)~2~ gives Hg~2~^2+^ and NO~3~^−^; KCl gives K^+^ and Cl^−^.
+
+**Step 2: exchange the anions** to find the possible solids: Hg~2~Cl~2~ and KNO~3~. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* Hg~2~Cl~2~: chlorides are soluble **except** AgCl, PbCl~2~, Hg~2~Cl~2~, and this is one of them, so it is **insoluble** (rule 3).
+* KNO~3~: it's a nitrate, so it is **soluble** (rule 1).
+
+**Molecular equation:** Hg~2~(NO~3~)~2~(aq) + 2KCl(aq) $\rightarrow$ Hg~2~Cl~2~(s) + 2KNO~3~(aq)
+
+**Complete ionic equation** (strong electrolytes as ions, slide 16): Hg~2~^2+^(aq) + 2NO~3~^−^(aq) + 2K^+^(aq) + 2Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s) + 2K^+^(aq) + 2NO~3~^−^(aq)
+
+**Cancel the spectator ions** (NO~3~^−^ and K^+^): they appear unchanged on both sides.
+
+**Net ionic equation:** **Hg~2~^2+^(aq) + 2Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s)**. Check: atoms and charge balance, smallest whole numbers, states shown.
+
+Why the other choices are wrong:
+
+* b) Hg~2~^2+^(aq) + 2NO~3~^−^(aq) + 2K^+^(aq) + 2Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s) + 2K^+^(aq) + 2NO~3~^−^(aq): That is the **complete** ionic equation. It still contains the spectator ions.
+* c) K^+^(aq) + NO~3~^−^(aq) $\rightarrow$ KNO~3~(s): KNO~3~: it's a nitrate, so it is **soluble** (rule 1). Those ions are spectators, so they don't form a solid.
+* d) No reaction occurs (NR): Hg~2~Cl~2~ is insoluble, so a precipitate forms.
+* e) Hg~2~^2+^(aq) + Cl^−^(aq) $\rightarrow$ Hg~2~Cl~2~(s): Not balanced: the atoms and charges on the left don't match the solid's formula.
+
+# 13. Spectator ions — **e) Cl^−^ and K^+^**
+
+**Source:** Chapter 7 post, slide 17 (spectator ions), slide 18 (Types of Equations), slide 14  
+**Homework match:** HW15 — hw15ex2.png (net ionic equations: Sr^2+^ + CrO~4~^2−^, MgCl~2~ + K~2~CO~3~)  
+**What it tests:** Spectator ions (slide 17): ions that appear unchanged on both sides.
+
+**Step 1: write the reactants as ions** (slide 14). CaCl~2~ gives Ca^2+^ and Cl^−^; K~3~PO~4~ gives K^+^ and PO~4~^3−^.
+
+**Step 2: exchange the anions** to find the possible solids: Ca~3~(PO~4~)~2~ and KCl. (Write each formula from the ion charges so it is neutral.)
+
+**Step 3: apply the solubility rules to each.**
+
+* Ca~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* KCl: it contains K^+^, so it is **soluble** (rule 2).
+
+**Molecular equation:** 3CaCl~2~(aq) + 2K~3~PO~4~(aq) $\rightarrow$ Ca~3~(PO~4~)~2~(s) + 6KCl(aq)
+
+The solid uses Ca^2+^ and PO~4~^3−^. The remaining ions, **Cl^−^ and K^+^**, stay in solution unchanged, so they are the spectator ions and are left out of the net ionic equation.
+
+Why the other choices are wrong:
+
+* a) Cl^−^ and PO~4~^3−^: PO~4~^3−^ ends up in the solid, so it isn't a spectator.
+* b) Ca^2+^, Cl^−^, K^+^, PO~4~^3−^: Not all four: the ions in the precipitate change.
+* c) Ca^2+^ and PO~4~^3−^: Those ions form the precipitate, so they **do** take part.
+* d) There are no spectator ions in this reaction: Cl^−^ and K^+^ stay dissolved and unchanged.
+
+# 14. Precipitating one ion but not another — **b) Na~2~SO~4~(aq)**
+
+**Source:** Chapter 7 post, slide 14 (How to Predict Precipitates When Solutions of Two Ionic Compounds Are Mixed), slide 11  
+**Homework match:** HW15 — hw15ex3.png (does a reaction occur? NR or net ionic: KNO~3~ + Na~2~S, AlCl~3~ + KOH)  
+**What it tests:** Using the exception lists to choose a reagent that separates two ions.
+
+You want a solid with Ca^2+^ but not with Zn^2+^. The reagent's own cation is Na^+^/K^+^ (rule 2), so it never precipitates; only the reagent's **anion** matters. Check it with each metal ion:
+
+* Na~2~SO~4~(aq): CaSO~4~: sulfates are soluble **except** BaSO~4~, PbSO~4~, CaSO~4~, and this is one of them, so it is **insoluble** (rule 4). ZnSO~4~: most sulfates are soluble and Zn^2+^ isn't an exception (Ba, Pb, Ca), so it is **soluble** (rule 4). **Only Ca^2+^ precipitates.**
+* Na~2~CO~3~(aq): Precipitates **both**: CaCO~3~: most carbonates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6). ZnCO~3~: most carbonates are only slightly soluble and Zn^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* Na~3~PO~4~(aq): Precipitates **both**: Ca~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6). Zn~3~(PO~4~)~2~: most phosphates are only slightly soluble and Zn^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* NaCl(aq): Precipitates **neither**: CaCl~2~: most chlorides are soluble and Ca^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3). ZnCl~2~: most chlorides are soluble and Zn^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+* NH~4~NO~3~(aq): Precipitates **neither**: Ca(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1). Zn(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+
+Why the other choices are wrong:
+
+* a) Na~2~CO~3~(aq): Precipitates **both**: CaCO~3~: most carbonates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6). ZnCO~3~: most carbonates are only slightly soluble and Zn^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* c) NaCl(aq): Precipitates **neither**: CaCl~2~: most chlorides are soluble and Ca^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3). ZnCl~2~: most chlorides are soluble and Zn^2+^ isn't an exception (Ag, Pb, Hg~2~), so it is **soluble** (rule 3).
+* d) Na~3~PO~4~(aq): Precipitates **both**: Ca~3~(PO~4~)~2~: most phosphates are only slightly soluble and Ca^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6). Zn~3~(PO~4~)~2~: most phosphates are only slightly soluble and Zn^2+^ isn't Na^+^, K^+^, or NH~4~^+^, so it is **insoluble** (rule 6).
+* e) NH~4~NO~3~(aq): Precipitates **neither**: Ca(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1). Zn(NO~3~)~2~: it's a nitrate, so it is **soluble** (rule 1).
+
+# 15. Why some mixtures give no reaction — **d) Both possible products are soluble, so no solid forms and the ions simply stay dissolved**
+
+**Source:** Chapter 7 post, slide 14 (step 3: use the rules to decide whether a solid forms), slide 3 (driving forces)  
+**Homework match:** HW15 — hw15ex3.png (KNO~3~ + Na~2~S: NR)  
+**What it tests:** NR: with no insoluble product (and no water, gas, or electron transfer), there is no driving force.
+
+**Step 1: ions.** K^+^, NO~3~^−^, Na^+^, Cl^−^.
+
+**Step 2: exchange the anions.** The possible products are KCl and NaNO~3~.
+
+**Step 3: rules.** KCl contains K^+^ and NaNO~3~ contains Na^+^ and NO~3~^−^, so both are soluble (rules 1 and 2). No solid
+forms, and none of the other driving forces (water, gas, electron transfer) applies, so the answer is **NR**: the four
+ions just stay dissolved.
+
+Why the other choices are wrong:
+
+* a) Ions with the same charge can't react with each other: Every one of these ions has a charge of ±1. That isn't why. The products are what matter.
+* b) A precipitate forms, but it redissolves immediately: No precipitate forms at all. Both possible products are soluble.
+* c) Nitrate ions always react to form a gas: Nitrates are spectators here and never form a gas in these mixtures.
+* e) KNO~3~ and NaCl are both insoluble, so they can't react: Both are soluble; they're in solution as separated ions.
+

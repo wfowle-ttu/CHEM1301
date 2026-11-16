@@ -1,0 +1,291 @@
+---
+title: "CHEM 1301 Driller 7-5"
+subtitle: "Types of reactions: acid–base, oxidation–reduction, and classifying reactions (Chapter 7, slides 21–45) — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam). The strong-acid and strong-base lists are **not** provided: work from memory.
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** According to the Arrhenius definition used in this course, an **acid** is a substance that:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ always contains oxygen\
+b)\ produces hydroxide ions (OH^−^) when it is dissolved in water\
+c)\ forms a precipitate when mixed with a base\
+d)\ gains electrons from a metal\
+e)\ produces H^+^ ions (protons) when it is dissolved in water
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Which pair contains **only** strong acids?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ HCl and H~2~SO~4~\
+b)\ HC~2~H~3~O~2~ and HNO~3~\
+c)\ HF and HCl\
+d)\ HNO~3~ and HNO~2~\
+e)\ H~3~PO~4~ and H~2~SO~4~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** What **salt** forms when sulfuric acid reacts completely with potassium hydroxide? H~2~SO~4~(aq) + 2KOH(aq) $\rightarrow$ ? + 2H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ K~2~SO~4~\
+b)\ KSO~4~\
+c)\ KOH\
+d)\ K(SO~4~)~2~\
+e)\ H~2~O
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** Hydrochloric acid reacts with potassium hydroxide: HCl(aq) + KOH(aq) $\rightarrow$ KCl(aq) + H~2~O(l). What is the **net ionic** equation?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ HCl(aq) + OH^−^(aq) $\rightarrow$ Cl^−^(aq) + H~2~O(l)\
+b)\ K^+^(aq) + Cl^−^(aq) $\rightarrow$ KCl(s)\
+c)\ HCl(aq) + KOH(aq) $\rightarrow$ KCl(aq) + H~2~O(l)\
+d)\ H^+^(aq) + Cl^−^(aq) + K^+^(aq) + OH^−^(aq) $\rightarrow$ K^+^(aq) + Cl^−^(aq) + H~2~O(l)\
+e)\ H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** When the equation below is balanced with the smallest whole-number coefficients, what is the coefficient of water?
+
+\_\_ H~2~SO~4~(aq) + \_\_ Al(OH)~3~(s) $\rightarrow$ \_\_ Al~2~(SO~4~)~3~(aq) + \_\_ H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 2\
+b)\ 3\
+c)\ 4\
+d)\ 6\
+e)\ 12
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** Which reaction is an **oxidation–reduction** reaction?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ CaCO~3~(s) + 2HCl(aq) $\rightarrow$ CaCl~2~(aq) + H~2~O(l) + CO~2~(g)\
+b)\ HCl(aq) + NaOH(aq) $\rightarrow$ NaCl(aq) + H~2~O(l)\
+c)\ AgNO~3~(aq) + NaCl(aq) $\rightarrow$ AgCl(s) + NaNO~3~(aq)\
+d)\ 2Mg(s) + O~2~(g) $\rightarrow$ 2MgO(s)\
+e)\ BaCl~2~(aq) + Na~2~SO~4~(aq) $\rightarrow$ BaSO~4~(s) + 2NaCl(aq)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** In the reaction 2Al(s) + 3S(s) $\rightarrow$ Al~2~S~3~(s), how many electrons does **each sulfur atom** gain?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 4\
+e)\ 6
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** For Mg(s) + CuCl~2~(aq) $\rightarrow$ MgCl~2~(aq) + Cu(s), which statement is correct?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Each Mg atom loses 1 electron and each Cu^2+^ ion gains 1 electron\
+b)\ Each Mg atom loses 2 electrons and each Cu^2+^ ion gains 2 electrons; Cl^−^ is unchanged\
+c)\ No electrons are transferred; this is a double-displacement reaction\
+d)\ Each Mg atom gains 2 electrons and each Cu^2+^ ion loses 2 electrons\
+e)\ The Cl^−^ ions lose electrons to the magnesium
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** Two **nonmetals** react. According to the course, how can you tell at this point that the reaction is an oxidation–reduction reaction?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ All the coefficients in the balanced equation are 1\
+b)\ O~2~ appears as a reactant or a product\
+c)\ An ionic compound forms\
+d)\ A precipitate forms\
+e)\ Water is one of the products
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Classify H~2~SO~4~(aq) + 2KOH(aq) $\rightarrow$ K~2~SO~4~(aq) + 2H~2~O(l).
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ acid–base and precipitation\
+b)\ acid–base and oxidation–reduction\
+c)\ oxidation–reduction only\
+d)\ precipitation only\
+e)\ acid–base only
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** Heating limestone gives CaCO~3~(s) $\rightarrow$ CaO(s) + CO~2~(g). This is best classified as:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ decomposition\
+b)\ acid–base\
+c)\ single-replacement\
+d)\ combustion\
+e)\ synthesis
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Sulfur burns in air: S(s) + O~2~(g) $\rightarrow$ SO~2~(g), releasing heat and a flame. Which classes apply?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ decomposition and oxidation–reduction\
+b)\ combustion only\
+c)\ synthesis, combustion, and oxidation–reduction\
+d)\ synthesis and acid–base\
+e)\ synthesis only
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** A **double-displacement** (double-exchange) reaction is one in which:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ electrons move from a metal to a nonmetal\
+b)\ one element replaces another element in a compound\
+c)\ one compound breaks into simpler substances\
+d)\ two anions exchange their cation partners\
+e)\ a substance reacts with oxygen and produces a flame
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** Aluminum metal combines with bromine, Br~2~, to form aluminum bromide, AlBr~3~. In the balanced equation with the smallest whole-number coefficients, what is the coefficient of Br~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 4\
+e)\ 6
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Pentane burns completely: \_\_ C~5~H~12~ + \_\_ O~2~ $\rightarrow$ \_\_ CO~2~ + \_\_ H~2~O. With the smallest whole-number coefficients, what is the coefficient of O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 5\
+b)\ 6\
+c)\ 8\
+d)\ 11\
+e)\ 16
+
+```{=latex}
+\par\endgroup\medskip
+```
+

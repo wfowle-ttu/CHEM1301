@@ -3,7 +3,7 @@ title: "CHEM 1301 Exam 3 — Master Study Guide"
 subtitle: "Chapter 7 (Reactions in Aqueous Solutions) · Chapter 8 (Chemical Composition) · Chapter 9 (Chemical Quantities)"
 format:
   pdf:
-    geometry: margin=0.75in
+    papersize: letter
     fontsize: 11pt
     toc: true
     toc-depth: 2
@@ -103,8 +103,8 @@ soluble and the answer is **NR**.
 | **Net ionic** | **only the components that undergo a change** (are directly involved) | **left out** |
 
 * **Spectator ions:** ions that don't participate directly in the reaction. They appear unchanged on both sides.
-* Write as ions: soluble ionic compounds (aq), strong acids, strong bases. Keep as full formulas: solids (s), water (l),
-  gases (g), and weak acids such as HNO~2~.
+* Write as ions: soluble ionic compounds (aq), acids (as H^+^ plus the anion), and strong bases. Keep as full formulas: solids
+  (s), water (l), and gases (g).
 
 **Worked example (slide 19).** Pb(NO~3~)~2~(aq) + 2KI(aq) $\rightarrow$ PbI~2~(s) + 2KNO~3~(aq)
 
@@ -157,17 +157,24 @@ soluble and the answer is **NR**.
 
 $$2\text{H}_3\text{PO}_4 + 3\text{Ca(OH)}_2 \rightarrow \text{Ca}_3(\text{PO}_4)_2(s) + 6\text{H}_2\text{O}(l)$$
 
-Ca~3~(PO~4~)~2~ is a phosphate (rule 6), so it precipitates. Phosphoric acid isn't on the strong-acid list, so leave it
-molecular in the ionic equations:
+Ca~3~(PO~4~)~2~ is a phosphate (rule 6), so it precipitates. Write the acid as H^+^ ions plus its anion, and the base as
+its ions:
 
-* Net ionic: 2H~3~PO~4~(aq) + 3Ca^2+^(aq) + 6OH^−^(aq) $\rightarrow$ Ca~3~(PO~4~)~2~(s) + 6H~2~O(l)
+* Complete ionic: 6H^+^(aq) + 2PO~4~^3−^(aq) + 3Ca^2+^(aq) + 6OH^−^(aq) $\rightarrow$ Ca~3~(PO~4~)~2~(s) + 6H~2~O(l)
+* Nothing appears unchanged on both sides (Ca^2+^ and PO~4~^3−^ form the solid, and H^+^ and OH^−^ form water), so there
+  are no spectators, and the net ionic equation is the same as the complete ionic equation.
 
 **Worked example (slide 28).** Nitrous acid + potassium hydroxide.
 
 * Molecular: HNO~2~(aq) + KOH(aq) $\rightarrow$ KNO~2~(aq) + H~2~O(l), which is already balanced.
-* HNO~2~ is not a strong acid, so it stays molecular. KOH and KNO~2~ are written as ions.
-* Complete ionic: HNO~2~(aq) + K^+^(aq) + OH^−^(aq) $\rightarrow$ K^+^(aq) + NO~2~^−^(aq) + H~2~O(l)
-* Net ionic: **HNO~2~(aq) + OH^−^(aq) $\rightarrow$ NO~2~^−^(aq) + H~2~O(l)**. Only a **strong** acid gives H^+^ + OH^−^ $\rightarrow$ H~2~O.
+* Complete ionic: H^+^(aq) + NO~2~^−^(aq) + K^+^(aq) + OH^−^(aq) $\rightarrow$ K^+^(aq) + NO~2~^−^(aq) + H~2~O(l)
+* Cancel the spectators K^+^ and NO~2~^−^.
+* Net ionic: **H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)**
+
+**Course expectation:** for acid–base reactions, the net ionic equation is **H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)**
+(slides 23 and 25). The slides don't treat any acid differently when writing ionic equations, so don't either. The
+strong-acid list (HCl, HNO~3~, H~2~SO~4~) is for **identifying** strong acids and strong electrolytes. Slides 27–28 are
+practice prompts with no answers printed; the equations above follow that expectation.
 
 ## 7.7 Oxidation–reduction (Ch 7 slides 29–34, 38)
 

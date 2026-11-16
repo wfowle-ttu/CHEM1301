@@ -1,0 +1,309 @@
+---
+title: "CHEM 1301 Driller 7-6 — Answer Key"
+subtitle: "Worked solutions with course-material citations"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{longtable,array,colortbl,cancel}
+filters:
+  - _filters/tables.lua
+---
+
+Every balanced equation in this driller and key was checked atom by atom by `_scripts/rxndrill.py`.
+Definitions follow the course slides (Chapter 7, slides 21–45); where the course wording differs from other sources,
+the course wins. Citations name the slide (same number in the `.pdf` and `.pptx`) plus the closest homework screenshot.
+
+**How to read the solutions.** Classification answers name the clue that decides each class (a solid, water, a gas,
+electrons moving, O~2~ and a flame, one compound from simpler ones, or one compound breaking apart). Balancing answers
+count each element on both sides. Study guide 7.6–7.8 uses the same approach.
+
+**Score bands.** 14–15 reaction types are solid · 11–13 reread study guide 7.6–7.8 for the questions you missed ·
+10 or below rework slides 21–45, then redo this driller before the next one.
+
+| Q | Ans | Answer | Type | Topic (source) |
+|:-:|:-:|:----------------|:----:|:------------------------|
+| 1 | **e** | produces hydroxide ions (OH^−^) when it is dissolved in water | concept | Arrhenius base (Ch 7 sl. 22) |
+| 2 | **a** | KOH | concept | Identifying a strong base (Ch 7 sl. 22, 25) |
+| 3 | **d** | Ca(NO~3~)~2~ | concept | The salt formed (Ch 7 sl. 23, 26) |
+| 4 | **a** | H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l) | concept | Net ionic equation for an acid–base reaction (Ch 7 sl. 23–26) |
+| 5 | **c** | 8 | calc | Balancing an acid–base equation (Ch 7 sl. 27) |
+| 6 | **b** | Pb(NO~3~)~2~(aq) + 2NaCl(aq) $\rightarrow$ PbCl~2~(s) + 2NaNO~3~(aq) | concept | Which reaction is NOT redox? (Ch 7 sl. 30–32) |
+| 7 | **c** | 3 | calc | Electrons per atom (Ch 7 sl. 31, 33) |
+| 8 | **e** | Each Cu atom loses 2 electrons and each Ag^+^ ion gains 1 electron | concept | Electrons in a single replacement (Ch 7 sl. 34, 40) |
+| 9 | **b** | An ionic compound forms as the metal transfers electrons to the nonmetal, so the reaction is always redox | concept | Metal + nonmetal (Ch 7 sl. 29, 31) |
+| 10 | **a** | oxidation–reduction and single-replacement | concept | Classifying a reaction (Ch 7 sl. 37–40) |
+| 11 | **c** | synthesis (combination) | concept | Classifying by type (Ch 7 sl. 42) |
+| 12 | **e** | combustion and oxidation–reduction | concept | A reaction in several classes (Ch 7 sl. 37, 41) |
+| 13 | **d** | a single type of anion is exchanged between two cations, as Cl^−^ moves from H^+^ to Zn^2+^ in Zn + 2HCl | concept | Single replacement (Ch 7 sl. 40) |
+| 14 | **b** | 2 | calc | Balancing from words (Ch 7 sl. 40) |
+| 15 | **d** | 19 | calc | Balancing a combustion (Ch 7 sl. 9, 41) |
+
+Mix: 11 concept / 4 calculation · Ch 7: 15
+
+# 1. Arrhenius base — **e) produces hydroxide ions (OH^−^) when it is dissolved in water**
+
+**Source:** Chapter 7 post, slide 22 (Arrhenius Bases)  
+**Homework match:** HW16 — hw16ex1.png (what is meant by a strong base; strong electrolytes)  
+**What it tests:** Course definition of an Arrhenius base.
+
+Slide 22: Arrhenius defined a **base** as a substance that **produces hydroxide ions (OH^−^) in water**. Hydroxide compounds that are strong electrolytes are called **strong bases**.
+
+Why the other choices are wrong:
+
+* a) loses electrons to a nonmetal: Losing electrons is oxidation (redox), not the definition of a base.
+* b) produces H^+^ ions when it is dissolved in water: That is an Arrhenius **acid** (slide 21).
+* c) always contains a metal: Not part of the definition. The definition is about producing OH^−^ in water.
+* d) is always insoluble in water: The strong bases NaOH and KOH are **very** soluble (slide 25).
+
+# 2. Identifying a strong base — **a) KOH**
+
+**Source:** Chapter 7 post, slide 25 (principle 3: a strong base is a very soluble metal hydroxide; NaOH and KOH)  
+**Homework match:** HW16 — hw16ex1.png (what is meant by a strong base; strong electrolytes)  
+**What it tests:** Strong bases: very soluble metal hydroxides (NaOH, KOH) that break completely into ions.
+
+Slide 25, principle 3: a **strong base** is a metal hydroxide that is **very soluble** in water. The most common are **NaOH and KOH**, which break completely into separated ions. Mg(OH)~2~ and Fe(OH)~3~ are hydroxides but only slightly soluble (rule 5), so they aren't strong bases.
+
+Why the other choices are wrong:
+
+* b) Fe(OH)~3~: Insoluble hydroxide (rule 5), so it can't be a strong base.
+* c) HCl: HCl is a strong **acid**.
+* d) NH~3~: NH~3~ isn't a metal hydroxide.
+* e) Mg(OH)~2~: Most hydroxides are only slightly soluble (rule 5). A strong base must be **very** soluble.
+
+# 3. The salt formed — **d) Ca(NO~3~)~2~**
+
+**Source:** Chapter 7 post, slide 23 (the second product is a salt), slide 26 (principle 5)  
+**Homework match:** HW16 — hw16ex2.png (what salt forms: HI + NaOH, NaOH + HNO~3~, HCl + CsOH)  
+**What it tests:** Building the salt: the base's cation with the acid's anion, charges balanced.
+
+**Step 1: ions.** HNO~3~ gives H^+^ and NO~3~^−^; Ca(OH)~2~ gives Ca^2+^ and OH^−^.
+
+**Step 2:** H^+^ + OH^−^ $\rightarrow$ H~2~O. What remains, Ca^2+^ with NO~3~^−^, is the salt.
+
+**Step 3: neutral formula.** +2 needs two −1 ions: **Ca(NO~3~)~2~**.
+
+Why the other choices are wrong:
+
+* a) CaNO~3~: Ca^2+^ is +2 and NO~3~^−^ is −1, so two nitrates are needed.
+* b) H~2~O: Water is the other product. The salt is the ionic compound.
+* c) Ca~2~NO~3~: That has charge 2(+2) − 1 = +3. A salt must be neutral.
+* e) Ca(OH)~2~: That's the base, a reactant.
+
+# 4. Net ionic equation for an acid–base reaction — **a) H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)**
+
+**Source:** Chapter 7 post, slide 23 (the net ionic equation shows water forming), slide 25 (principle 4), slides 24–26  
+**Homework match:** HW16 — hw16ex1.png (what is meant by a strong base; strong electrolytes)  
+**What it tests:** Acid–base net ionic equation, reduced to the smallest whole-number coefficients.
+
+**Step 1: complete ionic.** 2H^+^ + SO~4~^2−^ + 2Na^+^ + 2OH^−^ $\rightarrow$ 2Na^+^ + SO~4~^2−^ + 2H~2~O(l)
+
+**Step 2: cancel the spectators** Na^+^ and SO~4~^2−^: 2H^+^ + 2OH^−^ $\rightarrow$ 2H~2~O.
+
+**Step 3: smallest whole numbers.** Divide every coefficient by 2: **H^+^(aq) + OH^−^(aq) $\rightarrow$ H~2~O(l)** (slide 23).
+
+Why the other choices are wrong:
+
+* b) 2H^+^(aq) + SO~4~^2−^(aq) + 2Na^+^(aq) + 2OH^−^(aq) $\rightarrow$ 2Na^+^(aq) + SO~4~^2−^(aq) + 2H~2~O(l): That's the **complete** ionic equation. Cancel the spectators.
+* c) H~2~SO~4~(aq) + 2OH^−^(aq) $\rightarrow$ SO~4~^2−^(aq) + 2H~2~O(l): H~2~SO~4~ is a strong acid: it completely dissociates (slide 24), so write it as ions; SO~4~^2−^ then cancels.
+* d) 2Na^+^(aq) + SO~4~^2−^(aq) $\rightarrow$ Na~2~SO~4~(s): Na~2~SO~4~ is soluble (rules 2 and 4); those ions are spectators.
+* e) 2H^+^(aq) + 2OH^−^(aq) $\rightarrow$ 2H~2~O(l): Right species, but not the smallest whole numbers. Divide by 2.
+
+# 5. Balancing an acid–base equation — **c) 8**
+
+**Source:** Chapter 7 post, slide 27 (balance H~3~PO~4~ + Ca(OH)~2~)  
+**Homework match:** HW17 — hw17ex2.png (definition of combustion; heat energy; 2C~3~H~6~ + 9O~2~ → 6CO~2~ + 6H~2~O)  
+**What it tests:** Balancing a polyprotic acid with a hydroxide: each H^+^ meets one OH^−^.
+
+**Step 1: K.** K~3~PO~4~ has 3 K, so **3**KOH.
+
+**Step 2: PO~4~.** 1 on each side: **1** H~3~PO~4~, **1** K~3~PO~4~.
+
+**Step 3: water.** 3 H^+^ (from H~3~PO~4~) + 3 OH^−^ (from 3 KOH) make **3**H~2~O.
+
+1 + 3 + 1 + 3 = **8**.
+
+Why the other choices are wrong:
+
+* a) 4: That treats the equation as balanced with all 1's. K and H don't balance that way.
+* b) 6: Balanced K (3 KOH) but forgot that 3 OH^−^ make 3 H~2~O.
+* d) 10: Added a coefficient that isn't needed; the smallest set is 1, 3, 1, 3.
+* e) 12: Doubled every coefficient. Use the smallest whole numbers.
+
+# 6. Which reaction is NOT redox? — **b) Pb(NO~3~)~2~(aq) + 2NaCl(aq) $\rightarrow$ PbCl~2~(s) + 2NaNO~3~(aq)**
+
+**Source:** Chapter 7 post, slides 30–32 (electron transfer; principles 1 and 2), slide 40  
+**Homework match:** HW17 — hw17ex1.png (precipitation, acid–base, and/or oxidation–reduction)  
+**What it tests:** Recognizing redox (metal + nonmetal, single replacement, O~2~) versus ion-swapping reactions.
+
+The precipitation reaction Pb(NO~3~)~2~ + 2NaCl $\rightarrow$ PbCl~2~ + 2NaNO~3~ only swaps partners. Pb stays +2, Na stays +1, NO~3~
+stays −1, and Cl stays −1, so **no electrons move**.
+
+The others are all redox: a metal + a nonmetal (Na + Cl~2~), a single replacement (Zn + HCl), or O~2~ as a reactant
+(CH~4~ combustion, N~2~ + O~2~).
+
+Why the other choices are wrong:
+
+* a) Zn(s) + 2HCl(aq) $\rightarrow$ ZnCl~2~(aq) + H~2~(g): Single replacement is redox (slide 40): Zn 0 $\rightarrow$ +2.
+* c) 2Na(s) + Cl~2~(g) $\rightarrow$ 2NaCl(s): Metal + nonmetal is always redox (slide 31).
+* d) N~2~(g) + O~2~(g) $\rightarrow$ 2NO(g): O~2~ is a reactant, so it's redox between two nonmetals (slide 32).
+* e) CH~4~(g) + 2O~2~(g) $\rightarrow$ CO~2~(g) + 2H~2~O(g): O~2~ is a reactant, the course's clue for redox (slide 32).
+
+# 7. Electrons per atom — **c) 3**
+
+**Source:** Chapter 7 post, slide 33 (2Al + N~2~ → 2AlN), slide 31  
+**Homework match:** HW16 — hw16ex3.png (Ba + Cl~2~: electrons lost and gained)  
+**What it tests:** Electrons gained per nonmetal atom = the size of its ion's charge.
+
+**Step 1: ions.** Ca~3~N~2~ is ionic: Ca^2+^ and N^3−^. Check: 3(+2) + 2(−3) = 0.
+
+**Step 2:** each N atom goes 0 $\rightarrow$ −3, so it **gains 3 electrons**. (Each Ca loses 2.)
+
+**Check:** 3 Ca × 2 = 6 lost; 2 N × 3 = 6 gained.
+
+Why the other choices are wrong:
+
+* a) 1: That would make N^−^. In Ca~3~N~2~ nitrogen is N^3−^ (3 Ca^2+^ balance 2 N^3−^).
+* b) 2: That is what each **Ca** atom loses (Ca $\rightarrow$ Ca^2+^).
+* d) 5: 5 is nitrogen's number of valence electrons; it **gains** 3 to become N^3−^.
+* e) 6: That counts both N atoms from one N~2~ molecule. The question asks per atom.
+
+# 8. Electrons in a single replacement — **e) Each Cu atom loses 2 electrons and each Ag^+^ ion gains 1 electron**
+
+**Source:** Chapter 7 post, slide 34 (Cu + FeCl~2~: electrons lost or gained by each species), slide 40  
+**Homework match:** HW16 — hw16ex3.png (Ba + Cl~2~: electrons lost and gained)  
+**What it tests:** Per-atom electron counts when the two metal ions have different charges.
+
+**Charges:** Cu 0 $\rightarrow$ +2 (loses **2 e^−^**). Ag +1 $\rightarrow$ 0 (gains **1 e^−^**). NO~3~^−^ unchanged (spectator).
+
+The 2 electrons lost by one Cu are picked up by **two** Ag^+^ ions, one each. That's why the balanced equation has 2AgNO~3~
+and 2Ag.
+
+Why the other choices are wrong:
+
+* a) Each Cu atom loses 2 electrons and each Ag^+^ ion gains 2 electrons: Ag^+^ goes from +1 to 0, which is one electron. That's why the equation needs **2** Ag^+^ for each Cu.
+* b) Each Cu atom gains 2 electrons: Cu goes from 0 to +2, so it **loses** electrons.
+* c) The NO~3~^−^ ions transfer electrons to silver: Nitrate is −1 before and after; it's a spectator.
+* d) No electrons transfer; the anions simply swap partners: Only NO~3~^−^ moves, and Cu and Ag change charge. That's redox.
+
+# 9. Metal + nonmetal — **b) An ionic compound forms as the metal transfers electrons to the nonmetal, so the reaction is always redox**
+
+**Source:** Chapter 7 post, slide 29 (Na + Cl: an electron is transferred), slide 31 (principle 1)  
+**Homework match:** HW16 — hw16ex3.png (Ba + Cl~2~: electrons lost and gained)  
+**What it tests:** Redox principle 1.
+
+Slide 31, principle 1: when a metal reacts with a nonmetal, an **ionic compound** forms. The metal **transfers one or more electrons to the nonmetal**: the metal atom becomes a cation and the nonmetal atom becomes an anion. So a metal–nonmetal reaction can **always** be assumed to be oxidation–reduction.
+
+Why the other choices are wrong:
+
+* a) The nonmetal transfers electrons to the metal: Backwards: the metal becomes the cation by **losing** electrons.
+* c) A molecular (non-ionic) compound forms by sharing electrons: That describes two **nonmetals** (slide 32). Metal + nonmetal gives an ionic compound.
+* d) No electrons transfer, so it is classified as a synthesis only: It may also be synthesis, but it is always redox too.
+* e) It is redox only if O~2~ is one of the reactants: The O~2~ clue is for two nonmetals. A metal + nonmetal is **always** redox.
+
+# 10. Classifying a reaction — **a) oxidation–reduction and single-replacement**
+
+**Source:** Chapter 7 post, slide 40 (Single-Replacement: Zn + 2HCl; also redox), slide 37  
+**Homework match:** HW17 — hw17ex1.png (precipitation, acid–base, and/or oxidation–reduction)  
+**What it tests:** Metal + acid: single replacement and redox, not acid–base.
+
+* **Single replacement:** one type of anion (Cl^−^) moves from H^+^ to Ni^2+^, the same pattern as Zn + 2HCl on slide 40.
+* **Oxidation–reduction:** Ni goes 0 $\rightarrow$ +2 (loses 2 e^−^) and H goes +1 $\rightarrow$ 0 in H~2~ (gains).
+* **Not acid–base:** the H^+^ ends up as H~2~ gas, not in water (slide 37's clue).
+
+Why the other choices are wrong:
+
+* b) decomposition: Two reactants combine and exchange; nothing breaks apart.
+* c) precipitation: Nothing solid forms; NiCl~2~ is soluble (rule 3).
+* d) double-displacement: Only one anion (Cl^−^) moves, from H^+^ to Ni^2+^. That's single replacement.
+* e) acid–base only: HCl is an acid, but its H^+^ becomes H~2~ gas, not water. No base is involved.
+
+# 11. Classifying by type — **c) synthesis (combination)**
+
+**Source:** Chapter 7 post, slide 42 (Synthesis: a compound formed from simpler materials)  
+**Homework match:** HW17 — hw17ex4.png (balance from words: P~4~ + 6Cl~2~ → 4PCl~3~; NH~4~NO~2~ → N~2~ + 2H~2~O)  
+**What it tests:** Synthesis: one compound formed from simpler materials (which can be compounds, not just elements).
+
+Two simpler substances (SO~3~ and H~2~O) combine into **one** compound, H~2~SO~4~. Slide 42: when a compound is formed from simpler materials, it's a **synthesis (combination)** reaction.
+
+Why the other choices are wrong:
+
+* a) combustion: No O~2~ reacts and there's no flame.
+* b) single-replacement: No element replaces another.
+* d) double-displacement: There are no two salts swapping anions.
+* e) decomposition: Two substances combine into one; nothing breaks apart.
+
+# 12. A reaction in several classes — **e) combustion and oxidation–reduction**
+
+**Source:** Chapter 7 post, slide 41 (Combustion: CH~4~ + 2O~2~), slide 32 (O~2~ signals redox)  
+**Homework match:** HW17 — hw17ex2.png (definition of combustion; heat energy; 2C~3~H~6~ + 9O~2~ → 6CO~2~ + 6H~2~O)  
+**What it tests:** Combustion is also redox; water as a product doesn't make it acid–base.
+
+* **Combustion:** a reaction with oxygen that releases energy so fast that a flame results (slide 41); this exact
+  reaction is the slide's example.
+* **Oxidation–reduction:** O~2~ is a reactant (slide 32).
+* **Not acid–base:** forming water isn't enough. Acid–base needs an acid's H^+^ combining with a base's OH^−^.
+
+Why the other choices are wrong:
+
+* a) combustion only: Combustion with O~2~ is also redox (O~2~ is the course's clue).
+* b) decomposition and oxidation–reduction: CH~4~ reacts with O~2~; it doesn't break apart on its own.
+* c) synthesis and combustion: Two products form, not one compound from simpler materials.
+* d) acid–base, because water is a product: Acid–base means H^+^ from an acid ends up in water. CH~4~ isn't an acid and no OH^−^ is involved.
+
+# 13. Single replacement — **d) a single type of anion is exchanged between two cations, as Cl^−^ moves from H^+^ to Zn^2+^ in Zn + 2HCl**
+
+**Source:** Chapter 7 post, slide 40 (Single-Replacement Reactions)  
+**Homework match:** HW17 — hw17ex1.png (precipitation, acid–base, and/or oxidation–reduction)  
+**What it tests:** Course definition of single replacement, and that it is also redox.
+
+Slide 40: Zn + 2HCl $\rightarrow$ ZnCl~2~ + H~2~ is a single-replacement reaction because **a single type of anion (Cl^−^) was exchanged between H^+^ and Zn^2+^**. It is also an oxidation–reduction reaction.
+
+Why the other choices are wrong:
+
+* a) a single substance reacts with oxygen: That's combustion (slide 41).
+* b) a single compound breaks into two elements: That's decomposition (slide 43).
+* c) no electrons are transferred: Single replacement is always oxidation–reduction (slide 40).
+* e) two anions exchange cation partners: That's double displacement (slide 36).
+
+# 14. Balancing from words — **b) 2**
+
+**Source:** Chapter 7 post, slide 40 (single replacement), slide 31 (metal reacting)  
+**Homework match:** HW17 — hw17ex4.png (balance from words: P~4~ + 6Cl~2~ → 4PCl~3~; NH~4~NO~2~ → N~2~ + 2H~2~O)  
+**What it tests:** Writing an equation from words and balancing H with a diatomic product.
+
+**Step 1: formulas.** Na + H~2~O $\rightarrow$ NaOH + H~2~.
+
+**Step 2: H.** Left: 2 per H~2~O. Right: 1 in NaOH + 2 in H~2~. With 2H~2~O (4 H): 2NaOH (2 H) + H~2~ (2 H) = 4 H.
+
+**Step 3: Na and O.** 2NaOH needs **2Na**; O: 2 = 2.
+
+**2Na + 2H~2~O $\rightarrow$ 2NaOH + H~2~**: water's coefficient is **2**.
+
+Why the other choices are wrong:
+
+* a) 1: Na + H~2~O $\rightarrow$ NaOH + H~2~ has 2 H on the left but 3 on the right.
+* c) 3: Doesn't balance H: try 2Na + 2H~2~O $\rightarrow$ 2NaOH + H~2~.
+* d) 4: Doubled the correct coefficients. Use the smallest whole numbers.
+* e) 6: No balanced form needs 6 H~2~O.
+
+# 15. Balancing a combustion — **d) 19**
+
+**Source:** Chapter 7 post, slide 41 (Combustion); Chapter 9 post, slide 9 (doubling to clear a fractional O~2~)  
+**Homework match:** HW17 — hw17ex2.png (definition of combustion; heat energy; 2C~3~H~6~ + 9O~2~ → 6CO~2~ + 6H~2~O)  
+**What it tests:** Combustion balancing that needs doubling to clear a fraction.
+
+**Step 1: C.** 6 C $\rightarrow$ 6CO~2~. **Step 2: H.** 14 H $\rightarrow$ 7H~2~O.
+
+**Step 3: O.** 6(2) + 7(1) = 19 O atoms $\rightarrow$ 19/2 O~2~. That isn't whole, so **double everything**:
+2C~6~H~14~ + **19**O~2~ $\rightarrow$ 12CO~2~ + 14H~2~O. Check O: 38 = 24 + 14.
+
+Why the other choices are wrong:
+
+* a) 7: That is the H~2~O coefficient before doubling.
+* b) 12: That is the coefficient of CO~2~.
+* c) 14: That is the coefficient of H~2~O.
+* e) 38: 38 is the number of O **atoms**; O~2~ supplies them in pairs.
+

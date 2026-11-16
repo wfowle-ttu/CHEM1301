@@ -1,0 +1,291 @@
+---
+title: "CHEM 1301 Driller 7-7"
+subtitle: "Types of reactions: acid–base, oxidation–reduction, and classifying reactions (Chapter 7, slides 21–45) — 15 exam-style multiple-choice questions"
+format:
+  pdf:
+    papersize: letter
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{needspace}
+        \usepackage{array}
+---
+
+**Instructions.** Choose the single best answer (a–e) for each question. You may use a periodic table.
+Calculators are allowed. Answers are rounded to the precision shown. Time yourself: aim for about 30 minutes
+(roughly 2 minutes per question, the same pace as the full exam). The strong-acid and strong-base lists are **not** provided: work from memory.
+
+**Answer sheet.** Use the bubble answer sheet (`CHEM1301/exam-prep/answer-sheet/answer-sheet.pdf`), rows 1–15.
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**1.** According to the course, a **strong acid** is a substance that:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ is very concentrated\
+b)\ forms a precipitate with any metal ion\
+c)\ only partially dissociates in water\
+d)\ produces OH^−^ ions in water\
+e)\ completely dissociates (ionizes) in water, each molecule breaking into an H^+^ ion and an anion
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**2.** Which substance is **neither** a strong acid **nor** a strong base?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ HNO~2~\
+b)\ NaOH\
+c)\ KOH\
+d)\ HCl\
+e)\ HNO~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**3.** What **salt** forms when nitric acid neutralizes aluminum hydroxide? 3HNO~3~(aq) + Al(OH)~3~(s) $\rightarrow$ ? + 3H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ H~2~O\
+b)\ AlNO~3~\
+c)\ Al(NO~3~)~3~\
+d)\ Al(OH)~3~\
+e)\ Al~3~NO~3~
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**4.** In the reaction HNO~3~(aq) + NaOH(aq) $\rightarrow$ NaNO~3~(aq) + H~2~O(l), which ions are **spectator ions**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ H^+^ and NO~3~^−^\
+b)\ There are no spectator ions in an acid–base reaction\
+c)\ Na^+^ and OH^−^\
+d)\ Na^+^ and NO~3~^−^\
+e)\ H^+^ and OH^−^
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**5.** When the equation below is balanced with the smallest whole-number coefficients, what is the coefficient of water?
+
+\_\_ HNO~3~(aq) + \_\_ Ca(OH)~2~(aq) $\rightarrow$ \_\_ Ca(NO~3~)~2~(aq) + \_\_ H~2~O(l)
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 4\
+e)\ 6
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**6.** Which reaction involves a **transfer of electrons**?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ N~2~(g) + O~2~(g) $\rightarrow$ 2NO(g)\
+b)\ AgNO~3~(aq) + KCl(aq) $\rightarrow$ AgCl(s) + KNO~3~(aq)\
+c)\ K~2~CO~3~(aq) + 2HCl(aq) $\rightarrow$ 2KCl(aq) + H~2~O(l) + CO~2~(g)\
+d)\ NaOH(aq) + HCl(aq) $\rightarrow$ NaCl(aq) + H~2~O(l)\
+e)\ MgCO~3~(s) $\rightarrow$ MgO(s) + CO~2~(g)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**7.** In the reaction 4Na(s) + O~2~(g) $\rightarrow$ 2Na~2~O(s), how many electrons does **each sodium atom** lose?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 0\
+b)\ 1\
+c)\ 2\
+d)\ 3\
+e)\ 4
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**8.** In Zn(s) + CuSO~4~(aq) $\rightarrow$ ZnSO~4~(aq) + Cu(s), which species **gains** electrons?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Zn^2+^\
+b)\ SO~4~^2−^\
+c)\ No species; no electrons are transferred\
+d)\ Zn\
+e)\ Cu^2+^
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**9.** When sodium reacts with chlorine, 2Na(s) + Cl~2~(g) $\rightarrow$ 2NaCl(s), what happens?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ Na and Cl share electrons equally and form NaCl molecules\
+b)\ Each Na atom loses two electrons\
+c)\ Each Cl atom transfers one electron to a Na atom\
+d)\ No electrons move; the atoms just combine\
+e)\ Each Na atom transfers one electron to a Cl atom, forming Na^+^ and Cl^−^ ions
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**10.** Classify AgNO~3~(aq) + HCl(aq) $\rightarrow$ AgCl(s) + HNO~3~(aq).
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ oxidation–reduction\
+b)\ precipitation (double-displacement)\
+c)\ gas evolution\
+d)\ single-replacement\
+e)\ acid–base
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**11.** Which reaction is a **combustion** reaction?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ N~2~(g) + 3H~2~(g) $\rightarrow$ 2NH~3~(g)\
+b)\ 2H~2~O(l) $\rightarrow$ 2H~2~(g) + O~2~(g)\
+c)\ CaO(s) + CO~2~(g) $\rightarrow$ CaCO~3~(s)\
+d)\ C~2~H~5~OH(l) + 3O~2~(g) $\rightarrow$ 2CO~2~(g) + 3H~2~O(g)\
+e)\ HCl(aq) + NaOH(aq) $\rightarrow$ NaCl(aq) + H~2~O(l)
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**12.** Hydrogen burns: 2H~2~(g) + O~2~(g) $\rightarrow$ 2H~2~O(l). Which classes apply?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ synthesis, combustion, and oxidation–reduction\
+b)\ acid–base, because water forms\
+c)\ combustion only\
+d)\ decomposition and oxidation–reduction\
+e)\ synthesis only
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**13.** According to the course, **decomposition** reactions are usually brought about by:
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ adding a more reactive metal\
+b)\ adding a strong acid\
+c)\ heating or applying an electric current\
+d)\ reacting the compound with oxygen\
+e)\ mixing two aqueous solutions
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**14.** Lithium metal combines with nitrogen gas, N~2~, to form lithium nitride, Li~3~N. In the balanced equation with the smallest whole-number coefficients, what is the coefficient of Li?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 1\
+b)\ 2\
+c)\ 3\
+d)\ 6\
+e)\ 9
+
+```{=latex}
+\par\endgroup\medskip
+```
+
+```{=latex}
+\needspace{9\baselineskip}
+```
+**15.** Heptane burns completely: \_\_ C~7~H~16~ + \_\_ O~2~ $\rightarrow$ \_\_ CO~2~ + \_\_ H~2~O. With the smallest whole-number coefficients, what is the coefficient of O~2~?
+
+```{=latex}
+\begingroup\leftskip=1.5em
+```
+a)\ 7\
+b)\ 8\
+c)\ 11\
+d)\ 15\
+e)\ 22
+
+```{=latex}
+\par\endgroup\medskip
+```
+
